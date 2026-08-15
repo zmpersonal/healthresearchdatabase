@@ -1,0 +1,55 @@
+{
+  "generated_at": null,
+  "updated_label": "Pending first refresh",
+  "total_studies": 0,
+  "total_trials": 0,
+  "total_topics": 9,
+  "active_trials": 0,
+  "topics": {
+    "sauna-heat-therapy": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "infrared-sauna": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "cold-water-immersion": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "contrast-therapy": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "photobiomodulation": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "floatation-therapy": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "massage-therapy": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "sleep-and-passive-heating": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    },
+    "exercise-recovery": {
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
+    }
+  }
+}

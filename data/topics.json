@@ -1,0 +1,65 @@
+[
+  {
+    "slug":"sauna-heat-therapy",
+    "name":"Sauna & Heat Therapy",
+    "short":"Human research on sauna bathing, passive heat exposure and heat therapy.",
+    "pubmed_query":"(sauna[Title/Abstract] OR \"sauna bathing\"[Title/Abstract] OR \"heat therapy\"[Title/Abstract] OR \"passive heating\"[Title/Abstract]) AND humans[MeSH Terms]",
+    "trial_query":"sauna OR \"heat therapy\" OR \"passive heating\""
+  },
+  {
+    "slug":"infrared-sauna",
+    "name":"Infrared Sauna",
+    "short":"Research specifically involving infrared sauna or far-infrared heat interventions.",
+    "pubmed_query":"((\"infrared sauna\"[Title/Abstract]) OR ((\"far infrared\"[Title/Abstract] OR \"far-infrared\"[Title/Abstract]) AND (sauna[Title/Abstract] OR therapy[Title/Abstract])))",
+    "trial_query":"\"infrared sauna\" OR \"far infrared\""
+  },
+  {
+    "slug":"cold-water-immersion",
+    "name":"Cold-Water Immersion",
+    "short":"Human studies on cold-water immersion, cold exposure and recovery-related outcomes.",
+    "pubmed_query":"(\"cold water immersion\"[Title/Abstract] OR \"cold-water immersion\"[Title/Abstract] OR \"cold exposure\"[Title/Abstract]) AND humans[MeSH Terms]",
+    "trial_query":"\"cold water immersion\" OR \"cold exposure\""
+  },
+  {
+    "slug":"contrast-therapy",
+    "name":"Contrast Therapy",
+    "short":"Research involving alternating hot and cold exposure, contrast baths and contrast water therapy.",
+    "pubmed_query":"(\"contrast therapy\"[Title/Abstract] OR \"contrast water therapy\"[Title/Abstract] OR \"contrast bath\"[Title/Abstract] OR \"contrast bathing\"[Title/Abstract])",
+    "trial_query":"\"contrast therapy\" OR \"contrast water therapy\" OR \"contrast bath\""
+  },
+  {
+    "slug":"photobiomodulation",
+    "name":"Photobiomodulation / Red Light",
+    "short":"Human research on photobiomodulation, red light and low-level light therapy.",
+    "pubmed_query":"(photobiomodulation[Title/Abstract] OR \"red light therapy\"[Title/Abstract] OR \"low level light therapy\"[Title/Abstract] OR \"low-level light therapy\"[Title/Abstract]) AND humans[MeSH Terms]",
+    "trial_query":"photobiomodulation OR \"red light therapy\" OR \"low level light therapy\""
+  },
+  {
+    "slug":"floatation-therapy",
+    "name":"Floatation Therapy",
+    "short":"Research on floatation-REST, flotation therapy and reduced environmental stimulation.",
+    "pubmed_query":"(\"floatation therapy\"[Title/Abstract] OR \"flotation therapy\"[Title/Abstract] OR \"floatation-REST\"[Title/Abstract] OR \"flotation-REST\"[Title/Abstract])",
+    "trial_query":"floatation OR flotation REST"
+  },
+  {
+    "slug":"massage-therapy",
+    "name":"Massage Therapy",
+    "short":"Human massage-therapy research across pain, recovery, stress and related outcomes.",
+    "pubmed_query":"\"massage therapy\"[Title/Abstract] AND humans[MeSH Terms]",
+    "trial_query":"\"massage therapy\""
+  },
+  {
+    "slug":"sleep-and-passive-heating",
+    "name":"Sleep & Passive Heating",
+    "short":"Studies connecting sauna, hot bathing or passive heating with sleep outcomes.",
+    "pubmed_query":"((sauna[Title/Abstract] OR \"passive heating\"[Title/Abstract] OR \"hot bath\"[Title/Abstract] OR \"warm bath\"[Title/Abstract]) AND sleep[Title/Abstract]) AND humans[MeSH Terms]",
+    "trial_query":"(sauna OR \"passive heating\" OR \"hot bath\") AND sleep"
+  },
+  {
+    "slug":"exercise-recovery",
+    "name":"Exercise Recovery",
+    "short":"Recovery research involving sauna, cold-water immersion or photobiomodulation after exercise.",
+    "pubmed_query":"((sauna[Title/Abstract] OR \"cold water immersion\"[Title/Abstract] OR photobiomodulation[Title/Abstract]) AND (\"exercise recovery\"[Title/Abstract] OR \"muscle soreness\"[Title/Abstract] OR recovery[Title/Abstract])) AND humans[MeSH Terms]",
+    "trial_query":"(sauna OR \"cold water immersion\" OR photobiomodulation) AND exercise recovery"
+  }
+]
