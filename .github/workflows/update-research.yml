@@ -1,0 +1,62 @@
+name: Update research database and deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 7 * * 1,4'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: research-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+
+      - name: Refresh PubMed and ClinicalTrials.gov data
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+        run: python scripts/update_research.py
+
+      - name: Commit refreshed research index
+        run: |
+          git config user.name "healthresearchdatabase-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data topics studies trials sitemap.xml
+          if git diff --cached --quiet; then
+            echo "No research changes to commit."
+          else
+            git commit -m "Refresh research index"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload refreshed site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Deploy refreshed site
+        id: deployment
+        uses: actions/deploy-pages@v4
