@@ -1,5 +1,137 @@
 [
   {
+    "pmid": "42616170",
+    "title": "Photobiomodulation for salivary gland dysfunction: aligning clinical expectations with etiology-dependent treatment responsiveness.",
+    "authors": [
+      "Caio Camargo Calarga",
+      "Caio Bruno Tolentino de Brito",
+      "Cláudia Carrara Cotomácio",
+      "Alyne Simões"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-04991-5",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Xerostomia",
+      "Salivary Glands",
+      "Sjogren's Syndrome",
+      "Salivary Gland Diseases"
+    ],
+    "keywords": [
+      "Chemotherapy",
+      "Hyposalivation",
+      "Photobiomodulation",
+      "Radiotherapy",
+      "Sjögren",
+      "Xerostomia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42616170/"
+  },
+  {
+    "pmid": "42615775",
+    "title": "Early photobiomodulation in nipple pain and injury during breastfeeding: pilot double-blind randomized clinical trial.",
+    "authors": [
+      "Camila Carla de Paula Leite",
+      "Edilaine Giovanini Rosseto",
+      "Thaíla Corrêa Castral"
+    ],
+    "journal": "Revista gaucha de enfermagem",
+    "year": "2026",
+    "doi": "10.1590/1983-1447.2026.20250247.en",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Pilot Projects",
+      "Breast Feeding",
+      "Nipples",
+      "Low-Level Light Therapy",
+      "Adult",
+      "Double-Blind Method",
+      "Pain",
+      "Feasibility Studies",
+      "Brazil"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42615775/"
+  },
+  {
+    "pmid": "42605969",
+    "title": "Neuromodulation Techniques in Chronic Cerebral Hypoperfusion: Mechanisms and Therapeutic Advances.",
+    "authors": [
+      "Chenye Qiao",
+      "Ning Li",
+      "Congxiao Wang",
+      "Yingpeng Wang",
+      "Jinglu Li",
+      "Hujun Wang",
+      "Zongjian Liu",
+      "Shuyan Qie"
+    ],
+    "journal": "CNS neuroscience & therapeutics",
+    "year": "2026",
+    "doi": "10.1002/cns.71089",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Animals",
+      "Transcranial Direct Current Stimulation",
+      "Transcranial Magnetic Stimulation",
+      "Cerebrovascular Circulation",
+      "Cognitive Dysfunction",
+      "Dementia, Vascular",
+      "Low-Level Light Therapy",
+      "Brain Ischemia"
+    ],
+    "keywords": [
+      "brain stimulation",
+      "chronic cerebral hypoperfusion",
+      "cognitive impairment",
+      "neuromodulation",
+      "synaptic plasticity",
+      "vascular cognitive impairment"
+    ],
+    "topics": [
+      "exercise-recovery",
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42605969/"
+  },
+  {
     "pmid": "42586049",
     "title": "A TREK that activates thermogenic adipose tissue by sensing cold air in the lung.",
     "authors": [
@@ -336,6 +468,64 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42560105/"
   },
   {
+    "pmid": "42556610",
+    "title": "Adipocyte caspase-1 deficiency promotes white fat beiging via COX7A2L-dependent mitochondrial respiration.",
+    "authors": [
+      "Yumeng Wang",
+      "Jiajie Li",
+      "Weijiong He",
+      "Furong Zhao",
+      "Yunzi Kang",
+      "Yewei Cui",
+      "Hongxiang Zeng",
+      "Ting Zeng",
+      "Rui Cheng",
+      "Shujin Wang",
+      "Linqiang Zhang",
+      "Rui Wang"
+    ],
+    "journal": "Metabolism: clinical and experimental",
+    "year": "2026",
+    "doi": "10.1016/j.metabol.2026.156729",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "Caspase 1",
+      "Adipose Tissue, White",
+      "Mitochondria",
+      "Mice",
+      "Humans",
+      "Obesity",
+      "Adipocytes",
+      "Electron Transport Complex IV",
+      "Male",
+      "Thermogenesis",
+      "Energy Metabolism",
+      "Mice, Inbred C57BL",
+      "Cell Respiration",
+      "Diet, High-Fat",
+      "Mice, Knockout"
+    ],
+    "keywords": [
+      "Adipocyte",
+      "COX7A2L",
+      "Caspase-1",
+      "Metabolic homeostasis",
+      "White fat beiging"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42556610/"
+  },
+  {
     "pmid": "42552011",
     "title": "Photobiomodulation therapy combined with a static magnetic field for chronic non-specific knee pain: protocol for a multicentre, randomised, triple-blind, placebo-controlled trial.",
     "authors": [
@@ -587,6 +777,53 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533686/"
+  },
+  {
+    "pmid": "42531218",
+    "title": "Seven days of warm water immersion modulate baseline fluid-regulatory hormones without altering acute multisystem physiological stress responses in older males.",
+    "authors": [
+      "Ben J Lee",
+      "James J McCormick",
+      "Kelli E McCormick",
+      "Kristina-Marie T Janetos",
+      "Glen P Kenny"
+    ],
+    "journal": "American journal of physiology. Regulatory, integrative and comparative physiology",
+    "year": "2026",
+    "doi": "10.1152/ajpregu.00099.2026",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Male",
+      "Humans",
+      "Immersion",
+      "Hot Temperature",
+      "Aging",
+      "Biomarkers",
+      "Time Factors",
+      "Heat-Shock Response",
+      "Water-Electrolyte Balance",
+      "Acclimatization",
+      "Age Factors",
+      "Renin"
+    ],
+    "keywords": [
+      "aging",
+      "heat stress",
+      "immune activation",
+      "passive heating",
+      "systemic inflammation"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531218/"
   },
   {
     "pmid": "42525285",
@@ -1223,6 +1460,51 @@
     "design_class": "d",
     "design_label": "Observational research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42487022/"
+  },
+  {
+    "pmid": "42486252",
+    "title": "Neuromodulation for psychological sequelae of traumatic brain injury.",
+    "authors": [
+      "Chunyan Li",
+      "Anjali LeDoux",
+      "Bernadette Tam",
+      "Thea Chen",
+      "Yijoon Kim",
+      "Max Brenner",
+      "Ping Wang"
+    ],
+    "journal": "Experimental neurology",
+    "year": "2026",
+    "doi": "10.1016/j.expneurol.2026.115933",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Brain Injuries, Traumatic",
+      "Animals",
+      "Transcranial Magnetic Stimulation",
+      "Transcranial Direct Current Stimulation",
+      "Deep Brain Stimulation",
+      "Vagus Nerve Stimulation",
+      "Mental Disorders",
+      "Stress Disorders, Post-Traumatic"
+    ],
+    "keywords": [
+      "Neuromodulation",
+      "Psychological disorder",
+      "Traumatic brain injury"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486252/"
   },
   {
     "pmid": "42484713",
@@ -5505,6 +5787,53 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42281382/"
   },
   {
+    "pmid": "42277828",
+    "title": "Meningeal lymphatic dysfunction in Alzheimer's disease: molecular mechanisms, clinical implications, and future perspectives.",
+    "authors": [
+      "Lian Liu",
+      "Jiang-Hui Li",
+      "Yu-Di Bai",
+      "Yan-Jiang Wang",
+      "Xian-Le Bu"
+    ],
+    "journal": "Molecular neurodegeneration",
+    "year": "2026",
+    "doi": "10.1186/s13024-026-00962-0",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Alzheimer Disease",
+      "Meninges",
+      "Animals",
+      "Brain",
+      "Amyloid beta-Peptides",
+      "Lymphatic System",
+      "Lymphatic Vessels"
+    ],
+    "keywords": [
+      "Alzheimer’s disease",
+      "Amyloid-beta",
+      "Intervention",
+      "Meningeal lymphatic vessels",
+      "Myelin function",
+      "Neurodegeneration",
+      "Neuroimmune modulation",
+      "Tau"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42277828/"
+  },
+  {
     "pmid": "42272806",
     "title": "Case Report: Moxibustion-induced burns leading to disseminated methicillin-resistant Staphylococcus aureus infection in a patient with type 2 diabetes mellitus.",
     "authors": [
@@ -6205,6 +6534,46 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42250385/"
+  },
+  {
+    "pmid": "42250031",
+    "title": "Low-Level Light Therapy in Postherpetic Neuralgia: A Review of Mechanistic Insights and Clinical Implications.",
+    "authors": [
+      "Yu-Chen Ma",
+      "Yu-Chieh Chiang",
+      "Sebastian Yu"
+    ],
+    "journal": "Cellular and molecular neurobiology",
+    "year": "2026",
+    "doi": "10.1007/s10571-026-01763-1",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Neuralgia, Postherpetic",
+      "Animals",
+      "Low-Level Light Therapy",
+      "Ganglia, Spinal"
+    ],
+    "keywords": [
+      "Low-level light therapy",
+      "Neuroinflammation",
+      "Neuropathic pain",
+      "Peripheral nerve regeneration",
+      "Photobiomodulation",
+      "Postherpetic neuralgia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42250031/"
   },
   {
     "pmid": "42247334",
@@ -6953,99 +7322,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42197258/"
   },
   {
-    "pmid": "42196703",
-    "title": "Photobiomodulation and Wearable Light Therapies: A Bibliometric Analysis of the Scientific Literature (1970-2025).",
-    "authors": [
-      "Alberto Grossi",
-      "Francesca Campoli",
-      "Giuseppe Messina",
-      "Giuseppe Caminiti",
-      "Matteo Vitarelli",
-      "Gabriele Morganti",
-      "Elvira Padua",
-      "Bruno Ruscello"
-    ],
-    "journal": "International journal of environmental research and public health",
-    "year": "2026",
-    "doi": "10.3390/ijerph23050610",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Wearable Electronic Devices",
-      "Bibliometrics",
-      "Low-Level Light Therapy",
-      "Humans"
-    ],
-    "keywords": [
-      "Low-Level Laser Therapy (LLLT)",
-      "heliotherapy",
-      "laser development",
-      "light-based therapies",
-      "photobiomodulation (PBM)",
-      "wearable Light-based medical devices"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42196703/"
-  },
-  {
-    "pmid": "42193872",
-    "title": "Wavelength-Dependent Modulation of Mesenchymal Stem Cell Fate: A Systems Biology Framework for Tissue Repair and Regenerative Medicine.",
-    "authors": [
-      "Baptiste Amouroux",
-      "Kimia Motlagh Asghari",
-      "Morgane De Sousa",
-      "Virginie Gueguen",
-      "Cédric Chauvierre",
-      "Abolfazl Barzegari",
-      "Graciela Pavon-Djavid"
-    ],
-    "journal": "Cells",
-    "year": "2026",
-    "doi": "10.3390/cells15100861",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Mesenchymal Stem Cells",
-      "Humans",
-      "Regenerative Medicine",
-      "Systems Biology",
-      "Animals",
-      "Red Light",
-      "Blue Light",
-      "Signal Transduction"
-    ],
-    "keywords": [
-      "dosimetry",
-      "dual photonic programming",
-      "light delivery",
-      "mesenchymal stem cells (MSCs)",
-      "photobiomodulation (PBM)",
-      "redox biochemistry",
-      "secretome and paracrine signaling",
-      "wavelength-specific signaling"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42193872/"
-  },
-  {
     "pmid": "42191953",
     "title": "Antimicrobial effects of repeated 405 nm low-level-laser photobiomodulation: an In-vitro study on surgical wound pathogens.",
     "authors": [
@@ -7139,53 +7415,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42190821/"
-  },
-  {
-    "pmid": "42178150",
-    "title": "The Effect of Photobiomodulation in the Management of Leg Ulcers in Sickle Cell Disease: A Systematic Review.",
-    "authors": [
-      "Jéssica Eutímio de Carvalho Silva",
-      "Caroline Conceição da Guarda",
-      "Luciana Magalhães Fiuza",
-      "Teresa Cristina Cardoso Fonseca",
-      "Marilda de Souza Gonçalves",
-      "Milena Magalhães Aleluia"
-    ],
-    "journal": "International wound journal",
-    "year": "2026",
-    "doi": "10.1111/iwj.70883",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Leg Ulcer",
-      "Anemia, Sickle Cell",
-      "Low-Level Light Therapy",
-      "Wound Healing",
-      "Female",
-      "Male",
-      "Adult",
-      "Quality of Life",
-      "Middle Aged",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "leg ulcer",
-      "photobiomodulation",
-      "quality of life",
-      "sickle cell disease"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42178150/"
   },
   {
     "pmid": "42177497",
@@ -7421,48 +7650,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42168455/"
   },
   {
-    "pmid": "42164719",
-    "title": "Radiometric and spectral characterization of multipanel planar light-emitting devices: a generalizable irradiance mapping approach for dose estimation.",
-    "authors": [
-      "Emmanuel Gerelli",
-      "Georges Wagnières",
-      "Jaroslava Joniová"
-    ],
-    "journal": "Journal of biomedical optics",
-    "year": "2026",
-    "doi": "10.1117/1.JBO.31.5.055001",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Radiometry",
-      "Low-Level Light Therapy",
-      "Equipment Design",
-      "Spectrum Analysis",
-      "Light",
-      "Radiotherapy Dosage",
-      "Keratinocytes",
-      "Humans"
-    ],
-    "keywords": [
-      "ATP38®",
-      "PpIX",
-      "cell migration",
-      "light dosimetry",
-      "photobiomodulation",
-      "radiometric characterization"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42164719/"
-  },
-  {
     "pmid": "42162824",
     "title": "Identifying critical windows and sex-specific effects of periconceptional exposure to fine particulate matter and temperature on fetal growth trajectories: A longitudinal birth cohort study.",
     "authors": [
@@ -7693,53 +7880,6 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154309/"
-  },
-  {
-    "pmid": "42151696",
-    "title": "Reconstructing cerebral lymphatic clearance: an emerging target in the Alzheimer's disease therapeutic pipeline.",
-    "authors": [
-      "Jiheng Zhang",
-      "Jiren Zhang",
-      "Jian Ding",
-      "Xian Zhang",
-      "Yuhua Wang",
-      "Wei Wei",
-      "Yan Chai",
-      "Shu Zhang",
-      "Xin Chen"
-    ],
-    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-    "year": "2026",
-    "doi": "10.1002/alz.71451",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Alzheimer Disease",
-      "Animals",
-      "Glymphatic System",
-      "Brain",
-      "Lymphatic System",
-      "Lymphatic Vessels"
-    ],
-    "keywords": [
-      "Alzheimer's disease",
-      "aquaporin‐4",
-      "glymphatic",
-      "meningeal lymphatic system",
-      "neurodegenerative diseases"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42151696/"
   },
   {
     "pmid": "42150453",
@@ -8456,53 +8596,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098776/"
   },
   {
-    "pmid": "42098536",
-    "title": "Photobiomodulation for the treatment and prevention of chemotherapy- and/or radiotherapy-induced oral mucositis in cancer patients: a systematic review and meta-analysis of randomized clinical trials published in the last six years.",
-    "authors": [
-      "Rojas G",
-      "Escalante-Parra R",
-      "Duarte A",
-      "Terán-Ángel G",
-      "Moreno-Garces P",
-      "Silveira Fm",
-      "Sanchez-Ramirez C"
-    ],
-    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "year": "2026",
-    "doi": "10.1007/s00520-026-10729-4",
-    "publication_types": [
-      "Systematic Review",
-      "Journal Article",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Stomatitis",
-      "Low-Level Light Therapy",
-      "Neoplasms",
-      "Randomized Controlled Trials as Topic",
-      "Antineoplastic Agents",
-      "Radiotherapy",
-      "Radiation Injuries"
-    ],
-    "keywords": [
-      "Cancer",
-      "Chemotherapy",
-      "Oral Mucositis",
-      "Photobiomodulation",
-      "Radiotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42098536/"
-  },
-  {
     "pmid": "42097414",
     "title": "Alleviation of osteoarthritis progression through far-infrared therapy targeting osteoclast cytoskeleton and MAPK/c-Fos/NFATc1 signaling inhibition.",
     "authors": [
@@ -9147,6 +9240,59 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068075/"
+  },
+  {
+    "pmid": "42060269",
+    "title": "Photobiomodulation therapy in the treatment of genitourinary syndrome in postmenopausal women - a placebo-controlled double-blind clinical trial.",
+    "authors": [
+      "Silvia Regina Dos Santos Pereira",
+      "Raymond Lanzafame",
+      "Raquel Agnelli Mesquita-Ferrari",
+      "Luciana Toledo Costa Salviatto",
+      "Erika da Silva Melo",
+      "Cícero Dayves da Silva Bezerra",
+      "Paulo Sérgio Bossini",
+      "Luciana Almeida-Lopes",
+      "Vanessa Dalapria",
+      "Alessandro M Deana"
+    ],
+    "journal": "Climacteric : the journal of the International Menopause Society",
+    "year": "2026",
+    "doi": "10.1080/13697137.2026.2658817",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Double-Blind Method",
+      "Postmenopause",
+      "Low-Level Light Therapy",
+      "Middle Aged",
+      "Urinary Incontinence",
+      "Female Urogenital Diseases",
+      "Syndrome",
+      "Treatment Outcome",
+      "Aged",
+      "Vagina"
+    ],
+    "keywords": [
+      "Vaginal atrophy",
+      "low-intensity laser irradiation",
+      "low-intensity light therapy",
+      "photobiomodulation",
+      "urinary incontinence"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42060269/"
   },
   {
     "pmid": "42059078",
@@ -13618,58 +13764,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41690883/"
   },
   {
-    "pmid": "41687711",
-    "title": "Neuromodulation of resting state brain network topography by heterolateral prefrontal transcranial photobiomodulation.",
-    "authors": [
-      "Licong Li",
-      "Zhaoning Du",
-      "Kun Wang",
-      "Xuexiu Li",
-      "Fukuan Zhang",
-      "Guanghai Zhang",
-      "Peng Xiong",
-      "Xiuling Liu"
-    ],
-    "journal": "Neuroscience",
-    "year": "2026",
-    "doi": "10.1016/j.neuroscience.2026.02.012",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Prefrontal Cortex",
-      "Male",
-      "Female",
-      "Electroencephalography",
-      "Young Adult",
-      "Nerve Net",
-      "Low-Level Light Therapy",
-      "Adult",
-      "Functional Laterality",
-      "Rest",
-      "Brain",
-      "Brain Waves",
-      "Brain Mapping",
-      "Neural Pathways"
-    ],
-    "keywords": [
-      "EEG",
-      "Functional connectivity",
-      "Graph theoretical analysis",
-      "Transcranial photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41687711/"
-  },
-  {
     "pmid": "41683747",
     "title": "Adipocyte Browning: A Promising Avenue in Anti-Obesity Therapy.",
     "authors": [
@@ -17204,6 +17298,47 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41175351/"
   },
   {
+    "pmid": "41174914",
+    "title": "Characteristics of Massage Therapy Provision in Palliative Care: A Scoping Review.",
+    "authors": [
+      "Ronna Moore",
+      "Bruce Rumbold",
+      "Hanan Khalil"
+    ],
+    "journal": "Journal of palliative medicine",
+    "year": "2026",
+    "doi": "10.1177/10966218251383277",
+    "publication_types": [
+      "Journal Article",
+      "Scoping Review",
+      "Review"
+    ],
+    "mesh": [
+      "Massage",
+      "Humans",
+      "Palliative Care",
+      "Pain Management",
+      "Female",
+      "Male"
+    ],
+    "keywords": [
+      "end-of-life care",
+      "hospice",
+      "massage",
+      "massage therapy",
+      "palliative care"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174914/"
+  },
+  {
     "pmid": "41173363",
     "title": "Cold exposure induces the constitutively active thermogenic receptor, GPR3, via ERRα and ERRγ.",
     "authors": [
@@ -19227,11 +19362,9 @@
       "Thermal stress"
     ],
     "topics": [
-      "cold-water-immersion",
       "sauna-heat-therapy"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
       "Sauna & Heat Therapy"
     ],
     "design_class": "e",
@@ -32882,59 +33015,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38734047/"
   },
   {
-    "pmid": "38731882",
-    "title": "Altered Sweat Composition Due to Changes in Tight Junction Expression of Sweat Glands in Cholinergic Urticaria Patients.",
-    "authors": [
-      "Denisa Daci",
-      "Sabine Altrichter",
-      "François Marie Grillet",
-      "Selma Dib",
-      "Ahmad Mouna",
-      "Sukashree Suresh Kumar",
-      "Dorothea Terhorst-Molawi",
-      "Marcus Maurer",
-      "Dorothee Günzel",
-      "Jörg Scheffel"
-    ],
-    "journal": "International journal of molecular sciences",
-    "year": "2024",
-    "doi": "10.3390/ijms25094658",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Sweat",
-      "Tight Junctions",
-      "Sweat Glands",
-      "Ergometry",
-      "Tight Junction Proteins",
-      "Chronic Inducible Urticaria",
-      "Humans",
-      "Male",
-      "Female",
-      "Adult",
-      "Receptor, Muscarinic M3",
-      "Biopsy, Needle"
-    ],
-    "keywords": [
-      "cholinergic urticaria",
-      "claudin-10",
-      "hypohidrosis",
-      "paracellular pathway",
-      "sweat gland",
-      "tight junction"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38731882/"
-  },
-  {
     "pmid": "38724575",
     "title": "Effect of hyperthermia on simulated muscle activation in female when crossing obstacle.",
     "authors": [
@@ -35168,49 +35248,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37917978/"
   },
   {
-    "pmid": "37878283",
-    "title": "Massage Therapy as a Self-Management Strategy for Musculoskeletal Pain and Chronic Conditions: A Systematic Review of Feasibility and Scope.",
-    "authors": [
-      "Donya Nemati",
-      "Rachel Hinrichs",
-      "Alisa Johnson",
-      "Romy Lauche",
-      "Niki Munk"
-    ],
-    "journal": "Journal of integrative and complementary medicine",
-    "year": "2024",
-    "doi": "10.1089/jicm.2023.0271",
-    "publication_types": [
-      "Systematic Review",
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Massage",
-      "Musculoskeletal Pain",
-      "Self-Management",
-      "Chronic Disease",
-      "Feasibility Studies",
-      "Quality of Life"
-    ],
-    "keywords": [
-      "adherence",
-      "pain",
-      "self-administered massage",
-      "self-management",
-      "systematic review"
-    ],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37878283/"
-  },
-  {
     "pmid": "37839928",
     "title": "Utilization of massage chairs for promoting overall health and wellness: A rapid scoping review.",
     "authors": [
@@ -36263,58 +36300,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36978772/"
-  },
-  {
-    "pmid": "36869699",
-    "title": "Effect of near-infrared laser treatment on improving erectile function in rats with diabetes mellitus.",
-    "authors": [
-      "Lin Yang",
-      "Guoxiong Liu",
-      "Dali Jiang",
-      "Guiting Lin",
-      "Zejun Ren",
-      "Hengtong Fan",
-      "Bing Yang",
-      "Liyue Mu",
-      "Tom F Lue",
-      "Dalin He"
-    ],
-    "journal": "Andrology",
-    "year": "2023",
-    "doi": "10.1111/andr.13422",
-    "publication_types": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Rats",
-      "Male",
-      "Humans",
-      "Animals",
-      "Erectile Dysfunction",
-      "Rats, Sprague-Dawley",
-      "Proteomics",
-      "Penile Erection",
-      "Penis",
-      "Diabetes Mellitus, Experimental"
-    ],
-    "keywords": [
-      "diabetes mellitus",
-      "erectile dysfunction",
-      "near-infrared laser therapy",
-      "oxidative stress",
-      "photobiomodulation",
-      "rats"
-    ],
-    "topics": [
-      "exercise-recovery"
-    ],
-    "topic_names": [
-      "Exercise Recovery"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36869699/"
   },
   {
     "pmid": "36825876",

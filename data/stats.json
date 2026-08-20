@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T08:03:21.180972+00:00",
-  "updated_label": "Aug 17, 2026",
+  "generated_at": "2026-08-20T07:59:25.534103+00:00",
+  "updated_label": "Aug 20, 2026",
   "total_studies": 1008,
-  "total_trials": 562,
+  "total_trials": 568,
   "total_topics": 9,
-  "active_trials": 147,
+  "active_trials": 129,
   "topics": {
     "sauna-heat-therapy": {
       "studies": 140,
@@ -55,8 +55,8 @@
       "trials": 100,
       "designs": {
         "e": 73,
-        "b": 38,
-        "a": 20,
+        "b": 40,
+        "a": 18,
         "d": 7,
         "c": 2
       }
@@ -76,8 +76,8 @@
       "studies": 140,
       "trials": 100,
       "designs": {
-        "e": 64,
-        "a": 32,
+        "e": 65,
+        "a": 31,
         "c": 5,
         "b": 36,
         "d": 3
