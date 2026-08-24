@@ -1,5 +1,211 @@
 [
   {
+    "pmid": "42631884",
+    "title": "Photobiomodulation therapy and postoperative recovery after abdominoplasty: a non-randomized pilot study.",
+    "authors": [
+      "Carmen Lucia Kretiska Araujo",
+      "Graziele Silveira Fardin",
+      "Ana Paula Bernardi",
+      "Joane Severo Ribeiro",
+      "Ricardo Vitiello Schramm",
+      "Isadora Frois Ourique",
+      "Maria Luiza Santos",
+      "Betina Vescovi",
+      "Tássio Fernando Crusius",
+      "Flávia Marafon",
+      "Denis Valente",
+      "Níveo Steffen"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05007-y",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Pilot Projects",
+      "Low-Level Light Therapy",
+      "Abdominoplasty",
+      "Oxidative Stress",
+      "Middle Aged",
+      "Adult",
+      "Tumor Necrosis Factor-alpha",
+      "Wound Healing",
+      "Postoperative Period",
+      "Interleukin-10",
+      "Saliva",
+      "Postoperative Pain"
+    ],
+    "keywords": [
+      "Abdominoplasty",
+      "Cytokines",
+      "Low-level laser therapy (LLLT)",
+      "Oxidative stress",
+      "Photobiomodulation therapy",
+      "Postoperative pain"
+    ],
+    "topics": [
+      "exercise-recovery",
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42631884/"
+  },
+  {
+    "pmid": "42629521",
+    "title": "Photobiomodulation to minimize talquetamab-associated dysgeusia and xerostomia in multiple myeloma: a brief report of four cases.",
+    "authors": [
+      "Mariana Henriques Ferreira",
+      "Fernanda de Paula Eduardo",
+      "Luiza Deitos Menti",
+      "Isabela Vieira Nasser de Morais",
+      "Nelson Hamerschlak",
+      "Mariana Nassif Kerbauy",
+      "Gabriela Rocco de Sá",
+      "Letícia Mello Bezinelli"
+    ],
+    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+    "year": "2026",
+    "doi": "10.1007/s00520-026-11133-8",
+    "publication_types": [
+      "Journal Article",
+      "Case Reports"
+    ],
+    "mesh": [
+      "Humans",
+      "Multiple Myeloma",
+      "Xerostomia",
+      "Dysgeusia",
+      "Female",
+      "Middle Aged",
+      "Aged",
+      "Male",
+      "Low-Level Light Therapy",
+      "Feasibility Studies",
+      "Antineoplastic Agents",
+      "Antibodies, Bispecific"
+    ],
+    "keywords": [
+      "Dysgeusia",
+      "Multiple myeloma",
+      "Photobiomodulation",
+      "Supportive care",
+      "Talquetamab",
+      "Xerostomia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42629521/"
+  },
+  {
+    "pmid": "42627586",
+    "title": "Cardio-Oncology in Cold Climates: Epidemiological Features, Bidirectional Interaction Mechanisms, and Integrated Management Strategies.",
+    "authors": [
+      "Yuexin Li",
+      "Yifei Zhang",
+      "Haobo Sun",
+      "Ying He",
+      "Dongqing Gao",
+      "Tingting Ding",
+      "Xuemei Chen",
+      "Zhonghua Sun",
+      "Shuai Jiang",
+      "Mei Dong"
+    ],
+    "journal": "Cardiovascular toxicology",
+    "year": "2026",
+    "doi": "10.1007/s12012-026-10175-y",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Neoplasms",
+      "Cardiovascular Diseases",
+      "Animals",
+      "Comorbidity",
+      "Heart Disease Risk Factors",
+      "Cardiotoxicity",
+      "Risk Assessment",
+      "Cold Climate",
+      "Antineoplastic Agents",
+      "Risk Factors",
+      "Incidence",
+      "Cold Temperature",
+      "Prognosis",
+      "Delivery of Health Care, Integrated"
+    ],
+    "keywords": [
+      "Cancer",
+      "Cardio-oncology",
+      "Cardiovascular disease",
+      "Cold exposure",
+      "Multimorbidity"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42627586/"
+  },
+  {
+    "pmid": "42622691",
+    "title": "Photobiomodulation for autonomic rebalancing in myocardial infarction prevention.",
+    "authors": [
+      "Mojan Imani"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05003-2",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Myocardial Infarction",
+      "Autonomic Nervous System",
+      "Animals",
+      "Heart Rate"
+    ],
+    "keywords": [
+      "ANS",
+      "Autonomic dysfunction",
+      "Heart rate variability",
+      "Laser acupuncture",
+      "Myocardial infarction",
+      "Photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622691/"
+  },
+  {
     "pmid": "42616170",
     "title": "Photobiomodulation for salivary gland dysfunction: aligning clinical expectations with etiology-dependent treatment responsiveness.",
     "authors": [
@@ -795,18 +1001,23 @@
       "Journal Article"
     ],
     "mesh": [
-      "Male",
       "Humans",
+      "Male",
+      "Middle Aged",
+      "Aged",
       "Immersion",
+      "Heat-Shock Response",
       "Hot Temperature",
+      "Acclimatization",
+      "Body Fluids",
+      "Exercise",
+      "Time Factors",
+      "Environmental Exposure",
       "Aging",
       "Biomarkers",
-      "Time Factors",
-      "Heat-Shock Response",
-      "Water-Electrolyte Balance",
-      "Acclimatization",
       "Age Factors",
-      "Renin"
+      "Renin",
+      "Water-Electrolyte Balance"
     ],
     "keywords": [
       "aging",
@@ -1427,22 +1638,21 @@
     "year": "2026",
     "doi": "10.1007/s10103-026-04962-w",
     "publication_types": [
-      "Journal Article",
-      "Network Meta-Analysis",
       "Comparative Study",
-      "Review"
+      "Journal Article",
+      "Network Meta-Analysis"
     ],
     "mesh": [
       "Humans",
       "Alzheimer Disease",
-      "Transcranial Direct Current Stimulation",
-      "Transcranial Magnetic Stimulation",
-      "Randomized Controlled Trials as Topic",
-      "Low-Level Light Therapy",
-      "Treatment Outcome",
+      "Bayes Theorem",
       "Cognition",
       "Cognitive Enhancement",
-      "Bayes Theorem"
+      "Low-Level Light Therapy",
+      "Randomized Controlled Trials as Topic",
+      "Transcranial Direct Current Stimulation",
+      "Transcranial Magnetic Stimulation",
+      "Treatment Outcome"
     ],
     "keywords": [
       "Alzheimer’s disease",
@@ -1460,6 +1670,49 @@
     "design_class": "d",
     "design_label": "Observational research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42487022/"
+  },
+  {
+    "pmid": "42486429",
+    "title": "Extreme temperatures and out-of-hospital cardiac arrest: a systematic review and narrative synthesis.",
+    "authors": [
+      "Ana Raquel Nunes",
+      "Adam J Boulton",
+      "Joyce Yeung"
+    ],
+    "journal": "Resuscitation",
+    "year": "2026",
+    "doi": "10.1016/j.resuscitation.2026.111221",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Review"
+    ],
+    "mesh": [
+      "Out-of-Hospital Cardiac Arrest",
+      "Humans",
+      "Emergency Medical Services",
+      "Incidence",
+      "Extreme Heat",
+      "Hot Temperature",
+      "Cardiopulmonary Resuscitation"
+    ],
+    "keywords": [
+      "Climate change",
+      "Cold",
+      "Extreme temperatures",
+      "Heat",
+      "Out-of-hospital cardiac arrest",
+      "Systematic review"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42486429/"
   },
   {
     "pmid": "42486252",
@@ -7276,52 +7529,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42204531/"
   },
   {
-    "pmid": "42197258",
-    "title": "Mechanisms and Applications of Manganese-Based Materials in Tumor Immunotherapy.",
-    "authors": [
-      "Xiaoqi Kong",
-      "Changyue Zhang",
-      "Haodong Hu",
-      "Ye Chen",
-      "Wenjuan Gao",
-      "Ruijiao Chen"
-    ],
-    "journal": "Molecules (Basel, Switzerland)",
-    "year": "2026",
-    "doi": "10.3390/molecules31101704",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Immunotherapy",
-      "Manganese",
-      "Neoplasms",
-      "Animals",
-      "Tumor Microenvironment",
-      "Combined Modality Therapy",
-      "Antineoplastic Agents",
-      "Reactive Oxygen Species"
-    ],
-    "keywords": [
-      "immunogenic cell death",
-      "manganese",
-      "nanomaterials",
-      "reactive oxygen species",
-      "tumor immunotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42197258/"
-  },
-  {
     "pmid": "42191953",
     "title": "Antimicrobial effects of repeated 405 nm low-level-laser photobiomodulation: an In-vitro study on surgical wound pathogens.",
     "authors": [
@@ -7575,19 +7782,18 @@
       "Comparative Study"
     ],
     "mesh": [
-      "Humans",
-      "Cross-Over Studies",
-      "Athletes",
-      "Post-Exercise Recovery",
-      "Low-Level Light Therapy",
-      "Male",
-      "Post-Exercise Recovery Techniques",
-      "Catalase",
       "Adult",
-      "Thiobarbituric Acid Reactive Substances",
-      "Superoxide Dismutase",
+      "Humans",
+      "Male",
       "Young Adult",
-      "L-Lactate Dehydrogenase"
+      "Athletes",
+      "Catalase",
+      "Cross-Over Studies",
+      "L-Lactate Dehydrogenase",
+      "Low-Level Light Therapy",
+      "Post-Exercise Recovery Techniques",
+      "Superoxide Dismutase",
+      "Thiobarbituric Acid Reactive Substances"
     ],
     "keywords": [],
     "topics": [
@@ -8123,53 +8329,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42134441/"
   },
   {
-    "pmid": "42126716",
-    "title": "Cellular homeostasis and oncology safety of low pulse frequency laser for photobiomodulation in oral and dermal cells.",
-    "authors": [
-      "David Alexader Real-Lopez",
-      "Michelle Wendoline Garcia-Niño de Rivera",
-      "Patricia Alejandra Chavez-Granados",
-      "Gabriela Hernandez-Gomez",
-      "Rene Garcia-Contreras"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04887-4",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Fibroblasts",
-      "Cell Proliferation",
-      "Cell Survival",
-      "MCF-7 Cells",
-      "Homeostasis",
-      "Female",
-      "Gingiva",
-      "Lasers, Semiconductor",
-      "Cyclooxygenase 2",
-      "Breast Neoplasms"
-    ],
-    "keywords": [
-      "Cell adhesion molecules",
-      "Cell survival",
-      "Inflammation mediators",
-      "Mitochondrial activity",
-      "Signal transduction"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42126716/"
-  },
-  {
     "pmid": "42114940",
     "title": "LOW-LEVEL LASER THERAPY AND DENTAL INJECTION PAIN IN CHILDREN: A SYSTEMATIC REVIEW AND META-ANALYSIS.",
     "authors": [
@@ -8371,12 +8530,10 @@
       "Titanium-prepared platelet-rich fibrin (T-PRF)"
     ],
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "design_class": "b",
     "design_label": "Randomized controlled trial",
@@ -8430,57 +8587,6 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42104787/"
-  },
-  {
-    "pmid": "42104184",
-    "title": "Optimisation of low-level light therapy (lllt) parameters and evaluation of its immunomodulatory effect on fibroblasts.",
-    "authors": [
-      "Anna Ścisłowska-Czarnecka",
-      "Amelia Lizak",
-      "Aleksandra Matuła",
-      "Aneta Bac",
-      "Joanna Homa",
-      "Magdalena Chadzińska",
-      "Beata Stenka"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04873-w",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Fibroblasts",
-      "Humans",
-      "Low-Level Light Therapy",
-      "Cell Movement",
-      "Nitric Oxide",
-      "Wound Healing",
-      "Matrix Metalloproteinase 2",
-      "Adenylate Kinase",
-      "Interleukin-6",
-      "Cells, Cultured",
-      "Matrix Metalloproteinase 9",
-      "Interleukin-8",
-      "Antioxidants",
-      "Cytokines"
-    ],
-    "keywords": [
-      "Cytokines",
-      "Fibroblasts",
-      "LLLT",
-      "MMP",
-      "Oxidative-antioxidant potential"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42104184/"
   },
   {
     "pmid": "42101622",
@@ -15107,6 +15213,61 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41559866/"
   },
   {
+    "pmid": "41558834",
+    "title": "Three-year efficacy and safety of repeated low-level red-light therapy for myopia control: a multicentre real-world study.",
+    "authors": [
+      "Yanping Chen",
+      "Wei Wang",
+      "Ruilin Xiong",
+      "Fang Yu",
+      "Shaoxin Pan",
+      "Jing Dong",
+      "Jian Zhang",
+      "Zhuoting Zhu",
+      "Xiaohu Ding",
+      "Bin Wang",
+      "Yanxian Chen",
+      "Henry Ho-Lung Chan"
+    ],
+    "journal": "The British journal of ophthalmology",
+    "year": "2026",
+    "doi": "10.1136/bjo-2025-328687",
+    "publication_types": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Adolescent",
+      "Female",
+      "Red Light",
+      "Male",
+      "Visual Acuity",
+      "Refraction, Ocular",
+      "Myopia",
+      "Treatment Outcome",
+      "Disease Progression",
+      "Follow-Up Studies",
+      "Time Factors"
+    ],
+    "keywords": [
+      "Child health (paediatrics)",
+      "Clinical Trial",
+      "Epidemiology",
+      "Optics and Refraction"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41558834/"
+  },
+  {
     "pmid": "41556178",
     "title": "Emergency medical services utilization among refugees on the Eastern Mediterranean Migration route.",
     "authors": [
@@ -17951,58 +18112,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41045792/"
   },
   {
-    "pmid": "41026093",
-    "title": "Global, Regional, and National Burden of Environmental Heat and Cold Exposure in Adults Aged 55 Years and Older From 1990 to 2021: A Trend Analysis.",
-    "authors": [
-      "Wen-Jie Li",
-      "Jia-Jun Deng",
-      "Xue-Er Cheng",
-      "Xiao-Xiao Li",
-      "Yu-Wan Chang",
-      "Sha-Sha Tao",
-      "Hai-Feng Pan"
-    ],
-    "journal": "Journal of occupational and environmental medicine",
-    "year": "2026",
-    "doi": "10.1097/JOM.0000000000003560",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Middle Aged",
-      "Male",
-      "Female",
-      "Aged",
-      "Cold Temperature",
-      "Hot Temperature",
-      "Incidence",
-      "Global Health",
-      "Global Burden of Disease",
-      "Prevalence",
-      "Environmental Exposure",
-      "Disability-Adjusted Life Years",
-      "Heat Stress Disorders",
-      "Aged, 80 and over",
-      "Pattern Analysis, Machine"
-    ],
-    "keywords": [
-      "GBD 2021",
-      "climate change",
-      "older adults",
-      "temperature extremes exposure"
-    ],
-    "topics": [
-      "cold-water-immersion"
-    ],
-    "topic_names": [
-      "Cold-Water Immersion"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41026093/"
-  },
-  {
     "pmid": "40995827",
     "title": "The Effect of Photobiomodulation Therapy on Muscle Performance in Volleyball and Football Players: A Meta-Analysis of Randomized Controlled Trials.",
     "authors": [
@@ -18572,56 +18681,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40793352/"
-  },
-  {
-    "pmid": "40694669",
-    "title": "Reported Triggers and Self-reported Management Strategies in Children With Familial Mediterranean Fever.",
-    "authors": [
-      "Elif Kucuk",
-      "Safak Senpolat",
-      "Feray Kaya",
-      "Lutfiye Koru",
-      "Zelal Aydin",
-      "Eda Nur Dizman",
-      "Hatice Kubra Dursun",
-      "Merve Ozen Balci",
-      "Kubra Ozturk",
-      "Fatih Haslak"
-    ],
-    "journal": "Journal of clinical rheumatology : practical reports on rheumatic & musculoskeletal diseases",
-    "year": "2026",
-    "doi": "10.1097/RHU.0000000000002265",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Familial Mediterranean Fever",
-      "Female",
-      "Male",
-      "Child",
-      "Self Report",
-      "Adolescent",
-      "Pyrin",
-      "Colchicine",
-      "Mutation",
-      "Fatigue"
-    ],
-    "keywords": [
-      "colchicine",
-      "familial Mediterranean fever",
-      "reported triggers",
-      "self-reported management strategies"
-    ],
-    "topics": [
-      "cold-water-immersion"
-    ],
-    "topic_names": [
-      "Cold-Water Immersion"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40694669/"
   },
   {
     "pmid": "40580191",
@@ -35816,50 +35875,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37922826/"
-  },
-  {
-    "pmid": "37910318",
-    "title": "Transcranial photobiomodulation therapy associated with cardiorespiratory rehabilitation in spastic subjects.",
-    "authors": [
-      "Ana Paula Pinto",
-      "Sérgio Luiz Lemos",
-      "Alessandra de Almeida Fagundes",
-      "Marcele Florêncio das Neves",
-      "Rodrigo Álvaro Brandão Lopes-Martins",
-      "Fernanda Pupio Silva Lima",
-      "Mário Oliveira Lima"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2023",
-    "doi": "10.1007/s10103-023-03922-y",
-    "publication_types": [
-      "Randomized Controlled Trial",
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Muscle Spasticity",
-      "Low-Level Light Therapy",
-      "Electromyography",
-      "Lower Extremity",
-      "Quadriceps Muscle"
-    ],
-    "keywords": [
-      "Cardiorespiratory rehabilitation",
-      "Heart rate variability",
-      "Spasticity",
-      "Surface electromyography",
-      "Transcranial photobiomodulation therapy"
-    ],
-    "topics": [
-      "exercise-recovery"
-    ],
-    "topic_names": [
-      "Exercise Recovery"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37910318/"
   },
   {
     "pmid": "37873631",
