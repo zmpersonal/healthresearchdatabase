@@ -1,5 +1,191 @@
 [
   {
+    "pmid": "42657182",
+    "title": "Aquahenosis: a non-pharmacological altered state of consciousness induced by floatation-REST in individuals with anxiety and depression.",
+    "authors": [
+      "Theo Tobel",
+      "Aidan Cone",
+      "Emily Choquette",
+      "McKenna Garland",
+      "Micah A Johnson",
+      "Keller Mink",
+      "Caitlin Lynch",
+      "Joel Frohlich",
+      "Justin S Feinstein",
+      "Nicco Reggente",
+      "Sahib Khalsa"
+    ],
+    "journal": "Neuroscience of consciousness",
+    "year": "2026",
+    "doi": "10.1093/nc/niag044",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [],
+    "keywords": [
+      "Altered States",
+      "Embodiment",
+      "States of Consciousness"
+    ],
+    "topics": [
+      "floatation-therapy"
+    ],
+    "topic_names": [
+      "Floatation Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42657182/"
+  },
+  {
+    "pmid": "42656099",
+    "title": "[A simulation study of photothermal effects in transcranial photobiomodulation].",
+    "authors": [
+      "Xintong Liu",
+      "Jie Xia",
+      "Jiadong Pan",
+      "Shipeng Chen",
+      "Shaomin Zhang",
+      "Minmin Wang",
+      "Shurong Dong"
+    ],
+    "journal": "Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi",
+    "year": "2026",
+    "doi": "10.7507/1001-5515.202512019",
+    "publication_types": [
+      "English Abstract",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Computer Simulation",
+      "Finite Element Analysis",
+      "Brain",
+      "Infrared Rays",
+      "Head"
+    ],
+    "keywords": [
+      "Finite element method",
+      "Neuromodulation",
+      "Simulation model",
+      "Transcranial photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42656099/"
+  },
+  {
+    "pmid": "42652306",
+    "title": "'Find Your Float': A Public Health Approach to Addressing Drowning Inequities in People of African, Caribbean and Asian Heritage: A Cross-Sectional Study.",
+    "authors": [
+      "Heather Massey",
+      "Clare Eglin",
+      "Geoff Long",
+      "Danielle Obe",
+      "Ed Accura",
+      "Seren Jones",
+      "Alice Dearing",
+      "Ruth Williamson",
+      "Shelley Blane",
+      "Ross D Pollock",
+      "Gareth Morrison",
+      "Michael J Tipton"
+    ],
+    "journal": "International journal of environmental research and public health",
+    "year": "2026",
+    "doi": "10.3390/ijerph23080990",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Drowning",
+      "Cross-Sectional Studies",
+      "Female",
+      "Male",
+      "Adult",
+      "Caribbean People",
+      "Bone Density",
+      "Public Health",
+      "Young Adult",
+      "Asian People",
+      "Swimming",
+      "Caribbean Region"
+    ],
+    "keywords": [
+      "aquatic activity",
+      "drowning prevention",
+      "floating",
+      "water immersion",
+      "water safety"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42652306/"
+  },
+  {
+    "pmid": "42644008",
+    "title": "The macrophage polarization-ferroptosis axis as a therapeutically targetable immunometabolic framework in periodontitis.",
+    "authors": [
+      "Zhengrong Li",
+      "Xin Liu",
+      "Jianing Song",
+      "Xiangtao Ma",
+      "Yuning Liu",
+      "Taohong Liu",
+      "Mingxuan Wu"
+    ],
+    "journal": "Frontiers in immunology",
+    "year": "2026",
+    "doi": "10.3389/fimmu.2026.1904152",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Periodontitis",
+      "Macrophages",
+      "Ferroptosis",
+      "Animals",
+      "Macrophage Activation",
+      "Reactive Oxygen Species",
+      "Iron",
+      "Signal Transduction"
+    ],
+    "keywords": [
+      "ferroptosis",
+      "host modulation",
+      "immunometabolism",
+      "iron homeostasis",
+      "macrophage polarization",
+      "oxidative stress",
+      "periodontitis"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42644008/"
+  },
+  {
     "pmid": "42631884",
     "title": "Photobiomodulation therapy and postoperative recovery after abdominoplasty: a non-randomized pilot study.",
     "authors": [
@@ -287,6 +473,44 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42615775/"
   },
   {
+    "pmid": "42613681",
+    "title": "Transcranial Photobiomodulation Variables Assessment Battery: Development and Validation.",
+    "authors": [
+      "Alice Linnea Howis",
+      "Alyssa Igarta",
+      "Will Dixon"
+    ],
+    "journal": "Photobiomodulation, photomedicine, and laser surgery",
+    "year": "2026",
+    "doi": "10.1177/25785478261475285",
+    "publication_types": [
+      "Journal Article",
+      "Validation Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Psychometrics",
+      "Reproducibility of Results",
+      "Sleep Quality",
+      "Skin Pigmentation"
+    ],
+    "keywords": [
+      "research methods",
+      "scale development",
+      "transcranial photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613681/"
+  },
+  {
     "pmid": "42605969",
     "title": "Neuromodulation Techniques in Chronic Cerebral Hypoperfusion: Mechanisms and Therapeutic Advances.",
     "authors": [
@@ -371,6 +595,55 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42586049/"
+  },
+  {
+    "pmid": "42581717",
+    "title": "Systematic Review on the Effectiveness of Photobiomodulation Therapy on Enhancing Musculoskeletal Rehabilitation Outcomes after Total Knee and Hip Arthroplasty.",
+    "authors": [
+      "Hadaya Mosaad Eladl",
+      "Saja Nashmi Alrashedi",
+      "Nesma M Allam",
+      "Dalia Mahmoud Abdelmonem Elsherbini",
+      "Mohamed El-Sherbiny",
+      "Mohamed Mahmoud Abdelfattah Abdelrahman",
+      "Moaz Abulfaraj"
+    ],
+    "journal": "Photobiomodulation, photomedicine, and laser surgery",
+    "year": "2026",
+    "doi": "10.1177/25785478261475529",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Arthroplasty, Replacement, Hip",
+      "Arthroplasty, Replacement, Knee",
+      "Range of Motion, Articular",
+      "Postoperative Pain",
+      "Treatment Outcome",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "keywords": [
+      "functional performance",
+      "hip arthroplasty",
+      "photobiomodulation therapy",
+      "postoperative pain",
+      "total knee arthroplasty"
+    ],
+    "topics": [
+      "exercise-recovery",
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42581717/"
   },
   {
     "pmid": "42577684",
@@ -530,14 +803,14 @@
     ],
     "mesh": [
       "Humans",
-      "Osteoarthritis",
-      "Hot Temperature",
-      "Treatment Outcome",
-      "Randomized Controlled Trials as Topic",
-      "Hand Strength",
-      "Pain Measurement",
       "Hand",
-      "Hyperthermia, Induced"
+      "Hand Strength",
+      "Hot Temperature",
+      "Hyperthermia, Induced",
+      "Osteoarthritis",
+      "Pain Measurement",
+      "Randomized Controlled Trials as Topic",
+      "Treatment Outcome"
     ],
     "keywords": [],
     "topics": [
@@ -600,17 +873,16 @@
     "year": "2026",
     "doi": "10.12968/bjon.2026.0265",
     "publication_types": [
-      "Journal Article",
-      "Review"
+      "Journal Article"
     ],
     "mesh": [
       "Humans",
+      "Chronic Disease",
+      "Diabetic Foot",
+      "Fibrosis",
       "Low-Level Light Therapy",
       "Wound Healing",
-      "Fibrosis",
-      "Diabetic Foot",
-      "Wounds and Injuries",
-      "Chronic Disease"
+      "Wounds and Injuries"
     ],
     "keywords": [
       "chronic wounds",
@@ -985,6 +1257,103 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533686/"
   },
   {
+    "pmid": "42533097",
+    "title": "Cold exposure aggravates vein occlusion through non-shivering thermogenesis-induced thrombocytopoiesis.",
+    "authors": [
+      "Sisi Xie",
+      "Kaihong Chen",
+      "Xiaoting Sun",
+      "Ying Ye",
+      "Ruibo Chen",
+      "Chenyu Jiang",
+      "Mingjia Chen",
+      "Xue Lv",
+      "Huilan Li",
+      "Ying Liao",
+      "Weihua Chen",
+      "Lin Deng"
+    ],
+    "journal": "Cell research",
+    "year": "2026",
+    "doi": "10.1038/s41422-026-01280-2",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "Thermogenesis",
+      "Humans",
+      "Cold Temperature",
+      "Thrombopoiesis",
+      "Mice",
+      "Male",
+      "Acyltransferases",
+      "Carnitine O-Palmitoyltransferase",
+      "Lipase",
+      "Sirtuin 1",
+      "Mice, Inbred C57BL",
+      "Venous Thrombosis",
+      "Fatty Acids, Nonesterified",
+      "Megakaryocytes",
+      "Mice, Knockout",
+      "Blood Platelets",
+      "Disease Models, Animal"
+    ],
+    "keywords": [],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533097/"
+  },
+  {
+    "pmid": "42532024",
+    "title": "Beyond hypothermia: mechanisms of death, rescue, and prevention in cold water immersion.",
+    "authors": [
+      "Laura Leuci",
+      "Jørgen Melau",
+      "Antonio Messina",
+      "Mike Tipton",
+      "Luca Carenzo"
+    ],
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "year": "2026",
+    "doi": "10.1152/japplphysiol.00578.2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Cold Temperature",
+      "Immersion",
+      "Hypothermia",
+      "Drowning",
+      "Animals",
+      "Swimming"
+    ],
+    "keywords": [
+      "autonomic conflict",
+      "cold shock response",
+      "cold water immersion",
+      "drowning",
+      "hypothermia"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42532024/"
+  },
+  {
     "pmid": "42531218",
     "title": "Seven days of warm water immersion modulate baseline fluid-regulatory hormones without altering acute multisystem physiological stress responses in older males.",
     "authors": [
@@ -1139,6 +1508,50 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42522776/"
+  },
+  {
+    "pmid": "42520746",
+    "title": "Silica-containing products at autopsy: An uncommon incidental finding.",
+    "authors": [
+      "Hunter Koster",
+      "David Waters",
+      "Lorenzo Gitto"
+    ],
+    "journal": "Journal of forensic and legal medicine",
+    "year": "2026",
+    "doi": "10.1016/j.jflm.2026.103222",
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Middle Aged",
+      "Female",
+      "Male",
+      "Adult",
+      "Silicon Dioxide",
+      "Incidental Findings",
+      "Stomach",
+      "Esophagus",
+      "Body Packing"
+    ],
+    "keywords": [
+      "Autopsy",
+      "Desiccant",
+      "Forensic pathology",
+      "Silica",
+      "Toxicology"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42520746/"
   },
   {
     "pmid": "42519263",
@@ -1684,17 +2097,16 @@
     "doi": "10.1016/j.resuscitation.2026.111221",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "mesh": [
-      "Out-of-Hospital Cardiac Arrest",
       "Humans",
+      "Cardiopulmonary Resuscitation",
       "Emergency Medical Services",
-      "Incidence",
       "Extreme Heat",
       "Hot Temperature",
-      "Cardiopulmonary Resuscitation"
+      "Incidence",
+      "Out-of-Hospital Cardiac Arrest"
     ],
     "keywords": [
       "Climate change",
@@ -2137,6 +2549,51 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42458386/"
   },
   {
+    "pmid": "42456438",
+    "title": "Effectiveness of photobiomodulation for pain management and wound healing in the immediate postoperative period after cesarean section: A systematic review.",
+    "authors": [
+      "Alessandra Boaviagem",
+      "Jose Carlos Nóbrega Júnior",
+      "Rita de Cassia Barros da Silva",
+      "Andréa Lemos"
+    ],
+    "journal": "Complementary therapies in medicine",
+    "year": "2026",
+    "doi": "10.1016/j.ctim.2026.103403",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Wound Healing",
+      "Low-Level Light Therapy",
+      "Cesarean Section",
+      "Postoperative Pain",
+      "Female",
+      "Pain Management",
+      "Pregnancy",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "keywords": [
+      "Cesarean Section",
+      "Low-Level Light Therapy",
+      "Photobiomodulation",
+      "Postoperative Pain",
+      "Wound Healing"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42456438/"
+  },
+  {
     "pmid": "42456425",
     "title": "Cold exposure and glaucoma with intraocular pressure dysregulation in population and experimental studies.",
     "authors": [
@@ -2200,15 +2657,15 @@
       "Randomized Controlled Trial"
     ],
     "mesh": [
-      "Humans",
+      "Adult",
       "Female",
+      "Humans",
+      "Young Adult",
       "Dysphonia",
       "Low-Level Light Therapy",
-      "Voice Quality",
       "Phonation",
-      "Adult",
       "Treatment Outcome",
-      "Young Adult"
+      "Voice Quality"
     ],
     "keywords": [],
     "topics": [
@@ -6997,7 +7454,8 @@
     "doi": "10.1177/13872877261453911",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -7666,58 +8124,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42177497/"
   },
   {
-    "pmid": "42174255",
-    "title": "Acute effect of photobiomodulation therapy in quadriceps strength, fatigue and pain of patients with chronic kidney failure: a randomized, double-blind, placebo controlled crossover clinical trial.",
-    "authors": [
-      "Ana Paula Oliveira Barbosa",
-      "Lidiane Martins Santos",
-      "Amanda Marques Catelli",
-      "Degiane Rocha da Rosa",
-      "João Carlos Goldani",
-      "Graciele Sbruzzi Graciele Sbruzzi",
-      "Rodrigo Della Mea Plentz",
-      "Jociane Schardong"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04886-5",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Double-Blind Method",
-      "Low-Level Light Therapy",
-      "Quadriceps Muscle",
-      "Female",
-      "Middle Aged",
-      "Muscle Strength",
-      "Male",
-      "Cross-Over Studies",
-      "Kidney Failure, Chronic",
-      "Muscle Fatigue",
-      "Adult",
-      "Aged"
-    ],
-    "keywords": [
-      "Kidney failure, chronic",
-      "Low-level light therapy",
-      "Phototherapy",
-      "Randomized controlled trial",
-      "Renal dialysis"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42174255/"
-  },
-  {
     "pmid": "42173984",
     "title": "LSTM-based safety-oriented prediction of big toe skin temperature in extreme cold conditions for mountaineering footwear evaluation.",
     "authors": [
@@ -7797,12 +8203,10 @@
     ],
     "keywords": [],
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "design_class": "b",
     "design_label": "Randomized controlled trial",
@@ -7910,107 +8314,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42162824/"
   },
   {
-    "pmid": "42162158",
-    "title": "Tear biomarker changes and ocular surface recovery with low-level light therapy after cataract surgery: a double-masked randomized controlled clinical trial.",
-    "authors": [
-      "Mihaela-Madalina Timofte-Zorila",
-      "Mariana Pavel-Tanasa",
-      "Giuseppe Giannaccare",
-      "Nicoleta Vlas",
-      "Filippo Lixi",
-      "Mario Troisi",
-      "Daniela Constantinescu",
-      "Radu Tanasa",
-      "Diana Alecu",
-      "Sabina Turcas",
-      "Sinziana Istrate",
-      "Daciana Elena Branisteanu"
-    ],
-    "journal": "Scientific reports",
-    "year": "2026",
-    "doi": "10.1038/s41598-026-53521-4",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Biomarkers",
-      "Tears",
-      "Cataract Extraction",
-      "Male",
-      "Dry Eye Syndromes",
-      "Female",
-      "Double-Blind Method",
-      "Aged",
-      "Middle Aged"
-    ],
-    "keywords": [
-      "Cataract surgery",
-      "Dry eye disease",
-      "GDF-15",
-      "Low-level light therapy",
-      "OPN",
-      "OSDI",
-      "PDGF-CC",
-      "Schirmer test",
-      "TBUT",
-      "β-NGF"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42162158/"
-  },
-  {
-    "pmid": "42159819",
-    "title": "Photobiomodulation-induced Differentiation of Adipose-derived Stem Cells into Neuronal Organoid-like Structures.",
-    "authors": [
-      "Precious Earldom Mulaudzi",
-      "Heidi Abrahamse",
-      "Anine Crous"
-    ],
-    "journal": "Molecular neurobiology",
-    "year": "2026",
-    "doi": "10.1007/s12035-026-05903-y",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Cell Differentiation",
-      "Organoids",
-      "Neurons",
-      "Adipose Tissue",
-      "Mesenchymal Stem Cells",
-      "Cell Survival",
-      "Membrane Potential, Mitochondrial",
-      "Humans",
-      "Mitochondria",
-      "Stem Cells",
-      "Animals"
-    ],
-    "keywords": [
-      "Cell differentiation",
-      "Neural organoids",
-      "Photobiomodulation",
-      "Stem cells"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42159819/"
-  },
-  {
     "pmid": "42156320",
     "title": "Far infrared therapy improves the vascular function of lower extremities in hemodialysis patients.",
     "authors": [
@@ -8035,57 +8338,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42156320/"
-  },
-  {
-    "pmid": "42154309",
-    "title": "Comparative clinical effects of extraoral photobiomodulation using laser and LED on pain, swelling, and quality of life following impacted mandibular third molar surgery: a randomized split-mouth trial.",
-    "authors": [
-      "Duygu Albayrak",
-      "Emel Bulut",
-      "Emine Asena Singer"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-025-04796-y",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Comparative Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Molar, Third",
-      "Quality of Life",
-      "Tooth, Impacted",
-      "Postoperative Pain",
-      "Female",
-      "Male",
-      "Adult",
-      "Edema",
-      "Young Adult",
-      "Lasers, Semiconductor",
-      "Pain Measurement",
-      "Mandible",
-      "Treatment Outcome",
-      "Adolescent"
-    ],
-    "keywords": [
-      "Low level laser therapy",
-      "Pain",
-      "Photobiomodulation",
-      "Quality of life",
-      "Third molar"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42154309/"
   },
   {
     "pmid": "42150453",
@@ -17275,52 +17527,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41206219/"
   },
   {
-    "pmid": "41201984",
-    "title": "FGF21 Promotes Thermogenesis by Browning Thermogenic Adipose Tissue during Cold Exposure.",
-    "authors": [
-      "Chen-Xi Li",
-      "Chuan-Fei Tan",
-      "Qi-Min Zhang",
-      "Liu-Guang Qin",
-      "Chun-Yu Cao",
-      "Xiao-Fei Huang"
-    ],
-    "journal": "Annals of nutrition & metabolism",
-    "year": "2026",
-    "doi": "10.1159/000548868",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Fibroblast Growth Factors",
-      "Thermogenesis",
-      "Humans",
-      "Adipose Tissue, Brown",
-      "Cold Temperature",
-      "Animals",
-      "Signal Transduction",
-      "Energy Metabolism",
-      "Klotho Proteins"
-    ],
-    "keywords": [
-      "Adipose tissue browning",
-      "Fibroblast growth factor 21",
-      "Mitochondrial dysfunction",
-      "Non-shivering thermogenesis",
-      "Obesity therapeutics"
-    ],
-    "topics": [
-      "cold-water-immersion"
-    ],
-    "topic_names": [
-      "Cold-Water Immersion"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41201984/"
-  },
-  {
     "pmid": "41190614",
     "title": "Optimization of photobiomodulation therapy for spinal cord injury: A review.",
     "authors": [
@@ -17360,58 +17566,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41190614/"
-  },
-  {
-    "pmid": "41176877",
-    "title": "Extreme temperature and preterm birth: Time windows and geographical disparities.",
-    "authors": [
-      "Meng-Wei Ge",
-      "Wei Du",
-      "Lu-Ting Shen",
-      "Ur-Rehman Attiq",
-      "Wei Li",
-      "Xi-Yuan Peng",
-      "Li Shi",
-      "Juan Miao",
-      "Rui Feng",
-      "Kang Zhong",
-      "Si-Qi Gao",
-      "Hong-Lin Chen"
-    ],
-    "journal": "Early human development",
-    "year": "2026",
-    "doi": "10.1016/j.earlhumdev.2025.106426",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Premature Birth",
-      "Humans",
-      "Female",
-      "Pregnancy",
-      "Infant, Newborn",
-      "Cold Temperature",
-      "Extreme Heat",
-      "Hot Temperature"
-    ],
-    "keywords": [
-      "Cold",
-      "Heat",
-      "Meta-analysis",
-      "Preterm birth",
-      "Temperature"
-    ],
-    "topics": [
-      "cold-water-immersion"
-    ],
-    "topic_names": [
-      "Cold-Water Immersion"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41176877/"
   },
   {
     "pmid": "41175351",
@@ -17498,64 +17652,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174914/"
-  },
-  {
-    "pmid": "41173363",
-    "title": "Cold exposure induces the constitutively active thermogenic receptor, GPR3, via ERRα and ERRγ.",
-    "authors": [
-      "Olivia Sveidahl Johansen",
-      "Rebecca L McIntyre",
-      "Janane F Rahbani",
-      "Qiaoqiao Zhang",
-      "Charlotte Scholtes",
-      "Damien Marc Lagarde",
-      "Cyrielle Billon",
-      "Isabelle Côté",
-      "Maria Delgado-Martin",
-      "David Tandio",
-      "Astrid Linde Basse",
-      "Elodie Eury"
-    ],
-    "journal": "Molecular metabolism",
-    "year": "2026",
-    "doi": "10.1016/j.molmet.2025.102277",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Animals",
-      "Receptors, Estrogen",
-      "Receptors, G-Protein-Coupled",
-      "Mice",
-      "ERRalpha Estrogen-Related Receptor",
-      "Thermogenesis",
-      "Cold Temperature",
-      "Mice, Knockout",
-      "Humans",
-      "Energy Metabolism",
-      "Mice, Inbred C57BL",
-      "Male",
-      "Adipocytes",
-      "Promoter Regions, Genetic"
-    ],
-    "keywords": [
-      "ERRα",
-      "ERRγ",
-      "G protein-coupled receptors",
-      "GPR3",
-      "Thermogenesis",
-      "Transcriptional regulation",
-      "brown adipose tissue"
-    ],
-    "topics": [
-      "cold-water-immersion"
-    ],
-    "topic_names": [
-      "Cold-Water Immersion"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41173363/"
   },
   {
     "pmid": "41171380",
@@ -18062,54 +18158,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41062078/"
-  },
-  {
-    "pmid": "41045792",
-    "title": "Using ice packing and the polar life pod to treat severe hyperthermia.",
-    "authors": [
-      "Kevin C Miller",
-      "Jessie L Beck",
-      "Sofia G Valadez",
-      "Rachel M Koldenhoven",
-      "Nancy A Uriegas",
-      "Erin M Lally"
-    ],
-    "journal": "The American journal of emergency medicine",
-    "year": "2026",
-    "doi": "10.1016/j.ajem.2025.09.038",
-    "publication_types": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Male",
-      "Female",
-      "Ice",
-      "Young Adult",
-      "Adult",
-      "Cryotherapy",
-      "Hyperthermia",
-      "Heat Stroke",
-      "Immersion",
-      "Body Temperature"
-    ],
-    "keywords": [
-      "Body bag",
-      "Cooling bag",
-      "Exertional heat stroke",
-      "Portability",
-      "Rectal temperature"
-    ],
-    "topics": [
-      "cold-water-immersion"
-    ],
-    "topic_names": [
-      "Cold-Water Immersion"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41045792/"
   },
   {
     "pmid": "40995827",
@@ -22769,7 +22817,8 @@
     "year": "2025",
     "doi": "10.1098/rsif.2025.0407",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -36116,54 +36165,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37398966/"
-  },
-  {
-    "pmid": "37393218",
-    "title": "Energetic responses of head-out water immersion at different temperatures during post-exercise recovery and its consequence on anaerobic mechanical power.",
-    "authors": [
-      "Marcelo Coertjens",
-      "Patricia Chaves Coertjens",
-      "Marcus Peikriszwili Tartaruga",
-      "Tatiane Gorski",
-      "Adriano Eduardo Lima-Silva",
-      "Lorival José Carminatti",
-      "Paulo Otto Beyer",
-      "Ana Paula Viola de Almeida",
-      "Jeam Marcel Geremia",
-      "Leonardo Alexandre Peyré-Tartaruga",
-      "Luiz Fernando Martins Kruel"
-    ],
-    "journal": "European journal of applied physiology",
-    "year": "2023",
-    "doi": "10.1007/s00421-023-05265-6",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Water",
-      "Temperature",
-      "Cold Temperature",
-      "Anaerobiosis",
-      "Immersion",
-      "Lactates"
-    ],
-    "keywords": [
-      "Athletic performance",
-      "Exercise recovery",
-      "Lactate",
-      "Oxygen consumption",
-      "Temperature"
-    ],
-    "topics": [
-      "exercise-recovery"
-    ],
-    "topic_names": [
-      "Exercise Recovery"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37393218/"
   },
   {
     "pmid": "37333146",
