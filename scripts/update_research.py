@@ -122,6 +122,56 @@ def classify(pub_types: list[str], mesh: list[str]) -> tuple[str, str]:
     return DESIGNS[4]
 
 
+
+
+def _blob(parts) -> str:
+    return " ".join(str(x or "") for x in parts).lower().replace("–", "-").replace("—", "-")
+
+def topic_matches_record(rec: dict, slug: str) -> bool:
+    """Conservative post-filter to prevent broad API search terms from creating obvious topic false positives.
+
+    Search queries remain the first filter; this second pass only keeps a topic membership when
+    the intervention is visible in title/keywords/MeSH metadata. It intentionally favors precision.
+    """
+    text=_blob([rec.get("title"), *(rec.get("keywords") or []), *(rec.get("mesh") or [])])
+    rules={
+        "sauna-heat-therapy": ["sauna", "passive heating", "passive heat", "hot water immersion", "hot-water immersion"],
+        "infrared-sauna": ["infrared sauna", "far infrared sauna", "far-infrared sauna", "waon therapy", "waon"],
+        "cold-water-immersion": ["cold water immersion", "cold-water immersion", "cold-water immersion", "ice bath", "cold plunge"],
+        "contrast-therapy": ["contrast water", "contrast bath", "contrast therapy", "contrast bathing", "hot cold immersion", "hot-cold immersion"],
+        "photobiomodulation": ["photobiomodulation", "red light therapy", "low-level light therapy", "low level light therapy"],
+        "floatation-therapy": ["floatation", "flotation", "restricted environmental stimulation"],
+        "massage-therapy": ["massage therapy", "massage"],
+    }
+    if slug in rules:
+        return any(term in text for term in rules[slug])
+    if slug=="sleep-and-passive-heating":
+        return "sleep" in text and any(term in text for term in ["sauna","passive heating","hot bath","warm bath","hot water immersion"])
+    if slug=="exercise-recovery":
+        intervention=any(term in text for term in ["sauna","cold water immersion","cold-water immersion","photobiomodulation","red light therapy","low-level light therapy"])
+        exercise=any(term in text for term in ["exercise","athlete","athletic","sport","muscle soreness","physical performance"])
+        return intervention and exercise
+    return True
+
+def topic_matches_trial(rec: dict, slug: str) -> bool:
+    text=_blob([rec.get("title"), *(rec.get("conditions") or []), *(x.get("name","") for x in (rec.get("interventions") or []))])
+    rules={
+        "sauna-heat-therapy": ["sauna", "passive heating", "hot water immersion", "hot-water immersion"],
+        "infrared-sauna": ["infrared sauna", "far infrared sauna", "far-infrared sauna", "waon"],
+        "cold-water-immersion": ["cold water immersion", "cold-water immersion", "ice bath", "cold plunge"],
+        "contrast-therapy": ["contrast water", "contrast bath", "contrast therapy", "hot-cold", "hot cold"],
+        "photobiomodulation": ["photobiomodulation", "red light", "low-level light", "low level light"],
+        "floatation-therapy": ["floatation", "flotation", "restricted environmental stimulation"],
+        "massage-therapy": ["massage"],
+    }
+    if slug in rules:
+        return any(term in text for term in rules[slug])
+    if slug=="sleep-and-passive-heating":
+        return "sleep" in text and any(term in text for term in ["sauna","passive heating","hot bath","warm bath","hot water immersion"])
+    if slug=="exercise-recovery":
+        intervention=any(term in text for term in ["sauna","cold water immersion","cold-water immersion","photobiomodulation","red light"]); exercise=any(term in text for term in ["exercise","athlete","sport","recovery","muscle soreness"]); return intervention and exercise
+    return True
+
 def parse_pubmed_article(article, topic_slugs: list[str], topic_name_map: dict[str, str]) -> dict | None:
     citation = article.find("./MedlineCitation")
     if citation is None:
@@ -193,8 +243,14 @@ def fetch_pubmed(topics: list[dict], retmax: int = 140) -> list[dict]:
             root = ET.fromstring(request_bytes(url))
             for art in root.findall("./PubmedArticle"):
                 pmid = text_of(art.find("./MedlineCitation/PMID"))
-                rec = parse_pubmed_article(art, list(pmid_topics.get(pmid, [])), topic_name_map)
+                candidates=list(pmid_topics.get(pmid, []))
+                rec = parse_pubmed_article(art, candidates, topic_name_map)
                 if rec:
+                    valid=[slug for slug in candidates if topic_matches_record(rec,slug)]
+                    if not valid:
+                        continue
+                    rec["topics"]=sorted(valid)
+                    rec["topic_names"]=[topic_name_map[x] for x in sorted(valid) if x in topic_name_map]
                     records.append(rec)
             time.sleep(0.12 if NCBI_KEY else 0.38)
         except Exception as exc:
@@ -274,7 +330,13 @@ def fetch_trials(topics: list[dict]) -> list[dict]:
     out=[]
     for nct, study in raw.items():
         rec=parse_trial(study,memberships[nct],name_map)
-        if rec: out.append(rec)
+        if rec:
+            valid=[slug for slug in memberships[nct] if topic_matches_trial(rec,slug)]
+            if not valid:
+                continue
+            rec["topics"]=sorted(valid)
+            rec["topic_names"]=[name_map[x] for x in sorted(valid) if x in name_map]
+            out.append(rec)
     def trial_sort(t):
         active = t.get("status") in {"RECRUITING","NOT_YET_RECRUITING","ACTIVE_NOT_RECRUITING","ENROLLING_BY_INVITATION"}
         return (1 if active else 0, t.get("last_update", ""), t.get("nct_id", ""))
@@ -291,10 +353,10 @@ def esc(v): return html.escape(str(v or ""), quote=True)
 
 
 def shell(title: str, desc: str, canonical: str, body: str) -> str:
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}"><link rel="stylesheet" href="/assets/site.css"></head><body>
-<header class="site-header"><div class="wrap header-inner"><a class="brand" href="/"><span class="brand-mark">HRD</span><span>Health Research Database<small>Evidence index · updated automatically</small></span></a><nav><a href="/latest/">Latest</a><a href="/trials/">Clinical trials</a><a href="/evidence/">Study designs</a><a href="/methodology/">Methodology</a><a class="nav-cta" href="/">Search</a></nav></div></header>
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:type" content="article"><meta property="og:url" content="{esc(canonical)}"><meta property="og:image" content="https://healthresearchdatabase.com/assets/og-home.png"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="/assets/site.css"><script defer src="/assets/app.js"></script></head><body>
+<header class="site-header"><div class="wrap header-inner"><a class="brand" href="/"><span class="brand-mark"><span>H</span><i></i><span>R</span></span><span class="brand-copy">Health Research Database<small>Research made usable</small></span></a><nav><a href="/#research-questions">Evidence</a><a href="/latest/">Research pulse</a><a href="/trials/">Trials</a><a href="/methodology/">Methodology</a><a class="nav-cta" href="/healthspan/">Take the test</a></nav></div></header>
 <main>{body}</main>
-<footer><div class="wrap footer-grid"><div><a class="brand" href="/"><span class="brand-mark">HRD</span><span>Health Research Database</span></a><p>Research indexing and discovery. Not medical advice.</p></div><div><h4>Research</h4><a href="/latest/">Latest records</a><a href="/trials/">Clinical trials</a><a href="/evidence/">Study designs</a></div><div><h4>About</h4><a href="/methodology/">Methodology</a><a href="/data-download/">Download data</a></div></div></footer></body></html>'''
+<footer><div class="wrap footer-grid footer-grid-new"><div><a class="brand" href="/"><span class="brand-mark"><span>H</span><i></i><span>R</span></span><span class="brand-copy">Health Research Database</span></a><p>Research indexing, evidence discovery and consumer research tools. Not medical advice or a diagnosis.</p></div><div><h4>Explore</h4><a href="/healthspan/">Healthspan Habits Test</a><a href="/latest/">Research pulse</a><a href="/trials/">Clinical trials</a></div><div><h4>Research</h4><a href="/evidence/">Study designs</a><a href="/methodology/">Methodology</a><a href="/data-download/">Download data</a></div><div><h4>Topics</h4><a href="/topics/sauna-heat-therapy/">Sauna & heat</a><a href="/topics/cold-water-immersion/">Cold water</a><a href="/topics/photobiomodulation/">Red light</a></div></div></footer></body></html>'''
 
 
 def badge(rec: dict) -> str:
@@ -309,18 +371,21 @@ def paper_row(s: dict) -> str:
 def topic_page(topic: dict, studies: list[dict], trials: list[dict], stats: dict) -> str:
     slug=topic["slug"]; ts=[s for s in studies if slug in s.get("topics",[])]; tt=[t for t in trials if slug in t.get("topics",[])]
     counts=Counter(s.get("design_class","e") for s in ts)
-    maxv=max(counts.values()) if counts else 1
     mix=''.join(f'<div class="kv"><span>{esc(label)}</span><strong>{counts.get(cls,0)}</strong></div>' for cls,label in DESIGNS)
-    latest=''.join(paper_row(s) for s in ts[:30]) or '<div class="empty">No publication records were returned for this topic in the latest refresh.</div>'
-    trial_rows=''.join(f'<tr><td><a href="/trials/{esc(t["nct_id"])}/"><strong>{esc(t["title"])}</strong></a><br><small>{esc(t["nct_id"])}</small></td><td>{esc((t.get("status") or "").replace("_"," "))}</td><td>{esc(t.get("enrollment") or "—")}</td><td>{esc(t.get("last_update") or "—")}</td></tr>' for t in tt[:20]) or '<tr><td colspan="4">No matching ClinicalTrials.gov records in the current index.</td></tr>'
+    latest=''.join(paper_row(s) for s in ts[:30]) or '<div class="empty">The research refresh has not populated this topic yet.</div>'
+    trial_rows=''.join(f'<tr><td><a href="/trials/{esc(t["nct_id"])}/"><strong>{esc(t["title"])}</strong></a><br><small>{esc(t["nct_id"])}</small></td><td>{esc((t.get("status") or "").replace("_"," "))}</td><td>{esc(t.get("enrollment") or "—")}</td><td>{esc(t.get("last_update") or "—")}</td></tr>' for t in tt[:20]) or '<tr><td colspan="4">No matching ClinicalTrials.gov records are in the current index.</td></tr>'
+    depth=min(100,int(len(ts)*0.4 + counts.get("a",0)*2 + counts.get("b",0)))
+    depth_label="Broad" if depth>=80 else "Active" if depth>=50 else "Growing" if depth>=25 else "Limited"
     commerce=''
     if slug in COMMERCE:
         label,url=COMMERCE[slug]
-        commerce=f'<aside class="detail-card"><div class="eyebrow">Consumer context</div><h3>Research first, products second.</h3><p>This database separates research indexing from shopping. For readers looking for home wellness equipment related to this topic:</p><a class="button secondary" rel="sponsored" href="{esc(url)}">{esc(label)} at InHouse Wellness</a></aside>'
-    body=f'''<section class="page-hero"><div class="wrap"><div class="breadcrumb"><a href="/">Home</a> / Topics / {esc(topic['name'])}</div><div class="eyebrow">Research topic</div><h1>{esc(topic['name'])}</h1><p class="lede">{esc(topic['short'])}</p></div></section>
-<section class="section"><div class="wrap detail-grid"><div class="detail-card"><div class="eyebrow">Current index</div><h2>{len(ts)} publications · {len(tt)} trials</h2><p>Records can overlap with other topics. Counts describe what the current search strategy indexes; they do not measure clinical certainty.</p><h3>Study-design mix</h3>{mix}</div>{commerce or '<aside class="detail-card"><h3>How to read this page</h3><p>Open individual records for publication types and source links. The design label is descriptive, not a quality grade.</p><a class="button secondary" href="/evidence/">Study design guide</a></aside>'}</div></section>
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Publications</div><h2>Latest indexed papers</h2></div><p>Metadata is sourced from PubMed. Full abstracts and article text are not republished here.</p></div><div class="paper-list">{latest}</div></div></section>
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Research radar</div><h2>ClinicalTrials.gov records</h2></div></div><div class="table-wrap"><table><thead><tr><th>Study</th><th>Status</th><th>Enrollment</th><th>Updated</th></tr></thead><tbody>{trial_rows}</tbody></table></div></div></section>'''
+        commerce=f'<aside class="topic-share-card"><div class="eyebrow light">Consumer context</div><h3>Research first, products second.</h3><p>Shopping links are separated from the research index. If you are exploring equipment related to this topic:</p><a class="button button-light" rel="sponsored" href="{esc(url)}">{esc(label)}</a></aside>'
+    else:
+        commerce='<aside class="topic-share-card"><div class="eyebrow light">Share the source layer</div><h3>Send the research, not just the headline.</h3><p>Share this topic page so the recipient can inspect the study mix and primary-source records.</p><button class="button button-light" type="button" data-topic-share data-share-text="Explore the research on '+esc(topic['name'])+'">Share this topic</button></aside>'
+    body=f'''<section class="page-hero"><div class="wrap"><div class="breadcrumb"><a href="/">Home</a> / Topics / {esc(topic['name'])}</div><div class="eyebrow">Research topic</div><h1>{esc(topic['name'])}</h1><p class="lede">{esc(topic['short'])}</p><div class="topic-hero-actions"><button class="share-topic" type="button" data-topic-share data-share-text="Explore the research on {esc(topic['name'])}">Share topic ↗</button><a class="share-topic" href="/healthspan/">Take the 2-minute habits test →</a></div></div></section>
+<section class="section"><div class="wrap detail-grid"><div class="detail-card"><div class="eyebrow">Current index</div><h2>{len(ts)} publications · {len(tt)} trials</h2><p>Records can overlap with other topics. Counts describe what the search strategy indexes; they do not measure clinical certainty or whether an intervention works.</p><div class="research-depth"><div class="depth-head"><span>Research depth</span><strong>{depth_label}</strong></div><div class="depth-track"><i style="--depth:{depth}%"></i></div><div class="depth-note">Volume + study-design diversity only. This is not an efficacy grade.</div></div><h3>Study-design mix</h3>{mix}</div>{commerce}</div></section>
+<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Publications</div><h2>Recently indexed papers</h2></div><p>Metadata is sourced from PubMed. Full abstracts and article text are not republished here.</p></div><div class="paper-list">{latest}</div></div></section>
+<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Research radar</div><h2>ClinicalTrials.gov records</h2></div><p>A registered protocol is not a positive result. Confirm current status at ClinicalTrials.gov.</p></div><div class="table-wrap"><table><thead><tr><th>Study</th><th>Status</th><th>Enrollment</th><th>Updated</th></tr></thead><tbody>{trial_rows}</tbody></table></div></div></section>'''
     return shell(f"{topic['name']} Research | Health Research Database", topic["short"], f"https://healthresearchdatabase.com/topics/{slug}/", body)
 
 
@@ -385,7 +450,8 @@ def generate(topics: list[dict], studies: list[dict], trials: list[dict]):
         d=studies_dir/s["pmid"];d.mkdir(parents=True,exist_ok=True);(d/"index.html").write_text(study_page(s),encoding="utf-8")
     for t in trials:
         d=trials_dir/t["nct_id"];d.mkdir(parents=True,exist_ok=True);(d/"index.html").write_text(trial_page(t),encoding="utf-8")
-    urls=["/","/latest/","/trials/","/evidence/","/methodology/","/data-download/"]
+    urls=["/","/healthspan/","/latest/","/trials/","/evidence/","/methodology/","/data-download/"]
+    urls += [f"/score/{i}/" for i in range(101)]
     urls += [f"/topics/{t['slug']}/" for t in topics]
     urls += [f"/studies/{s['pmid']}/" for s in studies]
     urls += [f"/trials/{t['nct_id']}/" for t in trials]
