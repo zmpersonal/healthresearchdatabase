@@ -1,33 +1,222 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Health Research Database | Search the Wellness Evidence</title>
-<meta name="description" content="A continuously updated research index for sauna, cold-water immersion, red light, floatation, massage and recovery. PubMed publications and ClinicalTrials.gov studies, organized by topic and study design.">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Health Research Database | What Does the Research Actually Say?</title>
+<meta name="description" content="Explore health and wellness research from PubMed and ClinicalTrials.gov, test how your daily habits align with widely supported health guidance, and challenge a friend.">
 <link rel="canonical" href="https://healthresearchdatabase.com/">
-<meta property="og:title" content="Health Research Database"><meta property="og:description" content="Search the evidence. See the study design. Follow the source."><meta property="og:type" content="website"><meta property="og:url" content="https://healthresearchdatabase.com/">
-<link rel="stylesheet" href="/assets/site.css"><script defer src="/assets/app.js"></script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Health Research Database","url":"https://healthresearchdatabase.com/","description":"A continuously updated index of wellness research from PubMed and ClinicalTrials.gov."}</script>
+<meta property="og:title" content="What does the health research actually say?">
+<meta property="og:description" content="Search the evidence, explore research trends, and take the 2-minute Healthspan Habits Score.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://healthresearchdatabase.com/">
+<meta property="og:image" content="https://healthresearchdatabase.com/assets/og-home.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0f2026">
+<link rel="stylesheet" href="/assets/site.css">
+<script defer src="/assets/app.js"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Health Research Database","url":"https://healthresearchdatabase.com/","description":"A continuously updated wellness research index plus consumer research tools powered by PubMed and ClinicalTrials.gov.","potentialAction":{"@type":"SearchAction","target":"https://healthresearchdatabase.com/?q={search_term_string}#research-search-section","query-input":"required name=search_term_string"}}</script>
 </head>
-<body>
-<header class="site-header"><div class="wrap header-inner"><a class="brand" href="/"><span class="brand-mark">HRD</span><span>Health Research Database<small>Evidence index · updated automatically</small></span></a><nav><a href="/latest/">Latest</a><a href="/trials/">Clinical trials</a><a href="/evidence/">Study designs</a><a href="/methodology/">Methodology</a><a class="nav-cta" href="#search">Search research</a></nav></div></header>
+<body class="home-page">
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" aria-label="Health Research Database home">
+      <span class="brand-mark" aria-hidden="true"><span>H</span><i></i><span>R</span></span>
+      <span class="brand-copy">Health Research Database<small>Research made usable</small></span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="/#research-questions">Evidence</a>
+      <a href="/latest/">Research pulse</a>
+      <a href="/trials/">Trials</a>
+      <a href="/methodology/">Methodology</a>
+      <a class="nav-cta" href="/healthspan/">Take the 2-minute test</a>
+    </nav>
+  </div>
+</header>
+
 <main>
-<section class="hero"><div class="wrap hero-grid"><div><div class="eyebrow">PubMed + ClinicalTrials.gov</div><h1>The wellness evidence index.</h1><p class="lede">Search publications and active clinical research on sauna, heat therapy, cold-water immersion, red light, floatation, massage and recovery—without turning every paper into a health claim.</p><form class="search-shell" id="search"><input id="research-search" type="search" placeholder="Try “blood pressure”, “cold water”, “sleep”…" aria-label="Search indexed research"><button type="submit">Search</button></form><div id="search-results" style="margin-top:18px"></div></div><aside class="index-card"><div class="eyebrow">Research index</div><div class="big" data-stat="studies">0</div><p>publication records currently indexed across <strong data-stat="topics">9</strong> wellness topics.</p><hr style="border:0;border-top:1px solid var(--line);margin:20px 0"><p><strong data-stat="trials">0</strong> ClinicalTrials.gov records · <strong data-stat="active-trials">0</strong> active/recruiting.</p><p style="font-size:12px">Last refresh: <span data-stat="updated">Pending first refresh</span></p></aside></div></section>
-<div class="wrap stats-strip"><div class="stat"><b data-stat="studies">0</b><span>PubMed records</span></div><div class="stat"><b data-stat="trials">0</b><span>Clinical trial records</span></div><div class="stat"><b data-stat="topics">9</b><span>Research topics</span></div><div class="stat"><b>2×</b><span>Automatic refresh / week</span></div></div>
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Evidence map</div><h2>Research by intervention</h2></div><p>Each topic page shows the mix of publication types rather than pretending a paper count is the same thing as proof.</p></div><div class="topic-grid">
-<a class="topic-card" href="/topics/sauna-heat-therapy/"><span class="num">01</span><h3>Sauna & Heat Therapy</h3><p>Sauna bathing, passive heating and human heat-therapy studies.</p><div class="counts" data-topic-count="sauna-heat-therapy">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/infrared-sauna/"><span class="num">02</span><h3>Infrared Sauna</h3><p>Infrared sauna and far-infrared interventions indexed separately from general sauna research.</p><div class="counts" data-topic-count="infrared-sauna">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/cold-water-immersion/"><span class="num">03</span><h3>Cold-Water Immersion</h3><p>Cold exposure, immersion protocols, exercise recovery and related outcomes.</p><div class="counts" data-topic-count="cold-water-immersion">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/contrast-therapy/"><span class="num">04</span><h3>Contrast Therapy</h3><p>Alternating hot/cold exposure, contrast baths and contrast water therapy.</p><div class="counts" data-topic-count="contrast-therapy">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/photobiomodulation/"><span class="num">05</span><h3>Photobiomodulation</h3><p>Red light, low-level light therapy and photobiomodulation research.</p><div class="counts" data-topic-count="photobiomodulation">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/floatation-therapy/"><span class="num">06</span><h3>Floatation Therapy</h3><p>Floatation-REST, reduced environmental stimulation and related studies.</p><div class="counts" data-topic-count="floatation-therapy">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/massage-therapy/"><span class="num">07</span><h3>Massage Therapy</h3><p>Human massage-therapy research across recovery, pain and stress outcomes.</p><div class="counts" data-topic-count="massage-therapy">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/sleep-and-passive-heating/"><span class="num">08</span><h3>Sleep & Passive Heating</h3><p>Sauna, warm bathing, passive heat and sleep-related outcomes.</p><div class="counts" data-topic-count="sleep-and-passive-heating">0 papers · 0 trials</div></a>
-<a class="topic-card" href="/topics/exercise-recovery/"><span class="num">09</span><h3>Exercise Recovery</h3><p>Heat, cold and light interventions studied in post-exercise recovery.</p><div class="counts" data-topic-count="exercise-recovery">0 papers · 0 trials</div></a>
-</div></div></section>
-<section class="section"><div class="wrap"><div class="section-head"><div><div class="eyebrow">Newly indexed</div><h2>Latest research records</h2></div><a class="button secondary" href="/latest/">View full feed</a></div><div id="latest-feed" class="paper-list"><div class="empty">Run the research update Action once to populate the live PubMed feed.</div></div></div></section>
-<section class="section"><div class="wrap two-col"><div class="panel"><div class="eyebrow">Evidence ≠ verdict</div><h2>Study design, visible.</h2><p>Every publication is tagged by its reported publication type—such as systematic review, randomized controlled trial, clinical trial or observational research. These labels describe study design; they are not automatic quality scores.</p><a class="button secondary" href="/evidence/">See the evidence ladder</a></div><div class="panel"><div class="eyebrow">Research radar</div><h2>Trials in progress.</h2><p>ClinicalTrials.gov records are indexed alongside publications so you can see where research is still recruiting, active or recently updated—not just what has already been published.</p><a class="button secondary" href="/trials/">Browse clinical trials</a></div></div></section>
-<section class="section"><div class="wrap callout"><div><div class="eyebrow" style="color:#7ed4cf">Open data</div><h2>Use the index as a source.</h2><p>Download the normalized publication and trial datasets. If you cite analysis derived from this site, attribute HealthResearchDatabase.com and follow the underlying PubMed or ClinicalTrials.gov record for the primary source.</p></div><div style="display:flex;align-items:center;justify-content:flex-end"><a class="button" href="/data-download/">Download data</a></div></div></section>
+<section class="consumer-hero">
+  <div class="wrap consumer-hero-grid">
+    <div class="hero-copy">
+      <div class="eyebrow">Research-backed curiosity</div>
+      <h1>How healthy are your <em>daily habits?</em></h1>
+      <p class="lede">Take a fast, transparent habits test—then challenge a friend. Every recommendation points back to public health guidance and the research database underneath it.</p>
+      <div class="hero-actions">
+        <a class="button button-primary button-large" href="/healthspan/">Get my Healthspan Habits Score <span aria-hidden="true">→</span></a>
+        <a class="text-link" href="#research-search-section">Or search the research <span aria-hidden="true">↓</span></a>
+      </div>
+      <div class="trust-row" aria-label="Site data sources">
+        <span><b>PubMed</b> publications</span>
+        <span><b>ClinicalTrials.gov</b> studies</span>
+        <span><b>Transparent</b> methodology</span>
+      </div>
+    </div>
+
+    <aside class="score-preview" aria-label="Example Healthspan Habits Score">
+      <div class="score-preview-top">
+        <span class="live-dot"><i></i> 2-minute test</span>
+        <span class="score-preview-brand">HRD</span>
+      </div>
+      <div class="preview-label">Example result</div>
+      <div class="preview-score">82<span>/100</span></div>
+      <h2>Strong habit alignment</h2>
+      <p>A simple score based on sleep, movement, nutrition, tobacco exposure, alcohol, social connection and recovery habits.</p>
+      <div class="mini-bars" aria-hidden="true">
+        <div><span>Movement</span><i style="--w:92%"></i></div>
+        <div><span>Sleep</span><i style="--w:78%"></i></div>
+        <div><span>Nutrition</span><i style="--w:70%"></i></div>
+      </div>
+      <div class="preview-challenge">Think you can score higher? <b>Challenge accepted.</b></div>
+    </aside>
+  </div>
+</section>
+
+<section class="proof-strip" aria-label="Live research index statistics">
+  <div class="wrap proof-grid">
+    <div><strong data-stat="studies">—</strong><span>PubMed records indexed</span></div>
+    <div><strong data-stat="trials">—</strong><span>Clinical trial records</span></div>
+    <div><strong data-stat="active-trials">—</strong><span>Active / recruiting trials</span></div>
+    <div><strong data-stat="topics">9</strong><span>Research topics tracked</span></div>
+  </div>
+</section>
+
+<section class="section section-tight challenge-band">
+  <div class="wrap challenge-band-grid">
+    <div>
+      <div class="eyebrow light">Built to share</div>
+      <h2>Think you're healthier than your friends?</h2>
+      <p>Take the same 10 questions. Send your score. Their link opens with your number already waiting to be beaten.</p>
+    </div>
+    <div class="challenge-steps" aria-label="Challenge flow">
+      <div><b>1</b><span>Take the test</span></div>
+      <i>→</i>
+      <div><b>2</b><span>Share your score</span></div>
+      <i>→</i>
+      <div><b>3</b><span>See who wins</span></div>
+    </div>
+    <a class="button button-light" href="/healthspan/">Start a challenge</a>
+  </div>
+</section>
+
+<section class="section" id="research-questions">
+  <div class="wrap">
+    <div class="section-head section-head-wide">
+      <div>
+        <div class="eyebrow">Questions people actually ask</div>
+        <h2>Don't start with a paper. Start with a question.</h2>
+      </div>
+      <p>These cards show how much research the index currently contains. Research depth is <strong>not</strong> the same as proof that an intervention works.</p>
+    </div>
+    <div class="question-grid">
+      <a class="question-card featured" href="/topics/sauna-heat-therapy/">
+        <span class="question-kicker">Heat & longevity</span>
+        <h3>What has actually been studied about sauna and cardiovascular health?</h3>
+        <div class="question-bottom"><span data-topic-count="sauna-heat-therapy">Loading research…</span><b>Explore evidence →</b></div>
+      </a>
+      <a class="question-card" href="/topics/cold-water-immersion/">
+        <span class="question-kicker">Cold exposure</span>
+        <h3>What does cold-water immersion research focus on?</h3>
+        <div class="question-bottom"><span data-topic-count="cold-water-immersion">Loading research…</span><b>Explore →</b></div>
+      </a>
+      <a class="question-card" href="/topics/photobiomodulation/">
+        <span class="question-kicker">Red light</span>
+        <h3>Where is photobiomodulation being tested in humans?</h3>
+        <div class="question-bottom"><span data-topic-count="photobiomodulation">Loading research…</span><b>Explore →</b></div>
+      </a>
+      <a class="question-card" href="/topics/sleep-and-passive-heating/">
+        <span class="question-kicker">Sleep</span>
+        <h3>How much human research connects passive heating and sleep?</h3>
+        <div class="question-bottom"><span data-topic-count="sleep-and-passive-heating">Loading research…</span><b>Explore →</b></div>
+      </a>
+      <a class="question-card" href="/topics/exercise-recovery/">
+        <span class="question-kicker">Recovery</span>
+        <h3>Heat, cold or light: what is being studied after exercise?</h3>
+        <div class="question-bottom"><span data-topic-count="exercise-recovery">Loading research…</span><b>Explore →</b></div>
+      </a>
+      <a class="question-card" href="/topics/massage-therapy/">
+        <span class="question-kicker">Massage</span>
+        <h3>What kinds of outcomes are massage trials measuring?</h3>
+        <div class="question-bottom"><span data-topic-count="massage-therapy">Loading research…</span><b>Explore →</b></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section pulse-section">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">Research pulse</div>
+        <h2>Recently indexed.</h2>
+      </div>
+      <div class="section-actions">
+        <button class="filter-pill active" type="button" data-feed-filter="all">All</button>
+        <button class="filter-pill" type="button" data-feed-filter="a">Reviews</button>
+        <button class="filter-pill" type="button" data-feed-filter="b">Randomized trials</button>
+        <a class="text-link" href="/latest/">Full feed →</a>
+      </div>
+    </div>
+    <div id="latest-feed" class="pulse-grid"><div class="loading-card">Loading the current research index…</div></div>
+  </div>
+</section>
+
+<section class="section research-search-section" id="research-search-section">
+  <div class="wrap research-search-grid">
+    <div>
+      <div class="eyebrow">Search the source layer</div>
+      <h2>Go from headline to source.</h2>
+      <p class="lede small-lede">Search indexed titles, journals, topic labels, authors and MeSH headings. Open any record to see the study design and primary-source link.</p>
+      <div class="search-examples">Try: <button type="button" data-search-example="blood pressure">blood pressure</button><button type="button" data-search-example="sleep">sleep</button><button type="button" data-search-example="muscle soreness">muscle soreness</button></div>
+    </div>
+    <div>
+      <form class="search-shell search-shell-large" id="search">
+        <label class="sr-only" for="research-search">Search indexed research</label>
+        <input id="research-search" type="search" placeholder="Search the research database…" autocomplete="off">
+        <button type="submit">Search</button>
+      </form>
+      <div id="search-results" class="search-results"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section methodology-tease">
+  <div class="wrap methodology-grid">
+    <div class="method-number">01</div>
+    <div>
+      <div class="eyebrow">Credibility layer</div>
+      <h2>No mystery score behind the research database.</h2>
+      <p>PubMed publication types drive the study-design labels. ClinicalTrials.gov supplies trial status. Search definitions are published. The site does not turn a paper count into a treatment recommendation.</p>
+      <a class="button button-outline" href="/methodology/">Read the methodology</a>
+    </div>
+    <div class="method-facts">
+      <div><b>2× weekly</b><span>Scheduled research refresh</span></div>
+      <div><b>Open data</b><span>Normalized JSON + CSV downloads</span></div>
+      <div><b>Primary sources</b><span>Every record links outward</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section final-cta">
+  <div class="wrap final-cta-inner">
+    <div>
+      <span class="eyebrow light">Your turn</span>
+      <h2>Ten questions. One score. One friend to beat.</h2>
+    </div>
+    <a class="button button-light button-large" href="/healthspan/">Take the Healthspan Habits Test →</a>
+  </div>
+</section>
 </main>
-<footer><div class="wrap footer-grid"><div><a class="brand" href="/"><span class="brand-mark">HRD</span><span>Health Research Database</span></a><p>Research indexing and discovery. Not medical advice and not a substitute for reading the underlying paper or consulting a qualified clinician.</p></div><div><h4>Research</h4><a href="/latest/">Latest records</a><a href="/trials/">Clinical trials</a><a href="/evidence/">Study designs</a></div><div><h4>About</h4><a href="/methodology/">Methodology</a><a href="/data-download/">Download data</a><a href="https://inhousewellness.com/" rel="sponsored">InHouse Wellness</a></div></div></footer>
-</body></html>
+
+<footer>
+  <div class="wrap footer-grid footer-grid-new">
+    <div>
+      <a class="brand" href="/"><span class="brand-mark"><span>H</span><i></i><span>R</span></span><span class="brand-copy">Health Research Database</span></a>
+      <p>Research indexing, evidence discovery and consumer research tools. Not medical advice or a diagnosis.</p>
+    </div>
+    <div><h4>Explore</h4><a href="/healthspan/">Healthspan Habits Test</a><a href="/latest/">Research pulse</a><a href="/trials/">Clinical trials</a></div>
+    <div><h4>Research</h4><a href="/evidence/">Study designs</a><a href="/methodology/">Methodology</a><a href="/data-download/">Download data</a></div>
+    <div><h4>Topics</h4><a href="/topics/sauna-heat-therapy/">Sauna & heat</a><a href="/topics/cold-water-immersion/">Cold water</a><a href="/topics/photobiomodulation/">Red light</a></div>
+  </div>
+</footer>
+</body>
+</html>

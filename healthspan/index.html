@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Healthspan Habits Score | Health Research Database</title>
+<meta name="description" content="Take a transparent 2-minute habits test based on widely supported health guidance. Get a 0–100 score, see your strongest habits, and challenge a friend.">
+<link rel="canonical" href="https://healthresearchdatabase.com/healthspan/">
+<meta property="og:title" content="Can you beat my Healthspan Habits Score?">
+<meta property="og:description" content="Ten questions. A transparent 0–100 habits score. Challenge a friend.">
+<meta property="og:image" content="https://healthresearchdatabase.com/assets/og-healthspan.png">
+<meta property="og:type" content="website"><meta property="og:url" content="https://healthresearchdatabase.com/healthspan/">
+<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#0f2026">
+<link rel="stylesheet" href="/assets/site.css"><script defer src="/assets/healthspan.js"></script>
+</head>
+<body class="quiz-page">
+<header class="site-header quiz-header"><div class="wrap header-inner"><a class="brand" href="/"><span class="brand-mark"><span>H</span><i></i><span>R</span></span><span class="brand-copy">Health Research Database<small>Healthspan Habits Test</small></span></a><nav><a href="/">Research database</a><a href="/methodology/#habits-score">How scoring works</a></nav></div></header>
+<main>
+<section class="quiz-shell" id="quiz-app" aria-live="polite">
+  <div class="quiz-intro" data-quiz-screen="intro">
+    <div class="wrap quiz-intro-grid">
+      <div>
+        <div class="eyebrow">2-minute challenge</div>
+        <h1>How healthy are your <em>daily habits?</em></h1>
+        <p class="lede">Ten questions. No account. No email gate. Your result stays in your browser unless you choose to share it.</p>
+        <div class="challenge-notice" id="challenge-notice" hidden><span>A friend challenged you with a score of</span><strong id="challenge-score">—</strong><b>Can you beat it?</b></div><div class="previous-score" id="previous-score" hidden><span>Your last score</span><strong id="previous-score-number">—</strong><b id="previous-score-date"></b></div>
+        <button class="button button-primary button-large" type="button" id="start-quiz">Get my score →</button>
+        <p class="microcopy">This is a <strong>habit-alignment index</strong>, not a biological-age test, medical assessment, diagnosis or prediction of lifespan.</p>
+      </div>
+      <div class="quiz-intro-card">
+        <span class="card-overline">What you'll get</span>
+        <div class="intro-result"><b>0–100</b><span>Your habits score</span></div>
+        <ul class="check-list"><li>Your strongest habits</li><li>Your biggest opportunities</li><li>A transparent scoring breakdown</li><li>A shareable challenge card</li></ul>
+        <div class="privacy-line"><span>●</span> No login required</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="quiz-stage" data-quiz-screen="questions" hidden>
+    <div class="wrap quiz-stage-wrap">
+      <div class="quiz-progress-row"><span id="progress-label">Question 1 of 10</span><button type="button" class="quiet-button" id="quiz-exit">Exit test</button></div>
+      <div class="progress-track"><i id="progress-bar"></i></div>
+      <div class="question-panel">
+        <div class="question-number" id="question-number">01</div>
+        <div class="eyebrow" id="question-category">Movement</div>
+        <h2 id="question-title"></h2>
+        <p id="question-help" class="question-help"></p>
+        <div id="answer-options" class="answer-options"></div>
+      </div>
+      <div class="quiz-nav"><button type="button" class="button button-outline" id="prev-question">← Back</button><span>Choose the answer that best reflects a typical week.</span></div>
+    </div>
+  </div>
+
+  <div class="quiz-stage result-stage" data-quiz-screen="result" hidden>
+    <div class="wrap result-wrap">
+      <div class="result-topline"><span class="eyebrow">Your Healthspan Habits Score</span><button type="button" class="quiet-button" id="retake-quiz">Retake</button></div>
+      <div class="result-grid">
+        <section class="result-card" id="share-card">
+          <div class="result-card-brand">HEALTH RESEARCH DATABASE</div>
+          <div class="result-score" id="result-score">—</div>
+          <div class="result-out-of">/ 100</div>
+          <h1 id="result-band">Your result</h1>
+          <p id="result-summary"></p>
+          <div class="result-challenge-line" id="result-challenge-line">Think you can beat it?</div>
+          <div class="result-url">HealthResearchDatabase.com</div>
+        </section>
+
+        <section class="result-details">
+          <div class="comparison-box" id="comparison-box" hidden><span>Challenge result</span><div><b id="your-comparison-score">—</b><i>vs</i><b id="friend-comparison-score">—</b></div><strong id="comparison-message"></strong></div>
+          <div class="result-section">
+            <span class="eyebrow">Strongest habits</span>
+            <div id="strength-list" class="habit-list"></div>
+          </div>
+          <div class="result-section">
+            <span class="eyebrow">Biggest opportunities</span>
+            <div id="opportunity-list" class="habit-list"></div>
+          </div>
+          <div class="result-disclaimer">Your score reflects only the answers in this questionnaire and the published scoring rubric. It is not a clinical risk score and does not estimate your actual lifespan.</div>
+        </section>
+      </div>
+
+      <section class="share-panel">
+        <div><span class="eyebrow">Make it competitive</span><h2>Challenge someone to beat your score.</h2><p>The link shows your score before they start. Their test uses the exact same questions and scoring.</p></div>
+        <div class="share-buttons" id="share-buttons">
+          <button type="button" class="share-button share-primary" data-share="native">Share challenge</button>
+          <button type="button" class="share-button" data-share="facebook">Facebook</button>
+          <button type="button" class="share-button" data-share="x">X</button>
+          <button type="button" class="share-button" data-share="pinterest">Pinterest</button>
+          <button type="button" class="share-button" data-share="email">Email</button>
+          <button type="button" class="share-button" data-share="copy">Copy link</button>
+          <button type="button" class="share-button" data-share="image">Save score card</button>
+        </div>
+        <div class="copy-status" id="copy-status" role="status"></div>
+      </section>
+
+      <section class="score-breakdown">
+        <div class="section-head"><div><span class="eyebrow">Transparent scoring</span><h2>See every point.</h2></div><a class="text-link" href="/methodology/#habits-score">Full methodology →</a></div>
+        <div id="score-breakdown" class="breakdown-grid"></div>
+      </section>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="quiz-footer"><div class="wrap"><p>Healthspan Habits Score is an educational tool from Health Research Database. It does not provide medical advice.</p></div></footer>
+</body>
+</html>

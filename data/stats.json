@@ -1,109 +1,55 @@
 {
-  "generated_at": "2026-08-27T18:18:57.937844+00:00",
-  "updated_label": "Aug 27, 2026",
-  "total_studies": 1009,
-  "total_trials": 559,
+  "generated_at": null,
+  "updated_label": "Pending first refresh",
+  "total_studies": 0,
+  "total_trials": 0,
   "total_topics": 9,
-  "active_trials": 126,
+  "active_trials": 0,
   "topics": {
     "sauna-heat-therapy": {
-      "studies": 140,
-      "trials": 100,
-      "designs": {
-        "a": 12,
-        "e": 98,
-        "b": 26,
-        "c": 1,
-        "d": 3
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "infrared-sauna": {
-      "studies": 140,
-      "trials": 77,
-      "designs": {
-        "e": 112,
-        "b": 15,
-        "d": 3,
-        "a": 6,
-        "c": 4
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "cold-water-immersion": {
-      "studies": 140,
-      "trials": 100,
-      "designs": {
-        "e": 111,
-        "d": 4,
-        "b": 15,
-        "a": 8,
-        "c": 2
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "contrast-therapy": {
-      "studies": 140,
-      "trials": 16,
-      "designs": {
-        "e": 102,
-        "a": 7,
-        "b": 22,
-        "d": 5,
-        "c": 4
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "photobiomodulation": {
-      "studies": 140,
-      "trials": 100,
-      "designs": {
-        "e": 75,
-        "b": 35,
-        "a": 20,
-        "d": 8,
-        "c": 2
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "floatation-therapy": {
-      "studies": 56,
-      "trials": 23,
-      "designs": {
-        "e": 39,
-        "a": 2,
-        "d": 2,
-        "b": 8,
-        "c": 5
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "massage-therapy": {
-      "studies": 140,
-      "trials": 100,
-      "designs": {
-        "e": 65,
-        "a": 31,
-        "c": 5,
-        "b": 36,
-        "d": 3
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "sleep-and-passive-heating": {
-      "studies": 32,
-      "trials": 22,
-      "designs": {
-        "e": 26,
-        "c": 2,
-        "d": 1,
-        "b": 2,
-        "a": 1
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     },
     "exercise-recovery": {
-      "studies": 140,
-      "trials": 62,
-      "designs": {
-        "e": 69,
-        "a": 24,
-        "b": 44,
-        "c": 2,
-        "d": 1
-      }
+      "studies": 0,
+      "trials": 0,
+      "designs": {}
     }
   }
 }
