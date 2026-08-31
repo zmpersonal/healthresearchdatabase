@@ -1,5 +1,228 @@
 [
   {
+    "pmid": "42667694",
+    "title": "Cardiometabolic effects of contrast therapy: A systematic review.",
+    "authors": [
+      "Veerle de Haan",
+      "Guy Plasqui",
+      "Hannah Pallubinsky"
+    ],
+    "journal": "Experimental physiology",
+    "year": "2026",
+    "doi": "10.1113/EP093612",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [],
+    "keywords": [
+      "cardiometabolic health",
+      "cardiovascular health",
+      "cold therapy",
+      "contrast therapy",
+      "heat therapy",
+      "metabolic health",
+      "thermal therapy"
+    ],
+    "topics": [
+      "contrast-therapy"
+    ],
+    "topic_names": [
+      "Contrast Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667694/"
+  },
+  {
+    "pmid": "42667448",
+    "title": "Home-based low-level light therapy using a commercial LED mask for dry eye disease.",
+    "authors": [
+      "Luca Scuderi",
+      "Serena Fragiotta",
+      "Chiara Ciancimino",
+      "Gianluca Scuderi"
+    ],
+    "journal": "International ophthalmology",
+    "year": "2026",
+    "doi": "10.1007/s10792-026-04219-z",
+    "publication_types": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Dry Eye Syndromes",
+      "Retrospective Studies",
+      "Tears",
+      "Middle Aged",
+      "Low-Level Light Therapy",
+      "Osmolar Concentration",
+      "Treatment Outcome",
+      "Follow-Up Studies",
+      "Aged"
+    ],
+    "keywords": [
+      "Breakup time (TBUT)",
+      "Dry eye syndrome",
+      "Low-level light therapy (LLLT)",
+      "Schirmer’s test",
+      "Tear osmolarity"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667448/"
+  },
+  {
+    "pmid": "42667337",
+    "title": "Effects of 660 nm & 808 nm photo-biomodulation on S100A8/A9 in symptomatic pulpitis: a randomized controlled trial.",
+    "authors": [
+      "Meifang Zhu",
+      "Eliza Ranjit",
+      "Carlos Marcelo Silva Figueredo",
+      "Laurence James Walsh",
+      "Roy George"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05006-z",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Calgranulin A",
+      "Calgranulin B",
+      "Female",
+      "Low-Level Light Therapy",
+      "Male",
+      "Pulpitis",
+      "Adult",
+      "Red Light",
+      "Biomarkers",
+      "Gingival Crevicular Fluid",
+      "Young Adult",
+      "Middle Aged",
+      "Dental Pulp"
+    ],
+    "keywords": [
+      "Biomarkers",
+      "Dental Pulp",
+      "Lasers",
+      "Low Level Light Therapy",
+      "Photo-Biomodulation",
+      "S100 A8/A9"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667337/"
+  },
+  {
+    "pmid": "42666436",
+    "title": "Application of photobiomodulation in post-stroke dysfunctions: a literature review of recent clinical studies.",
+    "authors": [
+      "Chao Ren",
+      "Xiaohong Chi",
+      "Yuan Jiang"
+    ],
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "doi": "10.3389/fneur.2026.1859831",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Stroke",
+      "Animals",
+      "Stroke Rehabilitation",
+      "Cognitive Dysfunction",
+      "Aphasia"
+    ],
+    "keywords": [
+      "aphasia",
+      "cognitive impairment",
+      "photobiomodulation",
+      "spasticity",
+      "stroke"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42666436/"
+  },
+  {
+    "pmid": "42664123",
+    "title": "Physiotherapy rehabilitation in chronic low back pain.",
+    "authors": [
+      "Aida Zotaj",
+      "Rajmonda Milloshi",
+      "Selda Sokoli",
+      "Elda Cani",
+      "Enri Kaçi"
+    ],
+    "journal": "La Clinica terapeutica",
+    "year": "2026",
+    "doi": "10.7417/CT.2026.2103",
+    "publication_types": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Low Back Pain",
+      "Aged",
+      "Female",
+      "Middle Aged",
+      "Massage",
+      "Male",
+      "Adult",
+      "Aged, 80 and over",
+      "Chronic Pain",
+      "Physical Therapy Modalities",
+      "Combined Modality Therapy",
+      "Pain Measurement",
+      "Treatment Outcome"
+    ],
+    "keywords": [
+      "Massage",
+      "electromagnetic field",
+      "inflammation",
+      "innovative treatment methods",
+      "muscles",
+      "placebo effect"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664123/"
+  },
+  {
     "pmid": "42659437",
     "title": "Management of oral Pseudomonas aeruginosa infections in oncology patients using antimicrobial photodynamic therapy, photobiomodulation, and systemic antibiotics: a case series.",
     "authors": [
@@ -1584,19 +1807,18 @@
     "doi": "10.1016/j.ctim.2026.103403",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "mesh": [
-      "Humans",
-      "Wound Healing",
-      "Low-Level Light Therapy",
-      "Cesarean Section",
-      "Postoperative Pain",
       "Female",
-      "Pain Management",
+      "Humans",
       "Pregnancy",
-      "Randomized Controlled Trials as Topic"
+      "Cesarean Section",
+      "Low-Level Light Therapy",
+      "Pain Management",
+      "Postoperative Pain",
+      "Randomized Controlled Trials as Topic",
+      "Wound Healing"
     ],
     "keywords": [
       "Cesarean Section",
@@ -8133,50 +8355,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41468216/"
   },
   {
-    "pmid": "41455157",
-    "title": "Effects of physical adjunctive interventions on root resorption in accelerated orthodontic treatment: A systematic review and meta-analysis.",
-    "authors": [
-      "Mohamad Radwan Sirri",
-      "Mohamad Yaman Salahi Alasbahi",
-      "Mohammad Osama Namera",
-      "Salar Karim Khalil"
-    ],
-    "journal": "International orthodontics",
-    "year": "2026",
-    "doi": "10.1016/j.ortho.2025.101123",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Root Resorption",
-      "Tooth Movement Techniques",
-      "Low-Level Light Therapy",
-      "Vibration",
-      "Randomized Controlled Trials as Topic",
-      "Orthodontics, Corrective"
-    ],
-    "keywords": [
-      "Laser therapy",
-      "Low-intensity pulsed ultrasound",
-      "Orthodontics",
-      "Photobiomodulation",
-      "Root resorption",
-      "Vibration"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41455157/"
-  },
-  {
     "pmid": "41455112",
     "title": "Ingesting menthol in a beverage may alter the sweating response during passive heat stress, but only when the beverage is cold.",
     "authors": [
@@ -8903,61 +9081,6 @@
     "design_class": "a",
     "design_label": "Systematic review / meta-analysis",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41167042/"
-  },
-  {
-    "pmid": "41165747",
-    "title": "Six-Month Interim Analyses of the Efficacy of Repeated Low-Level Red-Light Therapy Combined with Orthokeratology for Myopia Control in Spanish Children.",
-    "authors": [
-      "María José Fernández Fidalgo",
-      "Victoria D Ferigo Ferrel",
-      "Ziyi Qi",
-      "Yuri Yin-Moe Aung",
-      "Yanxian Chen",
-      "Zhuoting Zhu",
-      "Fernando J Fernández-Velázquez"
-    ],
-    "journal": "Ophthalmic epidemiology",
-    "year": "2026",
-    "doi": "10.1080/09286586.2025.2580682",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Child",
-      "Orthokeratologic Procedures",
-      "Female",
-      "Male",
-      "Myopia",
-      "Spain",
-      "Adolescent",
-      "Single-Blind Method",
-      "Treatment Outcome",
-      "Refraction, Ocular",
-      "Axial Length, Eye",
-      "Visual Acuity",
-      "Follow-Up Studies",
-      "Low-Level Light Therapy",
-      "Combined Modality Therapy"
-    ],
-    "keywords": [
-      "Children",
-      "myopia control",
-      "orthokeratology",
-      "randomized controlled trial",
-      "repeated low-level red-light therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41165747/"
   },
   {
     "pmid": "41139279",
@@ -18752,39 +18875,6 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38150009/"
-  },
-  {
-    "pmid": "38131460",
-    "title": "Comment on effect of massage therapy on sleep quality in critically ill patients.",
-    "authors": [
-      "I-Wen Chen",
-      "Hsiu-Jung Lin",
-      "Kuo-Chuan Hung"
-    ],
-    "journal": "Journal of clinical nursing",
-    "year": "2024",
-    "doi": "10.1111/jocn.16977",
-    "publication_types": [
-      "Letter"
-    ],
-    "mesh": [
-      "Humans",
-      "Sleep Quality",
-      "Critical Illness",
-      "Massage",
-      "Sleep",
-      "Mind-Body Therapies"
-    ],
-    "keywords": [],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38131460/"
   },
   {
     "pmid": "38129698",
