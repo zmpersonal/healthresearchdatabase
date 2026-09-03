@@ -1,5 +1,49 @@
 [
   {
+    "pmid": "42678980",
+    "title": "LED red light therapy for relief of primary dysmenorrhea: An open, single-group target value clinical trial.",
+    "authors": [
+      "Bin Yi",
+      "Dandan Wang",
+      "Ling Wei",
+      "Jun He",
+      "Qian Yu",
+      "Lei Wu",
+      "Yilin Wang",
+      "Yajuan Wang",
+      "Nan Song",
+      "Li Guo"
+    ],
+    "journal": "PloS one",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0356618",
+    "publication_types": [
+      "Journal Article",
+      "Clinical Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Dysmenorrhea",
+      "Female",
+      "Red Light",
+      "Adult",
+      "Treatment Outcome",
+      "Pain Measurement",
+      "Young Adult",
+      "Phototherapy"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42678980/"
+  },
+  {
     "pmid": "42667694",
     "title": "Cardiometabolic effects of contrast therapy: A systematic review.",
     "authors": [
@@ -467,17 +511,17 @@
       "Case Reports"
     ],
     "mesh": [
+      "Aged",
+      "Female",
       "Humans",
+      "Middle Aged",
+      "Antineoplastic Agents",
+      "Dysgeusia",
+      "Feasibility Studies",
+      "Low-Level Light Therapy",
       "Multiple Myeloma",
       "Xerostomia",
-      "Dysgeusia",
-      "Female",
-      "Middle Aged",
-      "Aged",
-      "Male",
-      "Low-Level Light Therapy",
-      "Feasibility Studies",
-      "Antineoplastic Agents",
+      "Aged, 80 and over",
       "Antibodies, Bispecific"
     ],
     "keywords": [
@@ -1040,23 +1084,22 @@
     "year": "2026",
     "doi": "10.1007/s10103-026-04977-3",
     "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Comparative Study"
+      "Equivalence Trial",
+      "Journal Article"
     ],
     "mesh": [
+      "Adult",
+      "Aged",
+      "Female",
       "Humans",
-      "Low-Level Light Therapy",
-      "Stomatitis",
+      "Male",
+      "Middle Aged",
       "Head and Neck Neoplasms",
+      "Low-Level Light Therapy",
       "Pilot Projects",
       "Red Light",
-      "Female",
-      "Middle Aged",
-      "Male",
-      "Adult",
-      "Treatment Outcome",
-      "Aged"
+      "Stomatitis",
+      "Treatment Outcome"
     ],
     "keywords": [
       "Head and neck neoplasms",
@@ -1071,8 +1114,8 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
+    "design_class": "e",
+    "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525285/"
   },
   {
@@ -5782,7 +5825,8 @@
     "publication_types": [
       "Systematic Review",
       "Journal Article",
-      "Meta-Analysis"
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -7486,7 +7530,8 @@
     "doi": "10.2196/81887",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
