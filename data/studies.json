@@ -1,5 +1,45 @@
 [
   {
+    "pmid": "42696344",
+    "title": "Red Light Therapy in Cosmetic Dermatology: Marketing Claims Backed by Evidence?",
+    "authors": [
+      "Natasha E Barton",
+      "Thu Anh Ly",
+      "Gustavo Rodrigues de Moraes",
+      "Aaron Wang",
+      "Nicole Case",
+      "Robert P Dellavalle",
+      "Cory A Dunnick"
+    ],
+    "journal": "Journal of drugs in dermatology : JDD",
+    "year": "2026",
+    "doi": "10.36849/JDD.9844",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Skin Aging",
+      "Red Light",
+      "Cosmetic Techniques",
+      "Skin Diseases",
+      "Dermatology",
+      "Wound Healing",
+      "Phototherapy"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696344/"
+  },
+  {
     "pmid": "42678980",
     "title": "LED red light therapy for relief of primary dysmenorrhea: An open, single-group target value clinical trial.",
     "authors": [
@@ -267,6 +307,54 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664123/"
   },
   {
+    "pmid": "42659741",
+    "title": "Epigenetic landscape model and signaling pathway of cell differentiation driven by extrinsic photobiomodulation combined with microisland.",
+    "authors": [
+      "Guan-Ying Tsai",
+      "Thipwadee Klom-In",
+      "Ming-Yu Hung",
+      "Meng-Jiy Wang",
+      "Szu-Yuan Chen"
+    ],
+    "journal": "Journal of photochemistry and photobiology. B, Biology",
+    "year": "2026",
+    "doi": "10.1016/j.jphotobiol.2026.113549",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Cell Differentiation",
+      "Humans",
+      "Epigenesis, Genetic",
+      "Mesenchymal Stem Cells",
+      "Signal Transduction",
+      "Transcription Factors",
+      "Calcium",
+      "Bromodomain Containing Proteins",
+      "Cell Cycle Proteins",
+      "Endoplasmic Reticulum",
+      "Photosensitizing Agents",
+      "Nuclear Proteins"
+    ],
+    "keywords": [
+      "BRD4 condensate",
+      "Calcium ion level",
+      "Epigenetic landscape",
+      "Extrinsic photobiomodulation",
+      "Mesenchymal stem cell",
+      "Microisland"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42659741/"
+  },
+  {
     "pmid": "42659437",
     "title": "Management of oral Pseudomonas aeruginosa infections in oncology patients using antimicrobial photodynamic therapy, photobiomodulation, and systemic antibiotics: a case series.",
     "authors": [
@@ -432,6 +520,55 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42656099/"
+  },
+  {
+    "pmid": "42632148",
+    "title": "Effect of pre-cooling by cold-water immersion on continuous sweat conductivity kinetics during submaximal exercise in the heat.",
+    "authors": [
+      "Antoine Ferrari",
+      "Marine Sorg",
+      "Serge Berthoin",
+      "Mélanie Rance",
+      "Alexis Dupuy",
+      "Jean-Philippe Garnier",
+      "Georges Baquet",
+      "Sébastien Ratel"
+    ],
+    "journal": "Journal of thermal biology",
+    "year": "2026",
+    "doi": "10.1016/j.jtherbio.2026.104554",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Sweating",
+      "Immersion",
+      "Male",
+      "Exercise",
+      "Cold Temperature",
+      "Adult",
+      "Hot Temperature",
+      "Sweat",
+      "Young Adult",
+      "Body Temperature Regulation"
+    ],
+    "keywords": [
+      "Heat",
+      "Pre-cooling",
+      "Sweat testing",
+      "Thermal stress"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42632148/"
   },
   {
     "pmid": "42631884",
@@ -972,6 +1109,64 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42552011/"
+  },
+  {
+    "pmid": "42551061",
+    "title": "Effect of local and vascular photobiomodulation on the success of autogenous bone grafts in the alveolar ridge of patients with cleft lip and palate.",
+    "authors": [
+      "Caroline Chepernate Vieira Dos Santos",
+      "Lucas José de Azevedo-Silva",
+      "Matheus Souza Campos Costa",
+      "Nicole Rosa de Freitas",
+      "Carla Andreotti Damante",
+      "Brunna Mota Ferrairo",
+      "Ana Lúcia Pompéia Fraga de Almeida"
+    ],
+    "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+    "year": "2026",
+    "doi": "10.1016/j.jcms.2026.109849",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Cleft Palate",
+      "Cleft Lip",
+      "Female",
+      "Male",
+      "Adolescent",
+      "Low-Level Light Therapy",
+      "Treatment Outcome",
+      "Alveolar Bone Grafting",
+      "Bone Transplantation",
+      "Child",
+      "Ilium",
+      "Autografts",
+      "Adult",
+      "Alveolar Ridge Augmentation",
+      "Lasers, Semiconductor",
+      "Wound Healing",
+      "Young Adult",
+      "Follow-Up Studies",
+      "Mandible"
+    ],
+    "keywords": [
+      "Alveolar bone graft",
+      "Bone regeneration",
+      "Cleft lip and palate",
+      "Craniofacial abnormality",
+      "Laser therapy",
+      "Photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551061/"
   },
   {
     "pmid": "42532024",
@@ -4206,6 +4401,56 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42297204/"
   },
   {
+    "pmid": "42295379",
+    "title": "Expert consensus on passive heating interventions to promote skeletal muscle strength and mass: a delphi study.",
+    "authors": [
+      "Elisa Lemos",
+      "Ian B Stewart",
+      "Patrick Rodrigues",
+      "Shawnda A Morrison",
+      "Lee Wharton",
+      "Christopher J Tyler",
+      "Stephen S Cheung",
+      "Sebastian Racinais",
+      "Ralph J F H Gordon",
+      "Alex Lloyd",
+      "Julien D Périard",
+      "Katsumasa Goto"
+    ],
+    "journal": "European journal of applied physiology",
+    "year": "2026",
+    "doi": "10.1007/s00421-026-06295-6",
+    "publication_types": [
+      "Journal Article",
+      "Consensus Statement"
+    ],
+    "mesh": [
+      "Humans",
+      "Delphi Technique",
+      "Muscle, Skeletal",
+      "Muscle Strength",
+      "Consensus",
+      "Hot Temperature",
+      "Body Temperature"
+    ],
+    "keywords": [
+      "Heat stress",
+      "Hot-water immersion",
+      "Skeletal muscle adaptation",
+      "Thermal strain",
+      "Thermal therapy"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42295379/"
+  },
+  {
     "pmid": "42286424",
     "title": "Concurrent Photobiomodulation by Dual-Wavelength (655 nm and 808 nm) Laser Exposure Promotes Accelerated Wound Healing.",
     "authors": [
@@ -4871,6 +5116,58 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42250031/"
   },
   {
+    "pmid": "42249924",
+    "title": "Cell-free DNA, cytokine, and catecholamine levels did not differ between sexes under a matched body core temperature increase, despite females exhibiting a more rapid increase in rectal temperature.",
+    "authors": [
+      "Ema Juškevičiūtė",
+      "Nerijus Eimantas",
+      "Gintarė Daukšaitė",
+      "Elmo Neuberger",
+      "Kristina Motiejūnaitė",
+      "Perikles Simon",
+      "Marius Brazaitis"
+    ],
+    "journal": "European journal of applied physiology",
+    "year": "2026",
+    "doi": "10.1007/s00421-026-06274-x",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Female",
+      "Catecholamines",
+      "Body Temperature",
+      "Cytokines",
+      "Cell-Free Nucleic Acids",
+      "Adult",
+      "Hot Temperature",
+      "Heart Rate",
+      "Young Adult",
+      "Immersion",
+      "Rectum",
+      "Body Temperature Regulation"
+    ],
+    "keywords": [
+      "Cell-free DNA",
+      "Epinephrine",
+      "Hot water immersion",
+      "Norepinephrine",
+      "Rectal temperature",
+      "Sex"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42249924/"
+  },
+  {
     "pmid": "42247334",
     "title": "Photobiomodulation and electro-stimulation for enhanced healing of hard-to-heal wounds: a literature review.",
     "authors": [
@@ -5514,7 +5811,8 @@
     "doi": "10.1152/ajpheart.00020.2026",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -6153,7 +6451,8 @@
     "doi": "10.1080/07853890.2026.2663105",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -6739,7 +7038,8 @@
     "year": "2026",
     "doi": "10.2196/88284",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -7188,60 +7488,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41867108/"
-  },
-  {
-    "pmid": "41864516",
-    "title": "Therapeutic effect of Photobiomodulation therapy on radiation-induced oral mucositis in head and neck Cancer: A prospective double-blind, self-controlled clinical trial.",
-    "authors": [
-      "Ahmad Ameri",
-      "Mansour Lesan",
-      "Vahideh Vafaei",
-      "Farzad Taghizadeh-Hesary",
-      "Nazanin Rahnama",
-      "Zeinab Abiar",
-      "Atieh Sadat Hashemi",
-      "Simin Badiei Moghaddam",
-      "Ardeshir Matoofi",
-      "Seyedeh Shaghayegh Rezvani Nezhad",
-      "Seyed Saeed Hashemi Nazari"
-    ],
-    "journal": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
-    "year": "2026",
-    "doi": "10.1016/j.radonc.2026.111495",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Stomatitis",
-      "Head and Neck Neoplasms",
-      "Low-Level Light Therapy",
-      "Double-Blind Method",
-      "Prospective Studies",
-      "Female",
-      "Male",
-      "Middle Aged",
-      "Radiation Injuries",
-      "Aged",
-      "Adult",
-      "Pain Measurement"
-    ],
-    "keywords": [
-      "Head and neck cancer",
-      "Oral mucositis",
-      "Photobiomodulation therapy",
-      "Quality of life",
-      "Radiotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41864516/"
   },
   {
     "pmid": "41848988",
@@ -7769,52 +8015,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41742004/"
   },
   {
-    "pmid": "41730406",
-    "title": "Comparative assessment of 638-nm Diode laser photobiomodulation against chemical remineralizing agents for primary caries-affected dentin: Mechanistic investigation of photothermal effects on bonding substrate quality.",
-    "authors": [
-      "Ayman M Sulimany"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105411",
-    "publication_types": [
-      "Journal Article",
-      "Comparative Study"
-    ],
-    "mesh": [
-      "Lasers, Semiconductor",
-      "Humans",
-      "Dental Caries",
-      "Shear Strength",
-      "Dentin",
-      "Sodium Fluoride",
-      "Caseins",
-      "Tooth Remineralization",
-      "Molar",
-      "Hardness",
-      "Dental Bonding",
-      "Low-Level Light Therapy",
-      "Fluoride Treatment",
-      "Tooth, Deciduous"
-    ],
-    "keywords": [
-      "Casein phosphopeptide-amorphous calcium phosphate",
-      "Diode laser",
-      "Photobiomodulation",
-      "Primary molars",
-      "Shear bond strength"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41730406/"
-  },
-  {
     "pmid": "41710285",
     "title": "A Scoping Review of Flotation-REST (Restricted Environmental Stimulation Therapy) for Chronic Pain and Associated Comorbidities.",
     "authors": [
@@ -7848,52 +8048,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41710285/"
-  },
-  {
-    "pmid": "41705331",
-    "title": "Expert Opinion on Myopia Tapering: Strategies for Managing Myopia Progression.",
-    "authors": [
-      "Yanxian Chen",
-      "Zhuoting Zhu",
-      "Yuri Yin-Moe Aung",
-      "Yuzhou Zhang",
-      "Yueye Wang",
-      "Jason Cs Yam",
-      "Mingguang He"
-    ],
-    "journal": "Ophthalmic epidemiology",
-    "year": "2026",
-    "doi": "10.1080/09286586.2025.2612156",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Atropine",
-      "Disease Progression",
-      "Mydriatics",
-      "Myopia",
-      "Myopia, Degenerative",
-      "Ophthalmic Solutions",
-      "Refraction, Ocular",
-      "Risk Factors"
-    ],
-    "keywords": [
-      "Atropine eyedrops",
-      "myopia control",
-      "myopia tapering",
-      "red light therapy",
-      "refractive error"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41705331/"
   },
   {
     "pmid": "41699915",
@@ -19143,47 +19297,6 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37806925/"
-  },
-  {
-    "pmid": "37728076",
-    "title": "Upper-Limb High-Intensity Interval Training or Passive Heat Therapy to Optimize Cardiorespiratory Fitness Prior to Total Hip or Knee Arthroplasty: A Randomized Controlled Trial.",
-    "authors": [
-      "Brendon H Roxburgh",
-      "Holly A Campbell",
-      "James D Cotter",
-      "Ulla Reymann",
-      "Michael J A Williams",
-      "David Gwynne-Jones",
-      "Kate N Thomas"
-    ],
-    "journal": "Arthritis care & research",
-    "year": "2024",
-    "doi": "10.1002/acr.25238",
-    "publication_types": [
-      "Randomized Controlled Trial",
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Arthroplasty, Replacement, Knee",
-      "Cardiorespiratory Fitness",
-      "High-Intensity Interval Training",
-      "Hot Temperature",
-      "Osteoarthritis",
-      "Oxygen Consumption",
-      "Upper Extremity"
-    ],
-    "keywords": [],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37728076/"
   },
   {
     "pmid": "37655801",
