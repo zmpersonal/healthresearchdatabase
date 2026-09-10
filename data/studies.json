@@ -1,5 +1,141 @@
 [
   {
+    "pmid": "42709729",
+    "title": "Examining the anticipated uptake and acceptability of heat therapy in males: Expectations and perceptions before and after hot water immersion.",
+    "authors": [
+      "David Bellini",
+      "Alex Lloyd",
+      "Christof A Leicht",
+      "Simon Hodder",
+      "Matthew J Maley"
+    ],
+    "journal": "PloS one",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0353797",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Young Adult",
+      "Immersion",
+      "Hot Temperature",
+      "Adult",
+      "Perception"
+    ],
+    "keywords": [],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42709729/"
+  },
+  {
+    "pmid": "42709292",
+    "title": "Light-Based Therapies for Metabolic Modulation of Mesenchymal Stem Cells in Regenerative Dentistry.",
+    "authors": [
+      "Ygor Gonçalves Felix de Mattos",
+      "Otávio Augusto Alfonso Morais de Melo",
+      "José Ricardo Muniz Ferreira",
+      "Jamil Awad Shibli",
+      "Letícia Mello Bezinelli",
+      "Fernanda de Paula Eduardo",
+      "Alessandra V S Faria",
+      "Daniela Franco Bueno"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05008-x",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Mesenchymal Stem Cells",
+      "Low-Level Light Therapy",
+      "Cell Differentiation",
+      "Animals",
+      "Mitochondria",
+      "Periodontal Diseases",
+      "Regenerative Medicine",
+      "Temporomandibular Joint Disorders",
+      "Regeneration",
+      "Cell Proliferation"
+    ],
+    "keywords": [
+      "Low-level laser therapy",
+      "Mesenchymal stem cells (MSCs)",
+      "Mitochondrial metabolism",
+      "Osteogenesis, adipogenesis, chondrogenesis, angiogenesis, Light-Based Therapies",
+      "Photobiomodulation (PBM)",
+      "Regenerative dentistry"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42709292/"
+  },
+  {
+    "pmid": "42709245",
+    "title": "Efficacy of high-intensity laser therapy versus ultrasound therapy in patients with knee osteoarthritis: a randomized controlled trial.",
+    "authors": [
+      "Chantanee Ninlerd",
+      "Nithithorn Benjakulsap",
+      "Chutikarn Amornsupak",
+      "Gonrada Phuangphay",
+      "Rapeepat Narkbunnam",
+      "Nichakorn Khomawut"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05019-8",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Osteoarthritis, Knee",
+      "Ultrasonic Therapy",
+      "Female",
+      "Middle Aged",
+      "Male",
+      "Treatment Outcome",
+      "Aged",
+      "Single-Blind Method",
+      "Laser Therapy",
+      "Exercise Therapy"
+    ],
+    "keywords": [
+      "High-intensity laser therapy",
+      "Knee osteoarthritis",
+      "Photobiomodulation",
+      "Physical therapy modalities",
+      "Ultrasound therapy"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42709245/"
+  },
+  {
     "pmid": "42696344",
     "title": "Red Light Therapy in Cosmetic Dermatology: Marketing Claims Backed by Evidence?",
     "authors": [
@@ -1225,7 +1361,8 @@
     "year": "2026",
     "doi": "10.1152/ajpregu.00099.2026",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -2354,6 +2491,53 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42443854/"
+  },
+  {
+    "pmid": "42443404",
+    "title": "Effect of 810-nm diode laser photobiomodulation on the reversal of maxillary and mandibular soft tissue local anaesthesia in children: a randomized split-mouth clinical trial.",
+    "authors": [
+      "Ayça Kurt",
+      "Elif Kibaroğlu",
+      "Hatice Yıldırım",
+      "Zeynep Gümrükçü",
+      "Emre Balaban"
+    ],
+    "journal": "Scientific reports",
+    "year": "2026",
+    "doi": "10.1038/s41598-026-62428-z",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Lasers, Semiconductor",
+      "Child, Preschool",
+      "Anesthesia, Local",
+      "Female",
+      "Male",
+      "Low-Level Light Therapy",
+      "Mandible",
+      "Maxilla",
+      "Pediatric Anesthesia"
+    ],
+    "keywords": [
+      "Diode laser",
+      "Local anaesthesia",
+      "Paediatric dentistry",
+      "Photobiomodulation therapy",
+      "Soft tissue anaesthesia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42443404/"
   },
   {
     "pmid": "42438445",
@@ -5026,6 +5210,56 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42259468/"
   },
   {
+    "pmid": "42258987",
+    "title": "The effectiveness of transcranial photobiomodulation therapy (tPBM) and transauricular vagus nerve stimulation (taVNS) on reducing alcohol craving.",
+    "authors": [
+      "Manjae Kwon",
+      "Minkyung Park",
+      "Minjae Kim",
+      "Jungyoon Kang",
+      "Woo-Young Ahn",
+      "Dongil Chung",
+      "Jung-Seok Choi",
+      "Young-Chul Jung"
+    ],
+    "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "year": "2026",
+    "doi": "10.1016/j.neurot.2026.e00937",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Vagus Nerve Stimulation",
+      "Craving",
+      "Female",
+      "Low-Level Light Therapy",
+      "Male",
+      "Adult",
+      "Treatment Outcome",
+      "Alcohol Drinking",
+      "Young Adult",
+      "Alcoholism"
+    ],
+    "keywords": [
+      "Alcohol",
+      "Craving",
+      "Noninvasive brain stimulation",
+      "Transauricular vagus nerve stimulation (taVNS)",
+      "Transcranial photobiomodulation (tPBM)"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42258987/"
+  },
+  {
     "pmid": "42258432",
     "title": "Therapeutic Massage for Psychological Well-being in Geriatric Oncology.",
     "authors": [
@@ -6029,7 +6263,8 @@
     "year": "2026",
     "doi": "10.1152/japplphysiol.00147.2026",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
     ],
     "mesh": [
       "Humans",
@@ -6969,58 +7204,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41983634/"
   },
   {
-    "pmid": "41974297",
-    "title": "Safety analysis of repeated low-level red light therapy on cone mosaic and microvasculature by adaptive optics scanning laser ophthalmoscopy.",
-    "authors": [
-      "Yu Yue",
-      "Ni Zhang",
-      "Ke-Yu Liu",
-      "Yuan-Yuan Zhong",
-      "Han Wang",
-      "Shu-Lin Liu",
-      "Wen-Juan Wan",
-      "Yan-Lai Zhang",
-      "Wen-Li Deng"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105473",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Ophthalmoscopy",
-      "Myopia",
-      "Retinal Cone Photoreceptor Cells",
-      "Red Light",
-      "Cross-Sectional Studies",
-      "Female",
-      "Low-Level Light Therapy",
-      "Microvessels",
-      "Male",
-      "Child",
-      "Retinal Vessels"
-    ],
-    "keywords": [
-      "Adaptive optics (AO)",
-      "Cone morphology",
-      "Myopia",
-      "Photobiomodulation",
-      "Repeated low-level red light (RLRL) therapy",
-      "Retinal microvasculature"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41974297/"
-  },
-  {
     "pmid": "41973866",
     "title": "Efficacy and Safety of Massage Therapy for Cognitive Impairment in Patients With Autism Spectrum Disorder: Protocol for a Systematic Review and Meta-Analysis.",
     "authors": [
@@ -7437,57 +7620,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41868829/"
-  },
-  {
-    "pmid": "41867108",
-    "title": "Effects of 635 nm Photobiomodulation on Human Gingival Fibroblast Proliferation: A Preliminary In Vitro Study.",
-    "authors": [
-      "Maria Teresa Colangelo",
-      "Rita Antonelli",
-      "Francesca Marti",
-      "Roberta Iaria",
-      "Roberto Sala",
-      "Stefano Guizzardi",
-      "Carlo Galli",
-      "Paolo Vescovi",
-      "Marco Meleti"
-    ],
-    "journal": "Photobiomodulation, photomedicine, and laser surgery",
-    "year": "2026",
-    "doi": "10.1177/25785478261434252",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Fibroblasts",
-      "Gingiva",
-      "Cell Proliferation",
-      "Wound Healing",
-      "Low-Level Light Therapy",
-      "Cell Movement",
-      "Cells, Cultured",
-      "Lasers, Semiconductor",
-      "In Vitro Techniques",
-      "Red Light"
-    ],
-    "keywords": [
-      "LLLT",
-      "PBM",
-      "human gingival fibroblast",
-      "low-level laser therapy",
-      "periodontal tissue regeneration",
-      "photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41867108/"
   },
   {
     "pmid": "41848988",
@@ -7918,7 +8050,8 @@
     "year": "2026",
     "doi": "10.1152/ajpregu.00309.2025",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -9161,8 +9294,7 @@
     "doi": "10.1177/10966218251383277",
     "publication_types": [
       "Journal Article",
-      "Scoping Review",
-      "Review"
+      "Scoping Review"
     ],
     "mesh": [
       "Massage",
@@ -11149,6 +11281,59 @@
     "design_class": "a",
     "design_label": "Systematic review / meta-analysis",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40988406/"
+  },
+  {
+    "pmid": "40961289",
+    "title": "The Effect of a Single Session of Postexercise Hot Water Immersion on Same Day Aerobic Performance and Recovery Status.",
+    "authors": [
+      "Courtney E Wheelock",
+      "Elizabeth M Lavoie",
+      "John Luke Pryor",
+      "Riana R Pryor",
+      "Deanna Colburn",
+      "Blair D Johnson",
+      "David Hostler"
+    ],
+    "journal": "Journal of strength and conditioning research",
+    "year": "2025",
+    "doi": "10.1519/JSC.0000000000005237",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Immersion",
+      "Post-Exercise Recovery",
+      "Hot Temperature",
+      "Male",
+      "Oxygen Consumption",
+      "Young Adult",
+      "Heart Rate",
+      "Exercise",
+      "Water",
+      "Female",
+      "Post-Exercise Recovery Techniques",
+      "Exercise Test",
+      "Adult",
+      "Athletic Performance"
+    ],
+    "keywords": [
+      "exercise recovery",
+      "heat stress",
+      "plasma volume",
+      "running economy",
+      "training"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40961289/"
   },
   {
     "pmid": "40958329",
@@ -18798,55 +18983,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38281244/"
-  },
-  {
-    "pmid": "38271083",
-    "title": "The vascular response to acute sauna heating is similar in young and middle-aged adults.",
-    "authors": [
-      "Olivia K Leach",
-      "Kaitlyn Strong",
-      "Gary W Mack",
-      "Jayson R Gifford"
-    ],
-    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-    "year": "2024",
-    "doi": "10.1152/japplphysiol.00287.2023",
-    "publication_types": [
-      "Journal Article",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Male",
-      "Middle Aged",
-      "Female",
-      "Young Adult",
-      "Humans",
-      "Aged",
-      "Steam Bath",
-      "Cardiovascular Diseases",
-      "Heating",
-      "Vasodilation",
-      "Hemodynamics",
-      "Brachial Artery",
-      "Endothelium, Vascular",
-      "Regional Blood Flow",
-      "Blood Flow Velocity"
-    ],
-    "keywords": [
-      "blood flow",
-      "heat stress",
-      "shear",
-      "vascular function"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38271083/"
   },
   {
     "pmid": "38258830",
