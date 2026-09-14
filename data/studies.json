@@ -1,5 +1,91 @@
 [
   {
+    "pmid": "42733098",
+    "title": "Efficacy of low-level laser therapy for subacromial impingement syndrome: a meta-analysis of randomized controlled trials.",
+    "authors": [
+      "Liangsheng Chen",
+      "Yage Wang"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05028-7",
+    "publication_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Shoulder Impingement Syndrome",
+      "Low-Level Light Therapy",
+      "Range of Motion, Articular",
+      "Randomized Controlled Trials as Topic",
+      "Treatment Outcome"
+    ],
+    "keywords": [
+      "Low-level laser therapy",
+      "Photobiomodulation",
+      "Shoulder pain",
+      "Subacromial impingement syndrome"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42733098/"
+  },
+  {
+    "pmid": "42731113",
+    "title": "Photothermal-Activated Platelet-Rich Plasma Versus Conventional Platelet-Rich Plasma for Melasma: A Split-Face, Double-Blind Randomized Controlled Trial.",
+    "authors": [
+      "Rueangrit Siriphanit",
+      "Nattachar Ranoppawan",
+      "Sasin Charoensuksira",
+      "Wilai Thanasarnaksorn",
+      "Atchima Suwanchinda",
+      "Jitlada Meephansan"
+    ],
+    "journal": "Photodermatology, photoimmunology & photomedicine",
+    "year": "2026",
+    "doi": "10.1111/phpp.70122",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Melanosis",
+      "Female",
+      "Platelet-Rich Plasma",
+      "Double-Blind Method",
+      "Adult",
+      "Middle Aged",
+      "Low-Level Light Therapy"
+    ],
+    "keywords": [
+      "melanin index",
+      "melasma",
+      "photobiomodulation",
+      "photothermal activation",
+      "platelet‐rich plasma"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42731113/"
+  },
+  {
     "pmid": "42709729",
     "title": "Examining the anticipated uptake and acceptability of heat therapy in males: Expectations and perceptions before and after hot water immersion.",
     "authors": [
@@ -6925,92 +7011,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42009188/"
   },
   {
-    "pmid": "42001923",
-    "title": "Does the use of laser therapy enhance healing and reduce the size of periapical lesions? A systematic review and meta-analysis.",
-    "authors": [
-      "Gustavo Creazzo",
-      "Benjamin Salmon",
-      "Juliana Almeida",
-      "André Luis Faria-E-Silva",
-      "Fabiane Carneiro Lopes-Olhê",
-      "Aline Evangelista Souza-Gabriel",
-      "Manoel Damião Sousa-Neto",
-      "Amanda Pelegrin Candemil"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105472",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Wound Healing",
-      "Low-Level Light Therapy",
-      "Periapical Periodontitis",
-      "Laser Therapy"
-    ],
-    "keywords": [
-      "Bone regeneration",
-      "Low-level light therapy",
-      "Periapical tissue",
-      "Photobiomodulation",
-      "Systematic review"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42001923/"
-  },
-  {
-    "pmid": "42000612",
-    "title": "Light therapy for chronic pain: From molecular mechanisms to next-generation therapeutic strategies.",
-    "authors": [
-      "Shao-Jie Gao",
-      "Dai-Qiang Liu",
-      "Chao-Ran Ren",
-      "Ya-Qun Zhou",
-      "Wei Mei"
-    ],
-    "journal": "Journal of photochemistry and photobiology. B, Biology",
-    "year": "2026",
-    "doi": "10.1016/j.jphotobiol.2026.113438",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Chronic Pain",
-      "Optogenetics",
-      "Animals",
-      "Low-Level Light Therapy",
-      "Phototherapy",
-      "Blue Light"
-    ],
-    "keywords": [
-      "Chronic pain",
-      "Laser photobiomodulation",
-      "Light therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42000612/"
-  },
-  {
     "pmid": "41997531",
     "title": "Low-level light therapy as an adjunct to intense pulsed light for lipid layer thickness improvement in meibomian gland dysfunction: A randomized trial.",
     "authors": [
@@ -8181,6 +8181,50 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41710285/"
+  },
+  {
+    "pmid": "41703733",
+    "title": "Effects of Photobiomodulation Therapy in Lateral Luxation of Anterior Permanent Teeth: A Randomized, Double-Blind Clinical Trial.",
+    "authors": [
+      "Flávia Monari Belmonte",
+      "Pedro Cardoso Soares",
+      "Luciane Hiramatsu Azevedo",
+      "Celso Luiz Caldeira",
+      "Patrícia Moreira de Freitas"
+    ],
+    "journal": "Dental traumatology : official publication of International Association for Dental Traumatology",
+    "year": "2026",
+    "doi": "10.1111/edt.70064",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Double-Blind Method",
+      "Low-Level Light Therapy",
+      "Female",
+      "Male",
+      "Tooth Avulsion",
+      "Pain Measurement",
+      "Adult",
+      "Postoperative Pain",
+      "Dentin Sensitivity",
+      "Red Light",
+      "Incisor",
+      "Treatment Outcome",
+      "Young Adult"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41703733/"
   },
   {
     "pmid": "41699915",
