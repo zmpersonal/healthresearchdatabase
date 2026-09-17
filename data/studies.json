@@ -1,5 +1,289 @@
 [
   {
+    "pmid": "42747615",
+    "title": "Single-session extraoral photobiomodulation reduces early postoperative pain but not edema or trismus after impacted mandibular third molar extraction: a randomized controlled trial.",
+    "authors": [
+      "Ahmet Anaç",
+      "Bozkurt Kubi̇lay Işık",
+      "Zeynep Asude Bozkır"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05020-1",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Postoperative Pain",
+      "Molar, Third",
+      "Trismus",
+      "Edema",
+      "Tooth, Impacted",
+      "Low-Level Light Therapy",
+      "Female",
+      "Tooth Extraction",
+      "Male",
+      "Young Adult",
+      "Prospective Studies",
+      "Adult",
+      "Quality of Life",
+      "Pain Measurement",
+      "Mandible",
+      "Lasers, Semiconductor",
+      "Treatment Outcome"
+    ],
+    "keywords": [
+      "Edema",
+      "Impacted third molar",
+      "Photobiomodulation",
+      "Postoperative pain",
+      "Quality of life",
+      "Randomized controlled trial",
+      "Trismus"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42747615/"
+  },
+  {
+    "pmid": "42746831",
+    "title": "Dual-Wavelength Super-Pulsed Diode Laser (810 and 980 nm) for Mucocele Excision in the Lower Lip: Case Report.",
+    "authors": [
+      "Andréa Dias Neves Lago",
+      "Tábata Resque Beckmann Carvalho",
+      "Huothon Luilmo Guedes de Almeida",
+      "Amanda Rafaelly Honório Mandetta",
+      "Cinthya Cosme Gutierrez Duran",
+      "Raquel Agnelli Mesquita-Ferrari",
+      "Anna Carolina Ratto Tempestini Horliana",
+      "Kristianne Porta Santos Fernandes",
+      "Manoela Domingues Martins",
+      "Sandra Kalil Bussadori"
+    ],
+    "journal": "Journal of biophotonics",
+    "year": "2026",
+    "doi": "10.1002/jbio.70352",
+    "publication_types": [
+      "Journal Article",
+      "Case Reports"
+    ],
+    "mesh": [
+      "Mucocele",
+      "Humans",
+      "Lasers, Semiconductor",
+      "Lip"
+    ],
+    "keywords": [
+      "diode laser",
+      "dual‐wavelength laser",
+      "excisional biopsy",
+      "mucocele",
+      "oral soft tissue surgery",
+      "photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42746831/"
+  },
+  {
+    "pmid": "42742785",
+    "title": "Efficacy of photobiomodulation in perineal trauma after vaginal delivery: a protocol for a randomized, blinded clinical trial.",
+    "authors": [
+      "Alianny Rodrigues",
+      "Magdalena Brilhante",
+      "Emilly Lima",
+      "Isabelly Regalado",
+      "Maria Thereza Micussi",
+      "Laiane Eufrásio",
+      "Adriana Magalhães"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05036-7",
+    "publication_types": [
+      "Journal Article",
+      "Clinical Trial Protocol"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Perineum",
+      "Double-Blind Method",
+      "Low-Level Light Therapy",
+      "Delivery, Obstetric",
+      "Edema",
+      "Pregnancy",
+      "Postpartum Period",
+      "Randomized Controlled Trials as Topic",
+      "Adult",
+      "Vulva"
+    ],
+    "keywords": [
+      "Laser",
+      "Pain",
+      "Perineal trauma.hi",
+      "Postpartum period",
+      "Postpartum women",
+      "Vaginal delivery"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742785/"
+  },
+  {
+    "pmid": "42741893",
+    "title": "Effects of cold-water immersion after rugby-specific training on endurance performance.",
+    "authors": [
+      "Kohei Dobashi",
+      "Takeru Hirai"
+    ],
+    "journal": "The Journal of sports medicine and physical fitness",
+    "year": "2026",
+    "doi": "10.23736/S0022-4707.26.17891-8",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Immersion",
+      "Football",
+      "Physical Endurance",
+      "Cold Temperature",
+      "Oxygen Consumption",
+      "Young Adult",
+      "Post-Exercise Recovery Techniques",
+      "Heart Rate",
+      "Post-Exercise Recovery",
+      "Athletic Performance",
+      "Lactic Acid",
+      "Exercise Test"
+    ],
+    "keywords": [],
+    "topics": [
+      "cold-water-immersion",
+      "exercise-recovery"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion",
+      "Exercise Recovery"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741893/"
+  },
+  {
+    "pmid": "42740150",
+    "title": "Spectral and Directed Connectivity EEG Markers for Classifying Alzheimer's Disease, Frontotemporal Dementia, and Healthy Controls with Exploratory Photobiomodulation Case-Study Projection.",
+    "authors": [
+      "Zoran Šverko",
+      "Saša Vlahinić",
+      "Miroslav Vrankić",
+      "Nino Stojković"
+    ],
+    "journal": "Sensors (Basel, Switzerland)",
+    "year": "2026",
+    "doi": "10.3390/s26175530",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Alzheimer Disease",
+      "Electroencephalography",
+      "Frontotemporal Dementia",
+      "Female",
+      "Male",
+      "Aged",
+      "Case-Control Studies",
+      "Middle Aged"
+    ],
+    "keywords": [
+      "Alzheimer’s disease",
+      "Granger causality",
+      "directed functional connectivity",
+      "electroencephalography",
+      "frontotemporal dementia",
+      "photobiomodulation",
+      "spectral analysis",
+      "theta-to-alpha ratio"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42740150/"
+  },
+  {
+    "pmid": "42734675",
+    "title": "Laser auriculotherapy for the treatment of pain: a scoping review.",
+    "authors": [
+      "Filipe José Pereira Magalhães",
+      "Jéssica Pinheiro Carnaúba",
+      "Odaleia de Oliveira Farias",
+      "Bernardo Diniz Coutinho",
+      "Marli Teresinha Gimeniz Galvão",
+      "Mariana Lima Vale"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05000-5",
+    "publication_types": [
+      "Journal Article",
+      "Scoping Review",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Auriculotherapy",
+      "Pain Management",
+      "Red Light",
+      "Chronic Pain",
+      "Low Back Pain"
+    ],
+    "keywords": [
+      "Auriculotherapy",
+      "Laser",
+      "Pain",
+      "Photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734675/"
+  },
+  {
     "pmid": "42733098",
     "title": "Efficacy of low-level laser therapy for subacromial impingement syndrome: a meta-analysis of randomized controlled trials.",
     "authors": [
@@ -2596,13 +2880,13 @@
       "Randomized Controlled Trial"
     ],
     "mesh": [
-      "Humans",
       "Child",
-      "Lasers, Semiconductor",
       "Child, Preschool",
-      "Anesthesia, Local",
       "Female",
+      "Humans",
       "Male",
+      "Anesthesia, Local",
+      "Lasers, Semiconductor",
       "Low-Level Light Therapy",
       "Mandible",
       "Maxilla",
@@ -4614,12 +4898,10 @@
       "sport-related concussion"
     ],
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "design_class": "b",
     "design_label": "Randomized controlled trial",
@@ -4762,6 +5044,59 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42286424/"
+  },
+  {
+    "pmid": "42284729",
+    "title": "Exosomes from adipose-derived stem cells preconditioned with 650- or 810-nm photobiomodulation enhance cutaneous wound healing in rats.",
+    "authors": [
+      "Abdollah Amini",
+      "Seyed Mahmoud Hashemi",
+      "Fatemeh Ahangari",
+      "Soroush Bayat",
+      "Mobina Tohidian",
+      "Richard Albright",
+      "Sufan Chien",
+      "Mohammad Bayat"
+    ],
+    "journal": "Tissue & cell",
+    "year": "2026",
+    "doi": "10.1016/j.tice.2026.103690",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "Exosomes",
+      "Wound Healing",
+      "Stem Cells",
+      "Rats",
+      "Skin",
+      "Vascular Endothelial Growth Factor A",
+      "Low-Level Light Therapy",
+      "MicroRNAs",
+      "Adipose Tissue",
+      "Humans",
+      "Red Light",
+      "Hypoxia-Inducible Factor 1, alpha Subunit",
+      "Male",
+      "Cell Proliferation"
+    ],
+    "keywords": [
+      "Cutaneous wound healing",
+      "Exosomes",
+      "Photobiomodulation therapy",
+      "Rat",
+      "Stem cell preconditioning"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284729/"
   },
   {
     "pmid": "42283739",
@@ -5699,55 +6034,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42231103/"
   },
   {
-    "pmid": "42228167",
-    "title": "Photobiomodulation for hormone therapy-induced sexual dysfunction in women with breast cancer: a prospective quasi-experimental clinical study with a parallel observational group.",
-    "authors": [
-      "Lara Resende Vieira",
-      "Laura Ferreira Rezende"
-    ],
-    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "year": "2026",
-    "doi": "10.1007/s00520-026-10846-0",
-    "publication_types": [
-      "Clinical Study",
-      "Journal Article",
-      "Observational Study"
-    ],
-    "mesh": [
-      "Adult",
-      "Aged",
-      "Female",
-      "Humans",
-      "Middle Aged",
-      "Antineoplastic Agents, Hormonal",
-      "Breast Neoplasms",
-      "Cohort Studies",
-      "Low-Level Light Therapy",
-      "Pain Measurement",
-      "Prospective Studies",
-      "Quality of Life",
-      "Sexual Dysfunction, Physiological",
-      "Surveys and Questionnaires"
-    ],
-    "keywords": [
-      "Breast cancer",
-      "Female sexual dysfunction",
-      "Genitopelvic pain",
-      "Hormone therapy",
-      "Non-hormonal therapies",
-      "Photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42228167/"
-  },
-  {
     "pmid": "42227978",
     "title": "Wavelength-Dependent Photobiomodulation Regulates Macrophage Polarization via Mitochondrial Dynamics and Metabolic Reprogramming.",
     "authors": [
@@ -5891,53 +6177,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42208329/"
   },
   {
-    "pmid": "42206653",
-    "title": "Effects of Photobiomodulation by Laser and Mechanical Systems on Low Back Pain: A Longitudinal, Randomized, Placebo-Controlled Clinical Trial.",
-    "authors": [
-      "Adriana Teresa Silva Santos",
-      "Andreia Maria Silva Vilela Terra",
-      "Nivaldo Antonio Parizotto",
-      "Vanderlei Salvador Bagnato",
-      "Fernanda Rossi Paolillo"
-    ],
-    "journal": "Journal of biophotonics",
-    "year": "2026",
-    "doi": "10.1002/jbio.70299",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Low Back Pain",
-      "Low-Level Light Therapy",
-      "Longitudinal Studies",
-      "Male",
-      "Female",
-      "Middle Aged",
-      "Adult",
-      "Quality of Life",
-      "Biomechanical Phenomena",
-      "Placebos"
-    ],
-    "keywords": [
-      "laser",
-      "low back pain",
-      "mechanical systems",
-      "photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42206653/"
-  },
-  {
     "pmid": "42204828",
     "title": "Factors influencing acute tympanic temperature changes during cold water exposure.",
     "authors": [
@@ -6023,41 +6262,40 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42204531/"
   },
   {
-    "pmid": "42140330",
-    "title": "Adjunctive repeated low-level red-light therapy enhances structural outcomes in optical myopia control: A meta-analysis.",
+    "pmid": "42189842",
+    "title": "Clinical Outcomes of Photobiomodulation Therapy for Inferior Alveolar Nerve Injury: A Retrospective Analysis.",
     "authors": [
-      "Nian Zhang",
-      "Yayan You",
-      "Rui Li",
-      "Bingjie Shi"
+      "Halenur Ates",
+      "Yavuz Tolga Korkmaz"
     ],
-    "journal": "Photodiagnosis and photodynamic therapy",
+    "journal": "Lasers in surgery and medicine",
     "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105512",
+    "doi": "10.1002/lsm.70154",
     "publication_types": [
-      "Journal Article",
-      "Meta-Analysis",
-      "Review"
+      "Journal Article"
     ],
     "mesh": [
       "Humans",
-      "Myopia",
-      "Red Light",
+      "Female",
+      "Retrospective Studies",
+      "Male",
       "Low-Level Light Therapy",
-      "Orthokeratologic Procedures",
-      "Combined Modality Therapy",
-      "Eyeglasses",
-      "Refraction, Ocular",
-      "Treatment Outcome"
+      "Middle Aged",
+      "Adult",
+      "Treatment Outcome",
+      "Adolescent",
+      "Aged, 80 and over",
+      "Aged",
+      "Young Adult",
+      "Mandibular Nerve Injuries",
+      "Postoperative Complications"
     ],
     "keywords": [
-      "Choroid",
-      "DIMS",
-      "Meta-analysis",
-      "Myopia",
-      "Orthokeratology",
-      "Photobiomodulation",
-      "Red light therapy"
+      "laser therapy",
+      "nerve degeneration",
+      "nerve regeneration",
+      "paresthesia",
+      "peripheral nerve injuries"
     ],
     "topics": [
       "photobiomodulation"
@@ -6065,53 +6303,9 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140330/"
-  },
-  {
-    "pmid": "42114940",
-    "title": "LOW-LEVEL LASER THERAPY AND DENTAL INJECTION PAIN IN CHILDREN: A SYSTEMATIC REVIEW AND META-ANALYSIS.",
-    "authors": [
-      "Narjes Amrollahi",
-      "Seyed Amir Reza ADEl",
-      "Mohammad Javad Tarrahi",
-      "Maryam Kalantari"
-    ],
-    "journal": "The journal of evidence-based dental practice",
-    "year": "2026",
-    "doi": "10.1016/j.jebdp.2026.102235",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Child",
-      "Injections",
-      "Pain Management",
-      "Anesthetics, Local",
-      "Pain Measurement",
-      "Randomized Controlled Trials as Topic"
-    ],
-    "keywords": [
-      "Dental injection",
-      "Local anesthesia",
-      "Low-level light therapy",
-      "Pain management",
-      "Photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42114940/"
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189842/"
   },
   {
     "pmid": "42113470",
@@ -6519,48 +6713,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42076873/"
   },
   {
-    "pmid": "42068816",
-    "title": "The impact of stem cell secretome, exosomes, and photobiomodulation on enhancing diabetic wound recovery.",
-    "authors": [
-      "Ranya M Ibrahim",
-      "Nicolette N Houreld"
-    ],
-    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-    "year": "2026",
-    "doi": "10.1016/j.biopha.2026.119440",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Exosomes",
-      "Wound Healing",
-      "Animals",
-      "Low-Level Light Therapy",
-      "Secretome",
-      "Stem Cells",
-      "Diabetes Mellitus"
-    ],
-    "keywords": [
-      "Chronic wounds",
-      "Exosomes",
-      "Photobiomodulation",
-      "Secretome",
-      "Stem cells",
-      "Wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42068816/"
-  },
-  {
     "pmid": "42060269",
     "title": "Photobiomodulation therapy in the treatment of genitourinary syndrome in postmenopausal women - a placebo-controlled double-blind clinical trial.",
     "authors": [
@@ -6667,42 +6819,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42059974/"
   },
   {
-    "pmid": "42053131",
-    "title": "Integrating Photobiomodulation into Routine Care in the Absence of Guidelines: An Approach Based on Combining Available Data from the Literature with Clinical Experience.",
-    "authors": [
-      "Lidvine Godaert",
-      "Hélène Dewaele",
-      "Antoine Lemaire",
-      "Moustapha Dramé"
-    ],
-    "journal": "Photobiomodulation, photomedicine, and laser surgery",
-    "year": "2026",
-    "doi": "10.1177/25785478261443160",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Practice Guidelines as Topic"
-    ],
-    "keywords": [
-      "effectiveness",
-      "photobiomodulation",
-      "protocol",
-      "routine care"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42053131/"
-  },
-  {
     "pmid": "42052855",
     "title": "Why and When Are Evidence-Based Interventions Adopted in Paediatric Supportive Care? A Qualitative Exploration of the Determinants of Photobiomodulation Implementation.",
     "authors": [
@@ -6807,163 +6923,6 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42046494/"
-  },
-  {
-    "pmid": "42030720",
-    "title": "The impact of near-infrared photobiomodulation therapy on human oocyte rescue in vitro maturation.",
-    "authors": [
-      "Sara Stigliani",
-      "Matilde Balbi",
-      "Silvia Ravera",
-      "Ida Casciano",
-      "Francesca Bovis",
-      "Claudia Massarotti",
-      "Paola Anserini",
-      "Andrea Amaroli",
-      "Paola Scaruffi"
-    ],
-    "journal": "Journal of photochemistry and photobiology. B, Biology",
-    "year": "2026",
-    "doi": "10.1016/j.jphotobiol.2026.113452",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Oocytes",
-      "Female",
-      "Adult",
-      "Adenosine Triphosphate",
-      "Low-Level Light Therapy",
-      "Mitochondria",
-      "Oxidative Phosphorylation",
-      "Lipid Peroxidation",
-      "In Vitro Oocyte Maturation Techniques",
-      "Infrared Rays",
-      "Prospective Studies",
-      "Metaphase"
-    ],
-    "keywords": [
-      "Immature oocytes",
-      "Mitochondrial metabolism",
-      "Oocyte maturation",
-      "Photobiomodulation therapy",
-      "Rescue in vitro maturation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42030720/"
-  },
-  {
-    "pmid": "42024020",
-    "title": "Home-based transcranial photobiomodulation improves cognitive function in mild cognitive impairment due to Alzheimer's disease: A randomized, double-blind, placebo-controlled confirmatory trial.",
-    "authors": [
-      "Hyelim Chun",
-      "Hee Won Lee",
-      "Seung Bong Hong",
-      "Sang Soo Ha",
-      "Kang Jun Yoon"
-    ],
-    "journal": "Journal of Alzheimer's disease : JAD",
-    "year": "2026",
-    "doi": "10.1177/13872877261443973",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Alzheimer Disease",
-      "Cognitive Dysfunction",
-      "Aged",
-      "Low-Level Light Therapy",
-      "Double-Blind Method",
-      "Female",
-      "Male",
-      "Cognitive Enhancement",
-      "Neuropsychological Tests",
-      "Treatment Outcome",
-      "Cognition",
-      "Aged, 80 and over"
-    ],
-    "keywords": [
-      "Alzheimer's disease",
-      "mild cognitive impairment",
-      "near-infrared light",
-      "neuromodulation",
-      "photobiomodulation therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42024020/"
-  },
-  {
-    "pmid": "42009264",
-    "title": "Effects of photobiomodulation by infrared LED-therapy on improving cardiopulmonary functions and hematologic parameters in patients with community-acquired pneumonia (CAP).",
-    "authors": [
-      "Pâmela Camila Pereira",
-      "Carlos José de Lima",
-      "Adriana Barrinha Fernandes",
-      "Henrique Cunha Carvalho",
-      "Leandro Procópio Alves",
-      "Renato Amaro Zângaro",
-      "Antonio Balbin Villaverde"
-    ],
-    "journal": "Respiratory medicine",
-    "year": "2026",
-    "doi": "10.1016/j.rmed.2026.108847",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Male",
-      "Community-Acquired Pneumonia",
-      "Middle Aged",
-      "Low-Level Light Therapy",
-      "Aged",
-      "Treatment Outcome",
-      "Length of Stay",
-      "Respiratory Function Tests",
-      "Infrared Rays",
-      "Brazil",
-      "Anti-Bacterial Agents",
-      "Community-Acquired Infections",
-      "Adult",
-      "Lung",
-      "Oxygen Saturation"
-    ],
-    "keywords": [
-      "Cardiopulmonary function effects",
-      "Community-acquired pneumonia",
-      "Hematologic component effects",
-      "Infrared LED",
-      "Photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42009264/"
   },
   {
     "pmid": "42009188",
@@ -8324,6 +8283,44 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41679164/"
   },
   {
+    "pmid": "41630443",
+    "title": "Light-emitting diode photobiomodulation on rheumatoid arthritis and osteoarthritis: In vitro and in vivo studies.",
+    "authors": [
+      "Adenilson de Souza da Fonseca",
+      "Flávia de Paoli"
+    ],
+    "journal": "Photochemistry and photobiology",
+    "year": "2026",
+    "doi": "10.1111/php.70077",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Arthritis, Rheumatoid",
+      "Osteoarthritis",
+      "Humans",
+      "Low-Level Light Therapy",
+      "Animals",
+      "Red Light"
+    ],
+    "keywords": [
+      "arthritis",
+      "laser",
+      "light‐emitting diode",
+      "photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41630443/"
+  },
+  {
     "pmid": "41603269",
     "title": "The effects of hot-water immersion on cardiovascular and cardiorespiratory health of healthy adults: A systematic review and meta-analysis.",
     "authors": [
@@ -8402,6 +8399,52 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41590968/"
+  },
+  {
+    "pmid": "41588551",
+    "title": "Effects of photobiomodulation with 450 nm and 635 nm laser wavelengths on the release of TGF-β, BMP-2, FGF-2, and VEGF from dental pulp stem cells.",
+    "authors": [
+      "Mahsa Sadeghi",
+      "Kiumars Nazarimoghadam",
+      "Hossein Labbaf",
+      "Zahra Jafari",
+      "Nasim Chiniforush"
+    ],
+    "journal": "Photochemistry and photobiology",
+    "year": "2026",
+    "doi": "10.1111/php.70073",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Bone Morphogenetic Protein 2",
+      "Dental Pulp",
+      "Stem Cells",
+      "Fibroblast Growth Factor 2",
+      "Transforming Growth Factor beta",
+      "Vascular Endothelial Growth Factor A",
+      "Low-Level Light Therapy",
+      "Red Light",
+      "Cells, Cultured"
+    ],
+    "keywords": [
+      "bone morphogenetic protein 2",
+      "fibroblast growth factors",
+      "photobiomodulation therapy",
+      "stem cells",
+      "transforming growth factors",
+      "vascular endothelial growth factors"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41588551/"
   },
   {
     "pmid": "41578562",
@@ -14556,7 +14599,8 @@
     "publication_types": [
       "Journal Article",
       "Systematic Review",
-      "Meta-Analysis"
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
