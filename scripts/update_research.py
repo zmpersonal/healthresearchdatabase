@@ -107,19 +107,28 @@ def extract_year(article) -> str:
     return m.group(0) if m else ""
 
 
-def classify(pub_types: list[str], mesh: list[str]) -> tuple[str, str]:
+def classify(pub_types: list[str], mesh: list[str], methods_text: str = "") -> tuple[str, str, str, float]:
     p = {x.lower() for x in pub_types}
     if "meta-analysis" in p or "systematic review" in p:
-        return DESIGNS[0]
+        return (*DESIGNS[0], "PubMed publication type", 1.0)
     if "randomized controlled trial" in p:
-        return DESIGNS[1]
+        return (*DESIGNS[1], "PubMed publication type", 1.0)
     clinical_terms = {"controlled clinical trial", "clinical trial", "clinical trial, phase i", "clinical trial, phase ii", "clinical trial, phase iii", "clinical trial, phase iv", "pragmatic clinical trial"}
     if p & clinical_terms:
-        return DESIGNS[2]
+        return (*DESIGNS[2], "PubMed publication type", 0.98)
     observational_terms = {"observational study", "comparative study", "multicenter study", "evaluation study"}
     if p & observational_terms:
-        return DESIGNS[3]
-    return DESIGNS[4]
+        return (*DESIGNS[3], "PubMed publication type", 0.96)
+    text=(methods_text or "").lower()
+    if re.search(r"\b(systematic review|meta-analysis|meta analysis)\b", text):
+        return (*DESIGNS[0], "Title/abstract methods heuristic", 0.88)
+    if re.search(r"\b(randomi[sz]ed|double[- ]blind|single[- ]blind|sham[- ]controlled|crossover trial)\b", text):
+        return (*DESIGNS[1], "Title/abstract methods heuristic", 0.82)
+    if re.search(r"\b(clinical trial|controlled trial|intervention study|pilot trial)\b", text):
+        return (*DESIGNS[2], "Title/abstract methods heuristic", 0.74)
+    if re.search(r"\b(prospective cohort|retrospective|cross-sectional|observational|case-control|cohort study)\b", text):
+        return (*DESIGNS[3], "Title/abstract methods heuristic", 0.78)
+    return (*DESIGNS[4], "Insufficient design metadata", 0.35)
 
 
 
@@ -133,6 +142,9 @@ def topic_matches_record(rec: dict, slug: str) -> bool:
     Search queries remain the first filter; this second pass only keeps a topic membership when
     the intervention is visible in title/keywords/MeSH metadata. It intentionally favors precision.
     """
+    title=(rec.get("title") or "").lower()
+    if re.search(r"\b(beef cattle|bovine|porcine|swine|murine|mice|mouse|rats?|canine|dogs?|equine|horses?)\b", title):
+        return False
     text=_blob([rec.get("title"), *(rec.get("keywords") or []), *(rec.get("mesh") or [])])
     rules={
         "sauna-heat-therapy": ["sauna", "passive heating", "passive heat", "hot water immersion", "hot-water immersion"],
@@ -199,7 +211,8 @@ def parse_pubmed_article(article, topic_slugs: list[str], topic_name_map: dict[s
         if (aid.attrib.get("IdType") or "").lower() == "doi":
             doi = text_of(aid)
             break
-    design_class, design_label = classify(pub_types, mesh)
+    abstract = text_of(citation.find("./Article/Abstract"))
+    design_class, design_label, classification_source, classifier_confidence = classify(pub_types, mesh, title+" "+abstract)
     year = extract_year(article)
     return {
         "pmid": pmid,
@@ -215,6 +228,9 @@ def parse_pubmed_article(article, topic_slugs: list[str], topic_name_map: dict[s
         "topic_names": [topic_name_map[s] for s in sorted(topic_slugs) if s in topic_name_map],
         "design_class": design_class,
         "design_label": design_label,
+        "classification_source": classification_source,
+        "classifier_confidence": classifier_confidence,
+        "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
         "pubmed_url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
     }
 
@@ -467,7 +483,10 @@ def main():
     existing_studies=json.loads(STUDIES_FILE.read_text(encoding="utf-8")) if STUDIES_FILE.exists() else []
     existing_trials=json.loads(TRIALS_FILE.read_text(encoding="utf-8")) if TRIALS_FILE.exists() else []
     if args.generate_only:
-        generate(topics,existing_studies,existing_trials);return
+        generate(topics,existing_studies,existing_trials)
+        import build_site
+        build_site.main()
+        return
     studies=fetch_pubmed(topics,args.retmax)
     trials=fetch_trials(topics)
     if not studies and existing_studies:
@@ -475,5 +494,7 @@ def main():
     if not trials and existing_trials:
         print("WARNING: no trial records fetched; preserving existing trials",file=sys.stderr);trials=existing_trials
     save_json(STUDIES_FILE,studies);save_json(TRIALS_FILE,trials);generate(topics,studies,trials)
+    import build_site
+    build_site.main()
 
 if __name__=="__main__":main()

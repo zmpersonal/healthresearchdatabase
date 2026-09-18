@@ -1,0 +1,25 @@
+# Health Research Database
+
+> A continuously updated, transparent claim-to-evidence map of consumer health and wellness research.
+
+Canonical site: https://healthresearchdatabase.com/
+Dataset edition: 2026-09-18
+Refresh cadence: Monday and Thursday
+Sources: PubMed and ClinicalTrials.gov
+License for normalized HRD metadata: CC BY 4.0
+
+## Primary products
+- Claim Ledger: https://healthresearchdatabase.com/claims/
+- Evidence Map: https://healthresearchdatabase.com/evidence-map/
+- Trial Radar: https://healthresearchdatabase.com/trial-radar/
+- Evidence Changes: https://healthresearchdatabase.com/changes/
+- Methodology: https://healthresearchdatabase.com/methodology/
+- Claim Fidelity framework: https://healthresearchdatabase.com/claim-fidelity/
+- Open data: https://healthresearchdatabase.com/data-download/
+- API status: https://healthresearchdatabase.com/api/v1/status.json
+
+## Citation guidance
+Cite the individual claim page and its dataset edition. Research Receipts are reproducible counts within HRD's indexed snapshot, not systematic reviews or treatment recommendations. Claim Fidelity describes how directly evidence matches claim wording; it is not an efficacy score.
+
+## Crawling
+Claim answers, counts, dates, matched records and source links are present in initial HTML. No JavaScript execution is required to read core evidence.

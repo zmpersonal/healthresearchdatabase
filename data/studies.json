@@ -146,9 +146,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742785/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742785/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42741893",
@@ -279,9 +281,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734675/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734675/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "42733098",
@@ -619,9 +623,11 @@
     "topic_names": [
       "Contrast Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667694/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667694/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "42667448",
@@ -1129,9 +1135,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42631884/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42631884/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42629521",
@@ -1612,9 +1620,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42552011/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42552011/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42551061",
@@ -1816,9 +1826,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525285/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525285/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42512223",
@@ -2005,9 +2017,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501111/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501111/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42501075",
@@ -2340,9 +2354,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42473834/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42473834/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "42473449",
@@ -2651,9 +2667,11 @@
     "topic_names": [
       "Contrast Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452432/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452432/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42450035",
@@ -3086,9 +3104,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429841/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42429841/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "42400888",
@@ -5046,59 +5066,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42286424/"
   },
   {
-    "pmid": "42284729",
-    "title": "Exosomes from adipose-derived stem cells preconditioned with 650- or 810-nm photobiomodulation enhance cutaneous wound healing in rats.",
-    "authors": [
-      "Abdollah Amini",
-      "Seyed Mahmoud Hashemi",
-      "Fatemeh Ahangari",
-      "Soroush Bayat",
-      "Mobina Tohidian",
-      "Richard Albright",
-      "Sufan Chien",
-      "Mohammad Bayat"
-    ],
-    "journal": "Tissue & cell",
-    "year": "2026",
-    "doi": "10.1016/j.tice.2026.103690",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Animals",
-      "Exosomes",
-      "Wound Healing",
-      "Stem Cells",
-      "Rats",
-      "Skin",
-      "Vascular Endothelial Growth Factor A",
-      "Low-Level Light Therapy",
-      "MicroRNAs",
-      "Adipose Tissue",
-      "Humans",
-      "Red Light",
-      "Hypoxia-Inducible Factor 1, alpha Subunit",
-      "Male",
-      "Cell Proliferation"
-    ],
-    "keywords": [
-      "Cutaneous wound healing",
-      "Exosomes",
-      "Photobiomodulation therapy",
-      "Rat",
-      "Stem cell preconditioning"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42284729/"
-  },
-  {
     "pmid": "42283739",
     "title": "Impact of oral mucositis treated by photobiomodulation protocol on the quality of life of pediatric oncology patients with acute lymphoblastic leukemia.",
     "authors": [
@@ -5383,9 +5350,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42267867/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42267867/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "42264820",
@@ -6172,9 +6141,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42208329/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42208329/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "42204828",
@@ -6303,9 +6274,11 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189842/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189842/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "42113470",
@@ -7208,9 +7181,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41973866/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41973866/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "41965326",
@@ -7576,9 +7551,11 @@
     "topic_names": [
       "Floatation Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41868829/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41868829/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "41848988",
@@ -8137,9 +8114,11 @@
     "topic_names": [
       "Floatation Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41710285/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41710285/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "41703733",
@@ -9404,9 +9383,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174914/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41174914/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "41171380",
@@ -10605,9 +10586,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41343762/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41343762/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "41340471",
@@ -10648,9 +10631,11 @@
     "topic_names": [
       "Sauna & Heat Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41340471/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41340471/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "41327986",
@@ -10783,9 +10768,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41316566/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41316566/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "41283028",
@@ -11933,9 +11920,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40839603/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40839603/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "40819556",
@@ -12264,9 +12253,11 @@
     "topic_names": [
       "Floatation Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40676627/"
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40676627/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.7
   },
   {
     "pmid": "40676220",
@@ -12364,9 +12355,11 @@
     "topic_names": [
       "Sauna & Heat Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40615151/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40615151/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "40611569",
@@ -13945,9 +13938,11 @@
     "topic_names": [
       "Contrast Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40094855/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40094855/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "40094464",
@@ -14195,9 +14190,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39995182/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39995182/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "39985142",
@@ -14771,9 +14768,11 @@
     "topic_names": [
       "Cold-Water Immersion"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39857575/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39857575/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "39855959",
@@ -16009,9 +16008,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39806726/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39806726/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "39691209",
@@ -16781,9 +16782,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39255475/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39255475/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "39245195",
@@ -16923,9 +16926,11 @@
     "topic_names": [
       "Exercise Recovery"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39225877/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39225877/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "39209689",
@@ -17768,9 +17773,11 @@
     "topic_names": [
       "Contrast Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38933969/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38933969/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "38922167",
@@ -18624,52 +18631,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38613679/"
   },
   {
-    "pmid": "38613440",
-    "title": "Prognostic indicators of outcome in nonambulatory beef cattle presented to 2 referral hospitals: A retrospective study of 63 cases.",
-    "authors": [
-      "Diana Perez-Solano",
-      "Emily J Reppert",
-      "Jenna E Stockler",
-      "Pankaj Gaonkar",
-      "Laura Huber",
-      "Thomas Passler",
-      "Jenna E Bayne",
-      "Manuel F Chamorro"
-    ],
-    "journal": "Journal of veterinary internal medicine",
-    "year": "2024",
-    "doi": "10.1111/jvim.17086",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Animals",
-      "Cattle",
-      "Retrospective Studies",
-      "Cattle Diseases",
-      "Female",
-      "Prognosis",
-      "Male",
-      "Hospitals, Animal"
-    ],
-    "keywords": [
-      "calving/nerve paralysis",
-      "downer cattle",
-      "flotation therapy",
-      "nonambulatory",
-      "recumbency"
-    ],
-    "topics": [
-      "floatation-therapy"
-    ],
-    "topic_names": [
-      "Floatation Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38613440/"
-  },
-  {
     "pmid": "38609397",
     "title": "Effect of a single immersion in cold water below 4 °C on haemorheological properties of blood in healthy men.",
     "authors": [
@@ -18796,9 +18757,11 @@
     "topic_names": [
       "Cold-Water Immersion"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38509857/"
+    "design_class": "d",
+    "design_label": "Observational research",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38509857/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.76
   },
   {
     "pmid": "38484434",
@@ -19476,9 +19439,11 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37839928/"
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37839928/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84
   },
   {
     "pmid": "37806925",
@@ -19901,9 +19866,11 @@
     "topic_names": [
       "Contrast Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38021788/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38021788/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "37936658",
@@ -19940,9 +19907,11 @@
     "topic_names": [
       "Floatation Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37936658/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37936658/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "37866096",
@@ -20268,9 +20237,11 @@
     "topic_names": [
       "Floatation Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37333146/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37333146/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "37103570",
@@ -22606,49 +22577,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33146851/"
   },
   {
-    "pmid": "32386069",
-    "title": "Contrast therapy: Tissue heating and cooling properties within the equine distal limb.",
-    "authors": [
-      "Kevin K Haussler",
-      "Shana R Wilde",
-      "Michael S Davis",
-      "Ann M Hess",
-      "C Wayne McIlwraith"
-    ],
-    "journal": "Equine veterinary journal",
-    "year": "2021",
-    "doi": "10.1111/evj.13278",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Animals",
-      "Extremities",
-      "Forelimb",
-      "Heating",
-      "Horse Diseases",
-      "Horses",
-      "Tendon Injuries",
-      "Tendons"
-    ],
-    "keywords": [
-      "contrast therapy",
-      "cryotherapy",
-      "distal limb",
-      "horse",
-      "tissue heating"
-    ],
-    "topics": [
-      "contrast-therapy"
-    ],
-    "topic_names": [
-      "Contrast Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32386069/"
-  },
-  {
     "pmid": "32363754",
     "title": "Exposure to total 36-hr sleep deprivation reduces physiological and psychological thermal strain to whole-body uncompensable passive heat stress in young adult men.",
     "authors": [
@@ -22812,9 +22740,11 @@
     "topic_names": [
       "Floatation Therapy"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33123048/"
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33123048/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.7
   },
   {
     "pmid": "33032163",
@@ -22925,56 +22855,6 @@
     "design_class": "b",
     "design_label": "Randomized controlled trial",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33020394/"
-  },
-  {
-    "pmid": "32990506",
-    "title": "Photobiomodulation Therapy Modulates Muscle Gene Expression and Improves Performance of Rats Subjected to a Chronic Resistance Exercise Protocol.",
-    "authors": [
-      "Michel Monteiro Macedo",
-      "Fernando Francisco Pazello Mafra",
-      "Carla de Brito Teixeira",
-      "Romildo Torres-Silva",
-      "Raphael Peres Dos Santos Francisco",
-      "Pedro Paulo Gattai",
-      "Mirian Aparecida Boim",
-      "Jan Magnus Bjordal",
-      "Fabio Dupart Nascimento",
-      "Patrícia Sardinha Leonardo",
-      "Sadi S F Stamborowski",
-      "Rodrigo Álvaro Brandão Lopes-Martins"
-    ],
-    "journal": "Photobiomodulation, photomedicine, and laser surgery",
-    "year": "2020",
-    "doi": "10.1089/photob.2019.4792",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Animals",
-      "Gene Expression",
-      "Humans",
-      "Low-Level Light Therapy",
-      "Male",
-      "Muscle, Skeletal",
-      "Rats",
-      "Rats, Wistar",
-      "Resistance Training"
-    ],
-    "keywords": [
-      "laser therapy",
-      "performance",
-      "photobiomodulation",
-      "skeletal muscle"
-    ],
-    "topics": [
-      "exercise-recovery"
-    ],
-    "topic_names": [
-      "Exercise Recovery"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32990506/"
   },
   {
     "pmid": "32880050",
@@ -23244,9 +23124,11 @@
     "topic_names": [
       "Exercise Recovery"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32482669/"
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32482669/",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.8
   },
   {
     "pmid": "32475220",
@@ -24518,67 +24400,6 @@
     "design_class": "e",
     "design_label": "Other research",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26805981/"
-  },
-  {
-    "pmid": "26686369",
-    "title": "Waon therapy attenuates cardiac hypertrophy and promotes myocardial capillary growth in hypertensive rats: a comparative study with fluvastatin.",
-    "authors": [
-      "Hiroyuki Ihori",
-      "Takashi Nozawa",
-      "Mitsuo Sobajima",
-      "Takuya Shida",
-      "Yasutaka Fukui",
-      "Nozomu Fujii",
-      "Hiroshi Inoue"
-    ],
-    "journal": "Heart and vessels",
-    "year": "2016",
-    "doi": "10.1007/s00380-015-0779-5",
-    "publication_types": [
-      "Comparative Study",
-      "Journal Article"
-    ],
-    "mesh": [
-      "Animals",
-      "Blood Pressure",
-      "Capillaries",
-      "Disease Models, Animal",
-      "Echocardiography",
-      "Fatty Acids, Monounsaturated",
-      "Fibrosis",
-      "Fluvastatin",
-      "HSP90 Heat-Shock Proteins",
-      "Heart Ventricles",
-      "Hot Temperature",
-      "Humans",
-      "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
-      "Hypertension",
-      "Indoles",
-      "Myocardium",
-      "Nitric Oxide Synthase Type III",
-      "RNA, Messenger",
-      "Rats",
-      "Rats, Inbred Dahl",
-      "Sodium, Dietary",
-      "Vascular Endothelial Growth Factor A",
-      "Ventricular Function, Left",
-      "Ventricular Remodeling"
-    ],
-    "keywords": [
-      "Diastolic heart failure",
-      "Hypertensive heart",
-      "Sauna therapy",
-      "Statin"
-    ],
-    "topics": [
-      "infrared-sauna"
-    ],
-    "topic_names": [
-      "Infrared Sauna"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26686369/"
   },
   {
     "pmid": "25748743",

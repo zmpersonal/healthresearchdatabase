@@ -1,141 +1,71 @@
 # HealthResearchDatabase.com
 
-HealthResearchDatabase.com is a GitHub Pages-ready consumer health-research product backed by automatically refreshed public data from PubMed/NCBI and ClinicalTrials.gov.
+Health Research Database is a GitHub Pages-ready, continuously updated claim-to-evidence product built from public PubMed and ClinicalTrials.gov metadata.
 
-The site has two layers:
+## What the site now includes
 
-1. **Consumer layer** — a shareable Healthspan Habits Score, friend challenges, research-question discovery, and a Research Pulse designed for organic social traffic.
-2. **Evidence layer** — topic indexes, publication/trial records, downloadable datasets, and a transparent methodology page.
+- **HRD Claim Ledger** — living claim pages with a concise answer, Evidence Profile, Claim Fidelity analysis, Research Receipt, matched source records, trial radar and citation text.
+- **HRD Research Receipts** — reproducible claim-specific counts, exact match terms, inclusion/exclusion rules, dataset date and JSON endpoints.
+- **HRD Claim Fidelity** — a public framework comparing claim wording with the intervention, population, dose, duration, comparator, outcome, measurement and setting actually studied.
+- **Evidence Map** — intervention/outcome counts linked to the exact claim receipt.
+- **Trial Radar** — recruiting, active and near-completion studies from ClinicalTrials.gov.
+- **Evidence Changes** — a visible feed of new publications and registry updates, ready to preserve future reassessments and corrections.
+- **Research dashboards** — publication mix, research-over-time chart, claims and source records for every intervention.
+- **Open data and API** — JSON/CSV downloads, checksums, Dataset schema, CC BY 4.0 citation guidance, claim receipt endpoints, feeds and status JSON.
+- **Governance** — methodology, editorial policy, corrections, data sources, funding/conflict disclosure and indexing-error reports.
+- **Healthspan Habits Test** — retained as a secondary feature, with its complete questionnaire and scoring rubric rendered in HTML.
 
-## Consumer features
+All essential research text, counts, dates and source links are present in the initial HTML. JavaScript enhances filtering and interaction; it is not required for crawlers to read the evidence.
 
-- **Healthspan Habits Score** at `/healthspan/`
-  - 10-question, 0–100 habit-alignment score.
-  - Runs entirely in the browser; no account or backend is required.
-  - No email gate before the result.
-  - Stores the visitor's previous score locally in their browser.
-  - Clearly presented as a lifestyle-habit index, **not** biological age, a diagnosis, a medical-risk model, or a lifespan prediction.
-- **Friend challenges**
-  - Challenge URLs carry only the challenger's score, never questionnaire answers.
-  - A visitor can compare their result against the challenger or against their own prior result.
-- **Shareable score cards**
-  - Static score landing pages exist for every score from 0–100 at `/score/<score>/`.
-  - Each score page has score-specific Open Graph metadata and a 1200×630 social preview image.
-  - Result sharing supports native share, Facebook, X, Pinterest, email, copy link, and local PNG export.
-- **Research Pulse** at `/latest/`
-  - Highlights newly indexed research with filters for reviews and randomized trials.
-- **Research search**
-  - Searches the generated study/trial metadata in-browser.
+## Automatic updates
 
-A global percentile leaderboard is intentionally **not** included in this static GitHub Pages version. It would require a server-side data store and enough real participant data to produce defensible rankings.
+`.github/workflows/update-research.yml` runs every Monday and Thursday and can be triggered manually. It:
 
-## What the research index covers
-
-- Sauna & heat therapy
-- Infrared sauna
-- Cold-water immersion
-- Contrast therapy
-- Photobiomodulation / red light
-- Floatation therapy
-- Massage therapy
-- Sleep & passive heating
-- Exercise recovery
-
-The API queries live in `data/topics.json`.
-
-## Research-quality safeguards
-
-The database uses two layers of topic matching:
-
-1. The PubMed or ClinicalTrials.gov search query selects candidate records.
-2. A conservative metadata post-filter requires the topic intervention to appear in high-signal metadata such as the title, keywords, MeSH terms, conditions, or intervention fields.
-
-This is deliberately precision-first. It reduces false positives caused by generic terms such as `cold exposure` or `far infrared` that can refer to unrelated research.
-
-The site does **not** infer treatment efficacy from study counts. Labels such as **Research depth** describe the amount and design diversity of indexed research only; they are not clinical recommendations, GRADE ratings, risk-of-bias assessments, or evidence-of-benefit scores.
-
-## Automatic research updates
-
-`.github/workflows/update-research.yml` runs every Monday and Thursday and can also be run manually. It:
-
-1. Searches PubMed through NCBI E-utilities.
-2. Retrieves publication metadata and publication types.
-3. Searches ClinicalTrials.gov API v2.
-4. Applies the topic metadata precision filter.
-5. Deduplicates records that match multiple topics.
-6. Regenerates topic, study, and trial pages.
-7. Rebuilds JSON/CSV datasets and `sitemap.xml`.
-8. Commits refreshed data to the repository.
-9. Deploys the refreshed static site to GitHub Pages.
+1. retrieves PubMed and ClinicalTrials.gov records;
+2. applies intervention-specific precision filters and obvious non-human exclusions;
+3. classifies design using PubMed publication types plus methods-language heuristics;
+4. regenerates topic, claim, study and trial pages;
+5. rebuilds Research Receipts, API JSON, feeds, datasets and split sitemaps;
+6. commits and deploys the refreshed site.
 
 No paid API is required.
 
 ### Optional GitHub secrets
 
-Under **Settings → Secrets and variables → Actions** you may add:
+Under **Settings → Secrets and variables → Actions**:
 
-- `NCBI_API_KEY` — optional free NCBI API key. Without it, the updater stays below the unauthenticated E-utilities request rate.
+- `NCBI_API_KEY` — optional free NCBI key for a higher request limit.
 - `NCBI_EMAIL` — optional contact email sent with NCBI E-utilities requests.
 
-The site works without either secret.
+The updater works without either secret.
 
-## First deployment — important
+## First deployment
 
-The packaged repository intentionally contains the static starter datasets rather than a copied snapshot of the live generated database. The interface handles that state without displaying misleading zero counts, but the research updater should be run immediately after the upload.
-
-1. Upload **all files** to the repository root, including the hidden `.github` directory.
-2. Go to **Settings → Pages** and set **Source → GitHub Actions**.
+1. Upload the repository contents to the repository root, including `.github`.
+2. In **Settings → Pages**, choose **GitHub Actions** as the source.
 3. Confirm the custom domain is `healthresearchdatabase.com`.
-4. Go to **Actions → Update research database and deploy → Run workflow**.
-5. Let that workflow complete. It will fetch current PubMed and ClinicalTrials.gov records, regenerate the research pages/data, commit them, and deploy the populated site.
-6. Open the homepage, one topic page, `/latest/`, and `/healthspan/` to confirm the deployment.
-7. Enable **Enforce HTTPS** after GitHub validates the custom domain and certificate if it is not already enabled.
+4. Run **Actions → Update research database and deploy → Run workflow** once.
+5. Confirm the homepage, one claim page, `/trial-radar/`, `/evidence-map/` and `/healthspan/`.
+6. Enable **Enforce HTTPS** after the domain certificate is ready.
 
-Do **not** skip step 4 on the first upload; otherwise the consumer experience will work, but research counts will remain in the pending-refresh state until the scheduled updater runs.
-
-## Scoring methodology
-
-The Healthspan Habits Score is documented publicly at `/methodology/#habits-score`.
-
-It is intentionally simple and transparent:
-
-- 10 behavioral questions.
-- Maximum of 10 points per question.
-- Equal weighting for readability and auditability, not because every behavior has the same health effect size.
-- No questionnaire answers are uploaded by the static site.
-- Previous results are stored locally in the visitor's browser.
-- Challenge links expose the score only.
-
-## Data policy
-
-The site intentionally does **not** republish full PubMed abstracts or article text. It stores bibliographic metadata, publication types, indexing terms, source identifiers, and links to primary-source records.
+Scheduled updates continue automatically after that first run.
 
 ## Local generation
 
-To regenerate static research pages using the data already in `data/`:
+Rebuild from the bundled datasets:
 
 ```bash
 python scripts/update_research.py --generate-only
 ```
 
-To perform a live research refresh locally:
+Perform a live source refresh and rebuild:
 
 ```bash
 python scripts/update_research.py
 ```
 
-The optional developer helper below regenerates the 0–100 social score pages and images:
+The production updater uses only Python's standard library.
 
-```bash
-python scripts/generate_score_pages.py
-```
+## Important scientific boundary
 
-That helper uses Pillow. Pillow is **not** required by the production updater or GitHub Pages deployment; the generated score pages/images are already included in the repository.
-
-## Custom domain
-
-The included `CNAME` contains:
-
-```text
-healthresearchdatabase.com
-```
+Research Receipts are reproducible counts within HRD's indexed snapshot. They are not systematic reviews, efficacy scores, risk-of-bias assessments or medical recommendations. Claim Fidelity measures directness between research and claim wording; it does not grade whether an intervention works.
