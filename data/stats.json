@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-18T03:05:26.615369+00:00",
-  "updated_label": "Sep 18, 2026",
-  "total_studies": 586,
-  "total_trials": 206,
+  "generated_at": "2026-09-21T14:15:34.432948+00:00",
+  "updated_label": "Sep 21, 2026",
+  "total_studies": 585,
+  "total_trials": 209,
   "total_topics": 9,
-  "active_trials": 61,
+  "active_trials": 59,
   "topics": {
     "sauna-heat-therapy": {
       "studies": 87,
-      "trials": 49,
+      "trials": 51,
       "designs": {
         "e": 51,
         "d": 8,
@@ -50,13 +50,13 @@
       }
     },
     "photobiomodulation": {
-      "studies": 127,
-      "trials": 53,
+      "studies": 126,
+      "trials": 51,
       "designs": {
+        "b": 48,
         "a": 18,
-        "b": 45,
-        "e": 52,
-        "d": 9,
+        "e": 49,
+        "d": 8,
         "c": 3
       }
     },

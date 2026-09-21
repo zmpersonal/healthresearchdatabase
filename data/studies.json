@@ -1,5 +1,52 @@
 [
   {
+    "pmid": "42762353",
+    "title": "Effectiveness of low-level laser therapy in the rehabilitation of knee meniscus injuries: a randomized, double-blind, placebo-controlled trial.",
+    "authors": [
+      "Hadeel Alsirhani"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05038-5",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Double-Blind Method",
+      "Low-Level Light Therapy",
+      "Tibial Meniscus Injuries",
+      "Adult",
+      "Female",
+      "Range of Motion, Articular",
+      "Male",
+      "Treatment Outcome",
+      "Young Adult",
+      "Pain Measurement",
+      "Middle Aged"
+    ],
+    "keywords": [
+      "Low-level laser therapy",
+      "Meniscus injury",
+      "Photobiomodulation",
+      "Randomized controlled trial",
+      "Rehabilitation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42762353/"
+  },
+  {
     "pmid": "42752735",
     "title": "Can photobiomodulation prevent herpes labialis recurrences? A systematic review.",
     "authors": [
@@ -1529,6 +1576,66 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42605969/"
   },
   {
+    "pmid": "42595101",
+    "title": "Dose dependent effects of transcranial photobiomodulation on blood-oxygenation-level-dependent power in major depressive disorder.",
+    "authors": [
+      "Dan V Iosifescu",
+      "Katherine A Collins",
+      "Umit Tural",
+      "Jacek P Dmochowski",
+      "Naomi Gaggi",
+      "Zamfira Parincu",
+      "Anna Peterson",
+      "Aura M Hurtado-Puerto",
+      "Maia B Gersten",
+      "Julie A Clancy",
+      "Kayla M McEachern",
+      "Tarek Sobeih"
+    ],
+    "journal": "Brain stimulation",
+    "year": "2026",
+    "doi": "10.1016/j.brs.2026.103185",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Major Depressive Disorder",
+      "Female",
+      "Adult",
+      "Male",
+      "Magnetic Resonance Imaging",
+      "Low-Level Light Therapy",
+      "Oxygen",
+      "Middle Aged",
+      "Prefrontal Cortex",
+      "Brain",
+      "Dose-Response Relationship, Radiation",
+      "Young Adult"
+    ],
+    "keywords": [
+      "Blood-oxygenation-level dependent (BOLD)",
+      "Functional MRI (fMRI)",
+      "Low level light therapy",
+      "Major depressive disorder (MDD)",
+      "Near-infrared radiation",
+      "Transcranial photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42595101/"
+  },
+  {
     "pmid": "42581717",
     "title": "Systematic Review on the Effectiveness of Photobiomodulation Therapy on Enhancing Musculoskeletal Rehabilitation Outcomes after Total Knee and Hip Arthroplasty.",
     "authors": [
@@ -1545,8 +1652,7 @@
     "doi": "10.1177/25785478261475529",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "mesh": [
       "Humans",
@@ -4095,55 +4201,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359592/"
   },
   {
-    "pmid": "42356131",
-    "title": "The Use of Physical Energy-Based Therapies in the Management of Osteoarthritis.",
-    "authors": [
-      "Marco Giuseppe Musorrofiti",
-      "Marco Bonifacio",
-      "Valerio Cipolloni",
-      "Enricomaria Mattia",
-      "Rosa Bellomo",
-      "Raoul Saggini"
-    ],
-    "journal": "Medicina (Kaunas, Lithuania)",
-    "year": "2026",
-    "doi": "10.3390/medicina62061119",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Osteoarthritis",
-      "Low-Level Light Therapy",
-      "Physical Therapy Modalities"
-    ],
-    "keywords": [
-      "CRET",
-      "TECAR",
-      "extracorporeal shock wave therapy",
-      "low-level laser therapy",
-      "osteoarthritis",
-      "photobiomodulation",
-      "physical modalities",
-      "pulsed electromagnetic field therapy",
-      "unloading rehabilitation",
-      "vibration therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42356131/"
-  },
-  {
     "pmid": "42353232",
     "title": "Laser-Based Photobiomodulation for Orthodontic Pain: Mechanistic Evidence from Experimental Tooth-Movement Models.",
     "authors": [
@@ -5826,54 +5883,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42263755/"
   },
   {
-    "pmid": "42262662",
-    "title": "Monte Carlo simulations of optical propagation in human skin using experimentally measured laser parameters.",
-    "authors": [
-      "Carlos Eduardo Girasol",
-      "Raíssa Mendonça Quaranta Lobão",
-      "Murilo Sanches Sampaio",
-      "Luismar Barbosa Cruz-Junior",
-      "Rinaldo Roberto de Jesus Guirro",
-      "Luciano Bachmann"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04911-7",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Monte Carlo Method",
-      "Skin",
-      "Lasers",
-      "Scattering, Radiation",
-      "Computer Simulation",
-      "Low-Level Light Therapy",
-      "Red Light"
-    ],
-    "keywords": [
-      "Light-emitting Diode",
-      "Low-Level Light Therapy",
-      "Monte Carlo Method",
-      "Photobiomodulation",
-      "Physical Therapy",
-      "Tissue Optical Parameters"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42262662/"
-  },
-  {
     "pmid": "42259752",
     "title": "Efficacy of Diode Laser Therapy in Managing Recurrent Aphthous Stomatitis and Oral Lichen Planus: A Systematic Review.",
     "authors": [
@@ -6084,49 +6093,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42258432/"
   },
   {
-    "pmid": "42250031",
-    "title": "Low-Level Light Therapy in Postherpetic Neuralgia: A Review of Mechanistic Insights and Clinical Implications.",
-    "authors": [
-      "Yu-Chen Ma",
-      "Yu-Chieh Chiang",
-      "Sebastian Yu"
-    ],
-    "journal": "Cellular and molecular neurobiology",
-    "year": "2026",
-    "doi": "10.1007/s10571-026-01763-1",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Neuralgia, Postherpetic",
-      "Animals",
-      "Low-Level Light Therapy",
-      "Ganglia, Spinal"
-    ],
-    "keywords": [
-      "Low-level light therapy",
-      "Neuroinflammation",
-      "Neuropathic pain",
-      "Peripheral nerve regeneration",
-      "Photobiomodulation",
-      "Postherpetic neuralgia"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42250031/"
-  },
-  {
     "pmid": "42249924",
     "title": "Cell-free DNA, cytokine, and catecholamine levels did not differ between sexes under a matched body core temperature increase, despite females exhibiting a more rapid increase in rectal temperature.",
     "authors": [
@@ -6180,60 +6146,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42249924/"
-  },
-  {
-    "pmid": "42234177",
-    "title": "Photobiomodulation therapy for oral mucositis: clinical experience from a supportive care program at the Indian Institute of Head and Neck Oncology.",
-    "authors": [
-      "Digpal Dharkar",
-      "Kratika Kulkarni",
-      "Rene Jean Bensadoun",
-      "Virendra Vyas"
-    ],
-    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "year": "2026",
-    "doi": "10.1007/s00520-026-10823-7",
-    "publication_types": [
-      "Journal Article",
-      "Observational Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Stomatitis",
-      "Female",
-      "Male",
-      "Low-Level Light Therapy",
-      "Middle Aged",
-      "Head and Neck Neoplasms",
-      "India",
-      "Aged",
-      "Cohort Studies",
-      "Adult",
-      "Feasibility Studies",
-      "Carcinoma, Squamous Cell",
-      "Squamous Cell Carcinoma of Head and Neck",
-      "Chemoradiotherapy",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "Head and neck cancer",
-      "Low-resource setting",
-      "Oral mucositis",
-      "Photobiomodulation therapy",
-      "Supportive care"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 0.96,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42234177/"
   },
   {
     "pmid": "42231857",
@@ -7299,6 +7211,57 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42046494/"
+  },
+  {
+    "pmid": "42010907",
+    "title": "Laser Acupuncture on the Management of Xerostomia in Sjögren's Disease: A Randomized Clinical Trial.",
+    "authors": [
+      "Matheus Ferreira Linares",
+      "Tainá Duarte Dos Santos França",
+      "Maria Clara Barros Madureira Ferreira",
+      "Michele Gomes do Nascimento",
+      "Angela Luzia Branco Pinto Duarte",
+      "Luiz Alcino Gueiros"
+    ],
+    "journal": "Oral diseases",
+    "year": "2026",
+    "doi": "10.1111/odi.70241",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Xerostomia",
+      "Sjogren's Syndrome",
+      "Female",
+      "Double-Blind Method",
+      "Middle Aged",
+      "Male",
+      "Acupuncture Therapy",
+      "Low-Level Light Therapy",
+      "Treatment Outcome",
+      "Aged",
+      "Adult"
+    ],
+    "keywords": [
+      "Sjögren's syndrome",
+      "acupuncture",
+      "phtotobiomodulation",
+      "xerostomia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42010907/"
   },
   {
     "pmid": "42009188",
