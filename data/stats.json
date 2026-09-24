@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-21T14:15:34.432948+00:00",
-  "updated_label": "Sep 21, 2026",
-  "total_studies": 585,
-  "total_trials": 209,
+  "generated_at": "2026-09-24T12:45:37.337766+00:00",
+  "updated_label": "Sep 24, 2026",
+  "total_studies": 586,
+  "total_trials": 205,
   "total_topics": 9,
-  "active_trials": 59,
+  "active_trials": 55,
   "topics": {
     "sauna-heat-therapy": {
-      "studies": 87,
-      "trials": 51,
+      "studies": 86,
+      "trials": 49,
       "designs": {
         "e": 51,
         "d": 8,
-        "b": 24,
+        "b": 23,
         "a": 2,
         "c": 2
       }
@@ -50,14 +50,14 @@
       }
     },
     "photobiomodulation": {
-      "studies": 126,
-      "trials": 51,
+      "studies": 127,
+      "trials": 56,
       "designs": {
-        "b": 48,
+        "b": 47,
         "a": 18,
-        "e": 49,
+        "e": 50,
         "d": 8,
-        "c": 3
+        "c": 4
       }
     },
     "floatation-therapy": {
@@ -73,7 +73,7 @@
     },
     "massage-therapy": {
       "studies": 97,
-      "trials": 40,
+      "trials": 35,
       "designs": {
         "d": 6,
         "a": 23,

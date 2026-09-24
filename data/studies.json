@@ -1,5 +1,111 @@
 [
   {
+    "pmid": "42776303",
+    "title": "Acceptance and perceived efficacy of intraoral versus extraoral photobiomodulation for oral mucositis prevention in pediatric patients.",
+    "authors": [
+      "Isabela de Oliveira Plugge Freitas",
+      "Giovanna Leal Klein Renz",
+      "Isabela Schuartz",
+      "Mara Albonei Dudeque Pianovski",
+      "Laurindo Moacir Sassi",
+      "Bruna da Fonseca Wastner",
+      "Melissa Rodrigues de Araujo"
+    ],
+    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+    "year": "2026",
+    "doi": "10.1007/s00520-026-11227-3",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Female",
+      "Low-Level Light Therapy",
+      "Stomatitis",
+      "Male",
+      "Antineoplastic Agents",
+      "Surveys and Questionnaires",
+      "Adolescent",
+      "Neoplasms",
+      "Caregivers",
+      "Child, Preschool"
+    ],
+    "keywords": [
+      "Low-level light therapy",
+      "Medical oncology",
+      "Oral mucositis",
+      "Pediatric assistants"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42776303/"
+  },
+  {
+    "pmid": "42765420",
+    "title": "Passive thigh heating increases peak torque but does not attenuate declines in force production during repeated isokinetic knee extensor exercise in older adults.",
+    "authors": [
+      "Desmond Denny",
+      "Daniel C Low",
+      "Oliver R Gibson"
+    ],
+    "journal": "Physiological reports",
+    "year": "2026",
+    "doi": "10.14814/phy2.71105",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Aged",
+      "Torque",
+      "Male",
+      "Female",
+      "Thigh",
+      "Hot Temperature",
+      "Muscle Contraction",
+      "Exercise",
+      "Muscle, Skeletal",
+      "Muscle Fatigue",
+      "Middle Aged",
+      "Aging",
+      "Knee Joint",
+      "Knee"
+    ],
+    "keywords": [
+      "force development",
+      "hyperthermia",
+      "muscle strength",
+      "older adults",
+      "passive heating",
+      "thermal therapy",
+      "torque"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42765420/"
+  },
+  {
     "pmid": "42762353",
     "title": "Effectiveness of low-level laser therapy in the rehabilitation of knee meniscus injuries: a randomized, double-blind, placebo-controlled trial.",
     "authors": [
@@ -360,17 +466,17 @@
     "doi": "10.1007/s10103-026-05000-5",
     "publication_types": [
       "Journal Article",
-      "Scoping Review",
-      "Review"
+      "Scoping Review"
     ],
     "mesh": [
       "Humans",
-      "Low-Level Light Therapy",
       "Auriculotherapy",
+      "Chronic Pain",
+      "Low Back Pain",
+      "Low-Level Light Therapy",
       "Pain Management",
       "Red Light",
-      "Chronic Pain",
-      "Low Back Pain"
+      "Infrared Rays"
     ],
     "keywords": [
       "Auriculotherapy",
@@ -403,16 +509,14 @@
     "doi": "10.1007/s10103-026-05028-7",
     "publication_types": [
       "Journal Article",
-      "Meta-Analysis",
-      "Systematic Review",
-      "Review"
+      "Meta-Analysis"
     ],
     "mesh": [
       "Humans",
-      "Shoulder Impingement Syndrome",
       "Low-Level Light Therapy",
-      "Range of Motion, Articular",
       "Randomized Controlled Trials as Topic",
+      "Range of Motion, Articular",
+      "Shoulder Impingement Syndrome",
       "Treatment Outcome"
     ],
     "keywords": [
@@ -5662,12 +5766,10 @@
       "Post-exercise recovery"
     ],
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "design_class": "b",
     "design_label": "Randomized controlled trial",
@@ -6003,21 +6105,22 @@
     "year": "2026",
     "doi": "10.1016/j.neurot.2026.e00937",
     "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
+      "Clinical Trial",
+      "Journal Article"
     ],
     "mesh": [
-      "Humans",
-      "Vagus Nerve Stimulation",
-      "Craving",
-      "Female",
-      "Low-Level Light Therapy",
-      "Male",
       "Adult",
-      "Treatment Outcome",
-      "Alcohol Drinking",
+      "Female",
+      "Humans",
+      "Male",
       "Young Adult",
-      "Alcoholism"
+      "Alcohol Drinking",
+      "Alcoholism",
+      "Craving",
+      "Low-Level Light Therapy",
+      "Treatment Outcome",
+      "Vagus Nerve Stimulation",
+      "Random Allocation"
     ],
     "keywords": [
       "Alcohol",
@@ -6032,10 +6135,10 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
     "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
+    "classifier_confidence": 0.98,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42258987/"
   },
@@ -6368,6 +6471,56 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42214732/"
+  },
+  {
+    "pmid": "42213968",
+    "title": "Passive Heating Via Heating Pads Improves Vertical Jump and Agility Performance in NCAA Division III Soccer Players.",
+    "authors": [
+      "Nigel C Jiwan",
+      "Keegan J DeKuiper",
+      "Lauren A Sysol",
+      "Gabrielle E Chabala",
+      "Pietro A Costa"
+    ],
+    "journal": "Journal of strength and conditioning research",
+    "year": "2026",
+    "doi": "10.1519/JSC.0000000000005502",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Athletic Performance",
+      "Male",
+      "Soccer",
+      "Skin Temperature",
+      "Female",
+      "Young Adult",
+      "Hot Temperature",
+      "Heating",
+      "Thigh",
+      "Adult"
+    ],
+    "keywords": [
+      "T-drill test",
+      "change of direction",
+      "passing accuracy",
+      "physical performance",
+      "skin temperature"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42213968/"
   },
   {
     "pmid": "42208329",
@@ -7310,6 +7463,59 @@
     "classifier_confidence": 0.82,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42009188/"
+  },
+  {
+    "pmid": "41999121",
+    "title": "Effectiveness of the Association Between ILIB and Photobiomodulation in Oral Mucositis Among Oncology Patients: A Prospective Study.",
+    "authors": [
+      "Clébia Roberta Eufrazio do Nascimento",
+      "Fernanda Suely Barros Dantas",
+      "Tácio Fragoso Pereira",
+      "Myllenne Dos Santos Abreu",
+      "Katarina Haluli Jano da Veiga Pessoa",
+      "Jair Carneiro Leão",
+      "Alessandra de Albuquerque Tavares Carvalho"
+    ],
+    "journal": "Head & neck",
+    "year": "2026",
+    "doi": "10.1002/hed.70285",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Stomatitis",
+      "Prospective Studies",
+      "Female",
+      "Male",
+      "Low-Level Light Therapy",
+      "Quality of Life",
+      "Middle Aged",
+      "Adult",
+      "Treatment Outcome",
+      "Aged",
+      "Antineoplastic Agents",
+      "Neoplasms"
+    ],
+    "keywords": [
+      "Oral manifestations",
+      "low‐level light therapy",
+      "photobiomodulation",
+      "quality of life",
+      "stomatitis"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41999121/"
   },
   {
     "pmid": "41997531",
@@ -11092,7 +11298,8 @@
     "year": "2025",
     "doi": "10.14814/phy2.70700",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -19882,59 +20089,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38484434/"
   },
   {
-    "pmid": "38470997",
-    "title": "Post exercise hot water immersion and hot water immersion in isolation enhance vascular, blood marker, and perceptual responses when compared to exercise alone.",
-    "authors": [
-      "Charles J Steward",
-      "Mathew Hill",
-      "Campbell Menzies",
-      "Stephen J Bailey",
-      "Mushidur Rahman",
-      "C Douglas Thake",
-      "Christopher J A Pugh",
-      "Tom Cullen"
-    ],
-    "journal": "Scandinavian journal of medicine & science in sports",
-    "year": "2024",
-    "doi": "10.1111/sms.14600",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Adult",
-      "Male",
-      "Female",
-      "Humans",
-      "Middle Aged",
-      "Immersion",
-      "Exercise",
-      "Water",
-      "Temperature",
-      "Bicycling",
-      "Hot Temperature"
-    ],
-    "keywords": [
-      "blood markers",
-      "enjoyment",
-      "exercise",
-      "passive heating",
-      "physical inactivity",
-      "vascular responses"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38470997/"
-  },
-  {
     "pmid": "38410962",
     "title": "Sauna bathing and mortality risk: unraveling the interaction with systolic blood pressure in a cohort of Finnish men.",
     "authors": [
@@ -20032,56 +20186,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38363078/"
-  },
-  {
-    "pmid": "38299219",
-    "title": "Passive heat therapy: a promising preventive measure for people at risk of adverse health outcomes during heat extremes.",
-    "authors": [
-      "Patrick Rodrigues",
-      "Lucas B R Orssatto",
-      "Daniel Gagnon",
-      "Amine Dahhak",
-      "Anne Hecksteden",
-      "Ian B Stewart",
-      "Geoffrey M Minett"
-    ],
-    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
-    "year": "2024",
-    "doi": "10.1152/japplphysiol.00701.2023",
-    "publication_types": [
-      "Journal Article",
-      "Review",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Middle Aged",
-      "Humans",
-      "Aged",
-      "Hot Temperature",
-      "Body Temperature Regulation",
-      "Cardiovascular System",
-      "Chronic Disease",
-      "Outcome Assessment, Health Care"
-    ],
-    "keywords": [
-      "aging",
-      "cardiovascular diseases",
-      "climate change",
-      "extreme heat events",
-      "passive heating"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38299219/"
   },
   {
     "pmid": "38281244",
@@ -20479,52 +20583,6 @@
     "classifier_confidence": 0.82,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38015822/"
-  },
-  {
-    "pmid": "37870668",
-    "title": "Hot water immersion is associated with higher thermal comfort than dry passive heating for a similar rise in rectal temperature and plasma interleukin-6 concentration.",
-    "authors": [
-      "Yunuo Su",
-      "Sven P Hoekstra",
-      "Christof A Leicht"
-    ],
-    "journal": "European journal of applied physiology",
-    "year": "2024",
-    "doi": "10.1007/s00421-023-05336-8",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Young Adult",
-      "Humans",
-      "Adult",
-      "Interleukin-6",
-      "Hot Temperature",
-      "Temperature",
-      "Heating",
-      "Immersion",
-      "Body Temperature",
-      "Water"
-    ],
-    "keywords": [
-      "Inflammation",
-      "Passive heat",
-      "Rectal temperature",
-      "Skin temperature",
-      "Thermal comfort"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37870668/"
   },
   {
     "pmid": "37839928",
