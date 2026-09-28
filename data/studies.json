@@ -1,5 +1,114 @@
 [
   {
+    "pmid": "42799782",
+    "title": "Photobiomodulation versus ischemic preconditioning for protection against exercise-induced muscle damage: protocol for a randomized controlled trial.",
+    "authors": [
+      "Eduardo Lima",
+      "Rafael Pereira",
+      "Cláudia Thais Pereira Pinto",
+      "Felipe Sampaio-Jorge",
+      "Wouber Hérickson de Brito Vieira",
+      "Mikhail Santos Cerqueira"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05048-3",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Ischemic Preconditioning",
+      "Low-Level Light Therapy",
+      "Muscle, Skeletal",
+      "Young Adult",
+      "Myalgia",
+      "Adult",
+      "Prospective Studies",
+      "Exercise",
+      "Adolescent",
+      "Isometric Contraction",
+      "Post-Exercise Recovery Techniques"
+    ],
+    "keywords": [
+      "Eccentric exercise",
+      "Muscle function",
+      "Muscle soreness",
+      "Randomized trial",
+      "Recovery"
+    ],
+    "topics": [
+      "exercise-recovery",
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42799782/"
+  },
+  {
+    "pmid": "42782358",
+    "title": "Effectiveness of a novel low-level laser therapy protocol in managing breast cancer-related lymphedema.",
+    "authors": [
+      "Jin A Yoon",
+      "Hasuk Bae",
+      "Su Hong Choi",
+      "Min-Hyung Rhee",
+      "Ye Ji Kim",
+      "In Joo Kong",
+      "Hyo Jeong Lim",
+      "Jae Yong Jeon"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05045-6",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Female",
+      "Humans",
+      "Middle Aged",
+      "Breast Cancer Lymphedema",
+      "Breast Neoplasms",
+      "Elasticity Imaging Techniques",
+      "Low-Level Light Therapy",
+      "Lymphography",
+      "Treatment Outcome"
+    ],
+    "keywords": [
+      "Breast cancer",
+      "Fibrosis",
+      "Low-level laser therapy",
+      "Lymphedema",
+      "Photobiomodulation",
+      "Randomized controlled trial"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42782358/"
+  },
+  {
     "pmid": "42776303",
     "title": "Acceptance and perceived efficacy of intraoral versus extraoral photobiomodulation for oral mucositis prevention in pediatric patients.",
     "authors": [
@@ -2863,6 +2972,51 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42472732/"
   },
   {
+    "pmid": "42464185",
+    "title": "Umbrella review of photobiomodulation/low-level laser therapy and vitamin D in orthodontics: effects on tooth movement, pain, root resorption, and bone biomarkers.",
+    "authors": [
+      "Syed Abid Altaf Bukhari",
+      "Ahmad Hashridz Bin Ruslan",
+      "Rozita Hassan"
+    ],
+    "journal": "BMC oral health",
+    "year": "2026",
+    "doi": "10.1186/s12903-026-09095-8",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Tooth Movement Techniques",
+      "Low-Level Light Therapy",
+      "Vitamin D",
+      "Root Resorption",
+      "Biomarkers",
+      "Orthodontics"
+    ],
+    "keywords": [
+      "Low-level laser therapy",
+      "Orthodontic tooth movement",
+      "Photobiomodulation",
+      "Root resorption",
+      "Umbrella review",
+      "Vitamin D"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42464185/"
+  },
+  {
     "pmid": "42463621",
     "title": "Photobiomodulation therapy in oral mucositis prevention and treatment: insights from a bibliometric review.",
     "authors": [
@@ -4351,118 +4505,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42353232/"
   },
   {
-    "pmid": "42352324",
-    "title": "Optotransduction Pathway, Exploring Connections with Inflammation.",
-    "authors": [
-      "Alessandro Ravoni",
-      "Veronica Paparozzi",
-      "Tiziana Guarnieri",
-      "Cecilia Sanzini",
-      "Luigi Manni",
-      "Christine Nardini"
-    ],
-    "journal": "Biomolecules",
-    "year": "2026",
-    "doi": "10.3390/biom16060859",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Inflammation",
-      "Mechanotransduction, Cellular",
-      "Animals",
-      "Signal Transduction",
-      "Systems Biology"
-    ],
-    "keywords": [
-      "inflammation",
-      "network biology",
-      "optotransduction",
-      "pathway",
-      "photobiomodulation",
-      "systems biology markup language"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42352324/"
-  },
-  {
-    "pmid": "42352321",
-    "title": "The Immune-Chemokine Axis in Alzheimer's Disease: Roles of Adaptive Immune System in Neuroinflammation and Disease Progression.",
-    "authors": [
-      "José Joaquín Merino",
-      "José Julio Rodríguez-Arellano",
-      "Xavier Busquets",
-      "Isabel Álvarez-Vicente",
-      "María Eugenia Cabaña-Muñoz",
-      "Ana Isabel Flores",
-      "Adolfo Toledano Gasca"
-    ],
-    "journal": "Biomolecules",
-    "year": "2026",
-    "doi": "10.3390/biom16060855",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Alzheimer Disease",
-      "Animals",
-      "Adaptive Immunity",
-      "Disease Progression",
-      "Chemokines",
-      "Neuroinflammatory Diseases",
-      "Brain",
-      "Amyloid beta-Peptides",
-      "T-Lymphocytes"
-    ],
-    "keywords": [
-      "Alzheimer’s disease and neurodegenerative diseases",
-      "CX3CR1/fractalkine",
-      "CXCL0",
-      "CXCR6",
-      "T cells",
-      "Treg",
-      "adaptive immune system",
-      "amyloid-β",
-      "chemokines",
-      "glial activation",
-      "immunobiology",
-      "immunology",
-      "inflammation",
-      "innate immune system",
-      "monocytes",
-      "neuroimmunology",
-      "neuroinflammation",
-      "neurology",
-      "neuromodulation",
-      "photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42352321/"
-  },
-  {
     "pmid": "42350747",
     "title": "Antimicrobial effect of 1064 nm Nd:YAG laser with flat-top homogeneous beam profile on oral fungal and bacterial biofilms: an in vitro study.",
     "authors": [
@@ -5572,60 +5614,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42286424/"
-  },
-  {
-    "pmid": "42283739",
-    "title": "Impact of oral mucositis treated by photobiomodulation protocol on the quality of life of pediatric oncology patients with acute lymphoblastic leukemia.",
-    "authors": [
-      "William Alves de Melo Júnior",
-      "Gustavo Correia Basto da Silva",
-      "Fernanda Suely Barros Dantas",
-      "Raíssa Cássia Gomes Aciole",
-      "Fernando Luiz Affonso Fonseca",
-      "Maria Aparecida da Silva Pinhal"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04903-7",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Child",
-      "Stomatitis",
-      "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
-      "Quality of Life",
-      "Male",
-      "Adolescent",
-      "Cross-Sectional Studies",
-      "Female",
-      "Methotrexate",
-      "Low-Level Light Therapy",
-      "Child, Preschool",
-      "Brazil",
-      "Severity of Illness Index"
-    ],
-    "keywords": [
-      "Acute lymphoblastic leukemia",
-      "Antineoplastic therapy",
-      "Methotrexate",
-      "Oral mucositis",
-      "Photobiomodulation therapy",
-      "Quality of life"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.78,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42283739/"
   },
   {
     "pmid": "42281382",
@@ -19545,60 +19533,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38701244/"
   },
   {
-    "pmid": "38692130",
-    "title": "The effect of underwater massage during hot water immersion on acute cardiovascular and mood responses.",
-    "authors": [
-      "Tom Cullen",
-      "Charles J Steward",
-      "Campbell Menzies",
-      "Christopher J A Pugh",
-      "C Douglas Thake"
-    ],
-    "journal": "Journal of thermal biology",
-    "year": "2024",
-    "doi": "10.1016/j.jtherbio.2024.103858",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Male",
-      "Massage",
-      "Immersion",
-      "Adult",
-      "Heart Rate",
-      "Affect",
-      "Hydrocortisone",
-      "Blood Pressure",
-      "Young Adult",
-      "Hot Temperature",
-      "Anxiety",
-      "Cross-Over Studies",
-      "Water",
-      "Saliva"
-    ],
-    "keywords": [
-      "Health benefits",
-      "Hot water immersion",
-      "Massage",
-      "Passive heating"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38692130/"
-  },
-  {
     "pmid": "38663342",
     "title": "The effects of cold exposure (cold water immersion, whole- and partial- body cryostimulation) on cardiovascular and cardiac autonomic control responses in healthy individuals: A systematic review, meta-analysis and meta-regression.",
     "authors": [
@@ -21324,11 +21258,9 @@
       "resistance exercise"
     ],
     "topics": [
-      "cold-water-immersion",
       "exercise-recovery"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
       "Exercise Recovery"
     ],
     "design_class": "e",
@@ -24871,56 +24803,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31456474/"
-  },
-  {
-    "pmid": "31402432",
-    "title": "Photobiomodulation therapy and NMES improve muscle strength and jumping performance in young volleyball athletes: a randomized controlled trial study in Brazil.",
-    "authors": [
-      "Ronaldo Alves da Cunha",
-      "Carlos Eduardo Pinfildi",
-      "Alberto de Castro Pochini",
-      "Moisés Cohen"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2020",
-    "doi": "10.1007/s10103-019-02858-6",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Adolescent",
-      "Athletes",
-      "Brazil",
-      "Electric Stimulation",
-      "Electrodes",
-      "Humans",
-      "Locomotion",
-      "Low-Level Light Therapy",
-      "Lower Extremity",
-      "Male",
-      "Muscle Strength",
-      "Volleyball"
-    ],
-    "keywords": [
-      "Athletic performance",
-      "Muscle strength",
-      "Neuromuscular electrical stimulation",
-      "Photobiomodulation therapy",
-      "Sports"
-    ],
-    "topics": [
-      "exercise-recovery"
-    ],
-    "topic_names": [
-      "Exercise Recovery"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31402432/"
   },
   {
     "pmid": "31319427",
