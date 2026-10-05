@@ -503,6 +503,55 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42762353/"
   },
   {
+    "pmid": "42753963",
+    "title": "Toward precision photobiomodulation for radiation-induced xerostomia: Clinical evidence, salivary biomarkers, and artificial intelligence.",
+    "authors": [
+      "Shahriar Eftekharian",
+      "Shole Rastkar"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105656",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Xerostomia",
+      "Biomarkers",
+      "Head and Neck Neoplasms",
+      "Low-Level Light Therapy",
+      "Artificial Intelligence",
+      "Saliva",
+      "Radiation Injuries",
+      "Precision Medicine"
+    ],
+    "keywords": [
+      "Head and neck cancer",
+      "Hyposalivation",
+      "Machine learning",
+      "Photobiomodulation therapy",
+      "Precision medicine",
+      "Radiomics",
+      "Salivary biomarkers",
+      "Supportive care",
+      "Xerostomia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "Title/abstract methods heuristic",
+    "classifier_confidence": 0.88,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42753963/"
+  },
+  {
     "pmid": "42752735",
     "title": "Can photobiomodulation prevent herpes labialis recurrences? A systematic review.",
     "authors": [
@@ -936,6 +985,57 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42731113/"
+  },
+  {
+    "pmid": "42727840",
+    "title": "Clinical safety and tolerability of repeated high-fluence 405 nm blue light exposure in chronic wounds.",
+    "authors": [
+      "Frederik Plum",
+      "Aqella Rasul",
+      "Ewa Anna Burian",
+      "Katrine E Karmisholt",
+      "Klaus Kirketerp-Møller"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105649",
+    "publication_types": [
+      "Journal Article",
+      "Clinical Trial, Phase I"
+    ],
+    "mesh": [
+      "Humans",
+      "Blue Light",
+      "Wound Healing",
+      "Male",
+      "Female",
+      "Middle Aged",
+      "Chronic Disease",
+      "Aged",
+      "Photochemotherapy",
+      "Adult",
+      "Dose-Response Relationship, Radiation",
+      "Aged, 80 and over"
+    ],
+    "keywords": [
+      "Blue light",
+      "Chronic wounds",
+      "Photobiomodulation",
+      "Phototherapy",
+      "Safety"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.98,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42727840/"
   },
   {
     "pmid": "42709729",
@@ -1808,6 +1908,59 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42629521/"
   },
   {
+    "pmid": "42624231",
+    "title": "Comparison of effects between daily repeated low-level red light therapy and 0.01% low-dose atropine for myopia prevention: A propensity score matching study.",
+    "authors": [
+      "Xiaoqian Ma",
+      "Yang Zhao",
+      "Yuanpei Zhou",
+      "Hongyan Sun",
+      "Subing Liu",
+      "Weijing Yin"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105624",
+    "publication_types": [
+      "Journal Article",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Myopia",
+      "Child",
+      "Atropine",
+      "Red Light",
+      "Female",
+      "Male",
+      "Prospective Studies",
+      "Propensity Score",
+      "Ophthalmic Solutions",
+      "Incidence",
+      "Mydriatics"
+    ],
+    "keywords": [
+      "Children",
+      "Comparative study",
+      "Low-dose atropine",
+      "Myopia",
+      "Prevention",
+      "Repeated low-level red light"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "d",
+    "design_label": "Observational research",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.96,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42624231/"
+  },
+  {
     "pmid": "42622691",
     "title": "Photobiomodulation for autonomic rebalancing in myocardial infarction prevention.",
     "authors": [
@@ -1848,6 +2001,53 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622691/"
+  },
+  {
+    "pmid": "42617719",
+    "title": "Potential impact of low-level laser therapy on Wnt/β-catenin signaling pathway for regenerative endodontic applications: A literature review.",
+    "authors": [
+      "Rashin Bahrami",
+      "Atefe Ebrahimi",
+      "Mina Mehrjouei"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105616",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Low-Level Light Therapy",
+      "Humans",
+      "Dental Pulp",
+      "Stem Cells",
+      "Wnt Signaling Pathway",
+      "Regenerative Endodontics",
+      "Cell Proliferation",
+      "Regeneration",
+      "Animals",
+      "Cell Differentiation"
+    ],
+    "keywords": [
+      "Endodontics",
+      "Low-level laser therapy",
+      "Photobiomodulation",
+      "Pulp",
+      "Regenerative treatment"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617719/"
   },
   {
     "pmid": "42616170",
@@ -2088,6 +2288,54 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42595101/"
+  },
+  {
+    "pmid": "42586290",
+    "title": "Bibliometric analysis in the field of photobiomodulation in the last two decades: research trends and evolution of hot topics.",
+    "authors": [
+      "Chuanzheng Zhang",
+      "Cheng Cheng",
+      "Lulu Wang",
+      "Hongli Zhang",
+      "Yue Yu",
+      "Jiawei Zhang",
+      "Jing Zhang"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105610",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Bibliometrics",
+      "Low-Level Light Therapy",
+      "Humans",
+      "Brazil",
+      "Alzheimer Disease",
+      "Biomedical Research"
+    ],
+    "keywords": [
+      "Bibliometric analysis",
+      "Bibliometrix",
+      "Citespace",
+      "Low-level laser therapy",
+      "Photobiomodulation",
+      "VOSviewer"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "classification_source": "Title/abstract methods heuristic",
+    "classifier_confidence": 0.74,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42586290/"
   },
   {
     "pmid": "42581717",
@@ -2705,23 +2953,24 @@
     "doi": "10.1016/j.ajo.2026.07.035",
     "publication_types": [
       "Journal Article",
+      "Multicenter Study",
       "Randomized Controlled Trial"
     ],
     "mesh": [
-      "Humans",
-      "Cost-Benefit Analysis",
-      "Visual Acuity",
-      "Quality-Adjusted Life Years",
-      "Cost-Effectiveness Analysis",
-      "Low-Level Light Therapy",
-      "Geographic Atrophy",
-      "Markov Chains",
-      "Female",
       "Aged",
+      "Female",
+      "Humans",
       "Male",
-      "United States",
+      "Cost-Benefit Analysis",
+      "Cost-Effectiveness Analysis",
+      "Geographic Atrophy",
       "Health Care Costs",
-      "Quality of Life"
+      "Low-Level Light Therapy",
+      "Markov Chains",
+      "Quality of Life",
+      "Quality-Adjusted Life Years",
+      "United States",
+      "Visual Acuity"
     ],
     "keywords": [],
     "topics": [
@@ -3282,20 +3531,20 @@
       "Pragmatic Clinical Trial"
     ],
     "mesh": [
-      "Humans",
-      "Sleep Initiation and Maintenance Disorders",
-      "Massage",
-      "Acupuncture Therapy",
+      "Aged",
       "Female",
+      "Humans",
       "Male",
       "Middle Aged",
-      "Treatment Outcome",
-      "Aged",
+      "Acupuncture Therapy",
       "Cancer Pain",
+      "Massage",
       "Neoplasms",
       "Pain Management",
+      "Pain Measurement",
       "Severity of Illness Index",
-      "Pain Measurement"
+      "Sleep Initiation and Maintenance Disorders",
+      "Treatment Outcome"
     ],
     "keywords": [
       "Acupuncture",
@@ -3317,6 +3566,46 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471129/"
+  },
+  {
+    "pmid": "42468753",
+    "title": "Photobiomodulation therapy for accelerating clear aligner tooth movement: A literature review.",
+    "authors": [
+      "Rashin Bahrami",
+      "Maryam Pourhajibagher",
+      "Abbas Bahador"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105580",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Tooth Movement Techniques",
+      "Low-Level Light Therapy"
+    ],
+    "keywords": [
+      "Clear aligner",
+      "Laser",
+      "Orthodontics",
+      "Photobiomodulation",
+      "Tooth movement"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "Title/abstract methods heuristic",
+    "classifier_confidence": 0.82,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42468753/"
   },
   {
     "pmid": "42464185",
@@ -3584,116 +3873,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452432/"
   },
   {
-    "pmid": "42450035",
-    "title": "Oxidative Stress Biomarkers in Oral Mucosal Wound Healing and Photobiomodulation: Biochemical Pathways, Experimental Models, and Translational Perspectives.",
-    "authors": [
-      "Ilija M Dragojević",
-      "Bojana Kisić",
-      "Dijana Mirić",
-      "Aleksandra Ilić",
-      "Jelena T Todić",
-      "Milena Kostić",
-      "Zlatibor Anđelković",
-      "Ljiljana Popović",
-      "Ljiljana Šubarić",
-      "Aleksandar Šubarić",
-      "Nadica S Đorđević"
-    ],
-    "journal": "International journal of molecular sciences",
-    "year": "2026",
-    "doi": "10.3390/ijms27135763",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Wound Healing",
-      "Oxidative Stress",
-      "Biomarkers",
-      "Mouth Mucosa",
-      "Animals",
-      "Low-Level Light Therapy",
-      "Reactive Oxygen Species",
-      "Signal Transduction"
-    ],
-    "keywords": [
-      "low-level laser therapy",
-      "oral mucosal wound healing",
-      "oxidative stress",
-      "oxidative stress biomarkers",
-      "photobiomodulation",
-      "reactive oxygen species",
-      "redox signaling",
-      "redox-sensitive pathways"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42450035/"
-  },
-  {
-    "pmid": "42449957",
-    "title": "Molecular Mechanisms of Photobiomodulation in Retinal Diseases: Cytochrome c Oxidase, Mitochondrial Bioenergetics and Cytoprotective Signalling.",
-    "authors": [
-      "Rubens Camargo Siqueira"
-    ],
-    "journal": "International journal of molecular sciences",
-    "year": "2026",
-    "doi": "10.3390/ijms27135683",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Mitochondria",
-      "Animals",
-      "Signal Transduction",
-      "Electron Transport Complex IV",
-      "Energy Metabolism",
-      "Retinal Diseases",
-      "Low-Level Light Therapy"
-    ],
-    "keywords": [
-      "BMAL1",
-      "NF-κB",
-      "Nrf2",
-      "PGC-1α",
-      "age-related macular degeneration",
-      "central serous chorioretinopathy",
-      "circadian rhythm",
-      "cytochrome c oxidase",
-      "mitochondria",
-      "mitochondrial biogenesis",
-      "mitophagy",
-      "myopia",
-      "near-infrared light",
-      "photobiomodulation",
-      "retinitis pigmentosa"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42449957/"
-  },
-  {
     "pmid": "42446481",
     "title": "Differences in Posterior Ocular Morphology Following Red Light Therapy Versus 0.01% Atropine for Myopia Control: A Randomized Controlled Trial Analysis.",
     "authors": [
@@ -3817,7 +3996,8 @@
     "doi": "10.1038/s41598-026-62428-z",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Child",
@@ -4705,60 +4885,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42373001/"
   },
   {
-    "pmid": "42371186",
-    "title": "Antimicrobial photodynamic therapy for the treatment of angular cheilitis in critically Ill patients: a prospective study.",
-    "authors": [
-      "André Luis Alves Borges",
-      "Sarah Emmily Melo da Silva",
-      "Tatiana Bernardo Farias Pereira",
-      "Jéssika Gulherme de Almeida Gonçalves",
-      "Éricka Janine Dantas da Silveira"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04931-3",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Cheilitis",
-      "Photochemotherapy",
-      "Prospective Studies",
-      "Female",
-      "Critical Illness",
-      "Male",
-      "Methylene Blue",
-      "Photosensitizing Agents",
-      "Middle Aged",
-      "Adult",
-      "Treatment Outcome",
-      "Aged",
-      "Low-Level Light Therapy",
-      "Red Light",
-      "Candidiasis, Oral"
-    ],
-    "keywords": [
-      "Candidiasis, Oral",
-      "Cheilitis",
-      "Intensive Care Units",
-      "Low-Level Light Therapy",
-      "Photochemotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42371186/"
-  },
-  {
     "pmid": "42363780",
     "title": "Manual Massage Therapy for Neuropathic Pain: Clinical Evidence and Mechanistic Insights.",
     "authors": [
@@ -4803,66 +4929,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42363780/"
-  },
-  {
-    "pmid": "42360517",
-    "title": "Randomized, double-blind, sham-controlled trial of an intraoral photobiomodulation device for oral mucositis and associated complications due to radiotherapy for head and neck cancer.",
-    "authors": [
-      "Kenneth Hu",
-      "Pratish Shah",
-      "M Connie Nguyen",
-      "Cornelia McCluskey",
-      "Anne Kane",
-      "Roger Ove",
-      "Christopher D Willey",
-      "Sanford Katz",
-      "Omkar Marathe",
-      "Sasha Valentin",
-      "Jennifer Frustino",
-      "Alessandro Villa"
-    ],
-    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "year": "2026",
-    "doi": "10.1007/s00520-026-10904-7",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Adult",
-      "Aged",
-      "Female",
-      "Humans",
-      "Male",
-      "Middle Aged",
-      "Double-Blind Method",
-      "Head and Neck Neoplasms",
-      "Incidence",
-      "Low-Level Light Therapy",
-      "Radiation Injuries",
-      "Radiotherapy, Intensity-Modulated",
-      "Severity of Illness Index",
-      "Stomatitis"
-    ],
-    "keywords": [
-      "Head and neck cancer",
-      "Oral mucositis",
-      "Photobiomodulation",
-      "Radiotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42360517/"
   },
   {
     "pmid": "42359592",
@@ -4914,98 +4980,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359592/"
-  },
-  {
-    "pmid": "42350747",
-    "title": "Antimicrobial effect of 1064 nm Nd:YAG laser with flat-top homogeneous beam profile on oral fungal and bacterial biofilms: an in vitro study.",
-    "authors": [
-      "Zuzanna Grzech-Leśniak",
-      "Jakub Pyrkosz",
-      "Maciej Szwajkowski",
-      "Jagoda Szwach",
-      "Krzysztof Migas",
-      "Jacek Matys",
-      "Rafał Wiench",
-      "Magdalena Pajączkowska",
-      "Joanna Nowicka",
-      "Kinga Grzech-Leśniak"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04921-5",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Biofilms",
-      "Streptococcus mutans",
-      "Candida albicans",
-      "Candida glabrata",
-      "Lasers, Solid-State",
-      "Humans",
-      "In Vitro Techniques",
-      "Low-Level Light Therapy"
-    ],
-    "keywords": [
-      "Candida albicans",
-      "Candida glabrata",
-      "Streptococcus mutans",
-      "Oral microbiota"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42350747/"
-  },
-  {
-    "pmid": "42350598",
-    "title": "Evaluating the educational quality and reliability of YouTube videos on red light therapy for eye diseases.",
-    "authors": [
-      "Elvin Çelenk",
-      "Işıl Merve Torun"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04920-6",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Eye Diseases",
-      "Social Media",
-      "Video Recording",
-      "Red Light",
-      "Reproducibility of Results",
-      "Ophthalmology",
-      "Patient Education as Topic"
-    ],
-    "keywords": [
-      "Eye disease",
-      "Red light therapy",
-      "Scoring systems",
-      "YouTube"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42350598/"
   },
   {
     "pmid": "42349628",
@@ -5156,57 +5130,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42345113/"
-  },
-  {
-    "pmid": "42340478",
-    "title": "Adjuvant visible incoherent polarised phototherapy in chronic skin defects: a single-arm prospective observational cohort study.",
-    "authors": [
-      "Michal Trnka",
-      "Katarína Zifčáková",
-      "Silvia Dulanská",
-      "Ján Pánik"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04933-1",
-    "publication_types": [
-      "Journal Article",
-      "Observational Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Prospective Studies",
-      "Male",
-      "Aged",
-      "Wound Healing",
-      "Middle Aged",
-      "Treatment Outcome",
-      "Aged, 80 and over",
-      "Chronic Disease",
-      "Phototherapy",
-      "Varicose Ulcer"
-    ],
-    "keywords": [
-      "Adjuvant therapy",
-      "Chronic skin defect",
-      "Photobiomodulation",
-      "Ulcus cruris",
-      "Visible incoherent polarised light",
-      "Wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 0.96,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42340478/"
   },
   {
     "pmid": "42338379",
@@ -5608,7 +5531,6 @@
       "Delphi Technique",
       "Muscle, Skeletal",
       "Muscle Strength",
-      "Consensus",
       "Hot Temperature",
       "Body Temperature"
     ],
@@ -5677,6 +5599,50 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42286424/"
+  },
+  {
+    "pmid": "42285272",
+    "title": "Investigation of the photobiomodulation effects on viability and wound healing activity in human umbilical vein endothelial cells (HUVEC).",
+    "authors": [
+      "Niloufar Abed-Lati",
+      "Elham Rajabbeigi",
+      "Fatemeh Javani Jouni",
+      "Navid Dehnavi"
+    ],
+    "journal": "Photodiagnosis and photodynamic therapy",
+    "year": "2026",
+    "doi": "10.1016/j.pdpdt.2026.105541",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Wound Healing",
+      "Human Umbilical Vein Endothelial Cells",
+      "Cell Movement",
+      "Cell Survival",
+      "Low-Level Light Therapy",
+      "Red Light",
+      "Cells, Cultured"
+    ],
+    "keywords": [
+      "Cell cytotoxicity",
+      "Human umbilical vein endothelial cell (HUVEC)",
+      "Photobiomodulation",
+      "Wound healing"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42285272/"
   },
   {
     "pmid": "42281382",
@@ -6762,6 +6728,62 @@
     "classifier_confidence": 0.78,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42189842/"
+  },
+  {
+    "pmid": "42128735",
+    "title": "Effects of LED photobiomodulation on pain, oedema, trismus, and the quality of life following the extraction of the mandibular third molar: a randomized blinded clinical trial.",
+    "authors": [
+      "C de Andrade Hage",
+      "M S Almeida Alves",
+      "C A de Lima Luna",
+      "B C Afonso",
+      "D M Guimarães"
+    ],
+    "journal": "International journal of oral and maxillofacial surgery",
+    "year": "2026",
+    "doi": "10.1016/j.ijom.2026.04.004",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Young Adult",
+      "Double-Blind Method",
+      "Edema",
+      "Low-Level Light Therapy",
+      "Mandible",
+      "Molar, Third",
+      "Pain Measurement",
+      "Postoperative Complications",
+      "Postoperative Pain",
+      "Quality of Life",
+      "Tooth Extraction",
+      "Treatment Outcome",
+      "Trismus"
+    ],
+    "keywords": [
+      "Pain",
+      "Photobiomodulation",
+      "Postoperative care",
+      "Third molar",
+      "Trismus"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128735/"
   },
   {
     "pmid": "42113470",
@@ -12525,7 +12547,8 @@
     "year": "2025",
     "doi": "10.14814/phy2.70554",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
     ],
     "mesh": [
       "Humans",
@@ -13330,7 +13353,8 @@
     "doi": "10.14814/phy2.70449",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
