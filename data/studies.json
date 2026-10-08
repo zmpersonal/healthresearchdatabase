@@ -1,5 +1,126 @@
 [
   {
+    "pmid": "42840704",
+    "title": "Brain photobiomodulation therapy for acute sport-related concussion: a randomized, single-blinded, pilot clinical trial (RECOVERY study).",
+    "authors": [
+      "Jean-François Chermann",
+      "Philippe Malafosse",
+      "Guillaume Champleboux",
+      "Julie Bisiaux",
+      "Sara Guillemin",
+      "Meriem Benmerad",
+      "Andréanne Varet",
+      "Patrice Cristofini",
+      "Guillaume Blivet",
+      "Jacques Touchon"
+    ],
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "doi": "10.3389/fneur.2026.1894623",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Pilot Projects",
+      "Single-Blind Method",
+      "Female",
+      "Athletic Injuries",
+      "Brain Concussion",
+      "Low-Level Light Therapy",
+      "Male",
+      "Adult",
+      "Prospective Studies",
+      "Young Adult",
+      "Middle Aged",
+      "Treatment Outcome",
+      "Recovery of Function"
+    ],
+    "keywords": [
+      "brain",
+      "clinical trial",
+      "concussion",
+      "mTBI",
+      "neuromodulation",
+      "neurotech",
+      "photobiomodulation",
+      "sport"
+    ],
+    "topics": [
+      "exercise-recovery",
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840704/"
+  },
+  {
+    "pmid": "42834637",
+    "title": "Photobiomodulation Ameliorates Alexander Disease Through AMPK/mTOR-Mediated Mitophagy.",
+    "authors": [
+      "Nianzhuang Qiu",
+      "Jie Zhang",
+      "Huan Yi",
+      "Sihan Dong",
+      "Lei Han",
+      "Zhendong Feng",
+      "Shumin Gao",
+      "Jie Shi",
+      "Jia Jia Liu",
+      "Ye Wu",
+      "Xunbin Wei",
+      "Ya Bin Wei"
+    ],
+    "journal": "Glia",
+    "year": "2026",
+    "doi": "10.1002/glia.70229",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "TOR Serine-Threonine Kinases",
+      "Mitophagy",
+      "Humans",
+      "Mice",
+      "AMP-Activated Protein Kinases",
+      "Alexander Disease",
+      "Signal Transduction",
+      "Low-Level Light Therapy",
+      "Astrocytes",
+      "Mitochondria",
+      "Reactive Oxygen Species"
+    ],
+    "keywords": [
+      "AMPK/mTOR signaling",
+      "alexander disease",
+      "induced pluripotent stem cell",
+      "inflammation",
+      "mitophagy",
+      "photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42834637/"
+  },
+  {
     "pmid": "42817778",
     "title": "Comparative efficacy of photobiomodulation therapy and transcutaneous electrical nerve stimulation for temporomandibular disorders: a CONSORT-based methodological appraisal.",
     "authors": [
@@ -90,43 +211,38 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42813226/"
   },
   {
-    "pmid": "42809639",
-    "title": "New regenerative interventions and treatment targets in sexual medicine: recommendations from the Fifth International Consultation on Sexual Medicine (ICSM 2024).",
+    "pmid": "42810362",
+    "title": "Voxel-based ray-tracing modeling of 635 nm optical energy deposition in skin with different pigmentation levels.",
     "authors": [
-      "Barbara M Chubak",
-      "Chun Wai Chan",
-      "Jawad Feghali",
-      "Serkan Karakus",
-      "Edoardo Pozzi",
-      "Natesh Prabhu",
-      "Omer A Raheem",
-      "Ahmed I El-Sakka"
+      "Zahra Al Timimi",
+      "Zeina J M Tamimi"
     ],
-    "journal": "Sexual medicine reviews",
+    "journal": "Biomedical physics & engineering express",
     "year": "2026",
-    "doi": "10.1093/sxmrev/qeag048",
+    "doi": "10.1088/2057-1976/aeada9",
     "publication_types": [
-      "Journal Article",
-      "Review"
+      "Journal Article"
     ],
     "mesh": [
+      "Skin Pigmentation",
       "Humans",
-      "Male",
-      "Sexual Dysfunction, Physiological",
-      "Female",
-      "Regenerative Medicine",
-      "Stem Cell Transplantation"
+      "Melanins",
+      "Scattering, Radiation",
+      "Skin",
+      "Models, Biological",
+      "Epidermis",
+      "Light",
+      "Absorption, Radiation",
+      "Computer Simulation",
+      "Lasers"
     ],
     "keywords": [
-      "bioethics",
-      "extracorporeal shockwave",
-      "laser therapy",
+      "ASAP simulation",
+      "absorbed power density",
+      "laser-tissue interaction",
       "photobiomodulation",
-      "platelet-rich plasma",
-      "radiofrequency therapy",
-      "regenerative medicine",
-      "sexual dysfunction",
-      "stem cell"
+      "skin optics",
+      "skin pigmentation"
     ],
     "topics": [
       "photobiomodulation"
@@ -139,7 +255,7 @@
     "classification_source": "Insufficient design metadata",
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809639/"
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42810362/"
   },
   {
     "pmid": "42809053",
@@ -4740,58 +4856,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42378379/"
   },
   {
-    "pmid": "42377668",
-    "title": "Near‑Infrared Photobiomodulation in White‑Matter Disease: From Microglial States to Measurable Endpoints.",
-    "authors": [
-      "Jiahao Zhang",
-      "Quanguang Zhang",
-      "J Dedrick Jordan",
-      "Xuemei Zong"
-    ],
-    "journal": "Neuromolecular medicine",
-    "year": "2026",
-    "doi": "10.1007/s12017-026-08924-x",
-    "publication_types": [
-      "Journal Article",
-      "Review",
-      "Research Support, N.I.H., Extramural"
-    ],
-    "mesh": [
-      "Humans",
-      "Microglia",
-      "Animals",
-      "Low-Level Light Therapy",
-      "Leukoencephalopathies",
-      "White Matter",
-      "Infrared Rays",
-      "Oligodendroglia",
-      "Oxidative Stress",
-      "Astrocytes",
-      "Remyelination",
-      "Axons"
-    ],
-    "keywords": [
-      "Diffusion tensor imaging",
-      "Dosimetry",
-      "Microglia",
-      "Photobiomodulation",
-      "Remyelination",
-      "White matter"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42377668/"
-  },
-  {
     "pmid": "42376894",
     "title": "Adipose-Derived Stem Cells Differentiate Into Insulin-Producing Cells in 2D Culture With Photobiomodulation: A Comparative Analysis of Wavelength and Fluence Parameters.",
     "authors": [
@@ -8682,6 +8746,62 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41792539/"
   },
   {
+    "pmid": "41786091",
+    "title": "Efficacy and predictive criteria for success of photobiomodulation therapy in women presenting with vulvar and vaginal pain.",
+    "authors": [
+      "Catlyne Plumasseau",
+      "Mathilde Lepelletier",
+      "Sarah Vieillefosse",
+      "Pierre Millet",
+      "Roxane Haziza",
+      "Eleonora Salakos",
+      "Antony Tuil",
+      "Jeremie Mattern",
+      "Xavier Deffieux"
+    ],
+    "journal": "The French journal of urology",
+    "year": "2026",
+    "doi": "10.1016/j.fjurol.2026.103095",
+    "publication_types": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Retrospective Studies",
+      "Low-Level Light Therapy",
+      "Adult",
+      "Treatment Outcome",
+      "Middle Aged",
+      "Vulvodynia",
+      "Vaginal Diseases",
+      "Vagina",
+      "Pain Measurement"
+    ],
+    "keywords": [
+      "LLT",
+      "Laser",
+      "PBM",
+      "Photobiomodulation",
+      "Vaginal pain",
+      "Vulvar pain",
+      "Vulvodynia"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "d",
+    "design_label": "Observational research",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.96,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41786091/"
+  },
+  {
     "pmid": "41770552",
     "title": "Hemodynamic and vascular effects of different durations of lower-leg hot-water immersion.",
     "authors": [
@@ -10056,50 +10176,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41242871/"
   },
   {
-    "pmid": "41190614",
-    "title": "Optimization of photobiomodulation therapy for spinal cord injury: A review.",
-    "authors": [
-      "Isabella K M Drew",
-      "Alan R Harvey",
-      "Vincent P Wallace",
-      "Stuart I Hodgetts"
-    ],
-    "journal": "Photochemistry and photobiology",
-    "year": "2026",
-    "doi": "10.1111/php.70041",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Spinal Cord Injuries",
-      "Humans",
-      "Low-Level Light Therapy",
-      "Animals",
-      "Red Light"
-    ],
-    "keywords": [
-      "mechanism",
-      "optimization",
-      "parameters",
-      "pathophysiology",
-      "photobiomodulation",
-      "spinal cord injury"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41190614/"
-  },
-  {
     "pmid": "41175351",
     "title": "The Effects of 10-Minute Outdoor Cold-Water Immersion on Postural Stability.",
     "authors": [
@@ -10226,12 +10302,10 @@
       "Photobiomodulation"
     ],
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "design_class": "b",
     "design_label": "Randomized controlled trial",
