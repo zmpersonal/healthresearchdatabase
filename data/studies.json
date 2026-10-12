@@ -2119,6 +2119,115 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622691/"
   },
   {
+    "pmid": "42619237",
+    "title": "Immunomodulatory Effects of 808 nm Laser Photobiomodulation on Natural Killer Cells In Vitro and In Vivo.",
+    "authors": [
+      "Ting Huyan",
+      "Qi Shu",
+      "Ding Wang",
+      "Juanping Chen",
+      "Zhen Yang",
+      "Douae E L Beggar",
+      "Zijie Liu",
+      "Yuan Yin",
+      "Yuanyuan Qu",
+      "Wei Zhang",
+      "Qi Li"
+    ],
+    "journal": "Lasers in surgery and medicine",
+    "year": "2026",
+    "doi": "10.1002/lsm.70176",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "Killer Cells, Natural",
+      "Humans",
+      "Low-Level Light Therapy",
+      "Mice",
+      "Apoptosis",
+      "Reactive Oxygen Species",
+      "Immunomodulation",
+      "Cell Survival",
+      "Cells, Cultured",
+      "Adenosine Triphosphate",
+      "Male",
+      "Mice, Inbred C57BL"
+    ],
+    "keywords": [
+      "808 nm laser therapy",
+      "cytotoxicity",
+      "immunomodulatory",
+      "natural killer cells"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42619237/"
+  },
+  {
+    "pmid": "42619222",
+    "title": "Effects of Vascular Photobiomodulation on Glycemic Control in Patients With Type II Diabetes Mellitus: A Prospective Single-Arm Clinical Study.",
+    "authors": [
+      "Leandro Augusto Almeida",
+      "Anne Missrie",
+      "Victor Augusto Ramos Fernandes",
+      "Patricia Brassolatti",
+      "Ana Laura Martins de Andrade"
+    ],
+    "journal": "Lasers in surgery and medicine",
+    "year": "2026",
+    "doi": "10.1002/lsm.70192",
+    "publication_types": [
+      "Journal Article",
+      "Clinical Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Diabetes Mellitus, Type 2",
+      "Prospective Studies",
+      "Female",
+      "Male",
+      "Low-Level Light Therapy",
+      "Middle Aged",
+      "Blood Glucose",
+      "Glycemic Control",
+      "Glycated Hemoglobin",
+      "Hypoglycemic Agents",
+      "Red Light",
+      "Aged",
+      "Treatment Outcome",
+      "Metformin"
+    ],
+    "keywords": [
+      "blood glucose",
+      "diabetes mellitus",
+      "low‐level light therapy",
+      "type 2"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.98,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42619222/"
+  },
+  {
     "pmid": "42617719",
     "title": "Potential impact of low-level laser therapy on Wnt/β-catenin signaling pathway for regenerative endodontic applications: A literature review.",
     "authors": [
@@ -2367,7 +2476,8 @@
     "doi": "10.1016/j.brs.2026.103185",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, N.I.H., Extramural"
     ],
     "mesh": [
       "Humans",
@@ -2922,7 +3032,8 @@
     "publication_types": [
       "Journal Article",
       "Systematic Review",
-      "Meta-Analysis"
+      "Meta-Analysis",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -3987,6 +4098,60 @@
     "classifier_confidence": 0.82,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452432/"
+  },
+  {
+    "pmid": "42449279",
+    "title": "Transcranial photobiomodulation improves prefrontal oxygenation and impulse control in adults with ADHD: a randomized controlled trial.",
+    "authors": [
+      "Farzad Salehpour",
+      "Douglas W Barrett",
+      "Anagh Mirji",
+      "Ayla Farzamnia",
+      "Vikas Burugu",
+      "Nisarg Shah",
+      "Francisco Gonzalez-Lima"
+    ],
+    "journal": "BMC psychiatry",
+    "year": "2026",
+    "doi": "10.1186/s12888-026-08391-5",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Attention Deficit Disorder with Hyperactivity",
+      "Prefrontal Cortex",
+      "Adult",
+      "Impulsive Behavior",
+      "Female",
+      "Male",
+      "Low-Level Light Therapy",
+      "Spectroscopy, Near-Infrared",
+      "Attention",
+      "Cognitive Enhancement",
+      "Young Adult"
+    ],
+    "keywords": [
+      "Attention-deficit/hyperactivity disorder",
+      "Cognitive enhancement",
+      "Impulse control",
+      "Photobiomodulation",
+      "Prefrontal oxygenation",
+      "Working memory"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42449279/"
   },
   {
     "pmid": "42446481",
@@ -5304,6 +5469,57 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42336252/"
+  },
+  {
+    "pmid": "42319840",
+    "title": "The Impact of Massage on Pain and Vital Signs Following Cardiovascular Surgery in Pediatric Patients.",
+    "authors": [
+      "Engin Turan",
+      "Mensure Turan",
+      "Gülay Manav",
+      "Murat Kanğin"
+    ],
+    "journal": "The Journal of cardiovascular nursing",
+    "year": "2026",
+    "doi": "10.1097/JCN.0000000000001349",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Massage",
+      "Postoperative Pain",
+      "Vital Signs",
+      "Female",
+      "Child",
+      "Male",
+      "Child, Preschool",
+      "Pain Measurement",
+      "Heart Rate",
+      "Pain Management",
+      "Cardiovascular Surgical Procedures",
+      "Infant",
+      "Blood Pressure"
+    ],
+    "keywords": [
+      "cardiac surgery",
+      "classical massage",
+      "nondrug pain management",
+      "vital signs"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42319840/"
   },
   {
     "pmid": "42319630",
@@ -7913,59 +8129,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41973866/"
   },
   {
-    "pmid": "41965326",
-    "title": "Photobiomodulation restores blood-brain barrier integrity after hypoxia via endothelial von Willebrand factor modulation in a humanised tricellular transwell model.",
-    "authors": [
-      "Mirriam Domocos",
-      "Denis E Bragin",
-      "Nagesh C Shanbhag",
-      "Luise Schlotterose",
-      "Mootaz M Salman"
-    ],
-    "journal": "The Journal of physiology",
-    "year": "2026",
-    "doi": "10.1113/JP291064",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Low-Level Light Therapy",
-      "Blood-Brain Barrier",
-      "von Willebrand Factor",
-      "Microvessels",
-      "Endothelium, Vascular",
-      "Hypoxia-Inducible Factor 1, alpha Subunit",
-      "Plasminogen Activator Inhibitor 1",
-      "RNA Interference",
-      "Hypoxia, Brain",
-      "RNA, Small Interfering",
-      "Humans",
-      "In Vitro Techniques",
-      "Oxidative Stress",
-      "Cell Respiration"
-    ],
-    "keywords": [
-      "blood–brain barrier (BBB)",
-      "endothelial dysfunction",
-      "hypoxia",
-      "in vitro models",
-      "photobiomodulation",
-      "von Willebrand factor (vWF)"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41965326/"
-  },
-  {
     "pmid": "41936732",
     "title": "The effect of structured hand massage on hand function and grip strength in rheumatoid arthritis patients: a randomized controlled pilot study.",
     "authors": [
@@ -8114,58 +8277,6 @@
     "classifier_confidence": 0.78,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41899724/"
-  },
-  {
-    "pmid": "41887045",
-    "title": "Blue light photobiomodulation attenuates aggressiveness and stemness features in oral squamous carcinoma cells.",
-    "authors": [
-      "Ana Paula Mariano Santos Ginez",
-      "Rebeca Barros Nascimento",
-      "Maykon Nascimento de Assis",
-      "Suzana Grings De Oliveira Da Silva",
-      "Rebeca Boltes Cecatto",
-      "Rodrigo Labat Marcos",
-      "Maria Stella Moreira",
-      "Maria Fernanda Setúbal Destro Rodrigues"
-    ],
-    "journal": "Archives of oral biology",
-    "year": "2026",
-    "doi": "10.1016/j.archoralbio.2026.106575",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Carcinoma, Squamous Cell",
-      "Mouth Neoplasms",
-      "Blue Light",
-      "Neoplastic Stem Cells",
-      "Cell Movement",
-      "Apoptosis",
-      "Cell Line, Tumor",
-      "Cell Survival",
-      "Hyaluronan Receptors",
-      "Flow Cytometry",
-      "Nanog Homeobox Protein"
-    ],
-    "keywords": [
-      "Blue light",
-      "Cancer stem cells",
-      "Oral squamous cell carcinoma",
-      "Photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41887045/"
   },
   {
     "pmid": "41886997",
@@ -8396,60 +8507,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41848374/"
-  },
-  {
-    "pmid": "41846466",
-    "title": "Duration-Dependent Efficacy and Clinical Safety of Repeated Low-Level Red-Light Therapy for Paediatric Myopia: A Systematic Review and Meta-Analysis.",
-    "authors": [
-      "Lee-Yuan Lin",
-      "Cheng-Hao Hsu",
-      "Hung Su",
-      "Jia-Wei Sun",
-      "Jie-Syuan Wu",
-      "Wei-Jung Jeng",
-      "Chen-Hsin Tsai",
-      "Fara Silvia Yuliani",
-      "Shyh-Hsiang Lin"
-    ],
-    "journal": "Clinical & experimental ophthalmology",
-    "year": "2026",
-    "doi": "10.1111/ceo.70105",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Child",
-      "Humans",
-      "Axial Length, Eye",
-      "Low-Level Light Therapy",
-      "Myopia",
-      "Randomized Controlled Trials as Topic",
-      "Red Light",
-      "Refraction, Ocular",
-      "Treatment Outcome",
-      "Visual Acuity"
-    ],
-    "keywords": [
-      "anterior chamber depth",
-      "meta‐analysis",
-      "myopia",
-      "paediatric ophthalmology",
-      "repeated low‐level red‐light therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41846466/"
   },
   {
     "pmid": "41843413",
@@ -9733,52 +9790,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41455109/"
-  },
-  {
-    "pmid": "41436324",
-    "title": "Transient ocular effects of red light exposure in young adults.",
-    "authors": [
-      "Jacinth J Priscilla",
-      "Lisa A Ostrin"
-    ],
-    "journal": "Journal of optometry",
-    "year": "2026",
-    "doi": "10.1016/j.optom.2025.100594",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Red Light",
-      "Adult",
-      "Female",
-      "Myopia",
-      "Male",
-      "Tomography, Optical Coherence",
-      "Choroid",
-      "Young Adult",
-      "Axial Length, Eye",
-      "Biometry",
-      "Healthy Volunteers"
-    ],
-    "keywords": [
-      "Choroidal thickness",
-      "Myopia",
-      "Red light therapy",
-      "Retinal imaging"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41436324/"
   },
   {
     "pmid": "41432746",
@@ -20675,51 +20686,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37839928/"
   },
   {
-    "pmid": "37806925",
-    "title": "The effects of massage therapy and white noise application on premature infants' sleep.",
-    "authors": [
-      "Mehmet Emin Düken",
-      "Emriye Hilal Yayan"
-    ],
-    "journal": "Explore (New York, N.Y.)",
-    "year": "2024",
-    "doi": "10.1016/j.explore.2023.09.002",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Massage",
-      "Infant, Premature",
-      "Infant, Newborn",
-      "Sleep",
-      "Female",
-      "Male",
-      "Noise",
-      "Intensive Care Units, Neonatal"
-    ],
-    "keywords": [
-      "Massage",
-      "Preterm infant",
-      "Sleep",
-      "White noise"
-    ],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37806925/"
-  },
-  {
     "pmid": "37655801",
     "title": "Exertional Heat Stroke Survival at the Falmouth Road Race: 180 New Cases With Expanded Analysis.",
     "authors": [
@@ -20920,51 +20886,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36202428/"
-  },
-  {
-    "pmid": "30999382",
-    "title": "The Lowering of Bilirubin Levels in Full-Term Newborns by the Effect of Combined Massage Therapy and Phototherapy Practice.",
-    "authors": [
-      "Shokoufeh Ahmadipour",
-      "Mahnaz Mardani",
-      "Azam Mohsenzadeh",
-      "Parastoo Baharvand",
-      "Mohammad Ghaed Nazeri"
-    ],
-    "journal": "American journal of perinatology",
-    "year": "2024",
-    "doi": "10.1055/s-0039-1685493",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Infant, Newborn",
-      "Massage",
-      "Bilirubin",
-      "Phototherapy",
-      "Jaundice, Neonatal",
-      "Female",
-      "Male",
-      "Length of Stay",
-      "Combined Modality Therapy",
-      "Defecation",
-      "Urination"
-    ],
-    "keywords": [],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30999382/"
   },
   {
     "pmid": "38873094",
