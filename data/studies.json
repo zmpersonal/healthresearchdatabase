@@ -1,5 +1,112 @@
 [
   {
+    "pmid": "42902012",
+    "title": "Clinical outcomes of surgical laser interventions and adjunctive photobiomodulation in osseous crown lengthening: A systematic review.",
+    "authors": [
+      "Kiarash Fereidouni",
+      "Omeed Mosleh-Shirazi",
+      "Pouya Nikdast",
+      "Farin Kiany"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05061-6",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Laser Therapy",
+      "Crown Lengthening",
+      "Low-Level Light Therapy",
+      "Treatment Outcome",
+      "Postoperative Pain"
+    ],
+    "keywords": [
+      "Crown lengthening",
+      "Dental lasers",
+      "Gingival margin",
+      "Periodontal surgery",
+      "Photobiomodulation",
+      "Postoperative pain"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902012/"
+  },
+  {
+    "pmid": "42897331",
+    "title": "Comparable efficacy of extraoral and intraoral photobiomodulation in preventing oral mucositis during high-dose methotrexate therapy in pediatric oncology: A single-blind randomized controlled trial.",
+    "authors": [
+      "Isabela de Oliveira Plugge Freitas",
+      "Isabela Schuartz",
+      "Giovanna Leal Klein Renz",
+      "Rafael Zancan Mobile",
+      "Mariana Lena Sassi França",
+      "Mara Albonei Dudeque Pianovski",
+      "Laurindo Moacir Sassi",
+      "Melissa Rodrigues de Araujo"
+    ],
+    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+    "year": "2026",
+    "doi": "10.1007/s00520-026-11372-9",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Stomatitis",
+      "Methotrexate",
+      "Adolescent",
+      "Female",
+      "Child",
+      "Male",
+      "Child, Preschool",
+      "Prospective Studies",
+      "Single-Blind Method",
+      "Low-Level Light Therapy",
+      "Infant",
+      "Antimetabolites, Antineoplastic",
+      "Red Light",
+      "Severity of Illness Index",
+      "Neoplasms",
+      "Pain Measurement"
+    ],
+    "keywords": [
+      "Low-level light therapy",
+      "Medical oncology",
+      "Methotrexate",
+      "Oral medicine",
+      "Oral mucositis",
+      "Pediatrics"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42897331/"
+  },
+  {
     "pmid": "42891801",
     "title": "A Review of the Molecular Evidence for Near-Infrared Light in Astrocyte-Mediated Neurorehabilitation.",
     "authors": [
@@ -652,6 +759,60 @@
     "classifier_confidence": 0.84,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809014/"
+  },
+  {
+    "pmid": "42804377",
+    "title": "Home-based lower leg heat therapy in postmenopausal women with hypertension. I. Effects on blood pressure.",
+    "authors": [
+      "John D Akins",
+      "Rauchelle E Richey",
+      "Anna K Geib",
+      "Ryosuke Takeda",
+      "Bryon M Curtis",
+      "Monique A Roberts-Reeves",
+      "Amy M Moore",
+      "Yu-Lun Liu",
+      "Steven A Romero",
+      "Qi Fu"
+    ],
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "year": "2026",
+    "doi": "10.1152/japplphysiol.90170.2026",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Hypertension",
+      "Blood Pressure",
+      "Postmenopause",
+      "Heart Rate",
+      "Aged",
+      "Leg",
+      "Hyperthermia, Induced",
+      "Hot Temperature",
+      "Middle Aged"
+    ],
+    "keywords": [
+      "cardiovascular disease",
+      "hot water immersion",
+      "hypertension management",
+      "older women"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42804377/"
   },
   {
     "pmid": "42799782",
@@ -4786,58 +4947,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42449279/"
   },
   {
-    "pmid": "42446481",
-    "title": "Differences in Posterior Ocular Morphology Following Red Light Therapy Versus 0.01% Atropine for Myopia Control: A Randomized Controlled Trial Analysis.",
-    "authors": [
-      "Ziwei Zhao",
-      "Yue Wu",
-      "Fan Song",
-      "Mingge Li",
-      "Yueye Wang",
-      "Ruoyu Chen",
-      "Yanjun Liu",
-      "Jinying Li",
-      "Mingguang He",
-      "Yanxian Chen"
-    ],
-    "journal": "Investigative ophthalmology & visual science",
-    "year": "2026",
-    "doi": "10.1167/iovs.67.8.35",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Comparative Study",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Atropine",
-      "Child",
-      "Myopia",
-      "Tomography, Optical Coherence",
-      "Red Light",
-      "Female",
-      "Mydriatics",
-      "Adolescent",
-      "Male",
-      "Ophthalmic Solutions",
-      "Macula Lutea"
-    ],
-    "keywords": [],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42446481/"
-  },
-  {
     "pmid": "42443854",
     "title": "Comparing the effect of photobiostimulation, pressure and topical anesthetic gel on reducing pain during maxillary infiltration injection: a clinical trial study.",
     "authors": [
@@ -4944,55 +5053,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42443404/"
-  },
-  {
-    "pmid": "42438445",
-    "title": "Non-Invasive Management of Osteoradionecrosis With Intra- and Extraoral Fistulas Using Combined Photodynamic and Photobiomodulation Therapy: A Case Report.",
-    "authors": [
-      "Alyne Simões",
-      "Fabio de Abreu Alves",
-      "Caio Camargo Calarga",
-      "Luciane Hiramatsu Azevedo",
-      "Claudia Carrara Cotomacio"
-    ],
-    "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
-    "year": "2026",
-    "doi": "10.1111/scd.70214",
-    "publication_types": [
-      "Case Reports",
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Osteoradionecrosis",
-      "Aged",
-      "Male",
-      "Low-Level Light Therapy",
-      "Photochemotherapy",
-      "Mandibular Diseases",
-      "Combined Modality Therapy",
-      "Fistula"
-    ],
-    "keywords": [
-      "antimicrobial photodynamic therapy",
-      "case report",
-      "head and neck neoplasms",
-      "low‐level laser therapy",
-      "osteoradionecrosis",
-      "radiotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438445/"
   },
   {
     "pmid": "42430054",
@@ -5446,59 +5506,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392660/"
-  },
-  {
-    "pmid": "42390659",
-    "title": "Effects of low-level laser therapy on the aging process of human dermal fibroblast cells.",
-    "authors": [
-      "Elham Mardanian Dehkordi",
-      "Mohammad Amin Fereidounian",
-      "Shahriar BourBour",
-      "Afshan Shirkavand",
-      "Qaem Yahoo",
-      "Shirin Farivar"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04912-6",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Fibroblasts",
-      "Low-Level Light Therapy",
-      "Skin Aging",
-      "Ultraviolet Rays",
-      "Apoptosis",
-      "Cell Proliferation",
-      "Cell Survival",
-      "Collagen Type I",
-      "Red Light",
-      "Cells, Cultured",
-      "DNA Methylation",
-      "Collagen Type I, alpha 1 Chain",
-      "Skin"
-    ],
-    "keywords": [
-      "Human dermal fibroblasts (HDFs)",
-      "Low-level laser therapy (LLLT)",
-      "Photobiomodulation",
-      "Skin aging",
-      "UV-induced aging"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42390659/"
   },
   {
     "pmid": "42373001",
@@ -14145,7 +14152,8 @@
     "publication_types": [
       "Comparative Study",
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Adult",
