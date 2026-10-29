@@ -1,5 +1,295 @@
 [
   {
+    "pmid": "42949942",
+    "title": "Combined nanofibrous scaffold and photobiomodulation therapy for an incisor with internal root resorption and an open apex: a case report.",
+    "authors": [
+      "Muskan Jain",
+      "Rhythm Bains",
+      "Rakesh Kumar Yadav",
+      "Promila Verma"
+    ],
+    "journal": "General dentistry",
+    "year": "2026",
+    "doi": "",
+    "publication_types": [
+      "Journal Article",
+      "Case Reports"
+    ],
+    "mesh": [
+      "Humans",
+      "Root Resorption",
+      "Male",
+      "Incisor",
+      "Adult",
+      "Low-Level Light Therapy",
+      "Nanofibers",
+      "Tissue Scaffolds",
+      "Tooth Apex",
+      "Calcium Compounds",
+      "Aluminum Compounds",
+      "Root Canal Therapy",
+      "Silicates",
+      "Drug Combinations",
+      "Oxides"
+    ],
+    "keywords": [
+      "internal root resorption",
+      "nanhydroxyapatite",
+      "nanofibrous scaffold",
+      "open apex",
+      "photobiomodulation therapy",
+      "regenerative endodontics",
+      "revascularization"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949942/"
+  },
+  {
+    "pmid": "42949889",
+    "title": "Can Photobiomodulation improve healing of category II-III pressure ulcers in frail older adults? A quasi-experimental 24-month follow-up study.",
+    "authors": [
+      "Marianne Degerman",
+      "Bo Christer Bertilson",
+      "Micael Öhman",
+      "Laura Corneliusson",
+      "Marcus Schmitt-Egenolf",
+      "Åsa Audulv"
+    ],
+    "journal": "PloS one",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0359780",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Frail Elderly",
+      "Wound Healing",
+      "Female",
+      "Pressure Ulcer",
+      "Male",
+      "Aged",
+      "Low-Level Light Therapy",
+      "Follow-Up Studies",
+      "Aged, 80 and over",
+      "Prospective Studies",
+      "Treatment Outcome"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949889/"
+  },
+  {
+    "pmid": "42947294",
+    "title": "Photobiomodulation Reduces Physiological Stress and Pain During Dental Diagnostic Procedures: The UM-DANE 1 Pediatric Clinical Trial.",
+    "authors": [
+      "Vineet Dhar",
+      "Kuei-Ling C Hsu",
+      "Melisa White Valencia",
+      "Nikita Tchoumak",
+      "Alyssa Yi",
+      "Carolina Rojas",
+      "Erica Caffrey"
+    ],
+    "journal": "Pediatric dentistry",
+    "year": "2026",
+    "doi": "",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Female",
+      "Male",
+      "Prospective Studies",
+      "Stress, Physiological",
+      "Pain Measurement",
+      "Heart Rate",
+      "Low-Level Light Therapy",
+      "Dental Anxiety",
+      "Dental Care for Children",
+      "Cold Temperature"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42947294/"
+  },
+  {
+    "pmid": "42946902",
+    "title": "Effect of photobiomodulation on recovery from oral soft tissue local anaesthesia in paediatric patients: a preliminary split-mouth randomized clinical trial.",
+    "authors": [
+      "Zia Ul Haque Mohamed",
+      "Penmetsa Ahalya",
+      "Chandrappa Vinay",
+      "Peddi Ravigna",
+      "Praveen Arany",
+      "K S Uloopi"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05056-3",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Female",
+      "Anesthesia, Local",
+      "Low-Level Light Therapy",
+      "Lasers, Semiconductor",
+      "Male",
+      "Anesthetics, Local",
+      "Anesthesia Recovery Period",
+      "Pediatric Anesthesia",
+      "Lidocaine",
+      "Anesthesia, Dental"
+    ],
+    "keywords": [
+      "Anesthesia recovery",
+      "Child",
+      "Diode laser",
+      "Local anesthesia",
+      "Photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42946902/"
+  },
+  {
+    "pmid": "42945268",
+    "title": "Photobiomodulation versus stabilization splint, both combined with self-management, for acute temporomandibular myalgia: 48-week outcomes of a partially randomized controlled study.",
+    "authors": [
+      "Nguyen Ngoc Hoa",
+      "Toan Do",
+      "Viet Hai Hoang",
+      "To Thanh Dong",
+      "Tran Thị Minh Quyen",
+      "Tran Thai Binh"
+    ],
+    "journal": "PloS one",
+    "year": "2026",
+    "doi": "10.1371/journal.pone.0360472",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Adult",
+      "Male",
+      "Treatment Outcome",
+      "Low-Level Light Therapy",
+      "Temporomandibular Joint Disorders",
+      "Middle Aged",
+      "Self-Management",
+      "Myalgia",
+      "Occlusal Splints",
+      "Masticatory Muscles",
+      "Pain Measurement"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42945268/"
+  },
+  {
+    "pmid": "42944934",
+    "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+    "authors": [
+      "Lihao Shi",
+      "Jiaqi Lu",
+      "Bin Wei",
+      "Pengchao Zhou"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05077-y",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Red Light",
+      "Precision Medicine",
+      "Infrared Rays",
+      "Blue Light"
+    ],
+    "keywords": [
+      "Near-infrared light",
+      "Photobiomodulation",
+      "Phototherapy",
+      "Precision medicine",
+      "Red light"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "Title/abstract methods heuristic",
+    "classifier_confidence": 0.88,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944934/"
+  },
+  {
     "pmid": "42921882",
     "title": "Adjuvant 904 nm Gallium Arsenide Laser Therapy Enhances Healing and Reduces Bacterial Burden in Chronic Wounds: A Randomized Controlled Trial.",
     "authors": [
@@ -136,16 +426,16 @@
       "Randomized Controlled Trial"
     ],
     "mesh": [
-      "Humans",
-      "Female",
-      "Transcutaneous Electric Nerve Stimulation",
-      "Postoperative Pain",
-      "Low-Level Light Therapy",
-      "Cesarean Section",
       "Adult",
-      "Pain Measurement",
+      "Female",
+      "Humans",
       "Pregnancy",
-      "Combined Modality Therapy"
+      "Cesarean Section",
+      "Combined Modality Therapy",
+      "Low-Level Light Therapy",
+      "Pain Measurement",
+      "Postoperative Pain",
+      "Transcutaneous Electric Nerve Stimulation"
     ],
     "keywords": [],
     "topics": [
@@ -2192,6 +2482,51 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42678980/"
   },
   {
+    "pmid": "42667997",
+    "title": "Photobiomodulation therapy in the management of chronic wounds: From molecular mechanisms to translational clinical evidence.",
+    "authors": [
+      "Divya Yadav",
+      "Asheesh Gupta"
+    ],
+    "journal": "Biochimie",
+    "year": "2026",
+    "doi": "10.1016/j.biochi.2026.08.017",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Wound Healing",
+      "Chronic Disease",
+      "Wounds and Injuries",
+      "Animals",
+      "Translational Research, Biomedical",
+      "Signal Transduction"
+    ],
+    "keywords": [
+      "Cellular signaling pathways",
+      "Chronic wounds",
+      "Clinical trials",
+      "Photobiomodulation therapy",
+      "Photon-tissue interaction",
+      "Wound healing"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667997/"
+  },
+  {
     "pmid": "42667694",
     "title": "Cardiometabolic effects of contrast therapy: A systematic review.",
     "authors": [
@@ -3972,52 +4307,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525285/"
   },
   {
-    "pmid": "42512223",
-    "title": "Laser Auriculotherapy for Anxiety Symptoms Across Diverse Populations: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-    "authors": [
-      "Hernán Andrés de la Barra Ortiz",
-      "Claudio Chamorro Lange",
-      "Nivaldo Antonio Parizotto",
-      "Richard Eloin Liebano"
-    ],
-    "journal": "International journal of environmental research and public health",
-    "year": "2026",
-    "doi": "10.3390/ijerph23070919",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Randomized Controlled Trials as Topic",
-      "Auriculotherapy",
-      "Low-Level Light Therapy",
-      "Anxiety",
-      "Anxiety Disorders"
-    ],
-    "keywords": [
-      "anxiety disorders",
-      "auriculotherapy",
-      "low-level laser therapy",
-      "photobiomodulation therapy",
-      "randomized controlled trials"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42512223/"
-  },
-  {
     "pmid": "42507891",
     "title": "Sauna bathing: motivations, perceived benefits, and gender differences- a descriptive health promotion study.",
     "authors": [
@@ -4429,55 +4718,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42487022/"
   },
   {
-    "pmid": "42484713",
-    "title": "Photobiomodulation at 660 nm enhances proliferative activity while preserving viability in human endothelial cells in vitro.",
-    "authors": [
-      "Diego Filgueira Albuquerque",
-      "Vladimir Galdino Sabino",
-      "Naisandra Bezerra da Silva Farias",
-      "Pedro Paulo de Andrade Santos",
-      "Manoela Domingues Martins",
-      "Janine Karla França da Silva Braz",
-      "Carlos Augusto Galvão Barboza"
-    ],
-    "journal": "Cell and tissue banking",
-    "year": "2026",
-    "doi": "10.1007/s10561-026-10237-z",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Cell Proliferation",
-      "Cell Survival",
-      "Human Umbilical Vein Endothelial Cells",
-      "Red Light",
-      "Cell Cycle",
-      "Cells, Cultured",
-      "Endothelial Cells",
-      "Ki-67 Antigen"
-    ],
-    "keywords": [
-      "Cell proliferation",
-      "Cell survival",
-      "Endothelial cells",
-      "Photobiomodulation therapy",
-      "Tissue engineering"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42484713/"
-  },
-  {
     "pmid": "42473844",
     "title": "Photobiomodulation as an Adjunct to Resistance Training in Older Adults: A Systematic Review and Meta-Analysis.",
     "authors": [
@@ -4630,65 +4870,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42473449/"
   },
   {
-    "pmid": "42472732",
-    "title": "Photobiomodulation for primary wound healing and patient-reported outcomes after esthetic crown lengthening surgery: A pilot randomized clinical trial.",
-    "authors": [
-      "Marcela Letícia da Silva Azevedo",
-      "Francisco Leonardo da Silva Júnior",
-      "Tasso Ehm Martins",
-      "Ádylla Rominne Lima Barbosa",
-      "Valkleidson Santos de Araújo",
-      "Régia Carla Medeiros da Silva",
-      "Mariana Linhares Almeida-Veloso",
-      "Euler Maciel Dantas",
-      "Bruno Cesar de Vasconcelos Gurgel",
-      "Ana Rafaela Luz de Aquino Martins"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04950-0",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Crown Lengthening",
-      "Wound Healing",
-      "Female",
-      "Male",
-      "Adult",
-      "Pilot Projects",
-      "Low-Level Light Therapy",
-      "Patient Satisfaction",
-      "Esthetics, Dental",
-      "Patient Reported Outcome Measures",
-      "Middle Aged",
-      "Young Adult",
-      "Quality of Life",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "Biostimulation",
-      "Dental esthetics",
-      "Gummy smile",
-      "Low-level laser",
-      "Photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42472732/"
-  },
-  {
     "pmid": "42471129",
     "title": "Acupuncture vs. Massage for Insomnia and Pain in Advanced Cancer: Exploratory RCT.",
     "authors": [
@@ -4789,145 +4970,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42468753/"
   },
   {
-    "pmid": "42464185",
-    "title": "Umbrella review of photobiomodulation/low-level laser therapy and vitamin D in orthodontics: effects on tooth movement, pain, root resorption, and bone biomarkers.",
-    "authors": [
-      "Syed Abid Altaf Bukhari",
-      "Ahmad Hashridz Bin Ruslan",
-      "Rozita Hassan"
-    ],
-    "journal": "BMC oral health",
-    "year": "2026",
-    "doi": "10.1186/s12903-026-09095-8",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Tooth Movement Techniques",
-      "Low-Level Light Therapy",
-      "Vitamin D",
-      "Root Resorption",
-      "Biomarkers",
-      "Orthodontics"
-    ],
-    "keywords": [
-      "Low-level laser therapy",
-      "Orthodontic tooth movement",
-      "Photobiomodulation",
-      "Root resorption",
-      "Umbrella review",
-      "Vitamin D"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42464185/"
-  },
-  {
-    "pmid": "42463621",
-    "title": "Photobiomodulation therapy in oral mucositis prevention and treatment: insights from a bibliometric review.",
-    "authors": [
-      "Camila Maria Silva",
-      "Izabella Maria Barboza da Silva",
-      "José Ricardo Dias Pereira",
-      "Ana Carolina Prado Ribeiro-Silva",
-      "Luiz Alcino Gueiros"
-    ],
-    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "year": "2026",
-    "doi": "10.1007/s00520-026-10976-5",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Stomatitis",
-      "Low-Level Light Therapy",
-      "Bibliometrics"
-    ],
-    "keywords": [
-      "Cancer",
-      "Chemotherapy",
-      "Low level laser therapy",
-      "Oral mucositis",
-      "Photobiomodulation",
-      "Radiotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463621/"
-  },
-  {
-    "pmid": "42458386",
-    "title": "Effect of photobiomodulation therapy on wound healing and post-extraction pain management of primary molars: a randomized controlled clinical trial.",
-    "authors": [
-      "Rowan E Salem",
-      "Niveen S Bakry",
-      "Reham S Soliman"
-    ],
-    "journal": "BMC oral health",
-    "year": "2026",
-    "doi": "10.1186/s12903-026-09172-y",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Wound Healing",
-      "Double-Blind Method",
-      "Postoperative Pain",
-      "Male",
-      "Low-Level Light Therapy",
-      "Tooth Extraction",
-      "Child",
-      "Female",
-      "Molar",
-      "Pain Measurement",
-      "Tooth, Deciduous",
-      "Lasers, Semiconductor",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "Pain assessment",
-      "Photobiomodulation therapy (PBMT)",
-      "Tooth extraction",
-      "Wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42458386/"
-  },
-  {
     "pmid": "42456438",
     "title": "Effectiveness of photobiomodulation for pain management and wound healing in the immediate postoperative period after cesarean section: A systematic review.",
     "authors": [
@@ -5011,60 +5053,6 @@
     "classifier_confidence": 0.82,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452432/"
-  },
-  {
-    "pmid": "42449279",
-    "title": "Transcranial photobiomodulation improves prefrontal oxygenation and impulse control in adults with ADHD: a randomized controlled trial.",
-    "authors": [
-      "Farzad Salehpour",
-      "Douglas W Barrett",
-      "Anagh Mirji",
-      "Ayla Farzamnia",
-      "Vikas Burugu",
-      "Nisarg Shah",
-      "Francisco Gonzalez-Lima"
-    ],
-    "journal": "BMC psychiatry",
-    "year": "2026",
-    "doi": "10.1186/s12888-026-08391-5",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Attention Deficit Disorder with Hyperactivity",
-      "Prefrontal Cortex",
-      "Adult",
-      "Impulsive Behavior",
-      "Female",
-      "Male",
-      "Low-Level Light Therapy",
-      "Spectroscopy, Near-Infrared",
-      "Attention",
-      "Cognitive Enhancement",
-      "Young Adult"
-    ],
-    "keywords": [
-      "Attention-deficit/hyperactivity disorder",
-      "Cognitive enhancement",
-      "Impulse control",
-      "Photobiomodulation",
-      "Prefrontal oxygenation",
-      "Working memory"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42449279/"
   },
   {
     "pmid": "42400888",
@@ -5824,6 +5812,51 @@
     "classifier_confidence": 0.78,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42315072/"
+  },
+  {
+    "pmid": "42312325",
+    "title": "Effectiveness of massage-based rehabilitation in professional and elite athletes following arthroscopic ACL reconstruction for enhancing return-to-sport (RTS): a systematic review.",
+    "authors": [
+      "Ehsan Esmaeili Nematabadi",
+      "Teimour Darzabi"
+    ],
+    "journal": "Research in sports medicine (Print)",
+    "year": "2026",
+    "doi": "10.1080/15438627.2026.2690515",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Return to Sport",
+      "Anterior Cruciate Ligament Reconstruction",
+      "Massage",
+      "Athletes",
+      "Anterior Cruciate Ligament Injuries",
+      "Athletic Injuries",
+      "Arthroscopy"
+    ],
+    "keywords": [
+      "Anterior cruciate ligament reconstruction (ACLR)",
+      "massage therapy",
+      "professional and elite athletes",
+      "rehabilitation",
+      "return-to-sport (RTS)"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42312325/"
   },
   {
     "pmid": "42300020",
@@ -12814,7 +12847,8 @@
     "doi": "10.1371/journal.pone.0329892",
     "publication_types": [
       "Journal Article",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
     ],
     "mesh": [
       "Humans",
@@ -20125,55 +20159,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38258830/"
   },
   {
-    "pmid": "38157043",
-    "title": "Acute self-myofascial release modulates cardiac autonomic function and hemodynamic parameters at rest and reduces cardiovascular stress reaction.",
-    "authors": [
-      "Sascha Ketelhut",
-      "Livia Oechslin",
-      "Cäcilia Zehnder",
-      "Claudia Kubica",
-      "Claudio R Nigg"
-    ],
-    "journal": "European journal of applied physiology",
-    "year": "2024",
-    "doi": "10.1007/s00421-023-05382-2",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Male",
-      "Adult",
-      "Autonomic Nervous System",
-      "Hemodynamics",
-      "Heart Rate",
-      "Massage",
-      "Blood Pressure",
-      "Rest",
-      "Heart"
-    ],
-    "keywords": [
-      "Blood pressure",
-      "Cold pressor test",
-      "Foam roller",
-      "Heart rate variability",
-      "Pain perception"
-    ],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38157043/"
-  },
-  {
     "pmid": "38150671",
     "title": "Temperature-Dependent Relationship of Autophagy and Apoptotic Signaling During Cold-Water Immersion in Young and Older Males.",
     "authors": [
@@ -20323,58 +20308,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38150009/"
-  },
-  {
-    "pmid": "38129698",
-    "title": "Physiological mechanisms associated with the use of a passive heat intervention: positive implications for soccer substitutes.",
-    "authors": [
-      "Gavin Cowper",
-      "Stuart Goodall",
-      "Kirsty M Hicks",
-      "Louise Burnie",
-      "Kai T Fox",
-      "Ashleigh Keenan",
-      "Enrico De Martino",
-      "Marc A Briggs"
-    ],
-    "journal": "European journal of applied physiology",
-    "year": "2024",
-    "doi": "10.1007/s00421-023-05381-3",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Soccer",
-      "Male",
-      "Hot Temperature",
-      "Adult",
-      "Body Temperature Regulation",
-      "Body Temperature",
-      "Warm-Up Exercise",
-      "Young Adult",
-      "Muscle, Skeletal",
-      "Clothing"
-    ],
-    "keywords": [
-      "Core temperature",
-      "Exercise",
-      "Muscle temperature",
-      "Passive heating",
-      "Warm-up"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38129698/"
   },
   {
     "pmid": "38015822",
