@@ -1,5 +1,98 @@
 [
   {
+    "pmid": "42964993",
+    "title": "Photobiomodulation as a regulator of neuroinflammation: mechanistic insights and therapeutic potential in brain disorders.",
+    "authors": [
+      "Guillaume Blivet",
+      "Cédric Bertrand",
+      "David Brauge",
+      "Julien Delrieu",
+      "Jacques Touchon"
+    ],
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "doi": "10.3389/fneur.2026.1902491",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Neuroinflammatory Diseases",
+      "Animals",
+      "Brain Diseases"
+    ],
+    "keywords": [
+      "brain-gut axis",
+      "clinical trials",
+      "low-level laser therapy",
+      "microglia",
+      "mitochondria",
+      "neurotechnology",
+      "oxidative stress",
+      "transcranial light therapy"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42964993/"
+  },
+  {
+    "pmid": "42955214",
+    "title": "Red Light Therapy and Mitochondrial Rejuvenation in Age-Related Disorders.",
+    "authors": [
+      "Maria Iglewska",
+      "Kinga Agata Flis",
+      "Maja Kołakowska",
+      "Witold Wit Hryniewicz",
+      "Agnieszka Pluto-Prądzyńska"
+    ],
+    "journal": "Molecular neurobiology",
+    "year": "2026",
+    "doi": "10.1007/s12035-026-06294-w",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Animals",
+      "Aging",
+      "Red Light",
+      "Mitochondria",
+      "Rejuvenation",
+      "Low-Level Light Therapy"
+    ],
+    "keywords": [
+      "Disorders",
+      "Mitochondria",
+      "Photobiomodulation",
+      "Red light",
+      "Therapy"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955214/"
+  },
+  {
     "pmid": "42949942",
     "title": "Combined nanofibrous scaffold and photobiomodulation therapy for an incisor with internal root resorption and an open apex: a case report.",
     "authors": [
@@ -69,21 +162,22 @@
     "year": "2026",
     "doi": "10.1371/journal.pone.0359780",
     "publication_types": [
+      "Clinical Trial",
       "Journal Article"
     ],
     "mesh": [
-      "Humans",
-      "Frail Elderly",
-      "Wound Healing",
-      "Female",
-      "Pressure Ulcer",
-      "Male",
       "Aged",
-      "Low-Level Light Therapy",
-      "Follow-Up Studies",
       "Aged, 80 and over",
+      "Female",
+      "Humans",
+      "Male",
+      "Follow-Up Studies",
+      "Frail Elderly",
+      "Low-Level Light Therapy",
+      "Pressure Ulcer",
       "Prospective Studies",
-      "Treatment Outcome"
+      "Treatment Outcome",
+      "Wound Healing"
     ],
     "keywords": [],
     "topics": [
@@ -92,10 +186,10 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.98,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42949889/"
   },
@@ -116,21 +210,22 @@
     "doi": "",
     "publication_types": [
       "Journal Article",
+      "Multicenter Study",
       "Randomized Controlled Trial"
     ],
     "mesh": [
-      "Humans",
       "Child",
       "Female",
+      "Humans",
       "Male",
-      "Prospective Studies",
-      "Stress, Physiological",
-      "Pain Measurement",
-      "Heart Rate",
-      "Low-Level Light Therapy",
+      "Cold Temperature",
       "Dental Anxiety",
       "Dental Care for Children",
-      "Cold Temperature"
+      "Heart Rate",
+      "Low-Level Light Therapy",
+      "Pain Measurement",
+      "Prospective Studies",
+      "Stress, Physiological"
     ],
     "keywords": [],
     "topics": [
@@ -649,63 +744,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883688/"
-  },
-  {
-    "pmid": "42881462",
-    "title": "The impact of photobiomodulation therapy by diode lasers at wavelengths of 450 nm, 980 nm and their combinations on the proliferation and differentiation of periodontal ligament mesenchymal stem cells.",
-    "authors": [
-      "Ardavan Etemadi",
-      "Kiarash Kiani",
-      "Mona Saligheh Rad",
-      "Nasim Chiniforush"
-    ],
-    "journal": "BMC oral health",
-    "year": "2026",
-    "doi": "10.1186/s12903-026-09376-2",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Mesenchymal Stem Cells",
-      "Cell Proliferation",
-      "Cell Differentiation",
-      "Periodontal Ligament",
-      "Lasers, Semiconductor",
-      "Core Binding Factor Alpha 1 Subunit",
-      "Alkaline Phosphatase",
-      "Osteocalcin",
-      "Osteopontin",
-      "Low-Level Light Therapy",
-      "Humans",
-      "Cell Survival",
-      "Apoptosis",
-      "Osteogenesis",
-      "Cells, Cultured",
-      "Blue Light",
-      "Annexin A5",
-      "Necrosis",
-      "Anthraquinones",
-      "Coloring Agents",
-      "Red Light"
-    ],
-    "keywords": [
-      "Osteogenic differentiation",
-      "Periodontal ligament mesenchymal stem cells",
-      "Photobiomodulation",
-      "Proliferation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42881462/"
   },
   {
     "pmid": "42878931",
@@ -4614,110 +4652,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42497681/"
   },
   {
-    "pmid": "42493723",
-    "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
-    "authors": [
-      "Yasunari Ikuta",
-      "Ryuya Yamakawa",
-      "Minoru Toriyama",
-      "Hajime Ito",
-      "Tomoyuki Nakasa",
-      "Yukio Mikami",
-      "Nobuo Adachi"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04966-6",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Joint Instability",
-      "Low-Level Light Therapy",
-      "Ankle Joint",
-      "Female",
-      "Young Adult",
-      "Male",
-      "Adult",
-      "Muscle Fatigue",
-      "Fatigue",
-      "Proprioception"
-    ],
-    "keywords": [
-      "Cumberland Ankle Instability Tool",
-      "Joint position reproduction",
-      "Low-level laser therapy",
-      "Muscle fatigue",
-      "Photobiomodulation",
-      "Proprioception"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42493723/"
-  },
-  {
-    "pmid": "42487022",
-    "title": "Comparative efficacy and safety of photobiomodulation, transcranial direct current stimulation, and repetitive transcranial magnetic stimulation in Alzheimer's disease: a network meta-analysis of randomized controlled trials.",
-    "authors": [
-      "Wei Xu",
-      "Jiajie Chen",
-      "Yingying Zhou",
-      "Chengzhi Liu",
-      "Yuelin Han",
-      "Kai Zheng"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04962-w",
-    "publication_types": [
-      "Comparative Study",
-      "Journal Article",
-      "Network Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Alzheimer Disease",
-      "Bayes Theorem",
-      "Cognition",
-      "Cognitive Enhancement",
-      "Low-Level Light Therapy",
-      "Randomized Controlled Trials as Topic",
-      "Transcranial Direct Current Stimulation",
-      "Transcranial Magnetic Stimulation",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "Alzheimer’s disease",
-      "Cognition",
-      "Non-Invasive Brain Stimulation",
-      "Photobiomodulation",
-      "Safety and Tolerability"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 0.96,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42487022/"
-  },
-  {
     "pmid": "42473844",
     "title": "Photobiomodulation as an Adjunct to Resistance Training in Older Adults: A Systematic Review and Meta-Analysis.",
     "authors": [
@@ -6692,6 +6626,54 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42231857/"
+  },
+  {
+    "pmid": "42229538",
+    "title": "Nd:YAG and Diode Laser Biostimulation in Infraorbital and Inferior Alveolar Neurosensory Recovery After Orthognathic Surgery: A Randomized Clinical Study.",
+    "authors": [
+      "Yaşar Tolga Kayim",
+      "Nilüfer Özkan",
+      "Nihat Akbulut",
+      "Tuğrul Kirtiloğlu"
+    ],
+    "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+    "year": "2026",
+    "doi": "10.1016/j.joms.2026.05.062",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Male",
+      "Lasers, Semiconductor",
+      "Lasers, Solid-State",
+      "Adult",
+      "Orthognathic Surgical Procedures",
+      "Adolescent",
+      "Young Adult",
+      "Recovery of Function",
+      "Nerve Regeneration",
+      "Mandibular Nerve",
+      "Orbit",
+      "Low-Level Light Therapy",
+      "Treatment Outcome",
+      "Single-Blind Method"
+    ],
+    "keywords": [],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42229538/"
   },
   {
     "pmid": "42227978",
@@ -19928,41 +19910,6 @@
     "classifier_confidence": 0.78,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38509857/"
-  },
-  {
-    "pmid": "38484434",
-    "title": "Massage therapy for hospital-based nurses: A proof-of-concept study.",
-    "authors": [
-      "Jennifer M Hulett",
-      "Ruth Anne Spotts",
-      "Natsayakarn Narkthong",
-      "Susan D Scott"
-    ],
-    "journal": "Complementary therapies in clinical practice",
-    "year": "2024",
-    "doi": "10.1016/j.ctcp.2024.101846",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Mind-Body Therapies",
-      "Massage",
-      "Hospitals"
-    ],
-    "keywords": [],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38484434/"
   },
   {
     "pmid": "38410962",
