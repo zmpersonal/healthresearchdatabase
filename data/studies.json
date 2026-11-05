@@ -1,5 +1,159 @@
 [
   {
+    "pmid": "42975697",
+    "title": "Three-dimensional alveolar ridge augmentation combined with photobiomodulation therapy for post-traumatic bone loss: clinical protocol, case report, and evidence review.",
+    "authors": [
+      "Nahid Derikvand",
+      "Hassan Piriai",
+      "Hiva Ebrahimi",
+      "Niusha Ebrahimi"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05086-x",
+    "publication_types": [
+      "Journal Article",
+      "Case Reports",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Alveolar Ridge Augmentation",
+      "Middle Aged",
+      "Low-Level Light Therapy",
+      "Alveolar Bone Loss",
+      "Lasers, Semiconductor"
+    ],
+    "keywords": [
+      "Acellular Dermal Matrix (ADM)",
+      "Allograft",
+      "Alveolar Ridge Augmentation",
+      "Dental Implants",
+      "Low-Level Laser Therapy (LLLT)",
+      "Photobiomodulation(PBM)",
+      "Post-Traumatic Bone Loss",
+      "Sinus Lift"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42975697/"
+  },
+  {
+    "pmid": "42970422",
+    "title": "Low-level laser therapy in ulcerative lesions in leprosy: a systematic review.",
+    "authors": [
+      "Eduarda Damin",
+      "Jaqueline de Araujo Pires",
+      "Renata Anddresa Stachelski",
+      "Dernival Bertoncello",
+      "Márcia Rosângela Buzanello",
+      "Gladson Ricardo Flor Bertolini"
+    ],
+    "journal": "Journal of wound care",
+    "year": "2026",
+    "doi": "10.12968/jowc.2023.0209",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Leprosy",
+      "Wound Healing"
+    ],
+    "keywords": [
+      "Mycobacterium infections",
+      "laser biostimulation",
+      "low-level light therapy",
+      "physical therapy modalities",
+      "wound",
+      "wound care",
+      "wound dressing",
+      "wound healing"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970422/"
+  },
+  {
+    "pmid": "42969421",
+    "title": "Extraoral Versus Intraoral Photobiomodulation for the Prevention of Oral Mucositis in Pediatric Patients Undergoing High-Dose Methotrexate Chemotherapy.",
+    "authors": [
+      "Mariana Lena Sassi",
+      "Nicoly Ghilardi Cardoso",
+      "Rafael Zancan Mobile",
+      "Bruna da Fonseca Wastner",
+      "Mara Albonei Dudeque Pianovski",
+      "Robinson Sabino-Silva",
+      "Marco Guevara-Vega",
+      "Douglas Carvalho Caixeta",
+      "Laurindo Moacir Sassi",
+      "Melissa Rodrigues de Araujo"
+    ],
+    "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+    "year": "2026",
+    "doi": "10.1111/scd.70279",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Stomatitis",
+      "Methotrexate",
+      "Child",
+      "Child, Preschool",
+      "Female",
+      "Male",
+      "Adolescent",
+      "Prospective Studies",
+      "Low-Level Light Therapy",
+      "Infant",
+      "Antimetabolites, Antineoplastic",
+      "Saliva"
+    ],
+    "keywords": [
+      "methotrexate",
+      "oral mucositis",
+      "pediatric oncology",
+      "photobiomodulation therapy",
+      "preventive dentistry"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969421/"
+  },
+  {
     "pmid": "42964993",
     "title": "Photobiomodulation as a regulator of neuroinflammation: mechanistic insights and therapeutic potential in brain disorders.",
     "authors": [
@@ -260,18 +414,18 @@
       "Randomized Controlled Trial"
     ],
     "mesh": [
-      "Humans",
       "Child",
       "Female",
-      "Anesthesia, Local",
-      "Low-Level Light Therapy",
-      "Lasers, Semiconductor",
+      "Humans",
       "Male",
+      "Anesthesia, Dental",
+      "Anesthesia, Local",
       "Anesthetics, Local",
-      "Anesthesia Recovery Period",
-      "Pediatric Anesthesia",
+      "Lasers, Semiconductor",
       "Lidocaine",
-      "Anesthesia, Dental"
+      "Low-Level Light Therapy",
+      "Pediatric Anesthesia",
+      "Soft Tissue Injuries"
     ],
     "keywords": [
       "Anesthesia recovery",
@@ -4292,59 +4446,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42527621/"
   },
   {
-    "pmid": "42525285",
-    "title": "Comparative efficacy of two photobiomodulation protocols transcutaneous versus intraoral in the prevention of oral mucositis in head and neck cancer: a randomized study protocol.",
-    "authors": [
-      "Waleska Tychanowicz Kolodziejwski",
-      "Giovanna Leal Klein Renz",
-      "Isabela Busnello de Souza",
-      "Maria Luisa Franceschi Coimbra",
-      "Luciana Almeida Lopes",
-      "Laurindo Moacir Sassi",
-      "Melissa Rodrigues de Araujo"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04977-3",
-    "publication_types": [
-      "Equivalence Trial",
-      "Journal Article"
-    ],
-    "mesh": [
-      "Adult",
-      "Aged",
-      "Female",
-      "Humans",
-      "Male",
-      "Middle Aged",
-      "Head and Neck Neoplasms",
-      "Low-Level Light Therapy",
-      "Pilot Projects",
-      "Red Light",
-      "Stomatitis",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "Head and neck neoplasms",
-      "Low-level light therapy",
-      "Oral mucositis",
-      "Photobiomodulation therapy",
-      "Radiotherapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42525285/"
-  },
-  {
     "pmid": "42507891",
     "title": "Sauna bathing: motivations, perceived benefits, and gender differences- a descriptive health promotion study.",
     "authors": [
@@ -4397,57 +4498,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42507891/"
   },
   {
-    "pmid": "42507053",
-    "title": "Effect of photobiomodulation on trapezius myofascial pain: a randomized, sham-controlled, double-blind clinical trial.",
-    "authors": [
-      "Rayanne Kethleen do Nascimento Silva",
-      "Andreza Maria Macau Farias Rocha",
-      "Valéria Mayaly Alves de Oliveira",
-      "Juberlânia do Nascimento Matias Dos Santos",
-      "José Diego Sales do Nascimento",
-      "Palloma Rodrigues de Andrade"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04964-8",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Double-Blind Method",
-      "Female",
-      "Adult",
-      "Middle Aged",
-      "Male",
-      "Superficial Back Muscles",
-      "Myofascial Pain Syndromes",
-      "Pain Measurement",
-      "Treatment Outcome",
-      "Skin Temperature",
-      "Trigger Points"
-    ],
-    "keywords": [
-      "Chronic pain",
-      "Low-level laser therapy",
-      "Trigger points"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42507053/"
-  },
-  {
     "pmid": "42501959",
     "title": "Cost-Effectiveness of Photobiomodulation for Intermediate Dry Age-Related Macular Degeneration: A Model-Based Analysis Using the LIGHTSITE III 24-Month Trial.",
     "authors": [
@@ -4493,110 +4543,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501959/"
-  },
-  {
-    "pmid": "42501111",
-    "title": "Effects of Terminalia fagifolia mart. extract combined with photobiomodulation on diabetic foot ulcers: protocol for a randomized single-blind clinical trial.",
-    "authors": [
-      "Ana Carolina Silva Barros",
-      "Rebeca Barbosa da Rocha",
-      "Mariana Bezerra Miranda",
-      "Nathanael Dos Santos Alves",
-      "Durcilene Alves da Silva",
-      "Alyne Rodrigues de Araújo Nobre",
-      "Vinicius Saura Cardoso"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04963-9",
-    "publication_types": [
-      "Clinical Trial Protocol",
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Brazil",
-      "Combined Modality Therapy",
-      "Diabetes Mellitus, Type 2",
-      "Diabetic Foot",
-      "Low-Level Light Therapy",
-      "Phytotherapy",
-      "Plant Extracts",
-      "Single-Blind Method",
-      "Terminalia",
-      "Wound Healing",
-      "Randomized Controlled Trials as Topic"
-    ],
-    "keywords": [
-      "Chronic wounds",
-      "Diabetic foot ulcer",
-      "Low-level laser therapy",
-      "Phytotherapy",
-      "Ulcer healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501111/"
-  },
-  {
-    "pmid": "42501075",
-    "title": "Pulsed Nd:YAG versus continuous-wave laser photobiomodulation for orthodontic pain: a split-mouth RCT.",
-    "authors": [
-      "Jingchen Jia",
-      "Qunwen Niu",
-      "Yuan Gao",
-      "Wenbin Wang",
-      "Hongshi Li"
-    ],
-    "journal": "Lasers in medical science",
-    "year": "2026",
-    "doi": "10.1007/s10103-026-04958-6",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Comparative Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Lasers, Solid-State",
-      "Double-Blind Method",
-      "Female",
-      "Tooth Movement Techniques",
-      "Male",
-      "Pain Measurement",
-      "Adolescent",
-      "Lasers, Semiconductor",
-      "Young Adult",
-      "Adult"
-    ],
-    "keywords": [
-      "Orthodontic pain",
-      "Orthodontic treatment",
-      "Photobiomodulation therapy",
-      "Pulsed neodymium doped yttrium aluminum garnet laser"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42501075/"
   },
   {
     "pmid": "42497681",
@@ -5791,6 +5737,59 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42312325/"
+  },
+  {
+    "pmid": "42307744",
+    "title": "Photobiomodulation for Pain, Healing, and Analgesic Use after Perineal Lacerations: A Double-Blind Randomized Controlled Trial.",
+    "authors": [
+      "Thais de Castro",
+      "Laíza Helena Viana",
+      "Simone Botelho",
+      "Lígia Sousa Marino"
+    ],
+    "journal": "International urogynecology journal",
+    "year": "2026",
+    "doi": "10.1007/s00192-026-06686-5",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Double-Blind Method",
+      "Perineum",
+      "Lacerations",
+      "Low-Level Light Therapy",
+      "Adult",
+      "Wound Healing",
+      "Episiotomy",
+      "Pain Management",
+      "Analgesics",
+      "Pain Measurement",
+      "Pregnancy",
+      "Red Light",
+      "Treatment Outcome",
+      "Young Adult"
+    ],
+    "keywords": [
+      "Episiotomy",
+      "Low-level laser therapy",
+      "Photobiomodulation",
+      "Puerperium"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42307744/"
   },
   {
     "pmid": "42300020",
@@ -9942,47 +9941,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41247291/"
-  },
-  {
-    "pmid": "41242871",
-    "title": "A look at literature on myopia over the past 25 years: a personal review.",
-    "authors": [
-      "Langis Michaud",
-      "Remy Marcotte-Collard",
-      "Patrick Simard"
-    ],
-    "journal": "Clinical & experimental optometry",
-    "year": "2026",
-    "doi": "10.1080/08164622.2025.2579173",
-    "publication_types": [
-      "Journal Article",
-      "Review",
-      "Historical Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Myopia",
-      "Refraction, Ocular"
-    ],
-    "keywords": [
-      "Atropine",
-      "myopia",
-      "orthokeratology",
-      "red light therapy",
-      "soft multifocal lenses"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41242871/"
   },
   {
     "pmid": "41175351",

@@ -1,5 +1,50 @@
 [
   {
+    "nct_id": "NCT05675930",
+    "title": "A Study of Photobiomodulation (PBM) Therapy in People With Oral Graft-Versus-Host Disease (GVHD) After Stem Cell Transplant",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 44,
+    "conditions": [
+      "Graft-Versus-Host Disease",
+      "GVHD",
+      "Undefined"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation Therapy",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Placebo sham device",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "National Institute of Health (Data Collection AND Specimen Analysis), Bethesda, Maryland, United States",
+      "Memorial Sloan Kettering at Basking Ridge (Consent only), Basking Ridge, New Jersey, United States",
+      "Memorial Sloan Kettering Monmouth (Consent only), Middletown, New Jersey, United States",
+      "Memorial Sloan Kettering Cancer Center @ Bergen (Consent only), Montvale, New Jersey, United States",
+      "Memorial Sloan Kettering Cancer Center @ Commack (Consent only), Commack, New York, United States",
+      "Memorial Sloan Kettering Westchester (Consent only), Harrison, New York, United States",
+      "Memorial Sloan Kettering Cancer Center (All Protocol Activities), New York, New York, United States",
+      "Memorial Sloan Kettering Cancer Center @ Nassau (Consent only), Uniondale, New York, United States"
+    ],
+    "start_date": "2022-12-22",
+    "completion_date": "2026-12-22",
+    "last_update": "2026-10-30",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05675930"
+  },
+  {
     "nct_id": "NCT07468344",
     "title": "Evaluation of the Effects of Sauna Therapy on Congestion and Loop Diuretic Use in Patients With Heart Failure With Reduced or Moderately Reduced Ejection Fraction",
     "status": "RECRUITING",
@@ -78,40 +123,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07045129"
   },
   {
-    "nct_id": "NCT04671862",
-    "title": "Photobiomodulation for the Prevention of Radiation Induced Oral Mucositis",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 25,
-    "conditions": [
-      "Mucositis Oral",
-      "Head and Neck Cancer",
-      "Radiation Dermatitis"
-    ],
-    "interventions": [
-      {
-        "name": "Photobiomodulation",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "The Ottawa Hospital, Ottawa, Ontario, Canada"
-    ],
-    "start_date": "2021-06-01",
-    "completion_date": "2027-12-31",
-    "last_update": "2026-10-14",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04671862"
-  },
-  {
     "nct_id": "NCT05977894",
     "title": "Floatation Experience in Nurses and Physicians",
     "status": "ENROLLING_BY_INVITATION",
@@ -147,33 +158,42 @@
     "url": "https://clinicaltrials.gov/study/NCT05977894"
   },
   {
-    "nct_id": "NCT07546539",
-    "title": "Photobiomodulation in Chronic Fatigue Syndrome",
-    "status": "RECRUITING",
+    "nct_id": "NCT07699679",
+    "title": "Photobiomodulation in Coronary Artery Bypass Grafting With No-Touch vs Conventional Saphenous Vein Harvesting.",
+    "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 40,
+    "enrollment": 292,
     "conditions": [
-      "Chronic Fatigue Syndrome (CFS)",
-      "Quality of Life"
+      "Coronary Artery Disease",
+      "Coronary Artery Bypass Graft (CABG)",
+      "Surgical Wound Healing"
     ],
     "interventions": [
       {
-        "name": "Photobiomodulation (Low-Level Laser Therapy)",
+        "name": "Photobiomodulation Therapy",
         "type": "DEVICE"
       },
       {
-        "name": "sham Photobiomodulation (LLLT)",
+        "name": "Sham Laser irradiation",
         "type": "DEVICE"
+      },
+      {
+        "name": "Conventional Saphenous Vein Harvesting",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "No-Touch Saphenous Vein Harvesting",
+        "type": "PROCEDURE"
       }
     ],
     "locations": [
-      "The larkana General hospital , larkana, Larkana, Sindh, Pakistan"
+      "Hospital São Paulo, Federal University of São Paulo, São Paulo, São Paulo, Brazil"
     ],
-    "start_date": "2026-06-15",
-    "completion_date": "2027-02",
+    "start_date": "2027-01",
+    "completion_date": "2028-03",
     "last_update": "2026-10-05",
     "topics": [
       "photobiomodulation"
@@ -181,7 +201,7 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07546539"
+    "url": "https://clinicaltrials.gov/study/NCT07699679"
   },
   {
     "nct_id": "NCT07865325",
@@ -260,8 +280,92 @@
     "url": "https://clinicaltrials.gov/study/NCT07847424"
   },
   {
-    "nct_id": "NCT07846631",
-    "title": "Perioperative Photobiomodulation in Facial Plastic Surgery",
+    "nct_id": "NCT07426926",
+    "title": "Home-Based Photobiomodulation Effects in the Postoperative Period of Distal Radius Fractures",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 42,
+    "conditions": [
+      "Distal Radius Fracture"
+    ],
+    "interventions": [
+      {
+        "name": "Open reduction and internal fixation (ORIF) with locked volar plate",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Home exercises",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Active photobiomodulation",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Inactive photobiomodulation",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "ACN Municipal Hospital, São Paulo, Brazil"
+    ],
+    "start_date": "2025-09-06",
+    "completion_date": "2027-12-30",
+    "last_update": "2026-09-26",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07426926"
+  },
+  {
+    "nct_id": "NCT07610811",
+    "title": "Foot Reflexology and Massage in Neonates Receiving Phototherapy",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 105,
+    "conditions": [
+      "Neonatal Hyperbilirubinemia"
+    ],
+    "interventions": [
+      {
+        "name": "Foot Reflexology",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Body Massage",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Phototherapy Device",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Kuşadası State Hospital, Kusadasi, Aydın, Turkey (Türkiye)"
+    ],
+    "start_date": "2026-05-09",
+    "completion_date": "2027-05-08",
+    "last_update": "2026-09-22",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07610811"
+  },
+  {
+    "nct_id": "NCT07835815",
+    "title": "Photobiomodulation With Blue LED in Recurrent Bacterial Vaginosis",
     "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
@@ -269,122 +373,164 @@
     ],
     "enrollment": 40,
     "conditions": [
-      "Postoperative Facial Ecchymosis",
-      "Postoperative Facial Edema"
+      "Bacterial Vaginosis"
     ],
     "interventions": [
       {
-        "name": "ELIXIR MD Photobiomodulation (PBM) System",
-        "type": "DEVICE"
+        "name": "Metronidazole",
+        "type": "DRUG"
       },
       {
-        "name": "ELIXIR MD Photobiomodulation (PBM) System",
+        "name": "Blue Light-Emitting Diode (LED)",
         "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Dallas Plastic Surgery Institute, Dallas, Texas, United States"
-    ],
-    "start_date": "2026-10-12",
-    "completion_date": "2027-07-20",
-    "last_update": "2026-09-22",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07846631"
-  },
-  {
-    "nct_id": "NCT07789821",
-    "title": "Nd:YAG Laser Photobiomodulation for Neurosensory Recovery Following Bimaxillary Orthognathic Surgery",
-    "status": "NOT_YET_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 36,
-    "conditions": [
-      "Infraorbital Nerve Injury",
-      "Inferior Alveolar Nerve Injury",
-      "Neurosensory Disturbance Following Orthognathic Surgery",
-      "Photobiomodulation"
-    ],
-    "interventions": [
-      {
-        "name": "Nd:YAG laser photobiomodulation",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Sham laser",
-        "type": "OTHER"
       }
     ],
     "locations": [],
-    "start_date": "2026-09-01",
-    "completion_date": "2028-12-31",
-    "last_update": "2026-09-21",
+    "start_date": "2026-09-30",
+    "completion_date": "2027-12-15",
+    "last_update": "2026-09-17",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07789821"
+    "url": "https://clinicaltrials.gov/study/NCT07835815"
   },
   {
-    "nct_id": "NCT07712458",
-    "title": "Magnetic Resonance Elastography Of Chronic Low Back Pain Before And After Therapy",
-    "status": "NOT_YET_RECRUITING",
+    "nct_id": "NCT02221700",
+    "title": "Massage Therapy in Reducing Chemotherapy-Induced Peripheral Neuropathy in Patients With Gastrointestinal or Breast Malignancies",
+    "status": "ACTIVE_NOT_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 38,
+    "enrollment": 90,
     "conditions": [
-      "Low Back Pain, Recurrent",
-      "Chronic Low Back Pain (CLBP)"
+      "Malignant Breast Neoplasm",
+      "Malignant Digestive System Neoplasm",
+      "Peripheral Neuropathy"
     ],
     "interventions": [
       {
-        "name": "EMMA (Expert Manipulative Massage Automation)",
-        "type": "DEVICE"
+        "name": "Massage Therapy",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Quality-of-Life Assessment",
+        "type": "OTHER"
+      },
+      {
+        "name": "Questionnaire Administration",
+        "type": "OTHER"
       }
     ],
     "locations": [
-      "Mayo Clinic in Rochester, Rochester, Minnesota, United States"
+      "M D Anderson Cancer Center, Houston, Texas, United States"
     ],
-    "start_date": "2026-11-01",
-    "completion_date": "2028-08-01",
-    "last_update": "2026-09-16",
+    "start_date": "2015-04-09",
+    "completion_date": "2027-04-30",
+    "last_update": "2026-09-17",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07712458"
+    "url": "https://clinicaltrials.gov/study/NCT02221700"
   },
   {
-    "nct_id": "NCT07784231",
-    "title": "The Use of Photobiomodulation in the Treatment of Spasticity After Stroke.",
-    "status": "RECRUITING",
+    "nct_id": "NCT07826130",
+    "title": "Nano Silver Fluoride and Photobiomodulation Therapy for Hypersensitivity and Pain in MIH-Affected Molars",
+    "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
-      "PHASE1",
-      "PHASE2"
+      "NA"
     ],
-    "enrollment": 42,
+    "enrollment": 45,
     "conditions": [
-      "Stroke",
-      "Spasticity",
-      "Photobiomodulation",
-      "NIRS"
+      "Molar-Incisor Hypomineralization (MIH)"
+    ],
+    "interventions": [
+      {
+        "name": "Nano Silver Fluoride",
+        "type": "OTHER"
+      },
+      {
+        "name": "Photobiomodulation Therapy",
+        "type": "OTHER"
+      },
+      {
+        "name": "Pre-appointment analgesics",
+        "type": "DRUG"
+      }
+    ],
+    "locations": [],
+    "start_date": "2027-05-01",
+    "completion_date": "2028-12-01",
+    "last_update": "2026-09-13",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07826130"
+  },
+  {
+    "nct_id": "NCT07554690",
+    "title": "Photobiomodulation Laser for Reticular Pseudodrusen in Age-Related Macular Degeneration",
+    "status": "NOT_YET_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 67,
+    "conditions": [
+      "AMD - Age-Related Macular Degeneration"
     ],
     "interventions": [
       {
         "name": "Photobiomodulation Therapy",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Sham Photobiomodulation",
+        "type": "PROCEDURE"
+      }
+    ],
+    "locations": [
+      "IRCCS Fondazione G.B.Bietti c/o Ospedale Britannico, Roma, Italy, Italy"
+    ],
+    "start_date": "2026-10",
+    "completion_date": "2027-12-31",
+    "last_update": "2026-09-02",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07554690"
+  },
+  {
+    "nct_id": "NCT07806526",
+    "title": "The Use of Photobiomodulation for Pain and Healing in Cesarean Section",
+    "status": "NOT_YET_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 30,
+    "conditions": [
+      "Post Partum",
+      "Cesarean Birth",
+      "Pain Management",
+      "Wound Care"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation (PBM)",
         "type": "RADIATION"
       },
       {
@@ -392,23 +538,21 @@
         "type": "RADIATION"
       },
       {
-        "name": "Standard Multidisciplinary Rehabilitation Program for Spasticity",
+        "name": "Standard Hospital Treatment",
         "type": "OTHER"
       }
     ],
-    "locations": [
-      "CER II Guarulhos, São Paulo, São Paulo, Brazil"
-    ],
-    "start_date": "2026-08-28",
-    "completion_date": "2027-06-30",
-    "last_update": "2026-08-28",
+    "locations": [],
+    "start_date": "2026-09",
+    "completion_date": "2027-06",
+    "last_update": "2026-09-01",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07784231"
+    "url": "https://clinicaltrials.gov/study/NCT07806526"
   },
   {
     "nct_id": "NCT07201935",
@@ -453,82 +597,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07201935"
   },
   {
-    "nct_id": "NCT07796048",
-    "title": "Regular Sauna Use to Lower Blood Pressure in Primary Aldosteronism",
-    "status": "NOT_YET_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 10,
-    "conditions": [
-      "Primary Aldosteronism",
-      "Hypertension"
-    ],
-    "interventions": [
-      {
-        "name": "sauna session",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [],
-    "start_date": "2026-09-30",
-    "completion_date": "2028-09-30",
-    "last_update": "2026-08-27",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07796048"
-  },
-  {
-    "nct_id": "NCT07795073",
-    "title": "Acceleration of Tooth Movement Using PRP and Photobiomodulation With Clear Aligners",
-    "status": "NOT_YET_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE1",
-      "PHASE2"
-    ],
-    "enrollment": 42,
-    "conditions": [
-      "Orthodontic Tooth Movement"
-    ],
-    "interventions": [
-      {
-        "name": "Platelet Rich Plasma (PRP) injection",
-        "type": "BIOLOGICAL"
-      },
-      {
-        "name": "photobiomodulation (PBM) Therapy",
-        "type": "DEVICE"
-      },
-      {
-        "name": "clear aligner(12-hour wear protocol)",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Clear aligner(22-hour wear protocol)",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Faculty of Dentistry Sanaa university, Sanaa, Sanaa Governorate, Yemen"
-    ],
-    "start_date": "2026-09-01",
-    "completion_date": "2027-05-01",
-    "last_update": "2026-08-26",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07795073"
-  },
-  {
     "nct_id": "NCT05725655",
     "title": "Hot Water Immersion After Myocardial Infarction",
     "status": "ACTIVE_NOT_RECRUITING",
@@ -562,38 +630,67 @@
     "url": "https://clinicaltrials.gov/study/NCT05725655"
   },
   {
-    "nct_id": "NCT07707284",
-    "title": "Frequency-Dependent Effects of Transcranial Photobiomodulation on Cortical Excitability",
-    "status": "NOT_YET_RECRUITING",
+    "nct_id": "NCT07223099",
+    "title": "Sauna for Offline Connections and Interactive, Authentic Living",
+    "status": "RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
-      "PHASE1"
+      "NA"
     ],
-    "enrollment": 20,
+    "enrollment": 15,
     "conditions": [
-      "Healthy Volunteers (HV)",
-      "Transcranial Photobiomodulation",
-      "Cortical Excitability"
+      "Loneliness"
     ],
     "interventions": [
       {
-        "name": "Transcranial Photobiomodulation",
-        "type": "COMBINATION_PRODUCT"
+        "name": "Sauna Visits",
+        "type": "BEHAVIORAL"
       }
     ],
     "locations": [
-      "Hospital de Clínicas de Porto Alegre, Porto Alegre, Rio Grande do Sul, Brazil"
+      "Osher Center for Integrative Health, San Francisco, California, United States"
     ],
-    "start_date": "2027-05",
-    "completion_date": "2028-07",
-    "last_update": "2026-07-27",
+    "start_date": "2026-04-20",
+    "completion_date": "2027-03-30",
+    "last_update": "2026-08-11",
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07223099"
+  },
+  {
+    "nct_id": "NCT07748546",
+    "title": "The Rebound Effect on Repeated Low-Level Red Light Therapy for Myopia",
+    "status": "NOT_YET_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 159,
+    "conditions": [
+      "Myopia",
+      "Randomized Controlled Trial (RCT)"
+    ],
+    "interventions": [
+      {
+        "name": "Repeated low-level red light (RLRL) therapy",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [],
+    "start_date": "2026-08-15",
+    "completion_date": "2028-07-15",
+    "last_update": "2026-08-02",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07707284"
+    "url": "https://clinicaltrials.gov/study/NCT07748546"
   },
   {
     "nct_id": "NCT07710417",
@@ -678,6 +775,40 @@
     "url": "https://clinicaltrials.gov/study/NCT07694999"
   },
   {
+    "nct_id": "NCT07697768",
+    "title": "Photobiomodulation for Vaginal Dysfunctions: Home-Based vs Outpatient Treatment",
+    "status": "NOT_YET_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 150,
+    "conditions": [
+      "Genitourinary Syndrome of Menopause (GSM)",
+      "Bacterial Vaginosis",
+      "Vulvovaginal Candidiasis (VVC)"
+    ],
+    "interventions": [
+      {
+        "name": "Blue LED Photobiomodulation",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Escola Bahiana de Medicina e Saúde Pública, Salvador, Estado de Bahia, Brazil"
+    ],
+    "start_date": "2026-07-30",
+    "completion_date": "2028-05-20",
+    "last_update": "2026-07-09",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07697768"
+  },
+  {
     "nct_id": "NCT06633198",
     "title": "Heat, Microvascular Function and Aging",
     "status": "ACTIVE_NOT_RECRUITING",
@@ -712,6 +843,43 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06633198"
+  },
+  {
+    "nct_id": "NCT07678515",
+    "title": "Salivary Gland Massage and Olfactory Stimulation for Relieving Feeding Difficulty and Triggering Oral Intake Among People With Dementia",
+    "status": "ENROLLING_BY_INVITATION",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 30,
+    "conditions": [
+      "Experimental",
+      "Dementia",
+      "RCT",
+      "Dry Mouth",
+      "Aromatherapy",
+      "Feeding Difficulty"
+    ],
+    "interventions": [
+      {
+        "name": "SMART program (Salivary gland massage combined with aromatherapy",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "Yueh-Rong Nursing Home, Tainan, Taiwan"
+    ],
+    "start_date": "2026-03-16",
+    "completion_date": "2026-06-27",
+    "last_update": "2026-06-28",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07678515"
   },
   {
     "nct_id": "NCT07233148",
@@ -889,71 +1057,40 @@
     "url": "https://clinicaltrials.gov/study/NCT07615478"
   },
   {
-    "nct_id": "NCT07605234",
-    "title": "Phase II Single Arm Open Label Study Evaluating the Feasibility and Safety of Photobiomodulation as an Adjunct to Standard Supportive Care for Chemotherapy Induced Oral Mucositis in Pediatric Patients With Hematolymphoid Malignancies",
+    "nct_id": "NCT07576062",
+    "title": "Efficacy of Cognitive Functional Therapy in Individuals With Chronic Low Back Pain After Spinal Surgery",
     "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 46,
+    "enrollment": 90,
     "conditions": [
-      "Oral Mucositis Due to Chemotherapy",
-      "Hematolymphoid Malignancies"
+      "Chronic Low Back Pain",
+      "After Lumbar Spine Surgery",
+      "Failed Back Surgery Syndrome (FBSS)"
     ],
     "interventions": [
       {
-        "name": "Photobiomodulation Therapy",
+        "name": "CFT",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Sham Detuned Photobiomodulation",
         "type": "DEVICE"
       }
     ],
     "locations": [],
-    "start_date": "2026-06-01",
-    "completion_date": "2027-04-23",
-    "last_update": "2026-05-18",
+    "start_date": "2026-05",
+    "completion_date": "2027-11",
+    "last_update": "2026-05-03",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07605234"
-  },
-  {
-    "nct_id": "NCT07133893",
-    "title": "Transcranial Photobiomodulation in Anxiety Disorders",
-    "status": "RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 280,
-    "conditions": [
-      "Symptoms of Anxiety"
-    ],
-    "interventions": [
-      {
-        "name": "Attention bias assessment and modification",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Transcranial photobiomodulation",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "The University of Texas at Austin, Austin, Texas, United States"
-    ],
-    "start_date": "2025-09-01",
-    "completion_date": "2028-09",
-    "last_update": "2026-05-11",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07133893"
+    "url": "https://clinicaltrials.gov/study/NCT07576062"
   },
   {
     "nct_id": "NCT07559344",
@@ -1048,43 +1185,38 @@
     "url": "https://clinicaltrials.gov/study/NCT06908447"
   },
   {
-    "nct_id": "NCT07379515",
-    "title": "Effects of Topical Anesthesia Approaches on Dental Pain During and After Restorative Management of Dental Caries",
+    "nct_id": "NCT07537322",
+    "title": "Effect of DFM on Quadriceps Spasticity in Stroke Patients",
     "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 204,
+    "enrollment": 30,
     "conditions": [
-      "Pulpitis",
-      "Pain Management"
+      "Stroke (Subacute)"
     ],
     "interventions": [
       {
-        "name": "Photobiomodulation (PBM)-induced analgesia device using multi-wavelength LED",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Medicated analgesia",
+        "name": "Deep Friction Massage",
         "type": "OTHER"
       },
       {
-        "name": "Placebo",
+        "name": "Physical Therapy Exercise only",
         "type": "OTHER"
       }
     ],
     "locations": [],
-    "start_date": "2026-04-15",
-    "completion_date": "2027-03-31",
-    "last_update": "2026-04-09",
+    "start_date": "2026-05-01",
+    "completion_date": "2027-12-30",
+    "last_update": "2026-04-12",
     "topics": [
-      "photobiomodulation"
+      "massage-therapy"
     ],
     "topic_names": [
-      "Photobiomodulation / Red Light"
+      "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07379515"
+    "url": "https://clinicaltrials.gov/study/NCT07537322"
   },
   {
     "nct_id": "NCT07520929",
@@ -1125,41 +1257,42 @@
     "url": "https://clinicaltrials.gov/study/NCT07520929"
   },
   {
-    "nct_id": "NCT07518732",
-    "title": "Investigation of the Effect of Thoracic Manipulation and Classical Massage on Pain, Flexibility and Sleep Quality",
-    "status": "ENROLLING_BY_INVITATION",
+    "nct_id": "NCT07510646",
+    "title": "Transcranial Photobiomodulation for Bipolar Depression",
+    "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 60,
+    "enrollment": 40,
     "conditions": [
-      "MECHANICAL BACK PAIN",
-      "Sleep Quality"
+      "Bipolar",
+      "Bipolar Disorder (BD)",
+      "Bipolar Disorder Depression"
     ],
     "interventions": [
       {
-        "name": "Classical Massage",
-        "type": "OTHER"
+        "name": "Vielight Neuro Rx Gamma",
+        "type": "DEVICE"
       },
       {
-        "name": "Manual therapy",
-        "type": "OTHER"
+        "name": "Sham Device",
+        "type": "DEVICE"
       }
     ],
     "locations": [
-      "Bigadic Saglikli Yasam Merkezi, Istanbul, Turkey (Türkiye)"
+      "Providence Care Hospital, Kingston, Ontario, Canada"
     ],
-    "start_date": "2026-04-01",
-    "completion_date": "2026-05-10",
-    "last_update": "2026-04-02",
+    "start_date": "2026-07-01",
+    "completion_date": "2027-07-01",
+    "last_update": "2026-04-01",
     "topics": [
-      "massage-therapy"
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Massage Therapy"
+      "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07518732"
+    "url": "https://clinicaltrials.gov/study/NCT07510646"
   },
   {
     "nct_id": "NCT07511803",
@@ -1236,40 +1369,37 @@
     "url": "https://clinicaltrials.gov/study/NCT07511790"
   },
   {
-    "nct_id": "NCT07477678",
-    "title": "Red Light Therapy: a Potential Strategy to Reduce Sports Injury Risk?",
+    "nct_id": "NCT07501598",
+    "title": "Effectiveness of Sacral Massage on Labor Pain, Depression, Stress, and Anxiety",
     "status": "NOT_YET_RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 40,
+    "enrollment": 193,
     "conditions": [
-      "Ankle Dorsiflexion"
+      "Labor Pain",
+      "Labor Anxiety",
+      "Labor Stress",
+      "Labor Depression"
     ],
     "interventions": [
       {
-        "name": "Near-infrared photobiomodulation",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Cycling Warm-up",
+        "name": "Sacral Massage",
         "type": "OTHER"
       }
     ],
-    "locations": [
-      "Human Movement Laboratory, Escola Superior de Saúde da Universidade de Aveiro (ESSUA), Aveiro, Aveiro District, Portugal"
-    ],
-    "start_date": "2026-03-23",
-    "completion_date": "2026-04-20",
-    "last_update": "2026-03-17",
+    "locations": [],
+    "start_date": "2026-04-20",
+    "completion_date": "2026-08-20",
+    "last_update": "2026-03-28",
     "topics": [
-      "photobiomodulation"
+      "massage-therapy"
     ],
     "topic_names": [
-      "Photobiomodulation / Red Light"
+      "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07477678"
+    "url": "https://clinicaltrials.gov/study/NCT07501598"
   },
   {
     "nct_id": "NCT06565221",
@@ -1377,6 +1507,52 @@
     "url": "https://clinicaltrials.gov/study/NCT07158047"
   },
   {
+    "nct_id": "NCT06146816",
+    "title": "The Assessment of Infrared Treatment for Crohn's Disease",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 40,
+    "conditions": [
+      "IBD",
+      "Inflammatory Bowel Diseases",
+      "Crohn Disease"
+    ],
+    "interventions": [
+      {
+        "name": "High level photobiomodulation treatment in the infrared (IR) range.",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Medium level photobiomodulation treatment in the far infrared (IR) range",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Low level photobiomodulation treatment in the far infrared (IR) range",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Photobiomodulation sham treatment",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Dep. of Gastroenterology, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel"
+    ],
+    "start_date": "2023-09-12",
+    "completion_date": "2028-01",
+    "last_update": "2026-02-22",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06146816"
+  },
+  {
     "nct_id": "NCT07433036",
     "title": "The Effectiveness of Emergency Room Protocols for Treating Hyperthermia",
     "status": "RECRUITING",
@@ -1464,6 +1640,38 @@
       "Massage Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT07404397"
+  },
+  {
+    "nct_id": "NCT07145489",
+    "title": "Infrared Photobiomodulation in Humans With Epilepsy",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 13,
+    "conditions": [
+      "Drug Resistant Epilepsy"
+    ],
+    "interventions": [
+      {
+        "name": "photobiomodulation",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "BIDMC, Boston, Massachusetts, United States"
+    ],
+    "start_date": "2025-11-25",
+    "completion_date": "2027-09-25",
+    "last_update": "2026-02-03",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07145489"
   },
   {
     "nct_id": "NCT07387978",
@@ -1577,39 +1785,42 @@
     "url": "https://clinicaltrials.gov/study/NCT04368689"
   },
   {
-    "nct_id": "NCT07314502",
-    "title": "Prenatal Exercise Including Perineal Massage and Maternal-Neonatal Outcomes",
-    "status": "NOT_YET_RECRUITING",
+    "nct_id": "NCT06282770",
+    "title": "Photobiomodulation for Lower Back Pain Post Spinal Fusion and Decompression Surgery",
+    "status": "RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 2000,
+    "enrollment": 80,
     "conditions": [
-      "Postpartum Urinary Incontinence",
-      "Postpartum Depression (PPD)",
-      "Neonatal Complications",
-      "Gestational Diabetes"
+      "Spinal Fusion",
+      "Chronic Lower Back Pain"
     ],
     "interventions": [
       {
-        "name": "Supervised prenatal exercise including antenatal perineal massage",
-        "type": "OTHER"
+        "name": "Laser Diode Brace",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Sham Laser Diode Brace",
+        "type": "DEVICE"
       }
     ],
     "locations": [
-      "South China Normal University, Guangzhou, China"
+      "Semel Institute of Neuroscience at UCLA, Los Angeles, California, United States",
+      "UCLA Clinical and Translational Research Center, Los Angeles, California, United States"
     ],
-    "start_date": "2026-01-01",
-    "completion_date": "2029-12-31",
-    "last_update": "2025-12-17",
+    "start_date": "2023-07-01",
+    "completion_date": "2026-07-01",
+    "last_update": "2026-01-11",
     "topics": [
-      "massage-therapy"
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Massage Therapy"
+      "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07314502"
+    "url": "https://clinicaltrials.gov/study/NCT06282770"
   },
   {
     "nct_id": "NCT07266636",
@@ -1638,12 +1849,10 @@
     "completion_date": "2026-05-25",
     "last_update": "2025-11-24",
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT07266636"
   },
@@ -1679,12 +1888,10 @@
     "completion_date": "2026-12",
     "last_update": "2025-11-21",
     "topics": [
-      "exercise-recovery",
-      "photobiomodulation"
+      "exercise-recovery"
     ],
     "topic_names": [
-      "Exercise Recovery",
-      "Photobiomodulation / Red Light"
+      "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT07224646"
   },
@@ -1719,6 +1926,74 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT05931497"
+  },
+  {
+    "nct_id": "NCT07095556",
+    "title": "Impact of Nd:YAG Laser Photobiostimulation on Healing of Gingiva",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 39,
+    "conditions": [
+      "Wound Healing and Prevention",
+      "Oral Inflammation",
+      "Photobiomodulation",
+      "Post-operative Pain Management",
+      "Tooth Extraction Site Healing"
+    ],
+    "interventions": [
+      {
+        "name": "Low-level laser therapy",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "MUSC College of Dental Medicine, Graduate Periodontics Clinic, Charleston, South Carolina, United States"
+    ],
+    "start_date": "2025-11-05",
+    "completion_date": "2027-04-30",
+    "last_update": "2025-11-07",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT07095556"
+  },
+  {
+    "nct_id": "NCT05916235",
+    "title": "Photobiomodulation for Management of Temporomandibular Disorder Pain",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 130,
+    "conditions": [
+      "Pain Related to TMD"
+    ],
+    "interventions": [
+      {
+        "name": "THOR® laser system",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "University of Florida, Gainesville, Florida, United States"
+    ],
+    "start_date": "2024-02-08",
+    "completion_date": "2028-10",
+    "last_update": "2025-10-23",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05916235"
   },
   {
     "nct_id": "NCT06332963",
@@ -1763,42 +2038,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06332963"
   },
   {
-    "nct_id": "NCT07121686",
-    "title": "Effect of Red and Blue Light Irradiation on Wound Healing After Hemorrhoid Surgery",
-    "status": "NOT_YET_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 315,
-    "conditions": [
-      "Hemorrhoids"
-    ],
-    "interventions": [
-      {
-        "name": "Red light exposure",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Red-blue light exposure",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Affiliated Hospital of Putian University, Putian, China"
-    ],
-    "start_date": "2025-08-15",
-    "completion_date": "2026-08-01",
-    "last_update": "2025-08-10",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07121686"
-  },
-  {
     "nct_id": "NCT06239818",
     "title": "Assessing the Effects of Photobiomodulation on Clinical Recovery From Concussion in Adolescents",
     "status": "RECRUITING",
@@ -1833,39 +2072,6 @@
       "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06239818"
-  },
-  {
-    "nct_id": "NCT06898580",
-    "title": "Sacral Massage With a Tennis Ball on Labor Pain and Comfort During the Intrapartum Period",
-    "status": "NOT_YET_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 140,
-    "conditions": [
-      "Pain Management",
-      "Birth Comfort",
-      "Massage Effect",
-      "Labor Pain"
-    ],
-    "interventions": [
-      {
-        "name": "sacral massage with tennis ball",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [],
-    "start_date": "2025-06-01",
-    "completion_date": "2026-03-01",
-    "last_update": "2025-05-10",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06898580"
   },
   {
     "nct_id": "NCT06920966",
@@ -1906,82 +2112,12 @@
     "completion_date": "2025-09-01",
     "last_update": "2025-04-02",
     "topics": [
-      "cold-water-immersion",
-      "sauna-heat-therapy"
+      "cold-water-immersion"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
-      "Sauna & Heat Therapy"
+      "Cold-Water Immersion"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06920966"
-  },
-  {
-    "nct_id": "NCT06819033",
-    "title": "Effects of Photobiomodulation (PBM) on Pain After Presentation of Aphthous Ulcers in Pediatric Dental Patients",
-    "status": "RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE4"
-    ],
-    "enrollment": 30,
-    "conditions": [
-      "Aphthous Ulcer"
-    ],
-    "interventions": [
-      {
-        "name": "PBM Therapy",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Maalox plus Benadryl",
-        "type": "DRUG"
-      }
-    ],
-    "locations": [
-      "The University of Texas Health Science Center at Houston, Houston, Texas, United States"
-    ],
-    "start_date": "2025-03-10",
-    "completion_date": "2026-02-28",
-    "last_update": "2025-03-20",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06819033"
-  },
-  {
-    "nct_id": "NCT06875466",
-    "title": "Exploring the Health Benefits of Sauna Bathing",
-    "status": "RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 12,
-    "conditions": [
-      "Blood Pressure"
-    ],
-    "interventions": [
-      {
-        "name": "Sauna bathing",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "The Centre for Health, Tauranga, New Zealand"
-    ],
-    "start_date": "2025-03",
-    "completion_date": "2025-07",
-    "last_update": "2025-03-16",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06875466"
   },
   {
     "nct_id": "NCT06804564",
@@ -2066,79 +2202,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06769373"
   },
   {
-    "nct_id": "NCT05845216",
-    "title": "Effect of Transcranial Near InfraRed Light on Cerebral Function in Young and Healthy Older Subjects: a FMRI Study (TIROC)",
-    "status": "ACTIVE_NOT_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 64,
-    "conditions": [
-      "Healthy Volunteers"
-    ],
-    "interventions": [
-      {
-        "name": "ACTIVE Transcranial photobiomodulation (tPBM)",
-        "type": "DEVICE"
-      },
-      {
-        "name": "SHAM Transcranial photobiomodulation (tPBM)",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Clinatec Cea/Chuga, Grenoble, France"
-    ],
-    "start_date": "2023-09-01",
-    "completion_date": "2026-05-15",
-    "last_update": "2024-12-10",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05845216"
-  },
-  {
-    "nct_id": "NCT06672614",
-    "title": "Postexercise Hot-Water Immersion on Exercise Performance in Hypoxia",
-    "status": "NOT_YET_RECRUITING",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 20,
-    "conditions": [
-      "Heat Exposure",
-      "Exercise Training"
-    ],
-    "interventions": [
-      {
-        "name": "Post-Exercise Hot Water Immersion",
-        "type": "OTHER"
-      },
-      {
-        "name": "Control Group",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Nipissing University, North Bay, Ontario, Canada"
-    ],
-    "start_date": "2024-11-01",
-    "completion_date": "2025-10-31",
-    "last_update": "2024-11-01",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06672614"
-  },
-  {
     "nct_id": "NCT06426251",
     "title": "Photobiomodulation Therapy in Patients Receiving Total Knee Arthroplasty",
     "status": "RECRUITING",
@@ -2173,29 +2236,31 @@
     "url": "https://clinicaltrials.gov/study/NCT06426251"
   },
   {
-    "nct_id": "NCT05165056",
-    "title": "Photobiomodulation Therapy in the Prevention and Management of Radiotherapy-induced Vaginal Toxicity",
+    "nct_id": "NCT05177289",
+    "title": "Photobiomodulation Therapy in the Prevention and Management of Chemotherapy-Induced Alopecia",
     "status": "RECRUITING",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 62,
+    "enrollment": 72,
     "conditions": [
-      "Radiotherapy Side Effect",
-      "Vaginal Abnormality"
+      "Chemotherapy-induced Alopecia"
     ],
     "interventions": [
       {
-        "name": "Intimleds",
+        "name": "Theradome® LH80 pro",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Scalp cooling",
         "type": "DEVICE"
       }
     ],
     "locations": [
-      "Ziekenhuis Oost-Limburg, Genk, Limburg, Belgium",
       "Jessa Hospital, Hasselt, Limburg, Belgium"
     ],
-    "start_date": "2022-08-24",
+    "start_date": "2022-02-28",
     "completion_date": "2030-01",
     "last_update": "2023-09-28",
     "topics": [
@@ -2204,7 +2269,41 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05165056"
+    "url": "https://clinicaltrials.gov/study/NCT05177289"
+  },
+  {
+    "nct_id": "NCT04979078",
+    "title": "Photobiomodulation Therapy in the Management of Hand-foot Syndrome and Hand-foot Skin Reaction",
+    "status": "RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 40,
+    "conditions": [
+      "Hand-foot Syndrome",
+      "Hand-foot Skin Reaction"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation therapy (PBMT)",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Hasselt University, Hasselt, Limburg, Belgium",
+      "Jessa Ziekenhuis VZW, Hasselt, Limburg, Belgium"
+    ],
+    "start_date": "2022-01-12",
+    "completion_date": "2029-08",
+    "last_update": "2023-06-15",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04979078"
   },
   {
     "nct_id": "NCT05763706",
@@ -2237,6 +2336,80 @@
       "Photobiomodulation / Red Light"
     ],
     "url": "https://clinicaltrials.gov/study/NCT05763706"
+  },
+  {
+    "nct_id": "NCT05507840",
+    "title": "Photobiomodulation for Dry Age Related Macula Degeneration",
+    "status": "NOT_YET_RECRUITING",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 121,
+    "conditions": [
+      "Photobiomodulation",
+      "Age-Related Macular Degeneration"
+    ],
+    "interventions": [
+      {
+        "name": "Valeda machine",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [],
+    "start_date": "2022-12-01",
+    "completion_date": "2027-12-01",
+    "last_update": "2022-10-11",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05507840"
+  },
+  {
+    "nct_id": "NCT04596410",
+    "title": "Photobiomodulation Protocols in the Analgesia of Chemotherapy-induced Oral Mucositis in Children",
+    "status": "TERMINATED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 87,
+    "conditions": [
+      "Mucositis Oral"
+    ],
+    "interventions": [
+      {
+        "name": "LLLT applied every other day",
+        "type": "RADIATION"
+      },
+      {
+        "name": "LLLT applied daily",
+        "type": "RADIATION"
+      }
+    ],
+    "locations": [
+      "University hospital of Toulouse, Toulouse, Occitanie, France",
+      "University hospital of Angers, Angers, France",
+      "University hospital of Besançon, Besançon, France",
+      "University hospital of Grenoble, Grenoble, France",
+      "University hospital of Lille, Lille, France",
+      "University hospital of Limoges, Limoges, France",
+      "Hôpital La Timone, Marseille, France",
+      "University hospital of Nancy, Nancy, France"
+    ],
+    "start_date": "2021-05-03",
+    "completion_date": "2024-05-22",
+    "last_update": "2026-11-02",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04596410"
   },
   {
     "nct_id": "NCT07886736",
@@ -2289,39 +2462,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07886736"
   },
   {
-    "nct_id": "NCT07867561",
-    "title": "Back Massage for Postpartum Fatigue and Maternity Blues After Cesarean Birth",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 80,
-    "conditions": [
-      "Postpartum Fatigue",
-      "Maternity Blues"
-    ],
-    "interventions": [
-      {
-        "name": "Back Massage",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [
-      "Kocaeli University, Kocaeli, Turkey (Türkiye)"
-    ],
-    "start_date": "2025-05-10",
-    "completion_date": "2026-05-10",
-    "last_update": "2026-10-06",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07867561"
-  },
-  {
     "nct_id": "NCT06667479",
     "title": "Cold Water Exposure and Immune Function Study",
     "status": "COMPLETED",
@@ -2365,39 +2505,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06667479"
   },
   {
-    "nct_id": "NCT07579585",
-    "title": "Effects of Photobiomodulation in Hemophilia Patients.",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 24,
-    "conditions": [
-      "Hemarthrosis, Knee",
-      "Hemophilia"
-    ],
-    "interventions": [
-      {
-        "name": "photobiomodulation",
-        "type": "RADIATION"
-      }
-    ],
-    "locations": [
-      "Sundas Foundation, Sialkot, Punjab Province, Pakistan"
-    ],
-    "start_date": "2026-04-05",
-    "completion_date": "2026-07-10",
-    "last_update": "2026-09-26",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07579585"
-  },
-  {
     "nct_id": "NCT06667193",
     "title": "Cold Water Exposure's Effects on Physical and Mental Health",
     "status": "COMPLETED",
@@ -2434,45 +2541,76 @@
     "url": "https://clinicaltrials.gov/study/NCT06667193"
   },
   {
-    "nct_id": "NCT07816965",
-    "title": "The Effects of Two Methods Applied on Pain and Fear During Phlebotomy in Children",
+    "nct_id": "NCT04245527",
+    "title": "Use of Infrared Photomodulation for Hormonal Balance (Joovvin' for Hormonal Health)",
+    "status": "WITHDRAWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 0,
+    "conditions": [
+      "Testosterone Deficiency",
+      "Estrogen Deficiency"
+    ],
+    "interventions": [
+      {
+        "name": "Joovv Infrared Light Device",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "ProofPilot (Virtual Study: https://p.proofpilot.com), New York, New York, United States"
+    ],
+    "start_date": "2020-01-31",
+    "completion_date": "2020-06-01",
+    "last_update": "2026-09-14",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04245527"
+  },
+  {
+    "nct_id": "NCT05989815",
+    "title": "Effect of Whole-body Photobiomodulation on Muscular Performance Enhancement.",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 138,
+    "enrollment": 30,
     "conditions": [
-      "Distraction Methods",
-      "Pain Management",
-      "Fear",
-      "Narration",
-      "Pediatric",
-      "Phlebotomy"
+      "Sports Performance",
+      "Injury Prevention",
+      "Muscle Damage",
+      "Musculoskeletal Pain"
     ],
     "interventions": [
       {
-        "name": "External vibrating massage group",
+        "name": "Muscle damage protocol training",
         "type": "OTHER"
       },
       {
-        "name": "Digital Storytelling",
-        "type": "OTHER"
+        "name": "Photobiomodulation therapy (PBMT)",
+        "type": "DEVICE"
       }
     ],
     "locations": [
-      "Izmir Bakircay University Cigli Training and Research Hospital, Izmir, Turkey (Türkiye)"
+      "Desportivo Brasil Football Club, Porto Feliz, São Paulo, Brazil"
     ],
-    "start_date": "2024-06-01",
-    "completion_date": "2025-06-30",
-    "last_update": "2026-09-10",
+    "start_date": "2023-07-10",
+    "completion_date": "2023-12-20",
+    "last_update": "2026-09-09",
     "topics": [
-      "massage-therapy"
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Massage Therapy"
+      "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07816965"
+    "url": "https://clinicaltrials.gov/study/NCT05989815"
   },
   {
     "nct_id": "NCT07790016",
@@ -2507,94 +2645,51 @@
     "completion_date": "2023-12-01",
     "last_update": "2026-08-26",
     "topics": [
-      "exercise-recovery"
+      "exercise-recovery",
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Exercise Recovery"
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
     ],
     "url": "https://clinicaltrials.gov/study/NCT07790016"
   },
   {
-    "nct_id": "NCT06506253",
-    "title": "Massage for GAD: Neuroimaging and Clinical Correlates of Response",
+    "nct_id": "NCT07779837",
+    "title": "Acupressure and Hand Massage for Reducing Anxiety During Dental Local Anesthetic Injections in Children",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 50,
+    "enrollment": 135,
     "conditions": [
-      "Generalized Anxiety Disorder"
+      "Dental Anxiety",
+      "Fear"
     ],
     "interventions": [
       {
-        "name": "Swedish Massage Therapy",
-        "type": "OTHER"
+        "name": "acupressure",
+        "type": "BEHAVIORAL"
       },
       {
-        "name": "Light Touch Therapy",
-        "type": "OTHER"
+        "name": "hand massage",
+        "type": "BEHAVIORAL"
       }
     ],
     "locations": [
-      "Huntsman Mental Health Institute, Salt Lake City, Utah, United States"
+      "Faculty of Pediatric Dentistry, Al Mansurah, Egypt"
     ],
-    "start_date": "2024-05-01",
-    "completion_date": "2026-08-25",
-    "last_update": "2026-08-25",
+    "start_date": "2024-11-27",
+    "completion_date": "2025-12-27",
+    "last_update": "2026-08-18",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06506253"
-  },
-  {
-    "nct_id": "NCT07608913",
-    "title": "Effects of Bicarbonate Spring Water Immersion on Cognitive Reliability and Post-Maximal Exercise Recovery in Adolescent Rowers During Altitude Training: A Sex-Stratified Three-Arm Randomized Controlled Trial",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 27,
-    "conditions": [
-      "Altitude Training Adaptation",
-      "Cognitive Function",
-      "Cerebral Hemodynamics",
-      "Exercise Performance",
-      "Hydrotherapy",
-      "Balneotherapy",
-      "Hypoxia"
-    ],
-    "interventions": [
-      {
-        "name": "Control Group：Natural Recovery",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Hot water immersion group",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "hot spring immersion group",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [
-      "Field altitude-training camp, approximately 1600 m, Tengyue, Yunnan, China"
-    ],
-    "start_date": "2026-01-25",
-    "completion_date": "2026-03-08",
-    "last_update": "2026-07-31",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07608913"
+    "url": "https://clinicaltrials.gov/study/NCT07779837"
   },
   {
     "nct_id": "NCT07728422",
@@ -2676,11 +2771,9 @@
     "completion_date": "2025-11-03",
     "last_update": "2026-07-12",
     "topics": [
-      "cold-water-immersion",
       "exercise-recovery"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
       "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06698237"
@@ -2765,14 +2858,14 @@
     "url": "https://clinicaltrials.gov/study/NCT07608887"
   },
   {
-    "nct_id": "NCT06359080",
-    "title": "Transcranial Photobiomodulation for Reducing Autism Symptoms in Children - Open Label Study (TPBMASDOL)",
+    "nct_id": "NCT04660552",
+    "title": "Transcranial Photobiomodulation for Reducing Autism Symptoms in Children",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 25,
+    "enrollment": 34,
     "conditions": [
       "Autism Spectrum Disorder"
     ],
@@ -2786,8 +2879,8 @@
       "Dr. Steingold Psychology PC, Brooklyn, New York, United States",
       "Dr. Steingold Psychology PC, New York, New York, United States"
     ],
-    "start_date": "2022-05-08",
-    "completion_date": "2022-12-11",
+    "start_date": "2020-11-15",
+    "completion_date": "2023-12-30",
     "last_update": "2026-06-12",
     "topics": [
       "photobiomodulation"
@@ -2795,41 +2888,7 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06359080"
-  },
-  {
-    "nct_id": "NCT07636265",
-    "title": "The Effect Of Photobiomodulation On Dental Implant Survival",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE1"
-    ],
-    "enrollment": 50,
-    "conditions": [
-      "Implant Complication",
-      "Periimplant Infection",
-      "Periimplant Bone Loss"
-    ],
-    "interventions": [
-      {
-        "name": "photobiomodulation",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Nigde Omer Halisdemir University, Niğde, Niğde Province, Turkey (Türkiye)"
-    ],
-    "start_date": "2025-10-15",
-    "completion_date": "2026-04-15",
-    "last_update": "2026-06-03",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07636265"
+    "url": "https://clinicaltrials.gov/study/NCT04660552"
   },
   {
     "nct_id": "NCT06348225",
@@ -2872,43 +2931,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06348225"
   },
   {
-    "nct_id": "NCT07597304",
-    "title": "Photobiomodulation Therapy (PBMT) for Accelerating Maxillary Canine Movement Using Two Wavelengths (650 nm and 976 nm): A Split-Mouth Randomized Controlled Clinical Trial",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 40,
-    "conditions": [
-      "Orthodontic Treatment Acceleration",
-      "Photobiomodulation Therapy"
-    ],
-    "interventions": [
-      {
-        "name": "650 nm Photobiomodulation Therapy",
-        "type": "DEVICE"
-      },
-      {
-        "name": "976 nm Photobiomodulation Therapy",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Orthodontic Clinic, College of Dentistry, University of Kufa, Najaf, Najaf Governorate, Iraq"
-    ],
-    "start_date": "2025-05-05",
-    "completion_date": "2026-03-20",
-    "last_update": "2026-05-15",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07597304"
-  },
-  {
     "nct_id": "NCT05627141",
     "title": "Photobiomodulation, Cryotherapy Combined With Compression, and Massage for Recovery",
     "status": "COMPLETED",
@@ -2935,45 +2957,16 @@
     "completion_date": "2023-07-01",
     "last_update": "2026-04-12",
     "topics": [
-      "exercise-recovery"
-    ],
-    "topic_names": [
-      "Exercise Recovery"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05627141"
-  },
-  {
-    "nct_id": "NCT05397457",
-    "title": "Effect of Helmet Type, Home-use Low-level Light Therapy Device for Chemotherapy-induced Alopecia",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 106,
-    "conditions": [
-      "Breast Cancer",
-      "Chemotherapy-induced Alopecia"
-    ],
-    "interventions": [
-      {
-        "name": "low-level light therapy",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Keelung Chang Gung Memorial Hospital, Keelung, Taiwan"
-    ],
-    "start_date": "2022-05-01",
-    "completion_date": "2026-03-17",
-    "last_update": "2026-03-18",
-    "topics": [
+      "exercise-recovery",
+      "massage-therapy",
       "photobiomodulation"
     ],
     "topic_names": [
+      "Exercise Recovery",
+      "Massage Therapy",
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05397457"
+    "url": "https://clinicaltrials.gov/study/NCT05627141"
   },
   {
     "nct_id": "NCT06319001",
@@ -3013,126 +3006,160 @@
     "url": "https://clinicaltrials.gov/study/NCT06319001"
   },
   {
-    "nct_id": "NCT06163586",
-    "title": "Massage Therapy in Premature Neonates",
+    "nct_id": "NCT07388732",
+    "title": "The Effect of Abdominal Massage on Jaundice and Defecation in Newborn Babies",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 32,
+    "enrollment": 35,
     "conditions": [
-      "Neonatal Prematurity",
-      "Massage Therapy"
+      "Hyper Bilirubinemia",
+      "Phototherapy",
+      "Jaundice, Neonatal"
     ],
     "interventions": [
       {
-        "name": "Neonatal Touch and Massage Therapy",
+        "name": "Massage once a day for 3 days.",
+        "type": "OTHER"
+      },
+      {
+        "name": "Massage twice a day for 3 days.",
         "type": "OTHER"
       }
     ],
     "locations": [
-      "University of Maryland Medical Center, Baltimore, Maryland, United States"
+      "Kütahya Health Sciences University, Kütahya, Province, Turkey (Türkiye)"
     ],
-    "start_date": "2023-11-01",
-    "completion_date": "2025-12-30",
-    "last_update": "2026-02-06",
+    "start_date": "2020-02-29",
+    "completion_date": "2025-01-14",
+    "last_update": "2026-02-04",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06163586"
+    "url": "https://clinicaltrials.gov/study/NCT07388732"
   },
   {
-    "nct_id": "NCT07389668",
-    "title": "The Effect of the Use of Hand Massage Stimulation Techniques on the Hyperemesis Gravidarum",
+    "nct_id": "NCT06209489",
+    "title": "White Cover and Massage Impact on Bilirubin Levels and Phototherapy Duration in Newborns",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 70,
+    "enrollment": 60,
     "conditions": [
-      "Pregnancy Related"
+      "Newborn Jaundice",
+      "Hyperbilirubinemia, Neonatal",
+      "Newborn Massage",
+      "Phototerapy",
+      "White Cover"
     ],
     "interventions": [
       {
-        "name": "seed therapy (su jok)",
+        "name": "White cover",
         "type": "OTHER"
       }
     ],
     "locations": [
-      "Inonu University, Malatya, Turkey (Türkiye)"
+      "Karabuk University, Karabük, Turkey (Türkiye)"
     ],
-    "start_date": "2024-10-15",
-    "completion_date": "2025-01-15",
-    "last_update": "2026-02-03",
+    "start_date": "2024-03-01",
+    "completion_date": "2024-06-30",
+    "last_update": "2026-01-06",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07389668"
+    "url": "https://clinicaltrials.gov/study/NCT06209489"
   },
   {
-    "nct_id": "NCT06695754",
-    "title": "Comparing Manual and Automatic Colonic Massage for Chronic Constipation.",
+    "nct_id": "NCT07315906",
+    "title": "Patellar Tendon Physiotheraphy Acute Effects Trial",
     "status": "COMPLETED",
-    "study_type": "OBSERVATIONAL",
-    "phases": [],
-    "enrollment": 2312,
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 84,
     "conditions": [
-      "Chronic Constipation"
-    ],
-    "interventions": [],
-    "locations": [
-      "Usmima S.L., Esplugues de Llobregat, Barcelona, Spain"
-    ],
-    "start_date": "2024-12-18",
-    "completion_date": "2024-12-31",
-    "last_update": "2026-01-20",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06695754"
-  },
-  {
-    "nct_id": "NCT06539858",
-    "title": "Investigation of the Effect of Massage Application on Functional Status and Depression in Postpartum Mothers",
-    "status": "COMPLETED",
-    "study_type": "OBSERVATIONAL",
-    "phases": [],
-    "enrollment": 28,
-    "conditions": [
-      "Depression, Post-Partum",
-      "Massage",
-      "Functional Status"
+      "Patellar Tendon"
     ],
     "interventions": [
       {
-        "name": "massage",
+        "name": "Deep Friction Massage",
+        "type": "OTHER"
+      },
+      {
+        "name": "Thermal Agent Application",
+        "type": "OTHER"
+      },
+      {
+        "name": "Quadriceps Exercise",
         "type": "OTHER"
       }
     ],
     "locations": [
-      "University of Yalova, Yalova, Turkey (Türkiye)"
+      "Dokuz Eylül University, İzmir, Izmir, balçova, Turkey (Türkiye)"
     ],
-    "start_date": "2024-05-10",
-    "completion_date": "2025-03-30",
-    "last_update": "2025-12-12",
+    "start_date": "2025-04-25",
+    "completion_date": "2025-12-01",
+    "last_update": "2026-01-05",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06539858"
+    "url": "https://clinicaltrials.gov/study/NCT07315906"
+  },
+  {
+    "nct_id": "NCT06788041",
+    "title": "EFFECT OF HAMMAM EXPERIENCE ON GENERAL HEALTH AND PERCEIVED WELL-BEING",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 22,
+    "conditions": [
+      "Chronic Stress",
+      "Wellness",
+      "General Health"
+    ],
+    "interventions": [
+      {
+        "name": "Hamman experience",
+        "type": "OTHER"
+      },
+      {
+        "name": "Massage",
+        "type": "OTHER"
+      },
+      {
+        "name": "Placebo Comparator",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "University of Granada, Granada, Spain"
+    ],
+    "start_date": "2024-09-01",
+    "completion_date": "2025-11-15",
+    "last_update": "2025-11-15",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06788041"
   },
   {
     "nct_id": "NCT07207161",
@@ -3171,79 +3198,6 @@
     "url": "https://clinicaltrials.gov/study/NCT07207161"
   },
   {
-    "nct_id": "NCT07069764",
-    "title": "Efficacy of Photobiomodulation Therapy Using 980nm Versus 635nm Diode Lasers for Treatment of Myofascial Pain",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 30,
-    "conditions": [
-      "Myofascial Pain Syndrome"
-    ],
-    "interventions": [
-      {
-        "name": "Doctor smile 635nm For Arm 1",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Doctor smile 980 nm For Arm2",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "National Institute for Laser Enhanced Sciences, Cairo, Cairo Governorate, Egypt"
-    ],
-    "start_date": "2024-08-01",
-    "completion_date": "2025-04-29",
-    "last_update": "2025-09-25",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07069764"
-  },
-  {
-    "nct_id": "NCT07187232",
-    "title": "Effects of Acupressure on Physiological Indicators, Oxygen Demand and Length of Hospital Stay in Premature Infants With Pulmonary Infiltration",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 42,
-    "conditions": [
-      "PreTerm Neonate",
-      "Pulmonary Complications"
-    ],
-    "interventions": [
-      {
-        "name": "massage acupoints",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Routine care",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [
-      "Taiwan, Changhua, Taiwan"
-    ],
-    "start_date": "2023-07-02",
-    "completion_date": "2024-06-30",
-    "last_update": "2025-09-16",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07187232"
-  },
-  {
     "nct_id": "NCT04628910",
     "title": "Examining the Differential Effects of Traditional Float-REST and Dry Float on Subjective and Objective Health Outcomes",
     "status": "COMPLETED",
@@ -3280,38 +3234,6 @@
     "url": "https://clinicaltrials.gov/study/NCT04628910"
   },
   {
-    "nct_id": "NCT05408637",
-    "title": "Transcranial Photobiomodulation for Executive Function in Bipolar Disorder",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE2"
-    ],
-    "enrollment": 13,
-    "conditions": [
-      "Bipolar Disorder"
-    ],
-    "interventions": [
-      {
-        "name": "Transcranial Phoobiomodulation (tPBM)",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Mass General Hospital Navy Yard Building 149, Charlestown, Massachusetts, United States"
-    ],
-    "start_date": "2022-08-09",
-    "completion_date": "2024-05-14",
-    "last_update": "2025-08-09",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05408637"
-  },
-  {
     "nct_id": "NCT05622747",
     "title": "Acute Passive Heating in Healthy Older Adults",
     "status": "COMPLETED",
@@ -3342,6 +3264,38 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT05622747"
+  },
+  {
+    "nct_id": "NCT05618197",
+    "title": "Chronic Passive Heating in Healthy Older Adults",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 19,
+    "conditions": [
+      "Aging"
+    ],
+    "interventions": [
+      {
+        "name": "Passive heating",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "Spinnaker Building, Portsmouth, Hampshire, United Kingdom"
+    ],
+    "start_date": "2023-05-23",
+    "completion_date": "2025-06-06",
+    "last_update": "2025-08-01",
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05618197"
   },
   {
     "nct_id": "NCT05256966",
@@ -3376,117 +3330,44 @@
     "url": "https://clinicaltrials.gov/study/NCT05256966"
   },
   {
-    "nct_id": "NCT07062302",
-    "title": "Effectiveness of Low-Level Light Therapy for Vocal Fatigue",
+    "nct_id": "NCT05751785",
+    "title": "Shockwave, Photobiomodulation, and Physical Therapy for Achilles Tendinopathy",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 22,
+    "enrollment": 48,
     "conditions": [
-      "Vocal Fatigue"
+      "Achilles Tendinopathy"
     ],
     "interventions": [
       {
-        "name": "photobiomodulation",
+        "name": "Physical Therapy",
+        "type": "OTHER"
+      },
+      {
+        "name": "Shockwave Therapy",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Photobiomodulation Therapy",
         "type": "DEVICE"
       }
     ],
     "locations": [
-      "The Chinese University of Hong Kong, Shatin, N.T., Hong Kong"
+      "Madigan Army Medical Center, Tacoma, Washington, United States"
     ],
-    "start_date": "2024-03-09",
-    "completion_date": "2024-06-12",
-    "last_update": "2025-07-02",
+    "start_date": "2023-02-13",
+    "completion_date": "2024-11-14",
+    "last_update": "2025-07-01",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT07062302"
-  },
-  {
-    "nct_id": "NCT07061171",
-    "title": "CPAP and Physiotherapy for Heart Failure and Sleep Apnea in the Elderly",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 170,
-    "conditions": [
-      "Chronic Heart Failure",
-      "Obstructive Sleep Apnea"
-    ],
-    "interventions": [
-      {
-        "name": "Continuous Positive Airway Pressure",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Herbal Decoction",
-        "type": "DRUG"
-      },
-      {
-        "name": "Acupuncture",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "Tuina Massage",
-        "type": "PROCEDURE"
-      }
-    ],
-    "locations": [
-      "Fugou County Minzhong Hospital, Zhoukou, Henan, China"
-    ],
-    "start_date": "2024-01-01",
-    "completion_date": "2025-01-01",
-    "last_update": "2025-07-02",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT07061171"
-  },
-  {
-    "nct_id": "NCT03858179",
-    "title": "Effects of Photobiomodulation Therapy in Strength Training and Detraining in Humans",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 40,
-    "conditions": [
-      "Muscle Strength"
-    ],
-    "interventions": [
-      {
-        "name": "PBMT",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Placebo",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Laboratory of Phototherapy and Innovative Technologies in Health, São Paulo, São Paulo, Brazil"
-    ],
-    "start_date": "2019-03-25",
-    "completion_date": "2022-05-13",
-    "last_update": "2025-06-23",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT03858179"
+    "url": "https://clinicaltrials.gov/study/NCT05751785"
   },
   {
     "nct_id": "NCT06978868",
@@ -3519,6 +3400,48 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06978868"
+  },
+  {
+    "nct_id": "NCT06950541",
+    "title": "The Impact of Myofascial Therapy on Connective Tissue",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 295,
+    "conditions": [
+      "Painful",
+      "Fascial Manipulation",
+      "Fascia",
+      "Pain",
+      "Myofascial Pain",
+      "Myofascial",
+      "Myofascial Dysfunction"
+    ],
+    "interventions": [
+      {
+        "name": "Myofascial therapy",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Deep Tissue Massage",
+        "type": "PROCEDURE"
+      }
+    ],
+    "locations": [
+      "Józef Piłsudski University of Physical Education in Warsaw, Warsaw, Poland"
+    ],
+    "start_date": "2023-07-03",
+    "completion_date": "2024-07-31",
+    "last_update": "2025-04-25",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06950541"
   },
   {
     "nct_id": "NCT06874023",
@@ -3581,42 +3504,6 @@
     "url": "https://clinicaltrials.gov/study/NCT06874023"
   },
   {
-    "nct_id": "NCT06841120",
-    "title": "Reversal of Anaesthesia with Diode Laser",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 40,
-    "conditions": [
-      "Photobiomodulation Therapy"
-    ],
-    "interventions": [
-      {
-        "name": "Actual laser application",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Sham laser application",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Recep Tayyip Erdoğan University, Faculty of Dentistry, Rize, Rize Province, Turkey (Türkiye)"
-    ],
-    "start_date": "2023-01-18",
-    "completion_date": "2024-04-30",
-    "last_update": "2025-02-21",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06841120"
-  },
-  {
     "nct_id": "NCT01689935",
     "title": "Reduced Side-Effects of Photodynamic Therapy for the Treatment of Moderate to Severe Acne (i-PDT)",
     "status": "COMPLETED",
@@ -3655,160 +3542,84 @@
     "url": "https://clinicaltrials.gov/study/NCT01689935"
   },
   {
-    "nct_id": "NCT06808906",
-    "title": "The Effect of Hand Massage on Pain, Anxiety, and Comfort Levels of Intensive Care Patients",
+    "nct_id": "NCT05624060",
+    "title": "Perineal Massage and Pelvic Floor Exercise in the Antenatal Period",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 64,
+    "enrollment": 75,
     "conditions": [
-      "Stroke"
+      "Urinary Incontinence",
+      "Fecal Incontinence",
+      "Sexual Dysfunction",
+      "Sexuality"
     ],
     "interventions": [
       {
-        "name": "Hand Massage Application",
-        "type": "OTHER"
+        "name": "Pelvic Floor Dysfunction Prevention Training",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Pelvic Floor Dysfunction Prevention Training and Perineal Massage",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Pelvic Floor Dysfunction Prevention Training and Perineal Massage and Pelvic Floor Exercise",
+        "type": "BEHAVIORAL"
       }
     ],
     "locations": [
-      "Sakarya University, Sakarya, Serdivan, Turkey (Türkiye)"
+      "Karabük Health and Training Hospital, Karabük, Turkey (Türkiye)"
     ],
-    "start_date": "2023-05-20",
-    "completion_date": "2023-10-30",
-    "last_update": "2025-01-30",
+    "start_date": "2023-02-01",
+    "completion_date": "2023-11-20",
+    "last_update": "2025-01-16",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06808906"
+    "url": "https://clinicaltrials.gov/study/NCT05624060"
   },
   {
-    "nct_id": "NCT05754437",
-    "title": "Efficacy of Low-Level Light Therapy in Reducing Dry Eye in Patients Undergoing Cataract Surgery",
+    "nct_id": "NCT04006717",
+    "title": "Comparison Between Low-level Laser Therapy, Intracanal Cryotherapy and Their Combination, on Post-endodontic Pain Level",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 130,
+    "enrollment": 95,
     "conditions": [
-      "Dry Eye"
+      "Low-level Light Therapy",
+      "Cryotherapy"
     ],
     "interventions": [
       {
-        "name": "Low Level Light Therapy",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Department of Ophthalmology, University Magna Graecia of Catanzaro, Catanzaro, Italy"
-    ],
-    "start_date": "2022-03-30",
-    "completion_date": "2023-04-30",
-    "last_update": "2025-01-27",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05754437"
-  },
-  {
-    "nct_id": "NCT05130814",
-    "title": "EmoLED Medical Device Treatment of Second and Third Stage Pressure Ulcers",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 48,
-    "conditions": [
-      "Pressure Sore",
-      "Pressure Ulcer",
-      "Pressure Ulcers Stage III",
-      "Pressure Ulcers Stage II"
-    ],
-    "interventions": [
-      {
-        "name": "blue light photobiomodulation",
+        "name": "Low Level Laser therapy",
         "type": "DEVICE"
       },
       {
-        "name": "cleansing",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "hyaluronic acid gauze plus polyurethane foam",
-        "type": "COMBINATION_PRODUCT"
-      },
-      {
-        "name": "zinc cream or hyaluronic acid sodium salt + metallic silver",
-        "type": "DRUG"
-      },
-      {
-        "name": "topical treatment",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "bandage",
+        "name": "Intra canal Cryotherapy",
         "type": "PROCEDURE"
       }
     ],
     "locations": [
-      "IRCCS Don Carlo Gnocchi, Florence, Italy"
+      "Misr International University, Cairo, Egypt"
     ],
-    "start_date": "2021-12-01",
-    "completion_date": "2024-03-07",
-    "last_update": "2024-12-11",
+    "start_date": "2019-06-24",
+    "completion_date": "2024-11-01",
+    "last_update": "2024-12-14",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05130814"
-  },
-  {
-    "nct_id": "NCT06703372",
-    "title": "Photobiomodulation In Treatment Of Xerostomia In Type Ii Diabetic Patients",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 60,
-    "conditions": [
-      "Xerostomia",
-      "Diabetes Mellitus"
-    ],
-    "interventions": [
-      {
-        "name": "Diode Laser 980 nm, 0.2W",
-        "type": "OTHER"
-      },
-      {
-        "name": "Placebo Diode laser",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Outpatient Clinic of Oral medicine Department, Faculty of Dentistry, Alexandria University, Egypt, Alexandria, Egypt"
-    ],
-    "start_date": "2022-10-20",
-    "completion_date": "2024-08-01",
-    "last_update": "2024-11-21",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06703372"
+    "url": "https://clinicaltrials.gov/study/NCT04006717"
   },
   {
     "nct_id": "NCT06113614",
@@ -3963,150 +3774,6 @@
     "url": "https://clinicaltrials.gov/study/NCT05891353"
   },
   {
-    "nct_id": "NCT06641739",
-    "title": "Photobiomodulation and Platelets Rich in Growth Factors (PRGFs)-Assisted Flap Surgery in Treating Stage III Periodontal Defects",
-    "status": "UNKNOWN",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 20,
-    "conditions": [
-      "Periodontal Diseases"
-    ],
-    "interventions": [
-      {
-        "name": "laser assisted SPPF",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Platelet Rich Plasma",
-        "type": "PROCEDURE"
-      }
-    ],
-    "locations": [],
-    "start_date": "2024-10-15",
-    "completion_date": "2025-02-05",
-    "last_update": "2024-10-11",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06641739"
-  },
-  {
-    "nct_id": "NCT06253767",
-    "title": "Post-Endodontic Instrumentation Pain After in a Single Session Associated With Photobiomodulation",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 58,
-    "conditions": [
-      "Pain, Postoperative",
-      "Endodontically Treated Teeth"
-    ],
-    "interventions": [
-      {
-        "name": "Endodontic Treatment",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "Low Level Laser Therapy",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Simulation Low Level Laser therapy",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Universidade Nove de Julho, São Paulo, São Paulo, Brazil"
-    ],
-    "start_date": "2022-10-20",
-    "completion_date": "2024-06-13",
-    "last_update": "2024-10-08",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06253767"
-  },
-  {
-    "nct_id": "NCT06578936",
-    "title": "The Effect of Abdominal Massage and Warm Application on Excretory Activity in Patients Undergoing Total Knee Replacement With Spinal Anesthesia",
-    "status": "UNKNOWN",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 84,
-    "conditions": [
-      "Total Knee Replacement"
-    ],
-    "interventions": [
-      {
-        "name": "abdominal massage andwarm application",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Adana city hospital, Adana, Turkey (Türkiye)",
-      "Mersin Univercity, Mersin, Turkey (Türkiye)"
-    ],
-    "start_date": "2024-08-05",
-    "completion_date": "2025-06-30",
-    "last_update": "2024-08-28",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06578936"
-  },
-  {
-    "nct_id": "NCT06535035",
-    "title": "Evaluation of the Analgesic and Anti-Inflammatory Impact of Photobiomodulation in Patients With Dental Implants",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 60,
-    "conditions": [
-      "Dental Pain and Sensation Disorder"
-    ],
-    "interventions": [
-      {
-        "name": "laser therapy After implant surgery, laser therapy (LLLT) was applied",
-        "type": "DEVICE"
-      },
-      {
-        "name": "SHAM",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Pia Lopez Jornet, Murcia, Spain"
-    ],
-    "start_date": "2022-01-10",
-    "completion_date": "2024-06-10",
-    "last_update": "2024-08-01",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06535035"
-  },
-  {
     "nct_id": "NCT05545943",
     "title": "Effects of Calorie Restriction and Cold Stimuli on Health-related Indicators, Cognitive and Motor Functions",
     "status": "COMPLETED",
@@ -4189,41 +3856,35 @@
     "url": "https://clinicaltrials.gov/study/NCT05838612"
   },
   {
-    "nct_id": "NCT03724552",
-    "title": "Photobiomodulation in Autism Spectrum Disorder (ASD)",
-    "status": "COMPLETED",
+    "nct_id": "NCT06501313",
+    "title": "PhotobiomoduLation for pAtientS With Advanced hEart failuRe",
+    "status": "UNKNOWN",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 12,
+    "enrollment": 70,
     "conditions": [
-      "Autism",
-      "Autism Spectrum Disorder"
+      "Heart Failure With Reduced Ejection Fraction",
+      "Heart Failure, Systolic"
     ],
     "interventions": [
       {
-        "name": "Transcranial LED Therapy (Participants ages 9-17)",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Transcranial LED Therapy (Participants ages 18-59)",
+        "name": "Photobiomodulation",
         "type": "DEVICE"
       }
     ],
-    "locations": [
-      "Massachusetts General Hospital, Boston, Massachusetts, United States"
-    ],
-    "start_date": "2017-04-13",
-    "completion_date": "2019-11-25",
-    "last_update": "2024-07-09",
+    "locations": [],
+    "start_date": "2024-08-01",
+    "completion_date": "2026-05-01",
+    "last_update": "2024-07-08",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT03724552"
+    "url": "https://clinicaltrials.gov/study/NCT06501313"
   },
   {
     "nct_id": "NCT06433856",
@@ -4255,45 +3916,145 @@
     "last_update": "2024-06-16",
     "topics": [
       "cold-water-immersion",
-      "exercise-recovery"
+      "exercise-recovery",
+      "massage-therapy"
     ],
     "topic_names": [
       "Cold-Water Immersion",
-      "Exercise Recovery"
+      "Exercise Recovery",
+      "Massage Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06433856"
   },
   {
-    "nct_id": "NCT06440356",
-    "title": "Effect of Non-invasive Photobiomodulation Therapies in Patients With Trigeminal Neuralgia",
+    "nct_id": "NCT06360159",
+    "title": "Massage for Newborns Receiving Nasal CPAP",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 36,
+    "conditions": [
+      "Massage",
+      "Stress",
+      "Newborn",
+      "Comfort"
+    ],
+    "interventions": [
+      {
+        "name": "Intervention",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [],
+    "start_date": "2024-08-15",
+    "completion_date": "2026-05-15",
+    "last_update": "2024-06-05",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06360159"
+  },
+  {
+    "nct_id": "NCT06351202",
+    "title": "Impact Assessment of Abdominal Massage on Feeding Tolerance of Preterms",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 120,
+    "conditions": [
+      "Preterm Birth Complication",
+      "Digestive System Disease"
+    ],
+    "interventions": [
+      {
+        "name": "Abdominal massage",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "CHU clermont-ferrand, Clermont-Ferrand, France"
+    ],
+    "start_date": "2024-05-16",
+    "completion_date": "2026-06",
+    "last_update": "2024-05-21",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06351202"
+  },
+  {
+    "nct_id": "NCT06062381",
+    "title": "the Effect of Abdominal Massage on the Gastric Residual Volume.",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 45,
+    "enrollment": 34,
     "conditions": [
-      "Trigeminal Neuralgia"
+      "Gastric Retention"
     ],
     "interventions": [
       {
-        "name": "laser therapy",
+        "name": "Abdominal Massage",
+        "type": "PROCEDURE"
+      }
+    ],
+    "locations": [
+      "Jinnah hospital Lahore, Lahore, Punjab Province, Pakistan"
+    ],
+    "start_date": "2023-11-01",
+    "completion_date": "2024-04-10",
+    "last_update": "2024-05-16",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06062381"
+  },
+  {
+    "nct_id": "NCT04131712",
+    "title": "Mechanisms Underlying Local and Systemic Effects of Massage",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 44,
+    "conditions": [
+      "Muscle Atrophy"
+    ],
+    "interventions": [
+      {
+        "name": "Massage",
         "type": "OTHER"
       }
     ],
     "locations": [
-      "İrem Karagözoğlu, Şehitkamil, Gazi̇antep, Turkey (Türkiye)"
+      "University of Kentucky, Lexington, Kentucky, United States"
     ],
-    "start_date": "2024-01-23",
-    "completion_date": "2024-03-30",
-    "last_update": "2024-05-27",
+    "start_date": "2020-08-01",
+    "completion_date": "2023-06-01",
+    "last_update": "2024-05-15",
     "topics": [
-      "photobiomodulation"
+      "massage-therapy"
     ],
     "topic_names": [
-      "Photobiomodulation / Red Light"
+      "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06440356"
+    "url": "https://clinicaltrials.gov/study/NCT04131712"
   },
   {
     "nct_id": "NCT03593733",
@@ -4337,75 +4098,110 @@
     "url": "https://clinicaltrials.gov/study/NCT03593733"
   },
   {
-    "nct_id": "NCT06328413",
-    "title": "L-PRF vs PBM on Extraction Socket Healing",
-    "status": "COMPLETED",
+    "nct_id": "NCT04579185",
+    "title": "Transcranial Photobiomodulation for the Treatment of Pediatric Depression",
+    "status": "WITHDRAWN",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 34,
+    "enrollment": 0,
     "conditions": [
-      "Healing Surgical Wounds",
-      "Pain"
+      "Depression"
     ],
     "interventions": [
       {
-        "name": "photobiomodulation",
+        "name": "Transcranial Photobiomodulation",
         "type": "DEVICE"
-      },
-      {
-        "name": "Leukocyte and Platelet Rich Fibrin",
-        "type": "OTHER"
       }
     ],
-    "locations": [
-      "Akdeniz University, Antalya, Merkez, Turkey (Türkiye)"
-    ],
-    "start_date": "2020-04-20",
-    "completion_date": "2021-09-21",
-    "last_update": "2024-03-21",
+    "locations": [],
+    "start_date": "2020-11",
+    "completion_date": "2023-11",
+    "last_update": "2024-03-12",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06328413"
+    "url": "https://clinicaltrials.gov/study/NCT04579185"
   },
   {
-    "nct_id": "NCT06320483",
-    "title": "Evaluation of the Effectiveness and Safety of Vibro-acoustic Pulmonary Therapy (VAPT) in Complex Therapy for Acute Respiratory Failure of Mixed Type I-II Stages in Comparison With Percussion Massage in Cardiac Surgical Patients in the Early Postoperative Period",
-    "status": "UNKNOWN",
-    "study_type": "OBSERVATIONAL",
-    "phases": [],
-    "enrollment": 310,
+    "nct_id": "NCT05760092",
+    "title": "The Use of Photobiomodulation in the Treatment of Oral Complaints of Long COVID-19.A Randomized Controlled Trial.",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "PHASE2"
+    ],
+    "enrollment": 10,
     "conditions": [
-      "Cardiac Surgical Patients (CABG,Mammary Coronary Bypass Surgery,Plastic and Replacement of Valves, Atrial Septal Defect,Ventricular Septal Defect)"
+      "Xerostomia",
+      "COVID-19",
+      "Long COVID",
+      "Persistent COVID-19"
     ],
     "interventions": [
       {
-        "name": "Vibroacoustic device BARK VibroLUNG",
-        "type": "DEVICE"
+        "name": "Institutional standard treatment for xerostomia and Long Covid",
+        "type": "COMBINATION_PRODUCT"
+      },
+      {
+        "name": "Photobiomodulation Therapy",
+        "type": "RADIATION"
+      },
+      {
+        "name": "Placebo Photobiomodulation Therapy",
+        "type": "RADIATION"
       }
     ],
     "locations": [
-      "JSC \"National Research Cardiac Surgery Center\", Astana, Kazakhstan",
-      "State-owned public enterprise with the right of economic management \"Atyrau Regional Cardiology Center\", Atyrau, Kazakhstan",
-      "State-owned public enterprise with the right of economic management \"Regional Cardiology Center\", Oral, Kazakhstan",
-      "State-owned public enterprise with the right of economic management \"Pavlodar Regional Cardiology Center\", Pavlodar, Kazakhstan",
-      "State-owned public enterprise with the right of economic management \"East Kazakhstan Regional Hospital\", Ust-Kamenogorsk, Kazakhstan"
+      "Universidade Nove de Julho / Post-Graduate program Biophotonics Applied to Health Sciences, São Paulo, Brazil"
     ],
-    "start_date": "2023-09-20",
-    "completion_date": "2024-09",
-    "last_update": "2024-03-18",
+    "start_date": "2023-03-01",
+    "completion_date": "2024-03-08",
+    "last_update": "2024-03-09",
     "topics": [
-      "massage-therapy"
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Massage Therapy"
+      "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06320483"
+    "url": "https://clinicaltrials.gov/study/NCT05760092"
+  },
+  {
+    "nct_id": "NCT05561803",
+    "title": "The Use of Photobiomodulation in the Management of Radiodermatitis in Patients in Palliative Care. A Prospective Study.",
+    "status": "WITHDRAWN",
+    "study_type": "OBSERVATIONAL",
+    "phases": [],
+    "enrollment": 0,
+    "conditions": [
+      "Radiodermatitis; Acute",
+      "Radiotherapy Side Effect",
+      "Cancer Patients",
+      "Palliative Care"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation Therapy",
+        "type": "RADIATION"
+      }
+    ],
+    "locations": [
+      "Universidade Nove de Julho / Post-Graduate program Biophotonics Applied to Health Sciences, São Paulo, São Paulo, Brazil"
+    ],
+    "start_date": "2024-04-08",
+    "completion_date": "2024-12-31",
+    "last_update": "2024-03-09",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05561803"
   },
   {
     "nct_id": "NCT04415970",
@@ -4444,36 +4240,72 @@
     "url": "https://clinicaltrials.gov/study/NCT04415970"
   },
   {
-    "nct_id": "NCT06112899",
-    "title": "The Effects of Swedish Massage and Manual Lymph Drainage on Muscle Fatigue",
-    "status": "COMPLETED",
+    "nct_id": "NCT06263127",
+    "title": "Sensory Motor Interventions on Preterm Infants",
+    "status": "UNKNOWN",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 16,
+    "enrollment": 80,
     "conditions": [
-      "Muscle Soreness"
+      "Preterm Infants"
     ],
     "interventions": [
       {
-        "name": "Nordic Hamstring Exercise",
+        "name": "oral stimulation",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "infants massage",
         "type": "BEHAVIORAL"
       }
     ],
     "locations": [
-      "Kutahya Health Sciences University, Kütahya, Kütahya, Turkey (Türkiye)"
+      "China Medical University Hospital, Taichung, Taiwan"
     ],
-    "start_date": "2023-10-26",
-    "completion_date": "2024-02-10",
-    "last_update": "2024-02-12",
+    "start_date": "2024-02-20",
+    "completion_date": "2026-01-10",
+    "last_update": "2024-02-14",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT06112899"
+    "url": "https://clinicaltrials.gov/study/NCT06263127"
+  },
+  {
+    "nct_id": "NCT06217224",
+    "title": "Evaluation of Prophylactic Photobiomodulation Therapy in Patients With Osteosarcoma",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 53,
+    "conditions": [
+      "Mucositis Oral"
+    ],
+    "interventions": [
+      {
+        "name": "Preventive photobiomodulation Therapy (PBMT)",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "National Cancer Institute, Rio de Janeiro, Brazil"
+    ],
+    "start_date": "2022-10-17",
+    "completion_date": "2025-07-30",
+    "last_update": "2024-01-11",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06217224"
   },
   {
     "nct_id": "NCT06193291",
@@ -4511,48 +4343,6 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT06193291"
-  },
-  {
-    "nct_id": "NCT06010394",
-    "title": "Control of Edema in the Knee in Patients With Knee Osteoarthritis",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 75,
-    "conditions": [
-      "Knee Osteoarthritis",
-      "Edema",
-      "Edema Leg"
-    ],
-    "interventions": [
-      {
-        "name": "conventional physiotherapy",
-        "type": "OTHER"
-      },
-      {
-        "name": "exercises for the knee area",
-        "type": "OTHER"
-      },
-      {
-        "name": "payment oriented massage",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Uskudar university, Istanbul, Turkey (Türkiye)"
-    ],
-    "start_date": "2023-09-01",
-    "completion_date": "2023-12-06",
-    "last_update": "2023-12-06",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06010394"
   },
   {
     "nct_id": "NCT05297838",
@@ -4595,56 +4385,6 @@
     "url": "https://clinicaltrials.gov/study/NCT05297838"
   },
   {
-    "nct_id": "NCT04717765",
-    "title": "Photobiomodulation in Oral Lesions Resulting From Anti-neoplastic Prevention",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 60,
-    "conditions": [
-      "Oral Mucositis",
-      "Osteoradionecrosis",
-      "Osteonecroses, Bisphosphonate",
-      "Osteonecrosis Due to Drugs, Jaw",
-      "Hyposalivation",
-      "Head and Neck Cancer",
-      "Oral Cancer"
-    ],
-    "interventions": [
-      {
-        "name": "Preventive, LLL Phototherapy and topical Vit E",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Curative, LLL Phototherapy and topical Vit E",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Preventive, LLL Phototherapy and LPRF",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Curative, LLL Phototherapy and LPRF",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Hospital Clinico Universitário, Santiago de Compostela, LA Coruña, Spain"
-    ],
-    "start_date": "2021-02-10",
-    "completion_date": "2023-08-31",
-    "last_update": "2023-11-27",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04717765"
-  },
-  {
     "nct_id": "NCT04642066",
     "title": "Cold Water Immersion and Atherosclerosis, Inflammation, Fat Accumulation and Lipid Profile Parameters",
     "status": "SUSPENDED",
@@ -4682,39 +4422,6 @@
       "Cold-Water Immersion"
     ],
     "url": "https://clinicaltrials.gov/study/NCT04642066"
-  },
-  {
-    "nct_id": "NCT05354830",
-    "title": "The Effect of Foot Massage on Pain, Sleep Quality and Early Discharge in Patients Undergoing Spinal Surgery",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 70,
-    "conditions": [
-      "Spinal Fusion",
-      "Pain, Postoperative"
-    ],
-    "interventions": [
-      {
-        "name": "Foot Massage",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Sultan 2. Abdülhamid Han Training and Research Hospital, Istanbul, Üsküdar, Turkey (Türkiye)"
-    ],
-    "start_date": "2022-05-01",
-    "completion_date": "2023-10-01",
-    "last_update": "2023-11-09",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05354830"
   },
   {
     "nct_id": "NCT06125639",
@@ -4784,6 +4491,38 @@
     "url": "https://clinicaltrials.gov/study/NCT03620539"
   },
   {
+    "nct_id": "NCT06103110",
+    "title": "Effect of Order and Conjugation of Different Photobiomodulation Therapies and Anterior Repositioning Appliance in Management of TMD Cases",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 40,
+    "conditions": [
+      "TMJ Disorder"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Mansoura University, Faculty of dentistry, Al Mansurah, Egypt"
+    ],
+    "start_date": "2022-10-20",
+    "completion_date": "2023-08-03",
+    "last_update": "2023-10-22",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT06103110"
+  },
+  {
     "nct_id": "NCT05409404",
     "title": "The Effects of 8 Weeks Post Exercise Hot Water Immersion on Vascular and Cardiometabolic Health in Physically Inactive Middle-aged Adults",
     "status": "COMPLETED",
@@ -4819,42 +4558,6 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT05409404"
-  },
-  {
-    "nct_id": "NCT06095726",
-    "title": "Peppermint Inhalation Versus Swedish Massage on Chemotherapy Induced-Nausea and Vomiting in Children With Leukemia",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 75,
-    "conditions": [
-      "Leukemia"
-    ],
-    "interventions": [
-      {
-        "name": "Peppermint Inhalation",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Swedish Massage",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [
-      "Eman Arafa Badr, Alexandria, Egypt"
-    ],
-    "start_date": "2022-01-01",
-    "completion_date": "2022-12-31",
-    "last_update": "2023-10-17",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT06095726"
   },
   {
     "nct_id": "NCT05799209",
@@ -5002,37 +4705,40 @@
     "url": "https://clinicaltrials.gov/study/NCT05930587"
   },
   {
-    "nct_id": "NCT05742672",
-    "title": "Investigation of the Effect of Abdominal Massage Applied to Palliative Care Patients on Constipation and Quality of Life",
-    "status": "COMPLETED",
+    "nct_id": "NCT05546528",
+    "title": "Photobiomodulation on Major Salivary Glands in Children With Caries Activity",
+    "status": "UNKNOWN",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 52,
+    "enrollment": 50,
     "conditions": [
-      "MASSAGE"
+      "Caries,Dental"
     ],
     "interventions": [
       {
-        "name": "ABDOMINAL MASSAGE APPLICATION",
-        "type": "OTHER"
+        "name": "Photobiomodulation",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Photobiomodulation- Sham",
+        "type": "DEVICE"
       }
     ],
     "locations": [
-      "Sevil PAMUK CEBECİ, Eskişehir, Eskişehir, Turkey (Türkiye)",
-      "Eskişehir Şehir Hastanesi, Eskişehir, Turkey (Türkiye)"
+      "Magdalena San-Martín, Montevideo, Uruguay"
     ],
-    "start_date": "2022-12-01",
-    "completion_date": "2023-06-30",
-    "last_update": "2023-09-11",
+    "start_date": "2023-01-20",
+    "completion_date": "2023-11-20",
+    "last_update": "2023-09-18",
     "topics": [
-      "massage-therapy"
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Massage Therapy"
+      "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05742672"
+    "url": "https://clinicaltrials.gov/study/NCT05546528"
   },
   {
     "nct_id": "NCT06027502",
@@ -5103,39 +4809,156 @@
     "url": "https://clinicaltrials.gov/study/NCT05344300"
   },
   {
-    "nct_id": "NCT05957458",
-    "title": "Myopia Control With Three Lever Irradiance of PBM Therapy in Children and Adults",
+    "nct_id": "NCT05305196",
+    "title": "The Effects of Eccentric-focused Exercise on Posterior Shoulder Tightness in Symptomatic Overhead Athletes",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 40,
+    "conditions": [
+      "Posterior Shoulder Tightness"
+    ],
+    "interventions": [
+      {
+        "name": "Eccentric-focused exercises",
+        "type": "OTHER"
+      },
+      {
+        "name": "Stretching exercises",
+        "type": "OTHER"
+      },
+      {
+        "name": "Hot pack",
+        "type": "OTHER"
+      },
+      {
+        "name": "Massage",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "National Yang Ming Chiao Tung University, Taipei, Beitou, Taiwan"
+    ],
+    "start_date": "2022-11-09",
+    "completion_date": "2023-08-31",
+    "last_update": "2023-08-22",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05305196"
+  },
+  {
+    "nct_id": "NCT04705207",
+    "title": "Foot Reflexology on Chronic Pain in Parkinsonian Patients",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 300,
+    "enrollment": 30,
     "conditions": [
-      "Myopia",
-      "Amblyopia",
-      "Refractive Error - Myopia Axial",
-      "Ametropia"
+      "Parkinson Disease"
     ],
     "interventions": [
       {
-        "name": "Airdoc device of red light for Myopia",
-        "type": "DEVICE"
+        "name": "reflexology massage",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "sham massage",
+        "type": "PROCEDURE"
       }
     ],
     "locations": [
-      "Qiu Jenny, Beijing, Haidian District, China"
+      "University Hospital of Toulouse, Toulouse, France"
     ],
-    "start_date": "2021-01-01",
-    "completion_date": "2023-05-31",
-    "last_update": "2023-07-20",
+    "start_date": "2021-04-14",
+    "completion_date": "2023-05-25",
+    "last_update": "2023-08-22",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04705207"
+  },
+  {
+    "nct_id": "NCT05937607",
+    "title": "The Effect of the Hand Massage A Women Undergoing Brachytherapy",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 36,
+    "conditions": [
+      "Hand Massage"
+    ],
+    "interventions": [
+      {
+        "name": "Hand massage",
+        "type": "BEHAVIORAL"
+      }
+    ],
+    "locations": [
+      "Dilek Efe Arslan, Kayseri, Talas, Turkey (Türkiye)"
+    ],
+    "start_date": "2023-06-14",
+    "completion_date": "2023-08-15",
+    "last_update": "2023-07-06",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05937607"
+  },
+  {
+    "nct_id": "NCT05926752",
+    "title": "Photobiomodulation for Myofascial Pelvic Pain",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 28,
+    "conditions": [
+      "Pelvic Pain",
+      "Levator Ani Syndrome",
+      "Spastic Pelvic Floor Syndrome",
+      "Chronic Pelvic Pain Syndrome",
+      "Myalgia of Pelvic Floor"
+    ],
+    "interventions": [
+      {
+        "name": "SoLá therapy",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Pelvic floor physical therapy",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "Orlando VA Medical Center, Orlando, Florida, United States"
+    ],
+    "start_date": "2021-10-27",
+    "completion_date": "2024-08-01",
+    "last_update": "2023-06-21",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05957458"
+    "url": "https://clinicaltrials.gov/study/NCT05926752"
   },
   {
     "nct_id": "NCT05451888",
@@ -5208,68 +5031,41 @@
     "url": "https://clinicaltrials.gov/study/NCT05610046"
   },
   {
-    "nct_id": "NCT05016375",
-    "title": "Perceptions of Passive Heating in Individuals With T2DM",
-    "status": "COMPLETED",
-    "study_type": "OBSERVATIONAL",
-    "phases": [],
-    "enrollment": 11,
+    "nct_id": "NCT05237219",
+    "title": "Heat Therapy in Patients With Type 2 Diabetes Mellitus",
+    "status": "WITHDRAWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 0,
     "conditions": [
-      "Type 2 Diabetes"
+      "Diabetes Mellitus, Type 2",
+      "Insulin Resistance"
     ],
     "interventions": [
       {
-        "name": "Interview",
-        "type": "OTHER"
+        "name": "Passive heating",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Thermoneutral",
+        "type": "PROCEDURE"
       }
     ],
     "locations": [
-      "Department of Sport and Exercise Science, Portsmouth, Hampshire, United Kingdom"
+      "Institute for Translational Medicine, University of Pécs, Pécs, Hungary"
     ],
-    "start_date": "2022-06-28",
-    "completion_date": "2023-03-21",
-    "last_update": "2023-04-20",
+    "start_date": "2022-05-01",
+    "completion_date": "2024-06-01",
+    "last_update": "2023-04-18",
     "topics": [
       "sauna-heat-therapy"
     ],
     "topic_names": [
       "Sauna & Heat Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05016375"
-  },
-  {
-    "nct_id": "NCT05813782",
-    "title": "The Effect of Baby Massage on Postpartum Depression and Maternal Attachment",
-    "status": "UNKNOWN",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 90,
-    "conditions": [
-      "Depression, Postpartum",
-      "Maternal Behavior",
-      "Attachment"
-    ],
-    "interventions": [
-      {
-        "name": "Baby Massage",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [
-      "Tokat Gaziosmanpaşa University, Tokat Province, Turkey (Türkiye)"
-    ],
-    "start_date": "2022-09-03",
-    "completion_date": "2023-08-15",
-    "last_update": "2023-04-12",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05813782"
+    "url": "https://clinicaltrials.gov/study/NCT05237219"
   },
   {
     "nct_id": "NCT05805540",
@@ -5321,6 +5117,40 @@
     "url": "https://clinicaltrials.gov/study/NCT05805540"
   },
   {
+    "nct_id": "NCT05242991",
+    "title": "Effectiveness of Photobiomodulation Protocols in Radiation-induced Oral Side Effects in H&N Cancer Patients",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 132,
+    "conditions": [
+      "Mucositis",
+      "Xerostomia",
+      "Hyposalivation"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation therapy",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil"
+    ],
+    "start_date": "2021-03-01",
+    "completion_date": "2024-10-01",
+    "last_update": "2023-03-07",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT05242991"
+  },
+  {
     "nct_id": "NCT05757518",
     "title": "Post-exercise Recovery of DOMS in Recreational Athletes",
     "status": "COMPLETED",
@@ -5355,46 +5185,36 @@
     "url": "https://clinicaltrials.gov/study/NCT05757518"
   },
   {
-    "nct_id": "NCT05592587",
-    "title": "Pain and Anxiety Reduction Using a Vibrating Eye Massage Device With Relaxing Nature Sounds",
+    "nct_id": "NCT04249700",
+    "title": "Investigating the Effect of Single-session Sauna Use on Body Temperature",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 105,
+    "enrollment": 25,
     "conditions": [
-      "Behavior, Child",
-      "Dental Anxiety",
-      "Anesthesia, Local"
+      "Core Body Temperature 101.3 F"
     ],
     "interventions": [
       {
-        "name": "Evaluation of the effectiveness of eye massage device producing both vibrations and nature sounds distraction in the management of anxious pediatric patients during inferior alveolar nerve.",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Evaluation of the effectiveness of eye massage device producing vibratory stimulations distraction in the management of anxious pediatric patients during inferior alveolar nerve.",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Evaluation of the effectiveness of basic behavior guidance techniques without using any type of distraction aids in the management of anxious pediatric patients during inferior alveolar nerve.",
-        "type": "BEHAVIORAL"
+        "name": "Curve Sauna Dome",
+        "type": "DEVICE"
       }
     ],
     "locations": [
-      "Damascus University, Damascus, Syria"
+      "University of California San Francisco, San Francisco, California, United States"
     ],
-    "start_date": "2022-06-15",
-    "completion_date": "2023-01-25",
-    "last_update": "2023-02-07",
+    "start_date": "2019-09-13",
+    "completion_date": "2020-04-01",
+    "last_update": "2023-01-31",
     "topics": [
-      "massage-therapy"
+      "sauna-heat-therapy"
     ],
     "topic_names": [
-      "Massage Therapy"
+      "Sauna & Heat Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT05592587"
+    "url": "https://clinicaltrials.gov/study/NCT04249700"
   },
   {
     "nct_id": "NCT05590754",
@@ -5466,40 +5286,6 @@
     "url": "https://clinicaltrials.gov/study/NCT05617937"
   },
   {
-    "nct_id": "NCT04699487",
-    "title": "Efficacy and Safety of CareMin650 for Prevention of Oral Mucositis in HNC Patients Starting Radiotherapy",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 15,
-    "conditions": [
-      "Head and Neck Cancer",
-      "Oral Mucositis (Ulcerative) Due to Radiation",
-      "Radiation Therapy Complication"
-    ],
-    "interventions": [
-      {
-        "name": "Photobiomodulation",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "UNIKLINIK RWTH AACHEN - Klinik für Radioonkologie und Strahlentherapie, Aachen, Germany"
-    ],
-    "start_date": "2021-05-10",
-    "completion_date": "2022-06-30",
-    "last_update": "2022-10-06",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04699487"
-  },
-  {
     "nct_id": "NCT02598258",
     "title": "Hemodynamic Effects of Dry Sauna Followed by Cold Water Immersion in Healthy Subjects",
     "status": "COMPLETED",
@@ -5525,12 +5311,10 @@
     "completion_date": "2021-12-30",
     "last_update": "2022-08-22",
     "topics": [
-      "cold-water-immersion",
-      "sauna-heat-therapy"
+      "cold-water-immersion"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
-      "Sauna & Heat Therapy"
+      "Cold-Water Immersion"
     ],
     "url": "https://clinicaltrials.gov/study/NCT02598258"
   },
@@ -5569,177 +5353,6 @@
       "Cold-Water Immersion"
     ],
     "url": "https://clinicaltrials.gov/study/NCT04613843"
-  },
-  {
-    "nct_id": "NCT03768947",
-    "title": "Heat Therapy for Fibromyalgia",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 8,
-    "conditions": [
-      "Fibromyalgia"
-    ],
-    "interventions": [
-      {
-        "name": "Heat therapy via hot water immersion",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "University of Kansas Medical Center, Kansas City, Kansas, United States"
-    ],
-    "start_date": "2019-07-19",
-    "completion_date": "2020-03-10",
-    "last_update": "2022-06-14",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT03768947"
-  },
-  {
-    "nct_id": "NCT05357703",
-    "title": "Efficacy of a Home-Use Photobiomodulation Device for the Treatment of Patients With Knee Osteoarthritis",
-    "status": "UNKNOWN",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 30,
-    "conditions": [
-      "Knee Osteoarthritis"
-    ],
-    "interventions": [
-      {
-        "name": "Standard treatment + Active B-Cure laser",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Holy Family Hospital, Nazareth, Israel"
-    ],
-    "start_date": "2022-05-26",
-    "completion_date": "2023-08-15",
-    "last_update": "2022-05-26",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05357703"
-  },
-  {
-    "nct_id": "NCT05000424",
-    "title": "Clary Sage Essential Oil & Pregnancy",
-    "status": "UNKNOWN",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 50,
-    "conditions": [
-      "Quality of Life",
-      "Pregnancy Related"
-    ],
-    "interventions": [
-      {
-        "name": "Clary Sage Massage Oil",
-        "type": "OTHER"
-      },
-      {
-        "name": "Inert Massage Oil",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Franklin Health Research Center, Franklin, Tennessee, United States"
-    ],
-    "start_date": "2021-11-01",
-    "completion_date": "2023-02-28",
-    "last_update": "2022-04-29",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05000424"
-  },
-  {
-    "nct_id": "NCT04593342",
-    "title": "Photobiomodulation Laser Therapy Following Arthroscopic Rotator Cuff Repair",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 53,
-    "conditions": [
-      "Rotator Cuff Tears"
-    ],
-    "interventions": [
-      {
-        "name": "B-Cure Pro",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Sham",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Holy Family Hospital, Nazareth, Israel"
-    ],
-    "start_date": "2020-11-26",
-    "completion_date": "2022-04-11",
-    "last_update": "2022-04-27",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04593342"
-  },
-  {
-    "nct_id": "NCT05336981",
-    "title": "Effect of Photobiomodulation for Patients With Xerostomia",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 60,
-    "conditions": [
-      "Photobiomodulation",
-      "Low-Level Light Therapy"
-    ],
-    "interventions": [
-      {
-        "name": "Low-Level Light Therapy",
-        "type": "RADIATION"
-      }
-    ],
-    "locations": [
-      "Lopez-Jornet Pia, Murcia, N/A = Not Applicable, Spain",
-      "Pia Lopez Jornet, Murcia, Spain"
-    ],
-    "start_date": "2020-01-01",
-    "completion_date": "2022-01-26",
-    "last_update": "2022-04-13",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05336981"
   },
   {
     "nct_id": "NCT05296200",
@@ -5849,6 +5462,40 @@
     "url": "https://clinicaltrials.gov/study/NCT05277597"
   },
   {
+    "nct_id": "NCT04036994",
+    "title": "PBMT for the Management of CIA ( HAIRLASER )",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 30,
+    "conditions": [
+      "Breast Cancer",
+      "Chemotherapy-induced Alopecia",
+      "Alopecia"
+    ],
+    "interventions": [
+      {
+        "name": "Photobiomodulation therapy",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Jessa Ziekenhuis, Hasselt, Belgium"
+    ],
+    "start_date": "2020-06-17",
+    "completion_date": "2022-12-31",
+    "last_update": "2022-03-08",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04036994"
+  },
+  {
     "nct_id": "NCT05270187",
     "title": "Multiwave Locked System Laser for Patients With Bell's Palsy.",
     "status": "UNKNOWN",
@@ -5924,6 +5571,77 @@
     "url": "https://clinicaltrials.gov/study/NCT04196686"
   },
   {
+    "nct_id": "NCT04230577",
+    "title": "Photobiomodulation to Improve Cognition in TBI, With fMRI",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 20,
+    "conditions": [
+      "Traumatic Brain Injury",
+      "Closed Head Injury",
+      "Cognitive Dysfunction"
+    ],
+    "interventions": [
+      {
+        "name": "Real LED Intervention",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Sham LED Intervention",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "VA Boston Healthcare System, Boston, Massachusetts, United States"
+    ],
+    "start_date": "2019-08-07",
+    "completion_date": "2023-09-30",
+    "last_update": "2022-02-24",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04230577"
+  },
+  {
+    "nct_id": "NCT02356861",
+    "title": "LED Light Therapy to Improve Cognitive & Psychosocial Function in TBI-PTSD Veterans",
+    "status": "WITHDRAWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 0,
+    "conditions": [
+      "Traumatic Brain Injury (TBI)",
+      "Post-traumatic Stress Disorder (PTSD)"
+    ],
+    "interventions": [
+      {
+        "name": "Photomedex Sham Helmet with Red/Near-Infrared Light-Emitting Diodes (LEDs) that are not turned on",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "VA Boston Healthcare System Jamaica Plain Campus, Jamaica Plain, MA, Boston, Massachusetts, United States"
+    ],
+    "start_date": "2016-03-01",
+    "completion_date": "2021-12-31",
+    "last_update": "2022-02-24",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT02356861"
+  },
+  {
     "nct_id": "NCT03911830",
     "title": "Aerobic Exercise Program Followed by Cold Water Immersion: Effects on Arthritis Patients Arterial Stiffness",
     "status": "COMPLETED",
@@ -5992,42 +5710,6 @@
     "url": "https://clinicaltrials.gov/study/NCT03416998"
   },
   {
-    "nct_id": "NCT05111236",
-    "title": "Potential Benefits of Home Based Exercise Programs in the Management of Spastic Cerebral Palsy",
-    "status": "UNKNOWN",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 86,
-    "conditions": [
-      "Cerebral Palsy, Spastic, Diplegic"
-    ],
-    "interventions": [
-      {
-        "name": "Routine physical therapy",
-        "type": "OTHER"
-      },
-      {
-        "name": "Traditional massage",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "National Institute of Rehabilitation Medicine (NIRM), Islamabad, Federal Capital, Pakistan"
-    ],
-    "start_date": "2021-11-01",
-    "completion_date": "2022-06",
-    "last_update": "2022-01-04",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT05111236"
-  },
-  {
     "nct_id": "NCT04540718",
     "title": "Exercise and Sauna on Blood Pressure and Cardiovascular Health",
     "status": "COMPLETED",
@@ -6066,126 +5748,174 @@
     "url": "https://clinicaltrials.gov/study/NCT04540718"
   },
   {
-    "nct_id": "NCT03015116",
-    "title": "Photobiomodulation for Plantar Fasciitis",
+    "nct_id": "NCT04604405",
+    "title": "Effects of 650nm Low Energy Light on Human Retina and Choroid Microcirculation",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 114,
+    "enrollment": 126,
     "conditions": [
-      "Plantar Fascitis"
+      "Myopia"
     ],
     "interventions": [
       {
-        "name": "Stretching",
-        "type": "OTHER"
-      },
-      {
-        "name": "Cryotherapy",
-        "type": "OTHER"
-      },
-      {
-        "name": "Photobiomodulation Low Power",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Photobiomodulation High Power",
-        "type": "DEVICE"
+        "name": "photobiomodulation",
+        "type": "RADIATION"
       }
     ],
     "locations": [
-      "Landstuhl Regional Medical Center, Landstuhl, APO AE, Germany"
+      "Chongqing Aier Eye Hosipital, Chongqing, Chongqing Municipality, China"
     ],
-    "start_date": "2017-01-12",
-    "completion_date": "2020-02-28",
-    "last_update": "2021-09-18",
+    "start_date": "2020-09-08",
+    "completion_date": "2021-10-02",
+    "last_update": "2021-10-07",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT03015116"
+    "url": "https://clinicaltrials.gov/study/NCT04604405"
   },
   {
-    "nct_id": "NCT03924011",
-    "title": "Photobiomodulation Therapy for the Prevention of Acute Radiodermatitis in Breast Cancer Patients Undergoing Radiotherapy",
+    "nct_id": "NCT04404231",
+    "title": "Treatment of Intrapartum Depression Using Non-invasive Photobiomodulation",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 80,
+    "conditions": [
+      "Depression",
+      "Pregnancy Related",
+      "Intrapartum Depression"
+    ],
+    "interventions": [
+      {
+        "name": "Delivery of infrared light to the head",
+        "type": "RADIATION"
+      },
+      {
+        "name": "No Infrared treatment",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "Detroit Medical Ceter, Detroit, Michigan, United States"
+    ],
+    "start_date": "2021-11-01",
+    "completion_date": "2022-09-01",
+    "last_update": "2021-10-04",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04404231"
+  },
+  {
+    "nct_id": "NCT05012514",
+    "title": "Effects of Led Photobiomodulation Therapy",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 71,
+    "enrollment": 10,
     "conditions": [
-      "Radiodermatitis",
-      "Breast Cancer"
+      "Photobiomodulation"
     ],
     "interventions": [
       {
-        "name": "Photobiomodulation therapy (PBMT)",
-        "type": "DEVICE"
-      },
-      {
-        "name": "Sham laser",
+        "name": "LLLT RED",
         "type": "DEVICE"
       }
     ],
     "locations": [
-      "Ziekenhuis Oost-Limburg Campus St.-Jan, Genk, Limburg, Belgium",
-      "Jessa Ziekenhuis, Hasselt, Belgium"
+      "Ibramed - Indústria Brasileira de Equipamentos Médicos, Amparo, São Paulo, Brazil"
     ],
-    "start_date": "2020-07-01",
-    "completion_date": "2021-06-01",
-    "last_update": "2021-08-31",
+    "start_date": "2020-08-08",
+    "completion_date": "2021-08-01",
+    "last_update": "2021-08-12",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT03924011"
+    "url": "https://clinicaltrials.gov/study/NCT05012514"
   },
   {
-    "nct_id": "NCT04059809",
-    "title": "Photobiomodulation for Breast Cancer Radiodermatitis",
+    "nct_id": "NCT02396771",
+    "title": "Effect of Uterine Massage Versus Sustained Uterine Compression on Blood Loss After Vaginal Delivery",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
-      "PHASE2",
-      "PHASE3"
+      "NA"
     ],
-    "enrollment": 48,
+    "enrollment": 445,
     "conditions": [
-      "Breast Cancer",
-      "Radiodermatitis",
-      "Radiotherapy Side Effect",
-      "Radiation Dermatitis",
-      "Radiation Toxicity",
-      "Radiation Injuries",
-      "Quality of Life",
-      "Breast Neoplasms"
+      "Postpartum Hemorrhage"
     ],
     "interventions": [
       {
-        "name": "Photobiomodulation",
-        "type": "DEVICE"
+        "name": "Uterine Massage",
+        "type": "PROCEDURE"
+      },
+      {
+        "name": "Uterine Compression",
+        "type": "PROCEDURE"
       }
     ],
     "locations": [
-      "Universidade do Vale do Itajai - UNIVALI, Itajaí, Santa Catarina, Brazil"
+      "American University of Beirut Medical Center, Beirut, Lebanon"
     ],
-    "start_date": "2018-09-26",
-    "completion_date": "2021-07-20",
-    "last_update": "2021-08-11",
+    "start_date": "2015-01",
+    "completion_date": "2017-10",
+    "last_update": "2021-07-20",
     "topics": [
-      "photobiomodulation"
+      "massage-therapy"
     ],
     "topic_names": [
-      "Photobiomodulation / Red Light"
+      "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT04059809"
+    "url": "https://clinicaltrials.gov/study/NCT02396771"
+  },
+  {
+    "nct_id": "NCT03610204",
+    "title": "Pressure Intensity of a Chinese Massage Technique for Treating Low Back Pain",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 56,
+    "conditions": [
+      "Low Back Pain, Mechanical"
+    ],
+    "interventions": [
+      {
+        "name": "Buffalo horn technique",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "WanFang Hospital, New Taipei City, Taiwan"
+    ],
+    "start_date": "2018-08-03",
+    "completion_date": "2020-09-26",
+    "last_update": "2021-06-02",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT03610204"
   },
   {
     "nct_id": "NCT04841733",
@@ -6262,6 +5992,38 @@
     "url": "https://clinicaltrials.gov/study/NCT03972007"
   },
   {
+    "nct_id": "NCT04587544",
+    "title": "The Relationship Between Cold Water Immersion and the Progression in Gout Arthritis",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 76,
+    "conditions": [
+      "Gout Arthritis"
+    ],
+    "interventions": [
+      {
+        "name": "Cold Water Immersion",
+        "type": "BEHAVIORAL"
+      }
+    ],
+    "locations": [
+      "Rendra, Tomohon, North Celebes, Indonesia"
+    ],
+    "start_date": "2019-07-01",
+    "completion_date": "2021-01-31",
+    "last_update": "2021-03-16",
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04587544"
+  },
+  {
     "nct_id": "NCT04793542",
     "title": "Hot Water Immersion Therapy for Mental Health",
     "status": "UNKNOWN",
@@ -6298,40 +6060,34 @@
     "url": "https://clinicaltrials.gov/study/NCT04793542"
   },
   {
-    "nct_id": "NCT03691766",
-    "title": "Photobiomodulation Therapy in Persons With Multiple Sclerosis",
-    "status": "COMPLETED",
+    "nct_id": "NCT04287725",
+    "title": "Effects of Laser Therapy and Exercise in Participants With Chronic Low Back Pain",
+    "status": "UNKNOWN",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 21,
+    "enrollment": 130,
     "conditions": [
-      "Multiple Sclerosis, Relapsing-Remitting"
+      "Low Back Pain (LBP)"
     ],
     "interventions": [
       {
-        "name": "Photobiomodulation Therapy",
-        "type": "OTHER"
-      },
-      {
-        "name": "Placebo",
-        "type": "OTHER"
+        "name": "exercise + photobiomodulation therapy",
+        "type": "DEVICE"
       }
     ],
-    "locations": [
-      "Marquette University, Milwaukee, Wisconsin, United States"
-    ],
-    "start_date": "2018-04-30",
-    "completion_date": "2019-09-23",
-    "last_update": "2021-02-25",
+    "locations": [],
+    "start_date": "2021-06-02",
+    "completion_date": "2022-12-31",
+    "last_update": "2021-03-03",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT03691766"
+    "url": "https://clinicaltrials.gov/study/NCT04287725"
   },
   {
     "nct_id": "NCT03429348",
@@ -6364,6 +6120,78 @@
       "Sauna & Heat Therapy"
     ],
     "url": "https://clinicaltrials.gov/study/NCT03429348"
+  },
+  {
+    "nct_id": "NCT04717037",
+    "title": "Olive Oil Massage Effect for Reduction of Preterm Sepsis (OMEPS)",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "enrollment": 300,
+    "conditions": [
+      "Sepsis",
+      "Pre-Term",
+      "Late-Onset Neonatal Sepsis"
+    ],
+    "interventions": [
+      {
+        "name": "Olive Oil Massage",
+        "type": "BIOLOGICAL"
+      }
+    ],
+    "locations": [
+      "King Abdulaziz Medical City, Jeddah, WR, Saudi Arabia",
+      "King Abdulaziz University Hospital, Jeddah, Saudi Arabia"
+    ],
+    "start_date": "2020-09-01",
+    "completion_date": "2022-08-01",
+    "last_update": "2021-01-18",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04717037"
+  },
+  {
+    "nct_id": "NCT04625335",
+    "title": "Effects of Prophylactic Massage Therapy on Pain Tolerance and Threshold",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 14,
+    "conditions": [
+      "Pain"
+    ],
+    "interventions": [
+      {
+        "name": "No Massage Protocol",
+        "type": "OTHER"
+      },
+      {
+        "name": "Prophylactic Therapeutic Massage",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "University of Kentucky, Lexington, Kentucky, United States"
+    ],
+    "start_date": "2015-09-01",
+    "completion_date": "2016-03-01",
+    "last_update": "2020-11-10",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT04625335"
   },
   {
     "nct_id": "NCT04425330",
@@ -6404,44 +6232,6 @@
     "url": "https://clinicaltrials.gov/study/NCT04425330"
   },
   {
-    "nct_id": "NCT04556422",
-    "title": "Comparison of Acute Sauna With Exercise and Sauna",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 72,
-    "conditions": [
-      "Cardiovascular Risk Factor",
-      "Blood Pressure",
-      "Arterial Stiffness"
-    ],
-    "interventions": [
-      {
-        "name": "Aerobic exercise",
-        "type": "OTHER"
-      },
-      {
-        "name": "Sauna bathing",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "University of Jyväskylä, Jyväskylä, Central Finland, Finland"
-    ],
-    "start_date": "2018-08-01",
-    "completion_date": "2018-12-01",
-    "last_update": "2020-09-21",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04556422"
-  },
-  {
     "nct_id": "NCT04155268",
     "title": "Flotation-REST for Chronic Pain, Stress, and Sleep",
     "status": "WITHDRAWN",
@@ -6478,78 +6268,6 @@
     "url": "https://clinicaltrials.gov/study/NCT04155268"
   },
   {
-    "nct_id": "NCT04513093",
-    "title": "Aromatherapy Massage Applied on Constipation",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 40,
-    "conditions": [
-      "Constipation"
-    ],
-    "interventions": [
-      {
-        "name": "Aromatherapy Massage",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Suleyman Demirel University, Isparta, Turkey (Türkiye)"
-    ],
-    "start_date": "2018-01-14",
-    "completion_date": "2020-05-21",
-    "last_update": "2020-08-11",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04513093"
-  },
-  {
-    "nct_id": "NCT03108170",
-    "title": "Digital Perineal Massage and Pelvic Floor Muscle Exercise During Pregnancy for Prevention of Perineal Laceration",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 90,
-    "conditions": [
-      "Delivery; Injury, Maternal"
-    ],
-    "interventions": [
-      {
-        "name": "perineal massage program",
-        "type": "OTHER"
-      },
-      {
-        "name": "Pelvic floor muscle exercise program",
-        "type": "OTHER"
-      },
-      {
-        "name": "Educational pelvic floor dysfunction prevention program",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Department of Obstetrics and Gynecology, Kasr Al-Ainy hospital, Cairo, Greater Cairo, Egypt"
-    ],
-    "start_date": "2017-04-12",
-    "completion_date": "2018-12-25",
-    "last_update": "2020-07-13",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT03108170"
-  },
-  {
     "nct_id": "NCT04349085",
     "title": "Effects of Photobiomodulation Therapy Combined With Static Magnetic Field in CrossFit® Athletes",
     "status": "COMPLETED",
@@ -6578,48 +6296,14 @@
     "completion_date": "2020-05-10",
     "last_update": "2020-07-09",
     "topics": [
-      "exercise-recovery"
+      "exercise-recovery",
+      "photobiomodulation"
     ],
     "topic_names": [
-      "Exercise Recovery"
+      "Exercise Recovery",
+      "Photobiomodulation / Red Light"
     ],
     "url": "https://clinicaltrials.gov/study/NCT04349085"
-  },
-  {
-    "nct_id": "NCT04375163",
-    "title": "Effects of Massage Between Sets of an Intense Isokinetic Exercise- Protocol of Knee Extensors in Tae Kwon Do Athletes",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 26,
-    "conditions": [
-      "Athletic Performance"
-    ],
-    "interventions": [
-      {
-        "name": "Isokinetic intense exercise protocol",
-        "type": "OTHER"
-      },
-      {
-        "name": "Massage treatment",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Department of Physical Education and Sports Sciences, Thessaloniki, Central Makedonia, Greece"
-    ],
-    "start_date": "2020-05-01",
-    "completion_date": "2020-06-20",
-    "last_update": "2020-07-08",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04375163"
   },
   {
     "nct_id": "NCT03420391",
@@ -6688,134 +6372,6 @@
       "Cold-Water Immersion"
     ],
     "url": "https://clinicaltrials.gov/study/NCT04190264"
-  },
-  {
-    "nct_id": "NCT01672710",
-    "title": "Gulf War Illness: Evaluation of an Innovative Detoxification Program",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE2"
-    ],
-    "enrollment": 32,
-    "conditions": [
-      "Gulf War Illness"
-    ],
-    "interventions": [
-      {
-        "name": "plain crystalline niacin, exercise, sauna",
-        "type": "DRUG"
-      }
-    ],
-    "locations": [
-      "Severna Park Health and Wellness Center, Annapolis, Maryland, United States"
-    ],
-    "start_date": "2010-04",
-    "completion_date": "2015-12",
-    "last_update": "2020-04-06",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT01672710"
-  },
-  {
-    "nct_id": "NCT04281563",
-    "title": "Medium-chain Triglyceride Oil Massage on Growth in Preterm",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 48,
-    "conditions": [
-      "Preterm Infants",
-      "MCT Oil Massage",
-      "Growth"
-    ],
-    "interventions": [
-      {
-        "name": "massage with MCT oil (group 1)",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi City, Taiwan"
-    ],
-    "start_date": "2017-07-07",
-    "completion_date": "2019-07-06",
-    "last_update": "2020-02-20",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04281563"
-  },
-  {
-    "nct_id": "NCT04276402",
-    "title": "Effect of Photobiomodulation by 808nm Diode Laser on the Stability of Orthodontic Mini-implants.",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 22,
-    "conditions": [
-      "Malocclusion, Angle Class II"
-    ],
-    "interventions": [
-      {
-        "name": "Irradiation of implants with 808nm laser",
-        "type": "PROCEDURE"
-      }
-    ],
-    "locations": [
-      "Private Dental Healtcare, Kościan, Poland"
-    ],
-    "start_date": "2019-07-05",
-    "completion_date": "2019-11-02",
-    "last_update": "2020-02-17",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04276402"
-  },
-  {
-    "nct_id": "NCT04232046",
-    "title": "Trigger Point Massage in Chronic Tension Headache",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 80,
-    "conditions": [
-      "Tension-Type Headache"
-    ],
-    "interventions": [
-      {
-        "name": "Massage",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [],
-    "start_date": "2016-02-15",
-    "completion_date": "2019-03-15",
-    "last_update": "2020-01-15",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT04232046"
   },
   {
     "nct_id": "NCT04198532",
@@ -6924,6 +6480,42 @@
     "url": "https://clinicaltrials.gov/study/NCT03695458"
   },
   {
+    "nct_id": "NCT02457975",
+    "title": "Photobiomodulation for the Treatment of Diabetic Macular Edema",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "EARLY_PHASE1"
+    ],
+    "enrollment": 16,
+    "conditions": [
+      "Diabetic Retinopathy"
+    ],
+    "interventions": [
+      {
+        "name": "670nm PBM",
+        "type": "DEVICE"
+      },
+      {
+        "name": "intravitreous VEGF-inhibitors",
+        "type": "DRUG"
+      }
+    ],
+    "locations": [
+      "Medical College of Wisconsin Froedert Hospital, Milwaukee, Wisconsin, United States"
+    ],
+    "start_date": "2015-06",
+    "completion_date": "2019-08-30",
+    "last_update": "2019-09-06",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT02457975"
+  },
+  {
     "nct_id": "NCT03618524",
     "title": "Effect of Local Heat Stress Via Leg Bath on Artery Function",
     "status": "COMPLETED",
@@ -6956,52 +6548,144 @@
     "url": "https://clinicaltrials.gov/study/NCT03618524"
   },
   {
-    "nct_id": "NCT03859505",
-    "title": "Photobiomodulation Therapy on Inflammatory Mediators on Low Back Pain",
-    "status": "COMPLETED",
+    "nct_id": "NCT01193530",
+    "title": "The Use of Light Therapy for Managing Sleep Disturbances in Patients With Advanced Cancer",
+    "status": "TERMINATED",
     "study_type": "INTERVENTIONAL",
     "phases": [
-      "NA"
+      "PHASE2",
+      "PHASE3"
     ],
-    "enrollment": 18,
+    "enrollment": 12,
     "conditions": [
-      "Low Back Pain"
+      "Advanced Cancers"
     ],
     "interventions": [
       {
-        "name": "Placebo PBMT",
+        "name": "Bright Light Therapy",
+        "type": "OTHER"
+      },
+      {
+        "name": "Dim Red Light Therapy",
+        "type": "OTHER"
+      },
+      {
+        "name": "Questionnaires",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Study Diaries",
+        "type": "BEHAVIORAL"
+      },
+      {
+        "name": "Red Light Litebook",
         "type": "DEVICE"
       },
       {
-        "name": "Active PBMT",
+        "name": "Bright Light Litebook",
         "type": "DEVICE"
       }
     ],
     "locations": [
-      "University of Bergen, Bergen, Norway"
+      "University of Texas MD Anderson Cancer Center, Houston, Texas, United States"
     ],
-    "start_date": "2019-03-18",
-    "completion_date": "2019-03-29",
-    "last_update": "2019-03-29",
+    "start_date": "2011-06",
+    "completion_date": "2016-03",
+    "last_update": "2019-03-25",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT03859505"
+    "url": "https://clinicaltrials.gov/study/NCT01193530"
   },
   {
-    "nct_id": "NCT03814525",
-    "title": "Photobiomodulation Effects on Pain, Edema, Paresthesia and Bone Regeneration After Maxillar Surgical Disjunction",
+    "nct_id": "NCT03810989",
+    "title": "Dermodialysis as Adjuvant Therapy in Renal Failure",
     "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 86,
+    "conditions": [
+      "Chronic Renal Failure"
+    ],
+    "interventions": [
+      {
+        "name": "infra-red sauna",
+        "type": "DEVICE"
+      },
+      {
+        "name": "argometer and treadmill",
+        "type": "DEVICE"
+      },
+      {
+        "name": "combination of sauna and hot bath",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [],
+    "start_date": "2019-06-01",
+    "completion_date": "2020-09-01",
+    "last_update": "2019-01-19",
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT03810989"
+  },
+  {
+    "nct_id": "NCT01059877",
+    "title": "Efficacy of 1072nm Infrared Stimulation on Executive Functioning in Dementia",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 11,
+    "conditions": [
+      "Dementia"
+    ],
+    "interventions": [
+      {
+        "name": "1072nm infrared Photobiomodulation",
+        "type": "DEVICE"
+      },
+      {
+        "name": "Photobiomodulation SIMULATED",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Quietmind Foundation, Plymouth Meeting, Pennsylvania, United States"
+    ],
+    "start_date": "2010-01",
+    "completion_date": "2012-02",
+    "last_update": "2018-08-29",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT01059877"
+  },
+  {
+    "nct_id": "NCT03647813",
+    "title": "Effects of Photobiomodulation in Salivary Analysis of Chronic Renal Failure Patients",
+    "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "PHASE2"
     ],
-    "enrollment": 72,
+    "enrollment": 44,
     "conditions": [
-      "Maxillary Diseases"
+      "Xerostomia",
+      "Chronic Renal Failure"
     ],
     "interventions": [
       {
@@ -7009,56 +6693,21 @@
         "type": "RADIATION"
       },
       {
-        "name": "Placebo Photobiomodulation",
+        "name": "Placebo",
         "type": "RADIATION"
       }
     ],
-    "locations": [
-      "Conjunto Hospitalar do Mandaqui, São Paulo, São Paulo, Brazil"
-    ],
-    "start_date": "2019-01-02",
-    "completion_date": "2021-02-28",
-    "last_update": "2019-01-22",
+    "locations": [],
+    "start_date": "2016-07-01",
+    "completion_date": "2017-09-30",
+    "last_update": "2018-08-27",
     "topics": [
       "photobiomodulation"
     ],
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT03814525"
-  },
-  {
-    "nct_id": "NCT03704012",
-    "title": "Efficacy of Massage Applied by the Parents in Hospitalized Premature Birth (PreMas)",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 143,
-    "conditions": [
-      "Massage",
-      "Premature Infant",
-      "Premature Birth",
-      "Preterm Infant"
-    ],
-    "interventions": [
-      {
-        "name": "Protocol of massage therapy and kinesiotherapy",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [],
-    "start_date": "2012-09-01",
-    "completion_date": "2015-12-30",
-    "last_update": "2018-10-03",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT03704012"
+    "url": "https://clinicaltrials.gov/study/NCT03647813"
   },
   {
     "nct_id": "NCT03620825",
@@ -7166,6 +6815,42 @@
     "url": "https://clinicaltrials.gov/study/NCT03563898"
   },
   {
+    "nct_id": "NCT01982656",
+    "title": "Massage Technique for Pain, Anxiety and Delirium in SAH Patients",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 50,
+    "conditions": [
+      "Subarachnoid Hemorrhage",
+      "Anxiety",
+      "Pain",
+      "Delirium",
+      "Sleep"
+    ],
+    "interventions": [
+      {
+        "name": "Massage",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "Mayo Clinic in Rochester, Rochester, Minnesota, United States"
+    ],
+    "start_date": "2013-12",
+    "completion_date": "2018-02-22",
+    "last_update": "2018-02-21",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT01982656"
+  },
+  {
     "nct_id": "NCT03386019",
     "title": "The Efficacy of Lymphatic Massage on Lower Extremity Edema and Performance After Treadmill Exercise in Sprinter Compare to Static Stretching and Cold Water Immersion",
     "status": "COMPLETED",
@@ -7245,14 +6930,45 @@
     "completion_date": "2017-05-03",
     "last_update": "2017-12-18",
     "topics": [
-      "cold-water-immersion",
       "exercise-recovery"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
       "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT02806609"
+  },
+  {
+    "nct_id": "NCT03355313",
+    "title": "Use of Low-level Laser Therapy on Children Aged One to Five Years With Energy-protein Malnutrition",
+    "status": "UNKNOWN",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 50,
+    "conditions": [
+      "Malnutrition, Child"
+    ],
+    "interventions": [
+      {
+        "name": "Low level Light therapy",
+        "type": "RADIATION"
+      }
+    ],
+    "locations": [
+      "Centro de Educação e Recuperação Nutricional, Maceió, Alagoas, Brazil",
+      "University of Nove de Julho, São Paulo, Brazil"
+    ],
+    "start_date": "2017-09-01",
+    "completion_date": "2018-07-30",
+    "last_update": "2017-11-21",
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT03355313"
   },
   {
     "nct_id": "NCT03332446",
@@ -7287,36 +7003,40 @@
     "url": "https://clinicaltrials.gov/study/NCT03332446"
   },
   {
-    "nct_id": "NCT01122836",
-    "title": "Dosing Study of Massage for Neck Pain",
+    "nct_id": "NCT03329482",
+    "title": "Pulse Ultrasound and Kneading Massage in Non- Specific Chronic Low Back Pain",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 228,
+    "enrollment": 50,
     "conditions": [
-      "Chronic Neck Pain"
+      "Non Specific Low Back Pain"
     ],
     "interventions": [
       {
-        "name": "Massage",
+        "name": "PULSE ULTRASOUND",
+        "type": "OTHER"
+      },
+      {
+        "name": "KNEADING MASSAGE",
         "type": "OTHER"
       }
     ],
     "locations": [
-      "Group Health Research Institute, Seattle, Washington, United States"
+      "Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria"
     ],
-    "start_date": "2010-07",
-    "completion_date": "2014-03",
-    "last_update": "2017-10-11",
+    "start_date": "2016-08-12",
+    "completion_date": "2017-04-15",
+    "last_update": "2017-11-03",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT01122836"
+    "url": "https://clinicaltrials.gov/study/NCT03329482"
   },
   {
     "nct_id": "NCT03094689",
@@ -7353,94 +7073,6 @@
       "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT03094689"
-  },
-  {
-    "nct_id": "NCT03002337",
-    "title": "Efficacy of the Yoga and Aromatherapy on Salivary Hormone and Immune Function in Pregnant Women.",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 75,
-    "conditions": [
-      "Stress, Psychologic"
-    ],
-    "interventions": [
-      {
-        "name": "Aromatherapy massage",
-        "type": "BEHAVIORAL"
-      },
-      {
-        "name": "Yoga exercise",
-        "type": "BEHAVIORAL"
-      }
-    ],
-    "locations": [],
-    "start_date": "2014-02",
-    "completion_date": "2015-02",
-    "last_update": "2016-12-20",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT03002337"
-  },
-  {
-    "nct_id": "NCT01217424",
-    "title": "Reflexology or Aromatherapy Massage in Relieving Symptoms in Patients With Cancer",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "NA"
-    ],
-    "enrollment": 100,
-    "conditions": [
-      "Pain",
-      "Psychosocial Effects of Cancer and Its Treatment",
-      "Unspecified Adult Solid Tumor, Protocol Specific"
-    ],
-    "interventions": [
-      {
-        "name": "questionnaire administration",
-        "type": "OTHER"
-      },
-      {
-        "name": "aromatherapy and essential oils",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "management of therapy complications",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "massage therapy",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "psychosocial assessment and care",
-        "type": "PROCEDURE"
-      },
-      {
-        "name": "reflexology procedure",
-        "type": "PROCEDURE"
-      }
-    ],
-    "locations": [
-      "Royal Marsden - London, London, England, United Kingdom"
-    ],
-    "start_date": "2010-10",
-    "completion_date": "2011-11",
-    "last_update": "2016-10-31",
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT01217424"
   },
   {
     "nct_id": "NCT02596542",
@@ -7616,72 +7248,40 @@
     "url": "https://clinicaltrials.gov/study/NCT00000250"
   },
   {
-    "nct_id": "NCT01905098",
-    "title": "Complementary and Alternative Medicine Sauna Detoxification Study: Phase I",
-    "status": "TERMINATED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE1"
-    ],
-    "enrollment": 1,
-    "conditions": [
-      "Hyperthermia"
-    ],
-    "interventions": [
-      {
-        "name": "Sauna Detoxification Protocol",
-        "type": "OTHER"
-      },
-      {
-        "name": "Observation Sessions",
-        "type": "OTHER"
-      }
-    ],
-    "locations": [
-      "Bastyr University Research Institute, Clinical Research Center, Kenmore, Washington, United States"
-    ],
-    "start_date": "2013-07",
-    "completion_date": "2014-04",
-    "last_update": "2015-04-16",
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT01905098"
-  },
-  {
-    "nct_id": "NCT01937897",
-    "title": "Unilateral Massage as a Potential Treatment for Depression",
+    "nct_id": "NCT02440412",
+    "title": "Effect of Massage Therapy in Cortisol Level",
     "status": "COMPLETED",
     "study_type": "INTERVENTIONAL",
     "phases": [
       "NA"
     ],
-    "enrollment": 12,
+    "enrollment": 15,
     "conditions": [
-      "Depression"
+      "Asymptomatic State"
     ],
     "interventions": [
       {
-        "name": "Bi-lateral massage",
+        "name": "Massage Therapy",
+        "type": "OTHER"
+      },
+      {
+        "name": "Rest in supine",
         "type": "OTHER"
       }
     ],
     "locations": [
-      "University of Arizona, Tucson, Arizona, United States"
+      "Faculty of Medicine, University of Chile, Santiago, Santiago Metropolitan, Chile"
     ],
-    "start_date": "2013-07",
-    "completion_date": "2014-02",
-    "last_update": "2014-02-03",
+    "start_date": "2014-07",
+    "completion_date": "2015-03",
+    "last_update": "2015-05-06",
     "topics": [
       "massage-therapy"
     ],
     "topic_names": [
       "Massage Therapy"
     ],
-    "url": "https://clinicaltrials.gov/study/NCT01937897"
+    "url": "https://clinicaltrials.gov/study/NCT02440412"
   },
   {
     "nct_id": "NCT01793779",
@@ -7724,6 +7324,70 @@
       "Exercise Recovery"
     ],
     "url": "https://clinicaltrials.gov/study/NCT01793779"
+  },
+  {
+    "nct_id": "NCT01909882",
+    "title": "Effect of Family Member's Massage Therapy on the Vital Signs and Glasgow Coma Scale Score",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 180,
+    "conditions": [
+      "Trauma"
+    ],
+    "interventions": [
+      {
+        "name": "Massage therapy",
+        "type": "OTHER"
+      }
+    ],
+    "locations": [
+      "Shariati hospital, Tehran, Tehran Province, Iran"
+    ],
+    "start_date": "2007-08",
+    "completion_date": "2013-05",
+    "last_update": "2013-07-25",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT01909882"
+  },
+  {
+    "nct_id": "NCT00767741",
+    "title": "Evaluation of the Effects of Heating or Massaging or Vibrating at the Vicinity of the Insulin Delivery Site",
+    "status": "COMPLETED",
+    "study_type": "INTERVENTIONAL",
+    "phases": [
+      "NA"
+    ],
+    "enrollment": 100,
+    "conditions": [
+      "Diabetes"
+    ],
+    "interventions": [
+      {
+        "name": "with heat and massage",
+        "type": "DEVICE"
+      }
+    ],
+    "locations": [
+      "Hadassah Medical center, Jerusalem, Other, Israel"
+    ],
+    "start_date": "2010-11",
+    "completion_date": "2011-04",
+    "last_update": "2013-04-03",
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "url": "https://clinicaltrials.gov/study/NCT00767741"
   },
   {
     "nct_id": "NCT01576822",
@@ -7824,37 +7488,5 @@
       "Cold-Water Immersion"
     ],
     "url": "https://clinicaltrials.gov/study/NCT00996398"
-  },
-  {
-    "nct_id": "NCT00375544",
-    "title": "Study to Evaluate the Safety and Efficacy of a Low Level Light Device in Patients With Knee Osteoarthritis",
-    "status": "COMPLETED",
-    "study_type": "INTERVENTIONAL",
-    "phases": [
-      "PHASE1"
-    ],
-    "enrollment": 10,
-    "conditions": [
-      "Osteoarthritis, Knee"
-    ],
-    "interventions": [
-      {
-        "name": "Low level light therapy",
-        "type": "DEVICE"
-      }
-    ],
-    "locations": [
-      "Richard Neiman, M.D., Kirkland, Washington, United States"
-    ],
-    "start_date": "2006-09",
-    "completion_date": "2007-11",
-    "last_update": "2009-08-12",
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "url": "https://clinicaltrials.gov/study/NCT00375544"
   }
 ]
