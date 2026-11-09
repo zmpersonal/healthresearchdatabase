@@ -1,5 +1,207 @@
 [
   {
+    "pmid": "42995527",
+    "title": "Efficacy and safety of repeated low-level red light therapy in myopia control: an updated and comprehensive systematic review and meta-analysis.",
+    "authors": [
+      "Hongyue Wu",
+      "Xinwei Yang",
+      "Yuehua Zhou",
+      "Junguo Duan"
+    ],
+    "journal": "BMC ophthalmology",
+    "year": "2026",
+    "doi": "10.1186/s12886-026-05211-y",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Myopia",
+      "Red Light",
+      "Refraction, Ocular",
+      "Low-Level Light Therapy",
+      "Child",
+      "Axial Length, Eye",
+      "Adolescent",
+      "Treatment Outcome"
+    ],
+    "keywords": [
+      "Meta-analysis",
+      "Myopia",
+      "Repeated low-level red light therapy",
+      "Systematic eview"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995527/"
+  },
+  {
+    "pmid": "42995303",
+    "title": "Effects of photobiomodulation therapy on secondary healing of the palatal donor site after free gingival graft harvesting: a systematic review and meta-analysis.",
+    "authors": [
+      "Huong Chu Thi Quynh",
+      "Tung Kien Hoang",
+      "Minh Huyen Dam",
+      "Duc Manh Nguyen Van",
+      "Linh Chi Pham"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05073-2",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Low-Level Light Therapy",
+      "Wound Healing",
+      "Gingiva",
+      "Postoperative Pain",
+      "Palate",
+      "Transplant Donor Site",
+      "Tissue and Organ Harvesting",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "keywords": [
+      "Connective tissue harvesting",
+      "Free gingival graft",
+      "Low-level laser therapy",
+      "Pain",
+      "Palatal donor",
+      "Wound healing"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995303/"
+  },
+  {
+    "pmid": "42993140",
+    "title": "Oral Chemical Burn Due to Occupational Exposure to Potassium Hydroxide: An Unusual Case Report.",
+    "authors": [
+      "Camila Barcellos Calderipe",
+      "Carla Isabelly Rodrigues-Fernandes",
+      "Thaís Cristina Esteves-Pereira",
+      "Ivan José Correia Neto",
+      "Rogério De Andrade Elias",
+      "Pablo Agustin Vargas",
+      "Marcio Ajudarte Lopes",
+      "Alan Roger Santos-Silva"
+    ],
+    "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+    "year": "2026",
+    "doi": "10.1111/scd.70289",
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Burns, Chemical",
+      "Middle Aged",
+      "Male",
+      "Potassium Compounds",
+      "Hydroxides",
+      "Occupational Exposure",
+      "Low-Level Light Therapy",
+      "Red Light"
+    ],
+    "keywords": [
+      "alkali",
+      "occupational exposure",
+      "photobiomodulation",
+      "potassium hydroxide"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42993140/"
+  },
+  {
+    "pmid": "42986489",
+    "title": "Photobiomodulation for radiotherapy-induced dysgeusia in head and neck cancer patients: a pilot randomized clinical trial.",
+    "authors": [
+      "Priscilla Parente Viana",
+      "Flávia Carvalho Pinto",
+      "Victor Bento Oliveira",
+      "Hanna Emilly Lima Batista",
+      "Vitória Isterfany Pimenta Silva",
+      "Denise Hélen Imaculada Pereira de Oliveira",
+      "Filipe Nobre Chaves",
+      "Marcelo Bonifácio da Silva Sampieri"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05090-1",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Pilot Projects",
+      "Dysgeusia",
+      "Head and Neck Neoplasms",
+      "Female",
+      "Middle Aged",
+      "Low-Level Light Therapy",
+      "Male",
+      "Aged",
+      "Adult",
+      "Zinc Sulfate",
+      "Taste",
+      "Radiotherapy"
+    ],
+    "keywords": [
+      "Dysgeusia",
+      "Head and neck neoplasms",
+      "Photobiomodulation",
+      "Radiotherapy"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42986489/"
+  },
+  {
     "pmid": "42975697",
     "title": "Three-dimensional alveolar ridge augmentation combined with photobiomodulation therapy for post-traumatic bone loss: clinical protocol, case report, and evidence review.",
     "authors": [
@@ -7073,6 +7275,71 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42128735/"
   },
   {
+    "pmid": "42117907",
+    "title": "A multicenter, controlled, randomized trial of home-applied dual-light photodynamic therapy in stage I to III periodontitis (LumoNorth2022 study).",
+    "authors": [
+      "Paula Tegelberg",
+      "Meeri Ojala",
+      "Merja Ylipalosaari",
+      "Jori Lindroth",
+      "Anna Maria Heikkinen",
+      "Hanna Lähteenmäki",
+      "Saila Pakarinen",
+      "Ismo T Räisänen",
+      "Timo Sorsa",
+      "Tommi Pätilä"
+    ],
+    "journal": "Journal of periodontology",
+    "year": "2026",
+    "doi": "10.1002/jper.70120",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Photochemotherapy",
+      "Periodontal Index",
+      "Dental Plaque Index",
+      "Male",
+      "Photosensitizing Agents",
+      "Treatment Outcome",
+      "Middle Aged",
+      "Periodontal Pocket",
+      "Periodontal Attachment Loss",
+      "Periodontitis",
+      "Follow-Up Studies",
+      "Adult",
+      "Red Light",
+      "Oral Hygiene",
+      "Chronic Periodontitis",
+      "Home Care Services",
+      "Aged"
+    ],
+    "keywords": [
+      "antibacterial photodynamic therapy (aPDT)",
+      "dual‐light photodynamic therapy",
+      "nonsurgical periodontal treatment (NSPT)",
+      "periodontitis",
+      "photobiomodulation therapy (PBMT)"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42117907/"
+  },
+  {
     "pmid": "42113470",
     "title": "Acute effects of passive heat exposure on vascular function and exercise capacity in patients with chronic kidney disease.",
     "authors": [
@@ -7450,62 +7717,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42076873/"
   },
   {
-    "pmid": "42060269",
-    "title": "Photobiomodulation therapy in the treatment of genitourinary syndrome in postmenopausal women - a placebo-controlled double-blind clinical trial.",
-    "authors": [
-      "Silvia Regina Dos Santos Pereira",
-      "Raymond Lanzafame",
-      "Raquel Agnelli Mesquita-Ferrari",
-      "Luciana Toledo Costa Salviatto",
-      "Erika da Silva Melo",
-      "Cícero Dayves da Silva Bezerra",
-      "Paulo Sérgio Bossini",
-      "Luciana Almeida-Lopes",
-      "Vanessa Dalapria",
-      "Alessandro M Deana"
-    ],
-    "journal": "Climacteric : the journal of the International Menopause Society",
-    "year": "2026",
-    "doi": "10.1080/13697137.2026.2658817",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Double-Blind Method",
-      "Postmenopause",
-      "Low-Level Light Therapy",
-      "Middle Aged",
-      "Urinary Incontinence",
-      "Female Urogenital Diseases",
-      "Syndrome",
-      "Treatment Outcome",
-      "Aged",
-      "Vagina"
-    ],
-    "keywords": [
-      "Vaginal atrophy",
-      "low-intensity laser irradiation",
-      "low-intensity light therapy",
-      "photobiomodulation",
-      "urinary incontinence"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42060269/"
-  },
-  {
     "pmid": "42059974",
     "title": "Effects of resistance training with/without Photobiomodulation on muscle and respiratory function in difficult-to-control asthma: a randomized trial.",
     "authors": [
@@ -7622,54 +7833,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42046494/"
   },
   {
-    "pmid": "42009188",
-    "title": "Illuminating the evidence: A comprehensive review of light-assisted in-office tooth bleaching.",
-    "authors": [
-      "Márcia V G B Queiroz",
-      "Rafael Dascanio",
-      "Vinicius H Hutemma",
-      "Diogo A Chiovetto",
-      "Adriano F Lima",
-      "Jorge R Soto-Montero",
-      "Matheus Kury"
-    ],
-    "journal": "Journal of dentistry",
-    "year": "2026",
-    "doi": "10.1016/j.jdent.2026.106707",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Tooth Bleaching",
-      "Humans",
-      "Hydrogen Peroxide",
-      "Tooth Bleaching Agents",
-      "Light",
-      "Lasers",
-      "Low-Level Light Therapy"
-    ],
-    "keywords": [
-      "Hydrogen peroxide",
-      "Lasers",
-      "Lasers, semiconductor",
-      "Light",
-      "Tooth bleaching"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42009188/"
-  },
-  {
     "pmid": "41999121",
     "title": "Effectiveness of the Association Between ILIB and Photobiomodulation in Oral Mucositis Among Oncology Patients: A Prospective Study.",
     "authors": [
@@ -7721,56 +7884,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41999121/"
-  },
-  {
-    "pmid": "41987486",
-    "title": "Pulsed 830-nm Laser Irradiation Modulates Aδ- and C-Fiber-Mediated Pain Thresholds in Healthy Adults: A Randomized, Sham-Controlled Trial.",
-    "authors": [
-      "Nobuyuki Takeuchi",
-      "Masanao Matsumoto",
-      "Masaya Tabei"
-    ],
-    "journal": "Lasers in surgery and medicine",
-    "year": "2026",
-    "doi": "10.1002/lsm.70138",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Pain Threshold",
-      "Single-Blind Method",
-      "Adult",
-      "Female",
-      "Nerve Fibers, Unmyelinated",
-      "Male",
-      "Young Adult",
-      "Nerve Fibers, Myelinated",
-      "Low-Level Light Therapy",
-      "Pain Measurement",
-      "Healthy Volunteers"
-    ],
-    "keywords": [
-      "Aδ‐fiber",
-      "C‐fiber",
-      "intra‐epidermal electrical stimulation",
-      "pain threshold",
-      "photobiomodulation",
-      "pulsed laser irradiation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41987486/"
   },
   {
     "pmid": "41984103",
@@ -8962,6 +9075,47 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41679164/"
   },
   {
+    "pmid": "41666206",
+    "title": "Swimming-Induced Pulmonary Edema: A Scoping Review and Analysis of Epidemiology, Pathophysiology, Diagnostics, Management, and Implications for Resource-Limited Care of Patients.",
+    "authors": [
+      "Harrison Steins"
+    ],
+    "journal": "Wilderness & environmental medicine",
+    "year": "2026",
+    "doi": "10.1177/10806032251414379",
+    "publication_types": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Pulmonary Edema",
+      "Swimming",
+      "Risk Factors",
+      "Resource-Limited Settings"
+    ],
+    "keywords": [
+      "cold-water immersion",
+      "emergency medicine",
+      "lung ultrasound",
+      "open water",
+      "respiratory distress",
+      "swimming-induced pulmonary edema (SIPE)"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "Title methods heuristic",
+    "classifier_confidence": 0.84,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41666206/"
+  },
+  {
     "pmid": "41630443",
     "title": "Light-emitting diode photobiomodulation on rheumatoid arthritis and osteoarthritis: In vitro and in vivo studies.",
     "authors": [
@@ -9239,50 +9393,6 @@
     "classifier_confidence": 0.98,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41549363/"
-  },
-  {
-    "pmid": "41529261",
-    "title": "Translational changes: evidence around efficacy of red-light therapy in myopia management.",
-    "authors": [
-      "Jessica Wood",
-      "Josephine Dykgraaf",
-      "Jagrut Lallu"
-    ],
-    "journal": "Clinical & experimental optometry",
-    "year": "2026",
-    "doi": "10.1080/08164622.2025.2606171",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Red Light",
-      "Myopia",
-      "Phototherapy",
-      "Refraction, Ocular",
-      "Translational Research, Biomedical",
-      "Disease Progression"
-    ],
-    "keywords": [
-      "Light therapy",
-      "myopia",
-      "myopia control",
-      "myopia management",
-      "red light therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41529261/"
   },
   {
     "pmid": "41527703",
@@ -21051,11 +21161,9 @@
       "Running training"
     ],
     "topics": [
-      "cold-water-immersion",
       "exercise-recovery"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
       "Exercise Recovery"
     ],
     "design_class": "b",

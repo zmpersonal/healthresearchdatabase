@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-05T15:32:46.817128+00:00",
-  "updated_label": "Nov 5, 2026",
-  "total_studies": 574,
-  "total_trials": 202,
+  "generated_at": "2026-11-09T17:35:45.321288+00:00",
+  "updated_label": "Nov 9, 2026",
+  "total_studies": 576,
+  "total_trials": 218,
   "total_topics": 9,
   "active_trials": 62,
   "topics": {
     "sauna-heat-therapy": {
       "studies": 85,
-      "trials": 48,
+      "trials": 47,
       "designs": {
         "b": 23,
         "e": 50,
@@ -30,11 +30,11 @@
     },
     "cold-water-immersion": {
       "studies": 71,
-      "trials": 38,
+      "trials": 39,
       "designs": {
-        "b": 20,
+        "b": 19,
         "e": 36,
-        "a": 8,
+        "a": 9,
         "d": 7
       }
     },
@@ -50,12 +50,12 @@
       }
     },
     "photobiomodulation": {
-      "studies": 121,
+      "studies": 122,
       "trials": 55,
       "designs": {
+        "a": 22,
         "e": 48,
-        "a": 20,
-        "b": 40,
+        "b": 39,
         "c": 6,
         "d": 7
       }
@@ -73,7 +73,7 @@
     },
     "massage-therapy": {
       "studies": 94,
-      "trials": 34,
+      "trials": 46,
       "designs": {
         "d": 6,
         "b": 41,
@@ -92,7 +92,7 @@
     },
     "exercise-recovery": {
       "studies": 91,
-      "trials": 35,
+      "trials": 36,
       "designs": {
         "b": 48,
         "a": 17,
