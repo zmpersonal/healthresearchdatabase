@@ -1,5 +1,111 @@
 [
   {
+    "pmid": "43008713",
+    "title": "Noninvasive Intracranial Compliance Monitoring Following Hand-Applied Photobiomodulation and Ultrasound in Fibromyalgia: A Pilot Study.",
+    "authors": [
+      "Matheus Henrique Camargo Antonio",
+      "Tiago Zuccolotto Rodrigues",
+      "Ana Carolina Negraes Canelada",
+      "Fernanda Mansano Carbinatto",
+      "Vanessa Garcia",
+      "Vanderlei Salvador Bagnato",
+      "Antonio Eduardo de Aquino Junior"
+    ],
+    "journal": "Journal of biophotonics",
+    "year": "2026",
+    "doi": "10.1002/jbio.70390",
+    "publication_types": [
+      "Journal Article",
+      "Clinical Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Pilot Projects",
+      "Fibromyalgia",
+      "Female",
+      "Low-Level Light Therapy",
+      "Hand",
+      "Middle Aged",
+      "Ultrasonic Therapy",
+      "Adult",
+      "Brain",
+      "Monitoring, Physiologic"
+    ],
+    "keywords": [
+      "brain monitoring",
+      "central sensitization",
+      "chronic pain",
+      "fibromyalgia",
+      "intracranial compliance",
+      "neurophysiology",
+      "photobiomodulation",
+      "therapeutic ultrasound"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "c",
+    "design_label": "Controlled / clinical trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.98,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008713/"
+  },
+  {
+    "pmid": "43007756",
+    "title": "Near-Infrared Neuromodulation: Principles, Nanotechnology-Enabled Platforms, and Emerging Biomedical Frontiers.",
+    "authors": [
+      "Hongqiang Yin",
+      "Tao Wang",
+      "Feng Wu",
+      "Yejun Zhang",
+      "Chunyan Li",
+      "Guangcun Chen",
+      "Qiangbin Wang"
+    ],
+    "journal": "ACS nano",
+    "year": "2026",
+    "doi": "10.1021/acsnano.6c14220",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Infrared Rays",
+      "Animals",
+      "Nanotechnology",
+      "Optogenetics",
+      "Nanostructures"
+    ],
+    "keywords": [
+      "NIR UCNP optogenetics",
+      "NIR neuromodulation",
+      "NIR optoelectric neuromodulation",
+      "NIR photoacoustic neuromodulation",
+      "NIR photothermal neuromodulation",
+      "biomedical translation",
+      "closed-loop neuromodulation",
+      "nanotransducers",
+      "photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43007756/"
+  },
+  {
     "pmid": "42995527",
     "title": "Efficacy and safety of repeated low-level red light therapy in myopia control: an updated and comprehensive systematic review and meta-analysis.",
     "authors": [
@@ -1313,6 +1419,56 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840704/"
   },
   {
+    "pmid": "42837727",
+    "title": "The Munich Laser Center's foundational contributions to photobiomodulation: A historical perspective on the transition from esoteric to evidence-based medicine.",
+    "authors": [
+      "Ron Batash",
+      "Murad Asali",
+      "Guy N Ron",
+      "Sharon Pelles"
+    ],
+    "journal": "Journal of photochemistry and photobiology. B, Biology",
+    "year": "2026",
+    "doi": "10.1016/j.jphotobiol.2026.113568",
+    "publication_types": [
+      "Journal Article",
+      "Historical Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Evidence-Based Medicine",
+      "History, 20th Century",
+      "Low-Level Light Therapy",
+      "History, 21st Century",
+      "Lasers",
+      "Neoplasms"
+    ],
+    "keywords": [
+      "Alfons Hofstetter",
+      "Biomodulation",
+      "Historical perspective",
+      "Low-level laser therapy",
+      "Moshe Schaffer",
+      "Munich Laser Center",
+      "Oral mucositis",
+      "Photobiomodulation",
+      "Ronald Sroka"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42837727/"
+  },
+  {
     "pmid": "42834637",
     "title": "Photobiomodulation Ameliorates Alexander Disease Through AMPK/mTOR-Mediated Mitophagy.",
     "authors": [
@@ -2012,6 +2168,53 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42762353/"
   },
   {
+    "pmid": "42759482",
+    "title": "Restorative connection through support: Qualitative findings from the Helping suppOrt individuals Pregnant after experiencing a stillbirth (HOPES) study.",
+    "authors": [
+      "Sarah Fogarty",
+      "Alexander E P Heazell",
+      "Niki Munk",
+      "Phillipa Hay"
+    ],
+    "journal": "Midwifery",
+    "year": "2026",
+    "doi": "10.1016/j.midw.2026.104989",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Stillbirth",
+      "Pregnancy",
+      "Qualitative Research",
+      "Adult",
+      "Massage",
+      "Social Support",
+      "Adaptation, Psychological",
+      "Pregnant People",
+      "Interviews as Topic"
+    ],
+    "keywords": [
+      "Massage therapy",
+      "Stillbirth",
+      "Termination for medical reason",
+      "Wellbeing"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42759482/"
+  },
+  {
     "pmid": "42753963",
     "title": "Toward precision photobiomodulation for radiation-induced xerostomia: Clinical evidence, salivary biomarkers, and artificial intelligence.",
     "authors": [
@@ -2492,6 +2695,61 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42733098/"
+  },
+  {
+    "pmid": "42732763",
+    "title": "660 nm photobiomodulation attenuates inflammatory-catabolic transcriptional programs in an osteoarthritis-like cellular model.",
+    "authors": [
+      "Xiaojing Miao",
+      "Yi Ren",
+      "Xiaolin Zhang",
+      "Jing Tian",
+      "Chenghui Wu",
+      "Tianyi Liu",
+      "Xuran Zhang",
+      "Muqing Liu"
+    ],
+    "journal": "Journal of photochemistry and photobiology. B, Biology",
+    "year": "2026",
+    "doi": "10.1016/j.jphotobiol.2026.113564",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Osteoarthritis",
+      "Interleukin-1beta",
+      "NF-kappa B",
+      "Matrix Metalloproteinase 13",
+      "Cell Survival",
+      "Inflammation",
+      "Red Light",
+      "Interleukin-6",
+      "Low-Level Light Therapy",
+      "Transcriptome",
+      "Signal Transduction",
+      "Cell Line",
+      "Transcription, Genetic"
+    ],
+    "keywords": [
+      "IL-1β-induced SW1353",
+      "Inflammation",
+      "Osteoarthritis",
+      "Photobiomodulation",
+      "RNA-seq"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42732763/"
   },
   {
     "pmid": "42731113",
@@ -4608,6 +4866,57 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42531218/"
   },
   {
+    "pmid": "42530640",
+    "title": "Ipsilateral and contralateral microvascular kinetics during unilateral forearm cold-water immersion: a within-subject laser Doppler flowmetry and heart rate variability study.",
+    "authors": [
+      "Magdalena Hagner-Derengowska",
+      "Anna Michalska",
+      "Viorel Petru Ardelean",
+      "Vlad Adrian Geantă",
+      "Robert Trybulski"
+    ],
+    "journal": "European journal of applied physiology",
+    "year": "2026",
+    "doi": "10.1007/s00421-026-06379-3",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Female",
+      "Forearm",
+      "Adult",
+      "Heart Rate",
+      "Cold Temperature",
+      "Immersion",
+      "Laser-Doppler Flowmetry",
+      "Microcirculation",
+      "Skin",
+      "Young Adult",
+      "Regional Blood Flow"
+    ],
+    "keywords": [
+      "Cold-water immersion",
+      "Contralateral response",
+      "Heart rate variability",
+      "Laser Doppler flowmetry",
+      "Skin microcirculation"
+    ],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "Title/abstract methods heuristic",
+    "classifier_confidence": 0.82,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42530640/"
+  },
+  {
     "pmid": "42527621",
     "title": "Photobiomodulation therapy for children's eye and vision conditions.",
     "authors": [
@@ -5535,52 +5844,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42349628/"
   },
   {
-    "pmid": "42349599",
-    "title": "Repeated low-level red-light therapy for childhood myopia: Efficacy, mechanisms, rebound effects, safety boundaries, and clinical standardization.",
-    "authors": [
-      "Xian Wu",
-      "Bo Zhang",
-      "Mengmeng Yu",
-      "Junwei He",
-      "Hongbo Luo"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105554",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Myopia",
-      "Child",
-      "Low-Level Light Therapy",
-      "Red Light"
-    ],
-    "keywords": [
-      "Choroid",
-      "Dosimetry",
-      "Low level light",
-      "Myopia",
-      "Photobiomodulation",
-      "Red light",
-      "Safety"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.88,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42349599/"
-  },
-  {
     "pmid": "42345113",
     "title": "Integrating myofunctional therapy, TMJ massage and procedural hypnosis in the conservative management of TMD.",
     "authors": [
@@ -5620,62 +5883,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42345113/"
-  },
-  {
-    "pmid": "42338379",
-    "title": "Comparative Efficacy of Laser Acupuncture and Direct Photobiomodulation for Inferior Alveolar Nerve Hypoesthesia After Mandibular Third Molar Extraction: A Randomized, Double-Blind, Sham-Controlled Clinical Trial.",
-    "authors": [
-      "Yongqing Ma",
-      "Miaomiao Yang",
-      "Jiang Sun"
-    ],
-    "journal": "Photobiomodulation, photomedicine, and laser surgery",
-    "year": "2026",
-    "doi": "10.1177/25785478261462397",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Comparative Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Double-Blind Method",
-      "Adult",
-      "Male",
-      "Female",
-      "Molar, Third",
-      "Low-Level Light Therapy",
-      "Middle Aged",
-      "Tooth Extraction",
-      "Hypesthesia",
-      "Young Adult",
-      "Adolescent",
-      "Acupuncture Therapy",
-      "Lasers, Semiconductor",
-      "Mandibular Nerve",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "hypoesthesia",
-      "inferior alveolar nerve",
-      "laser acupuncture",
-      "low-level laser therapy",
-      "photobiomodulation",
-      "randomized trial",
-      "third molar"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42338379/"
   },
   {
     "pmid": "42336252",
@@ -5841,59 +6048,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42319630/"
-  },
-  {
-    "pmid": "42315072",
-    "title": "Long-term effects of repeated low-level red light therapy with or without defocus incorporated multiple segment lenses on axial length and fundus structural changes in children with myopia.",
-    "authors": [
-      "Nan Ma",
-      "Bingjie Shi",
-      "Dan Wang",
-      "Yiyi Peng",
-      "Hong Jie"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105549",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Myopia",
-      "Red Light",
-      "Retrospective Studies",
-      "Female",
-      "Child",
-      "Axial Length, Eye",
-      "Male",
-      "Fundus Oculi",
-      "Phototherapy",
-      "Tomography, Optical Coherence",
-      "Choroid",
-      "Eyeglasses"
-    ],
-    "keywords": [
-      "Axial length",
-      "Choroidal thickness",
-      "Defocus incorporated multiple segment lenses",
-      "Myopia control",
-      "Repeated low-level red light",
-      "Retinal nerve fiber layer thickness",
-      "low level light"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "d",
-    "design_label": "Observational research",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.78,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42315072/"
   },
   {
     "pmid": "42312325",
@@ -6149,52 +6303,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42295379/"
-  },
-  {
-    "pmid": "42286424",
-    "title": "Concurrent Photobiomodulation by Dual-Wavelength (655 nm and 808 nm) Laser Exposure Promotes Accelerated Wound Healing.",
-    "authors": [
-      "Büşra Sirek",
-      "Ayşen Bozoğlu",
-      "Nermin Topaloğlu"
-    ],
-    "journal": "Photobiomodulation, photomedicine, and laser surgery",
-    "year": "2026",
-    "doi": "10.1177/25785478261460632",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Wound Healing",
-      "Low-Level Light Therapy",
-      "Reactive Oxygen Species",
-      "Cell Movement",
-      "Animals",
-      "Cell Survival",
-      "Red Light",
-      "Humans"
-    ],
-    "keywords": [
-      "cell migration",
-      "concurrent photobiomodulation",
-      "dual-wavelength",
-      "near-infrared light",
-      "reactive oxygen species",
-      "red light",
-      "wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42286424/"
   },
   {
     "pmid": "42285272",
@@ -6760,75 +6868,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42249924/"
   },
   {
-    "pmid": "42231857",
-    "title": "A multimodal evaluation of transcranial photobiomodulation in mild cognitive impairment: Cognitive, metabolic, and neuroimaging outcomes of a pilot randomized controlled trial.",
-    "authors": [
-      "Neda Rashidi-Ranjbar",
-      "Nathan W Churchill",
-      "Mirjana Jerkic",
-      "Reza Zomorrodi",
-      "Ori Rotstein",
-      "Raphael Schneider",
-      "Ana C Andreazza",
-      "Tarek K Rajji",
-      "Simon J Graham",
-      "David G Munoz",
-      "Luis Fornazzari",
-      "Lew Lim"
-    ],
-    "journal": "Journal of Alzheimer's disease : JAD",
-    "year": "2026",
-    "doi": "10.1177/13872877261453911",
-    "publication_types": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Pilot Projects",
-      "Low-Level Light Therapy",
-      "Male",
-      "Female",
-      "Cognitive Dysfunction",
-      "Aged",
-      "Single-Blind Method",
-      "Middle Aged",
-      "Treatment Outcome",
-      "Neuroimaging",
-      "Neuropsychological Tests",
-      "Cognitive Enhancement",
-      "Magnetic Resonance Imaging",
-      "Cognition",
-      "Brain"
-    ],
-    "keywords": [
-      "Alzheimer's disease",
-      "blood-based biomarkers",
-      "functional connectivity",
-      "low-level laser therapy",
-      "mild cognitive impairment",
-      "mitochondria-targeted therapy",
-      "noninvasive neuromodulation",
-      "photobiomodulation therapy",
-      "proton magnetic resonance spectroscopy",
-      "sham-controlled pilot trial",
-      "transcranial photobiomodulation"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42231857/"
-  },
-  {
     "pmid": "42229538",
     "title": "Nd:YAG and Diode Laser Biostimulation in Infraorbital and Inferior Alveolar Neurosensory Recovery After Orthognathic Surgery: A Randomized Clinical Study.",
     "authors": [
@@ -6875,108 +6914,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42229538/"
-  },
-  {
-    "pmid": "42227978",
-    "title": "Wavelength-Dependent Photobiomodulation Regulates Macrophage Polarization via Mitochondrial Dynamics and Metabolic Reprogramming.",
-    "authors": [
-      "Qiusheng Shi",
-      "Hao Jia",
-      "Jianfei Dong",
-      "Linhao Li",
-      "Jingqi Cao",
-      "Xun Chen",
-      "Zhenzhen Jia",
-      "Jing Na",
-      "Zhijie Yang",
-      "Xinyuan Chen",
-      "Yubo Fan",
-      "Shuhua Yue"
-    ],
-    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-    "year": "2026",
-    "doi": "10.1002/advs.75920",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Macrophages",
-      "Animals",
-      "Mitochondrial Dynamics",
-      "Metabolic Reprogramming",
-      "Low-Level Light Therapy",
-      "Mice",
-      "Wound Healing",
-      "Mitochondria",
-      "Macrophage Activation",
-      "Cell Polarity",
-      "Humans"
-    ],
-    "keywords": [
-      "fatty acid oxidation",
-      "glycolysis",
-      "macrophage polarization",
-      "mitochondrial dynamics",
-      "photobiomodulation",
-      "wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42227978/"
-  },
-  {
-    "pmid": "42214732",
-    "title": "Effect of low-level laser on adhesion of undifferentiated mesenchymal stem cells to human dentin: An ex-vivo study.",
-    "authors": [
-      "Mehdi Vatanpour",
-      "Jamshid Hashemi",
-      "Sohrab Toursavadkouhi",
-      "Noushin Barikrou",
-      "Parisa Kaghazloo"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105529",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Mesenchymal Stem Cells",
-      "Dentin",
-      "Cell Adhesion",
-      "Low-Level Light Therapy",
-      "Lasers, Semiconductor",
-      "Cells, Cultured",
-      "Cell Differentiation"
-    ],
-    "keywords": [
-      "Cell adhesion",
-      "Dentin",
-      "Low-level light therapy",
-      "Mesenchymal stem cells"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42214732/"
   },
   {
     "pmid": "42213968",
@@ -8885,6 +8822,59 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41742004/"
+  },
+  {
+    "pmid": "41739962",
+    "title": "Fighting Fire with Ice: A Multisite Collaboration to Evaluate the Impact of Prehospital Cold Water Immersion on Heat Stroke Patients.",
+    "authors": [
+      "Geoffrey Comp",
+      "Charles Finch",
+      "Kristina Kupanoff",
+      "Matthew Sandoval",
+      "Maki Lloyd",
+      "Narda Aldaco",
+      "David Kirk",
+      "Paul Pugsley",
+      "Lora Nordstrom",
+      "B Witkind Koenig",
+      "Aneesh Narang",
+      "Jerry Snow"
+    ],
+    "journal": "Prehospital emergency care",
+    "year": "2026",
+    "doi": "10.1080/10903127.2026.2636148",
+    "publication_types": [
+      "Journal Article",
+      "Observational Study",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Retrospective Studies",
+      "Emergency Medical Services",
+      "Heat Stroke",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Hypothermia, Induced",
+      "Immersion",
+      "Cold Temperature",
+      "Adult"
+    ],
+    "keywords": [],
+    "topics": [
+      "cold-water-immersion"
+    ],
+    "topic_names": [
+      "Cold-Water Immersion"
+    ],
+    "design_class": "d",
+    "design_label": "Observational research",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 0.96,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41739962/"
   },
   {
     "pmid": "41710285",
@@ -19533,48 +19523,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38718442/"
   },
   {
-    "pmid": "38701244",
-    "title": "The effect of massage on patients with chronic fatigue syndrome: A systematic review and meta-analysis.",
-    "authors": [
-      "Jingnan Li",
-      "Feng Piao",
-      "Qiaoqiao Zeng",
-      "Huixin Yan",
-      "Yunpeng Bi",
-      "Shaobo Zhang",
-      "Bailin Song"
-    ],
-    "journal": "Medicine",
-    "year": "2024",
-    "doi": "10.1097/MD.0000000000037973",
-    "publication_types": [
-      "Journal Article",
-      "Meta-Analysis",
-      "Systematic Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Massage",
-      "Fatigue Syndrome, Chronic",
-      "Randomized Controlled Trials as Topic",
-      "Quality of Life",
-      "Treatment Outcome"
-    ],
-    "keywords": [],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38701244/"
-  },
-  {
     "pmid": "38663342",
     "title": "The effects of cold exposure (cold water immersion, whole- and partial- body cryostimulation) on cardiovascular and cardiac autonomic control responses in healthy individuals: A systematic review, meta-analysis and meta-regression.",
     "authors": [
@@ -20691,11 +20639,9 @@
       "hypohydration cardiovascular strain"
     ],
     "topics": [
-      "cold-water-immersion",
       "exercise-recovery"
     ],
     "topic_names": [
-      "Cold-Water Immersion",
       "Exercise Recovery"
     ],
     "design_class": "e",
