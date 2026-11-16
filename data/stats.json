@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-12T16:00:31.505983+00:00",
-  "updated_label": "Nov 12, 2026",
-  "total_studies": 575,
-  "total_trials": 205,
+  "generated_at": "2026-11-16T17:06:15.414867+00:00",
+  "updated_label": "Nov 16, 2026",
+  "total_studies": 577,
+  "total_trials": 202,
   "total_topics": 9,
-  "active_trials": 55,
+  "active_trials": 56,
   "topics": {
     "sauna-heat-therapy": {
       "studies": 85,
-      "trials": 53,
+      "trials": 49,
       "designs": {
-        "b": 23,
-        "e": 50,
+        "e": 51,
+        "b": 22,
         "d": 8,
         "a": 2,
         "c": 2
@@ -30,7 +30,7 @@
     },
     "cold-water-immersion": {
       "studies": 72,
-      "trials": 38,
+      "trials": 40,
       "designs": {
         "b": 20,
         "e": 35,
@@ -39,24 +39,24 @@
       }
     },
     "contrast-therapy": {
-      "studies": 40,
+      "studies": 41,
       "trials": 2,
       "designs": {
+        "e": 20,
         "a": 7,
         "b": 11,
         "d": 2,
-        "e": 19,
         "c": 1
       }
     },
     "photobiomodulation": {
-      "studies": 119,
-      "trials": 49,
+      "studies": 118,
+      "trials": 50,
       "designs": {
+        "b": 39,
+        "e": 45,
         "c": 7,
-        "e": 48,
         "a": 21,
-        "b": 37,
         "d": 6
       }
     },
@@ -72,13 +72,13 @@
       }
     },
     "massage-therapy": {
-      "studies": 94,
-      "trials": 35,
+      "studies": 96,
+      "trials": 37,
       "designs": {
+        "a": 23,
+        "b": 42,
         "e": 22,
         "d": 6,
-        "b": 41,
-        "a": 22,
         "c": 3
       }
     },

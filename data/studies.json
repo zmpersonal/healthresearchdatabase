@@ -1,5 +1,424 @@
 [
   {
+    "pmid": "43035423",
+    "title": "Use of massage therapy for non-painful health conditions: an evidence map of systematic reviews.",
+    "authors": [
+      "Selene S Mak",
+      "Jennifer E Allen",
+      "Meron M Begashaw",
+      "Jessica M Beroes-Severin",
+      "Isomi M Miake-Lye",
+      "Paul G Shekelle"
+    ],
+    "journal": "BMC complementary medicine and therapies",
+    "year": "2026",
+    "doi": "10.1186/s12906-026-05525-w",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Massage",
+      "Humans",
+      "Systematic Reviews as Topic"
+    ],
+    "keywords": [
+      "Certainty of evidence",
+      "Evidence map",
+      "Massage therapy",
+      "Systematic review"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "a",
+    "design_label": "Systematic review / meta-analysis",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43035423/"
+  },
+  {
+    "pmid": "43033465",
+    "title": "Photo- and Temperature-Conditioned Versus Conventional Platelet-Rich Plasma for Androgenetic Alopecia: A Split-Scalp, Double-Blind, and Randomized Active-Comparator Trial.",
+    "authors": [
+      "Sasin Charoensuksira",
+      "Rueangrit Siriphanit",
+      "Celine Valerie",
+      "Wilai Thanasarnaksorn",
+      "Atchima Suwanchinda",
+      "Jitlada Meephansan"
+    ],
+    "journal": "Photodermatology, photoimmunology & photomedicine",
+    "year": "2026",
+    "doi": "10.1111/phpp.70139",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Alopecia",
+      "Platelet-Rich Plasma",
+      "Double-Blind Method",
+      "Female",
+      "Adult",
+      "Male",
+      "Middle Aged",
+      "Red Light",
+      "Scalp",
+      "Temperature"
+    ],
+    "keywords": [
+      "androgenetic alopecia",
+      "hair loss",
+      "hair regeneration",
+      "photobiomodulation",
+      "platelet‐rich plasma",
+      "regenerative dermatology"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033465/"
+  },
+  {
+    "pmid": "43033008",
+    "title": "The commonly used 20-minute icing protocol may underdeliver deep cooling and contribute to nocebo-related pain amplification after orthopedic and spinal surgery: a biophysical perspective.",
+    "authors": [
+      "Julio L Vergara"
+    ],
+    "journal": "Pain management",
+    "year": "2026",
+    "doi": "10.1080/17581869.2026.2762157",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [],
+    "keywords": [
+      "Nocebo",
+      "conditioning",
+      "contrast therapy",
+      "cryotherapy",
+      "expectation violation",
+      "pain management",
+      "post-operative pain",
+      "thermal diffusion"
+    ],
+    "topics": [
+      "contrast-therapy"
+    ],
+    "topic_names": [
+      "Contrast Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033008/"
+  },
+  {
+    "pmid": "43030112",
+    "title": "Phase Angle, Skeletal Muscle Function, and Molecular Phenotype in HFpEF: A Subanalysis of the SAUNA-HFpEF Study.",
+    "authors": [
+      "Ammar Abo Hwach",
+      "Aysenur Dasdemir",
+      "Doerte Ahrens",
+      "Matthias Roeper",
+      "Ivan Tanev",
+      "Michael Hansen",
+      "Mariam Janashia",
+      "Thomas Rauwolf",
+      "Mihaela Roxana Popescu",
+      "Manan Pareek",
+      "Alexander Schmeisser",
+      "Ruediger C Braun-Dullaeus"
+    ],
+    "journal": "Nutrients",
+    "year": "2026",
+    "doi": "10.3390/nu18213483",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Male",
+      "Heart Failure",
+      "Muscle, Skeletal",
+      "Electric Impedance",
+      "Aged",
+      "Body Composition",
+      "Phenotype",
+      "Middle Aged",
+      "Biomarkers",
+      "Cross-Sectional Studies",
+      "Stroke Volume",
+      "Growth Differentiation Factor 15",
+      "Muscle Strength",
+      "Muscle Proteins",
+      "Nutritional Status",
+      "Exercise Test",
+      "SKP Cullin F-Box Protein Ligases"
+    ],
+    "keywords": [
+      "HFpEF",
+      "bioelectrical impedance analysis",
+      "phase angle",
+      "sauna",
+      "skeletal muscle"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43030112/"
+  },
+  {
+    "pmid": "43028084",
+    "title": "Modulatory Effects of the Er,Cr:YSGG-Diode Laser Combination Irradiation on Human Osteoblasts-Might Be Relevant for Periapical Bone Regeneration?",
+    "authors": [
+      "Alexandra Ripszky",
+      "Isaac Kably",
+      "Cristina Neculau",
+      "Bianca Voicu Balasea",
+      "Izet Melis",
+      "Sebastian Bancu",
+      "Ana Cernega",
+      "Radu Radulescu",
+      "Silviu Pituru"
+    ],
+    "journal": "International journal of molecular sciences",
+    "year": "2026",
+    "doi": "10.3390/ijms27219839",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Osteoblasts",
+      "Bone Regeneration",
+      "Cell Survival",
+      "Lasers, Solid-State",
+      "Alkaline Phosphatase",
+      "Osteogenesis",
+      "Cell Proliferation",
+      "Lasers, Semiconductor",
+      "Nitric Oxide",
+      "Cells, Cultured"
+    ],
+    "keywords": [
+      "Er,Cr:YSGG laser",
+      "alkaline phosphatase",
+      "diode laser",
+      "osteoblasts",
+      "periapical bone regeneration",
+      "photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43028084/"
+  },
+  {
+    "pmid": "43028050",
+    "title": "Low-Level Light Therapy for Dry Eye Disease in Thyroid Eye Disease: A Randomized, Double-Masked, Sham-Controlled Trial.",
+    "authors": [
+      "Mihaela-Madalina Timofte-Zorila",
+      "Alin Constantin Pînzariu",
+      "Mariana Pavel-Tanasa",
+      "Giuseppe Giannaccare",
+      "Sinziana Istrate",
+      "Nicoleta Vlas",
+      "Diana Alecu",
+      "Tudor-Stefan Rotaru",
+      "Radu Tanasa",
+      "Filippo Lixi",
+      "Mario Troisi",
+      "Cristina Preda"
+    ],
+    "journal": "International journal of molecular sciences",
+    "year": "2026",
+    "doi": "10.3390/ijms27219802",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Dry Eye Syndromes",
+      "Double-Blind Method",
+      "Female",
+      "Male",
+      "Graves Ophthalmopathy",
+      "Low-Level Light Therapy",
+      "Middle Aged",
+      "Treatment Outcome",
+      "Tears",
+      "Adult",
+      "Prospective Studies"
+    ],
+    "keywords": [
+      "Graves’ ophthalmopathy",
+      "dry eye disease",
+      "low-level light therapy",
+      "ocular surface disease index",
+      "photobiomodulation",
+      "tear osmolarity",
+      "thyroid eye disease"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43028050/"
+  },
+  {
+    "pmid": "43028030",
+    "title": "LED Photobiomodulation at 630 nm Attenuates TNF-α-Induced Senescence-Associated Responses in Association with Mitochondrial Homeostasis.",
+    "authors": [
+      "Xueqian Li",
+      "Lihong Zhang",
+      "Nan Wang",
+      "Xiao Yang",
+      "Wenting Xie",
+      "Qingtai Meng",
+      "Longfei Hu",
+      "Hailiang Liu",
+      "Wuqi Song"
+    ],
+    "journal": "International journal of molecular sciences",
+    "year": "2026",
+    "doi": "10.3390/ijms27219784",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Animals",
+      "Tumor Necrosis Factor-alpha",
+      "Mitochondria",
+      "Humans",
+      "Mice",
+      "Cellular Senescence",
+      "Homeostasis",
+      "Mice, Transgenic",
+      "Low-Level Light Therapy",
+      "Red Light",
+      "Membrane Potential, Mitochondrial",
+      "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha",
+      "Reactive Oxygen Species",
+      "Autophagy",
+      "Sirtuin 1",
+      "Chondrocytes",
+      "Inflammation",
+      "Senescence-Associated Secretory Phenotype",
+      "Cell Line",
+      "Oxidative Stress"
+    ],
+    "keywords": [
+      "LED photobiomodulation",
+      "SASP",
+      "autophagy-related proteins",
+      "inflammation",
+      "mitochondrial homeostasis"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43028030/"
+  },
+  {
+    "pmid": "43027299",
+    "title": "MT-CO2 Dysregulation in Alzheimer's Disease and Its Modulation by Photobiomodulation: Implications for Mitochondrial Function.",
+    "authors": [
+      "Mohammad Golam Sabbir",
+      "Karin Hsiao"
+    ],
+    "journal": "Cells",
+    "year": "2026",
+    "doi": "10.3390/cells15211941",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Alzheimer Disease",
+      "Mitochondria",
+      "Electron Transport Complex IV",
+      "Male",
+      "Female",
+      "Cell Line, Tumor",
+      "Aged"
+    ],
+    "keywords": [
+      "Alzheimer’s disease",
+      "MT-CO2",
+      "complex IV",
+      "cytochrome c oxidase",
+      "mitochondrial bioenergetics",
+      "mitochondrial dysfunction",
+      "near-infrared light",
+      "neurodegeneration",
+      "oxidative phosphorylation",
+      "photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43027299/"
+  },
+  {
     "pmid": "43008713",
     "title": "Noninvasive Intracranial Compliance Monitoring Following Hand-Applied Photobiomodulation and Ultrasound in Fibromyalgia: A Pilot Study.",
     "authors": [
@@ -312,7 +731,7 @@
     "title": "Three-dimensional alveolar ridge augmentation combined with photobiomodulation therapy for post-traumatic bone loss: clinical protocol, case report, and evidence review.",
     "authors": [
       "Nahid Derikvand",
-      "Hassan Piriai",
+      "Hassan Piriaei",
       "Hiva Ebrahimi",
       "Niusha Ebrahimi"
     ],
@@ -1208,6 +1627,56 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42883688/"
   },
   {
+    "pmid": "42879879",
+    "title": "Comparative effectiveness of slow-stroke back massage and hot stone massage for postoperative pain after orthopedic surgery: A randomized controlled trial.",
+    "authors": [
+      "Morteza Hojat Ansari",
+      "Seyedeh Zahra Aemmi",
+      "Abbas Farhadi Faruji",
+      "Habibollah Esmaily"
+    ],
+    "journal": "Explore (New York, N.Y.)",
+    "year": "2026",
+    "doi": "10.1016/j.explore.2026.103544",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Massage",
+      "Male",
+      "Postoperative Pain",
+      "Middle Aged",
+      "Orthopedic Procedures",
+      "Pain Measurement",
+      "Aged",
+      "Adult",
+      "Pain Management",
+      "Back",
+      "Treatment Outcome"
+    ],
+    "keywords": [
+      "Massage",
+      "Nursing",
+      "Pain",
+      "Surgery"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42879879/"
+  },
+  {
     "pmid": "42878931",
     "title": "Umbrella review of low-level light therapy: evidence across clinical conditions.",
     "authors": [
@@ -1432,16 +1901,15 @@
     "doi": "10.1016/j.jphotobiol.2026.113568",
     "publication_types": [
       "Journal Article",
-      "Historical Article",
       "Review"
     ],
     "mesh": [
       "Humans",
       "Evidence-Based Medicine",
       "History, 20th Century",
-      "Low-Level Light Therapy",
       "History, 21st Century",
       "Lasers",
+      "Low-Level Light Therapy",
       "Neoplasms"
     ],
     "keywords": [
@@ -1914,6 +2382,54 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42798256/"
+  },
+  {
+    "pmid": "42785185",
+    "title": "'Built with strong foundations, shaped by care and connection': Qualitative findings about the therapeutic relationship from the helping suppOrt individuals pregnant after experiencing a stillbirth (HOPES) study.",
+    "authors": [
+      "Sarah Fogarty",
+      "Alexander E P Heazell",
+      "Niki Munk",
+      "Phillipa Hay"
+    ],
+    "journal": "Explore (New York, N.Y.)",
+    "year": "2026",
+    "doi": "10.1016/j.explore.2026.103532",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Pregnancy",
+      "Adult",
+      "Stillbirth",
+      "Professional-Patient Relations",
+      "Massage",
+      "Qualitative Research",
+      "Empathy",
+      "Surveys and Questionnaires",
+      "Pregnant People",
+      "Young Adult"
+    ],
+    "keywords": [
+      "Massage therapy",
+      "Pregnancy after loss",
+      "Therapeutic alliance",
+      "Therapeutic relationships"
+    ],
+    "topics": [
+      "massage-therapy"
+    ],
+    "topic_names": [
+      "Massage Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42785185/"
   },
   {
     "pmid": "42782358",
@@ -4514,137 +5030,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42566226/"
   },
   {
-    "pmid": "42560107",
-    "title": "Treatment parameters and safety of photobiomodulation in wound care.",
-    "authors": [
-      "James Carroll"
-    ],
-    "journal": "British journal of nursing (Mark Allen Publishing)",
-    "year": "2026",
-    "doi": "10.12968/bjon.2026.0264",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Wound Healing",
-      "Diabetic Foot",
-      "Pressure Ulcer",
-      "Red Light",
-      "Varicose Ulcer",
-      "Leg Ulcer"
-    ],
-    "keywords": [
-      "PBM",
-      "diabetic foot ulcer",
-      "leg ulcer",
-      "photobiomodulation",
-      "pressure ulcer",
-      "wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42560107/"
-  },
-  {
-    "pmid": "42560106",
-    "title": "Biological mechanisms and applications of photobiomodulation in wound care.",
-    "authors": [
-      "Emma Hallam"
-    ],
-    "journal": "British journal of nursing (Mark Allen Publishing)",
-    "year": "2026",
-    "doi": "10.12968/bjon.2026.0265",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Chronic Disease",
-      "Diabetic Foot",
-      "Fibrosis",
-      "Low-Level Light Therapy",
-      "Wound Healing",
-      "Wounds and Injuries"
-    ],
-    "keywords": [
-      "chronic wounds",
-      "diabetic foot ulcer",
-      "photobiomodulation",
-      "pressure injury",
-      "radiation-induced fibrosis"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42560106/"
-  },
-  {
-    "pmid": "42560105",
-    "title": "Case series on photobiomodulation in wound care: hard-to-heal leg ulcers and radiation-induced fibrosis.",
-    "authors": [
-      "Jonathan Wild",
-      "Jeni Townsend",
-      "Donny Crozier",
-      "Emma Hallam"
-    ],
-    "journal": "British journal of nursing (Mark Allen Publishing)",
-    "year": "2026",
-    "doi": "10.12968/bjon.2026.0266",
-    "publication_types": [
-      "Journal Article",
-      "Case Reports"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Wound Healing",
-      "Leg Ulcer",
-      "Fibrosis",
-      "Radiation Injuries",
-      "Female",
-      "Male",
-      "Middle Aged",
-      "Aged"
-    ],
-    "keywords": [
-      "photobiomodulation",
-      "radiation-induced fibrosis",
-      "venous leg ulcer",
-      "wound healing"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42560105/"
-  },
-  {
     "pmid": "42552011",
     "title": "Photobiomodulation therapy combined with a static magnetic field for chronic non-specific knee pain: protocol for a multicentre, randomised, triple-blind, placebo-controlled trial.",
     "authors": [
@@ -5446,42 +5831,50 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42452432/"
   },
   {
-    "pmid": "42400888",
-    "title": "Ambient Light-Activatable Luminescent Particle-Embedded Conformal Patch for Photochemical Tissue Bonding and Photobiomodulated Healing.",
+    "pmid": "42438170",
+    "title": "Salivary Methotrexate as a Predictor of Oral Mucositis in Hematological Cancer Patients: A Phase II Randomized, Double-Blind Clinical Trial.",
     "authors": [
-      "Kyungjoo Jo",
-      "Seong-Jong Kim",
-      "Seung Oh Jung",
-      "Kyeongtaek Lee",
-      "Mungu Kim",
-      "Kwanghyeon Park",
-      "Yewon Seo",
-      "Boram Park",
-      "Dongchul Jo",
-      "Jongshin Kim",
-      "Jin Huh",
-      "Hyemin Kim"
+      "Letícia Rodrigues-Oliveira",
+      "Carolina Guimarães Bonfim",
+      "Ana Leticia Mores",
+      "Natalia Rangel Palmier",
+      "Henrique Ballassini Abdalla",
+      "Juliana Trindade Clemente-Napimoga",
+      "Iara Gonçalves Aquino",
+      "Maria Cecilia Querido de Oliveira",
+      "Maria Cláudia Cuzzullin",
+      "Aljomar Jose Vechiato Filho",
+      "Cesar Rivera",
+      "Tatiana Natasha Toporcov"
     ],
-    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "journal": "Oral diseases",
     "year": "2026",
-    "doi": "10.1002/adma.73965",
+    "doi": "10.1111/odi.70381",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase II"
     ],
     "mesh": [
       "Humans",
-      "Wound Healing",
-      "Animals",
-      "Light",
-      "Photosensitizing Agents",
-      "Biocompatible Materials",
-      "Mice"
+      "Methotrexate",
+      "Double-Blind Method",
+      "Stomatitis",
+      "Female",
+      "Saliva",
+      "Male",
+      "Middle Aged",
+      "Adult",
+      "Hematologic Neoplasms",
+      "Antimetabolites, Antineoplastic",
+      "Low-Level Light Therapy",
+      "Aged"
     ],
     "keywords": [
-      "ambient light‐activatable luminescent particles",
-      "ambient light‐activatable photonic patch",
-      "photobiomodulation",
-      "photochemical tissue bonding"
+      "cancer",
+      "low‐level laser therapy",
+      "methotrexate",
+      "oral mucositis"
     ],
     "topics": [
       "photobiomodulation"
@@ -5489,12 +5882,12 @@
     "topic_names": [
       "Photobiomodulation / Red Light"
     ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
+    "design_class": "b",
+    "design_label": "Randomized controlled trial",
+    "classification_source": "PubMed publication type",
+    "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42400888/"
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42438170/"
   },
   {
     "pmid": "42400667",
@@ -5593,97 +5986,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392993/"
   },
   {
-    "pmid": "42392660",
-    "title": "Photobiomodulation and Biological Pathways in Skin Regeneration and Rejuvenation: Light and Biological Activation of Skin Improvement.",
-    "authors": [
-      "Saami Khalifian",
-      "Jessica Shisler"
-    ],
-    "journal": "Facial plastic surgery clinics of North America",
-    "year": "2026",
-    "doi": "10.1016/j.fsc.2026.05.002",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Rejuvenation",
-      "Skin Aging",
-      "Low-Level Light Therapy",
-      "Percutaneous Collagen Induction",
-      "Regeneration",
-      "Cosmetic Techniques",
-      "Platelet-Rich Plasma",
-      "Microneedle Drug Delivery"
-    ],
-    "keywords": [
-      "Acne scars",
-      "Exosomes",
-      "Fractional laser",
-      "Laser-assisted drug delivery",
-      "Microneedling",
-      "Peptides",
-      "Photobiomodulation",
-      "Platelet-rich plasma"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392660/"
-  },
-  {
-    "pmid": "42373001",
-    "title": "Photobiomodulation therapy for peripheral neuropathy in diabetic and cancer patients: A narrative review.",
-    "authors": [
-      "Shole Rastkar",
-      "Shahriar Eftekharian"
-    ],
-    "journal": "Photodiagnosis and photodynamic therapy",
-    "year": "2026",
-    "doi": "10.1016/j.pdpdt.2026.105561",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Diabetic Neuropathies",
-      "Peripheral Nervous System Diseases",
-      "Neoplasms",
-      "Quality of Life"
-    ],
-    "keywords": [
-      "Chemotherapy-induced peripheral neuropathy",
-      "Diabetic peripheral neuropathy",
-      "Low-level laser therapy",
-      "Nerve regeneration",
-      "Peripheral neuropathy",
-      "Photobiomodulation therapy"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42373001/"
-  },
-  {
     "pmid": "42363780",
     "title": "Manual Massage Therapy for Neuropathic Pain: Clinical Evidence and Mechanistic Insights.",
     "authors": [
@@ -5728,57 +6030,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42363780/"
-  },
-  {
-    "pmid": "42359592",
-    "title": "Photobiomodulation of Human Embryonic Stem Cell-Derived Mesenchymal Stem Cells by 355 nm Low-Level Ultraviolet Laser Exposure.",
-    "authors": [
-      "Khalid M AlGhamdi",
-      "Ashok Kumar",
-      "Amer Mahmood"
-    ],
-    "journal": "Photobiomodulation, photomedicine, and laser surgery",
-    "year": "2026",
-    "doi": "10.1177/25785478261460627",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Mesenchymal Stem Cells",
-      "Cell Proliferation",
-      "Cell Survival",
-      "Cell Differentiation",
-      "Cell Movement",
-      "Osteogenesis",
-      "Ultraviolet Rays",
-      "Low-Level Light Therapy",
-      "Cells, Cultured",
-      "Human Embryonic Stem Cells"
-    ],
-    "keywords": [
-      "UV laser",
-      "cell culture",
-      "differentiation",
-      "migration",
-      "photobiomodulation",
-      "proliferation",
-      "regenerative medicine",
-      "tissue engineering",
-      "viability"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42359592/"
   },
   {
     "pmid": "42349628",
@@ -20027,59 +20278,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38363078/"
   },
   {
-    "pmid": "38281244",
-    "title": "Sex-specific microvascular and hemodynamic responses to passive limb heating in young adults.",
-    "authors": [
-      "Miranda K Traylor",
-      "Genevieve B Batman",
-      "Kylie N Sears",
-      "Kyndall V Ransom",
-      "Shane M Hammer",
-      "Joshua L Keller"
-    ],
-    "journal": "Microcirculation (New York, N.Y. : 1994)",
-    "year": "2024",
-    "doi": "10.1111/micc.12848",
-    "publication_types": [
-      "Journal Article",
-      "Research Support, N.I.H., Extramural",
-      "Research Support, Non-U.S. Gov't"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Male",
-      "Adult",
-      "Muscle, Skeletal",
-      "Microcirculation",
-      "Hemodynamics",
-      "Sex Characteristics",
-      "Regional Blood Flow",
-      "Hot Temperature",
-      "Brachial Artery",
-      "Oxygen Consumption",
-      "Spectroscopy, Near-Infrared"
-    ],
-    "keywords": [
-      "near infrared spectroscopy",
-      "passive heating",
-      "sex differences",
-      "vascular occlusion test"
-    ],
-    "topics": [
-      "sauna-heat-therapy"
-    ],
-    "topic_names": [
-      "Sauna & Heat Therapy"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38281244/"
-  },
-  {
     "pmid": "38258830",
     "title": "Partial and Complete Fluid Replacement Maintains Exercise Performance in a Warm Environment Following Prolonged Cold-Water Immersion.",
     "authors": [
@@ -20167,55 +20365,6 @@
     "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38150671/"
-  },
-  {
-    "pmid": "38150321",
-    "title": "Australian National Complementary Medicine Workforce Survey: A Profile of Practitioners and Their Practices.",
-    "authors": [
-      "Sandra Grace",
-      "Kathryn Baltrotsky"
-    ],
-    "journal": "Journal of integrative and complementary medicine",
-    "year": "2024",
-    "doi": "10.1089/jicm.2023.0443",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Australia",
-      "Middle Aged",
-      "Male",
-      "Adult",
-      "Complementary Therapies",
-      "COVID-19",
-      "Surveys and Questionnaires",
-      "Aged",
-      "Integrative Medicine",
-      "Young Adult",
-      "SARS-CoV-2",
-      "Health Personnel"
-    ],
-    "keywords": [
-      "Australia",
-      "complementary medicine workforce",
-      "massage therapy",
-      "naturopathy",
-      "survey"
-    ],
-    "topics": [
-      "massage-therapy"
-    ],
-    "topic_names": [
-      "Massage Therapy"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38150321/"
   },
   {
     "pmid": "38150009",
