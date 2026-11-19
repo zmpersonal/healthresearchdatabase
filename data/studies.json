@@ -1,5 +1,165 @@
 [
   {
+    "pmid": "43053672",
+    "title": "Sauna bathing as a health intervention: a qualitative study of personal experiences.",
+    "authors": [
+      "Jenny Stenkilsson Hoff",
+      "Amanda Johansson",
+      "Hilda Svensson",
+      "Maria Lennkvist",
+      "Åsa Engström"
+    ],
+    "journal": "International journal of circumpolar health",
+    "year": "2026",
+    "doi": "10.1080/22423982.2026.2765024",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Steam Bath",
+      "Aged",
+      "Qualitative Research",
+      "Female",
+      "Adult",
+      "Middle Aged",
+      "Male",
+      "Sweden",
+      "Interviews as Topic",
+      "Health Promotion",
+      "Pain Management"
+    ],
+    "keywords": [
+      "Health-promotion",
+      "mental health",
+      "nursing",
+      "physical health",
+      "sauna bathing"
+    ],
+    "topics": [
+      "sauna-heat-therapy"
+    ],
+    "topic_names": [
+      "Sauna & Heat Therapy"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43053672/"
+  },
+  {
+    "pmid": "43044664",
+    "title": "Photobiomodulation and Polydeoxyribonucleotide (PDRN) on Dermal Fibroblast Proliferation and Extracellular Matrix Expression: A Short Communication.",
+    "authors": [
+      "Erika Vassoler Guerrero Puccia",
+      "Roberta Silva Cruz Bueno",
+      "Giovanna Lopes Carvalho",
+      "Rebeca Barros Nascimento",
+      "Rebeca Boltes Cecatto",
+      "Rodrigo Marcos Labat",
+      "Fabio Daumas Nunes",
+      "Maria Stella Moreira",
+      "Maria Fernanda Setúbal Destro Rodrigues"
+    ],
+    "journal": "Journal of biophotonics",
+    "year": "2026",
+    "doi": "10.1002/jbio.70406",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Fibroblasts",
+      "Polydeoxyribonucleotides",
+      "Cell Proliferation",
+      "Extracellular Matrix",
+      "Gene Expression Regulation",
+      "Red Light",
+      "Cell Line",
+      "Skin",
+      "Cell Survival",
+      "Dermis",
+      "Low-Level Light Therapy"
+    ],
+    "keywords": [
+      "PDRN",
+      "extracellular matrix",
+      "fibroblast",
+      "photobiomodulation",
+      "skin aging"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044664/"
+  },
+  {
+    "pmid": "43043553",
+    "title": "Dual-wavelength superpulsed photobiomodulation in children and adolescents with orofacial pain: clinical, thermal, and optical transmission outcomes in a pilot study.",
+    "authors": [
+      "Caroline Cristina Batista De Camargo",
+      "Amanda Rafaelly Honório Mandetta",
+      "Andréa Dias Neves Lago",
+      "Manoela Domingues Martins",
+      "Ana Paula Taboada Sobral",
+      "Kristianne Porta Santos Fernandes",
+      "Anna Carolina Ratto Tempestini Horliana",
+      "Cinthya Cosme Gutierrez Duran",
+      "Raquel Agnelli Mesquita-Ferrari",
+      "Sandra Kalil Bussadori"
+    ],
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "doi": "10.1007/s10103-026-05099-6",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Pilot Projects",
+      "Female",
+      "Adolescent",
+      "Male",
+      "Low-Level Light Therapy",
+      "Facial Pain",
+      "Lasers, Semiconductor",
+      "Masseter Muscle",
+      "Treatment Outcome",
+      "Pain Measurement"
+    ],
+    "keywords": [
+      "Diode laser",
+      "Dual wavelength",
+      "Headache",
+      "Orofacial pain",
+      "Pediatrics",
+      "Photobiomodulation"
+    ],
+    "topics": [
+      "photobiomodulation"
+    ],
+    "topic_names": [
+      "Photobiomodulation / Red Light"
+    ],
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
+    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43043553/"
+  },
+  {
     "pmid": "43035423",
     "title": "Use of massage therapy for non-painful health conditions: an evidence map of systematic reviews.",
     "authors": [
@@ -14,12 +174,12 @@
     "year": "2026",
     "doi": "10.1186/s12906-026-05525-w",
     "publication_types": [
-      "Journal Article",
-      "Systematic Review"
+      "Evidence Synthesis",
+      "Journal Article"
     ],
     "mesh": [
-      "Massage",
       "Humans",
+      "Massage",
       "Systematic Reviews as Topic"
     ],
     "keywords": [
@@ -34,10 +194,10 @@
     "topic_names": [
       "Massage Therapy"
     ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
+    "design_class": "e",
+    "design_label": "Other research",
+    "classification_source": "Insufficient design metadata",
+    "classifier_confidence": 0.35,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43035423/"
   },
@@ -525,53 +685,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43007756/"
   },
   {
-    "pmid": "42995527",
-    "title": "Efficacy and safety of repeated low-level red light therapy in myopia control: an updated and comprehensive systematic review and meta-analysis.",
-    "authors": [
-      "Hongyue Wu",
-      "Xinwei Yang",
-      "Yuehua Zhou",
-      "Junguo Duan"
-    ],
-    "journal": "BMC ophthalmology",
-    "year": "2026",
-    "doi": "10.1186/s12886-026-05211-y",
-    "publication_types": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Myopia",
-      "Red Light",
-      "Refraction, Ocular",
-      "Low-Level Light Therapy",
-      "Child",
-      "Axial Length, Eye",
-      "Adolescent",
-      "Treatment Outcome"
-    ],
-    "keywords": [
-      "Meta-analysis",
-      "Myopia",
-      "Repeated low-level red light therapy",
-      "Systematic eview"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "a",
-    "design_label": "Systematic review / meta-analysis",
-    "classification_source": "PubMed publication type",
-    "classifier_confidence": 1.0,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995527/"
-  },
-  {
     "pmid": "42995303",
     "title": "Effects of photobiomodulation therapy on secondary healing of the palatal donor site after free gingival graft harvesting: a systematic review and meta-analysis.",
     "authors": [
@@ -587,8 +700,7 @@
     "publication_types": [
       "Journal Article",
       "Systematic Review",
-      "Meta-Analysis",
-      "Review"
+      "Meta-Analysis"
     ],
     "mesh": [
       "Humans",
@@ -1691,8 +1803,7 @@
     "doi": "10.1007/s10103-026-05064-3",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "mesh": [
       "Humans",
@@ -4766,58 +4877,6 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613681/"
   },
   {
-    "pmid": "42605969",
-    "title": "Neuromodulation Techniques in Chronic Cerebral Hypoperfusion: Mechanisms and Therapeutic Advances.",
-    "authors": [
-      "Chenye Qiao",
-      "Ning Li",
-      "Congxiao Wang",
-      "Yingpeng Wang",
-      "Jinglu Li",
-      "Hujun Wang",
-      "Zongjian Liu",
-      "Shuyan Qie"
-    ],
-    "journal": "CNS neuroscience & therapeutics",
-    "year": "2026",
-    "doi": "10.1002/cns.71089",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Animals",
-      "Transcranial Direct Current Stimulation",
-      "Transcranial Magnetic Stimulation",
-      "Cerebrovascular Circulation",
-      "Cognitive Dysfunction",
-      "Dementia, Vascular",
-      "Low-Level Light Therapy",
-      "Brain Ischemia"
-    ],
-    "keywords": [
-      "brain stimulation",
-      "chronic cerebral hypoperfusion",
-      "cognitive impairment",
-      "neuromodulation",
-      "synaptic plasticity",
-      "vascular cognitive impairment"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "e",
-    "design_label": "Other research",
-    "classification_source": "Insufficient design metadata",
-    "classifier_confidence": 0.35,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42605969/"
-  },
-  {
     "pmid": "42595101",
     "title": "Dose dependent effects of transcranial photobiomodulation on blood-oxygenation-level-dependent power in major depressive disorder.",
     "authors": [
@@ -5028,64 +5087,6 @@
     "classifier_confidence": 1.0,
     "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42566226/"
-  },
-  {
-    "pmid": "42552011",
-    "title": "Photobiomodulation therapy combined with a static magnetic field for chronic non-specific knee pain: protocol for a multicentre, randomised, triple-blind, placebo-controlled trial.",
-    "authors": [
-      "Ernesto Cesar Pinto Leal-Junior",
-      "Luana Barbosa Dias",
-      "Heliodora Leão Casalechi",
-      "Jociane Schardong",
-      "Older Manoel de Araújo-Silva",
-      "Rodrigo Della Méa Plentz",
-      "Douglas Scott Johnson",
-      "Shaiane Silva Tomazoni"
-    ],
-    "journal": "BMJ open",
-    "year": "2026",
-    "doi": "10.1136/bmjopen-2026-118954",
-    "publication_types": [
-      "Journal Article",
-      "Clinical Trial Protocol"
-    ],
-    "mesh": [
-      "Humans",
-      "Low-Level Light Therapy",
-      "Adult",
-      "Magnetic Field Therapy",
-      "Randomized Controlled Trials as Topic",
-      "Adolescent",
-      "Multicenter Studies as Topic",
-      "Equivalence Trials as Topic",
-      "Chronic Pain",
-      "Pain Measurement",
-      "Middle Aged",
-      "Young Adult",
-      "Knee Joint",
-      "Patient Satisfaction",
-      "Female",
-      "Male",
-      "Combined Modality Therapy",
-      "Arthralgia"
-    ],
-    "keywords": [
-      "Laser therapy",
-      "Pain management",
-      "REHABILITATION MEDICINE"
-    ],
-    "topics": [
-      "photobiomodulation"
-    ],
-    "topic_names": [
-      "Photobiomodulation / Red Light"
-    ],
-    "design_class": "b",
-    "design_label": "Randomized controlled trial",
-    "classification_source": "Title/abstract methods heuristic",
-    "classifier_confidence": 0.82,
-    "match_reason": "Intervention term identified in title, keyword or MeSH metadata.",
-    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42552011/"
   },
   {
     "pmid": "42551061",
@@ -6312,8 +6313,7 @@
     "doi": "10.1080/15438627.2026.2690515",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "mesh": [
       "Humans",
